@@ -2,8 +2,7 @@ les finances|finances
 une banque|bank
 une caisse d'épargne|savings and loan association
 un compte (bancaire)|(bank) account
-un distributeur (automatique de billets)|ATM (automatic teller machine)
-un guichet automatique|
+un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
 l'euro|euro (currency)
 un héritage|inheritance
 les dépenses|expenses

@@ -1,5 +1,5 @@
 les fêtes|holidays
-les jours fériés|national holidays (indicated below by *)
+les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
 le Jour de l'An, le premier janvier *|New Year's Day
 la Chandeleur, le 2 février|Candlemas
 la Saint-Valentin, le 14 février|Valentine's Day
@@ -71,4 +71,4 @@ ouvrir|to open
 souffler|to blow out (candles)
 plaisanter|to joke
 faire un poisson d'avril|to play a joke (on someone)
-faire le pont|literally 'to make a bridge'. The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
+faire le pont|literally 'to make a bridge'

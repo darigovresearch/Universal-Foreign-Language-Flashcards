@@ -146,5 +146,5 @@ cent|100
 cent deux|102
 deux cents|200
 mille|1.000
-deux mille|2. 000
+deux mille|2.000
 un million|1.000.000

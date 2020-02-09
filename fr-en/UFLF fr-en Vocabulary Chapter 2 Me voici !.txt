@@ -89,9 +89,9 @@ de la musique|music
 chanter|to sing
 danser|to dance
 aimer|to like, to love
-la musique classique / le jazz /|classical music / jazz /
-le hip-hop / la techno /|hip-hop / techno /
-le sport / le tennis / le football /|sports / tennis / soccer /
+la musique classique / le jazz|classical music / jazz
+le hip-hop / la techno|hip-hop / techno
+le sport / le tennis / le football|sports / tennis / soccer
 le basket / le golf / le footing|basketball / golf / running
 préférer|to prefer
 adorer|to adore

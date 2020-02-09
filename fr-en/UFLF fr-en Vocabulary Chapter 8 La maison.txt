@@ -37,23 +37,23 @@ de la moquette|carpet (wall to wall)
 un lecteur DVD / MP3|DVD / MP3 player
 un ordinateur|computer
 un téléphone|telephone
-dans la salle de bains il y a ...|in the bathroom
+dans la salle de bains il y a ...|in the bathroom there is/are ...
 une baignoire|bathtub
 une douche|shower
 un lavabo|sink
 un miroir|mirror
-dans la salle de séjour il y a ...|in the living room
+dans la salle de séjour il y a ...|in the living room there is/are ...
 un canapé / un sofa|couch
 un fauteuil|armchair
 une table basse|coffee table
 une télévision|television
 un tableau / des tableaux|painting / paintings
 un tapis|area rug or carpet
-dans la salle à manger il y a ...|in the dining room
+dans la salle à manger il y a ...|in the dining room there is/are ...
 une table|table
 une chaise|chair
 un buffet|hutch, buffet
-dans la cuisine il y a ...|in the kitchen
+dans la cuisine il y a ...|in the kitchen there is/are ...
 un réfrigérateur / un frigo|refrigerator / fridge
 un congélateur|freezer
 une cuisinière|stove
@@ -63,7 +63,7 @@ un lave-vaisselle|dishwasher
 un évier|sink
 un placard|cabinet
 une poubelle|trash can
-dans la buanderie il y a ...|in the laundry room
+dans la buanderie il y a ...|in the laundry room there is/are ...
 un lave-linge|washing machine
 un sèche-linge|dryer
 les tâches domestiques|household chores

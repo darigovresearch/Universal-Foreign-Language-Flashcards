@@ -1,4 +1,4 @@
-les études secondaires et supérieures|high school, univ studies
+les études secondaires et supérieures|high school and university studies
 la rentrée|beginning of school year
 le collège|junior high, middle school
 le lycée|high school
@@ -77,7 +77,7 @@ occupé(e)|busy
 prochain(e)|next
 dernier / dernière|last
 verbes|verbs
-s’inscrire (à la fac, au ciné-club…)|to register, enroll (in)
+s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
 régler (les frais d’inscription)|to pay (one’s tuition/fees)
 En quelle matiére est-ce que tu te spécialises?|What's your major?
 suivre|to take (a course), to follow
@@ -95,7 +95,7 @@ avoir la moyenne|to receive a passing grade
 recevoir son diplôme|to graduate, to complete one’s studies
 être bonne / bon en ...|to be good in/at ...
 être mauvais(e) en ...|to be bad in/at ...
-être nul(le) en… [slang]|to suck in/at ...
+être nul(le) en ... [slang]|to suck in/at ...
 se décourager|to be discouraged
 sécher un cours|to skip a class
 rater|to fail

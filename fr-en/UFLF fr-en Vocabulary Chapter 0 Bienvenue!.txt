@@ -1,3 +1,20 @@
+Introduction (UFLF fr-en)|"
+<h2>Introduction</h2>
+<p>This deck has taken words outlined in the vocabulary each chapter of the of <a href=""http://www.laits.utexas.edu/fi/"">Francais Interactif</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>All the vocabulary from each chapter has been arranged in a way that can be easily learnt from Anki, separated into decks for each chapter</li>
+<li>Any updates, corrections or translations to the deck will be available at <a href=""https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards""></a><a href=""https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards"">https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+<li>Modifications from the original work includes typo correction, card merging &amp; consistency consolidation (see the commit history for [fr-en] for the specific changes)</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
+<p><a href=""https://creativecommons.org/licenses/by/4.0/""><img src=""https://camo.githubusercontent.com/4140463a817248128974112ce9b0d735f9c256ec/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792f342e302f38387833312e706e67"" alt=""Creative Commons License"" data-canonical-src=""https://licensebuttons.net/l/by/4.0/88x31.png"" style=""max-width:100%;""></a></p>
+<p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
+<p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
+"
 je me présente|let me introduce myself
 Je m'appelle ...|My name is ...
 Je suis de ...|I am from ...

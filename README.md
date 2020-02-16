@@ -2,7 +2,7 @@
 Repository containing Anki Flashcards &amp; source code to hopefully learn/revise any language
 
 ## Introduction
-This repository has taken words outlined in the vocabulary each chapter of the of [Francais Interactif](http://www.laits.utexas.edu/fi/) and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
+This repository has taken words outlined in the vocabulary section of each chapter of the [Francais Interactif](http://www.laits.utexas.edu/fi/) language program and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
 
 ## Notes
 Please note the modifications which have been made & where you can find updates.

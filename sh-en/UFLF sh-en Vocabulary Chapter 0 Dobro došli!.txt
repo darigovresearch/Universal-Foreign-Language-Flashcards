@@ -15,39 +15,39 @@ Introduction (UFLF sh-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-Dozvolite mi da se predstavim|je me présente|let me introduce myself
-Ja se zovem ...|Je m'appelle ...|My name is ...
-Ja sam iz ...|Je suis de ...|I am from ...
-Ja studiram ... (Francuski, matematiku, itd.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Ja studiram ... (Francuski, matematiku, itd.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-On/Ona se zove ...|Il/Elle s'appelle ...|His/Her name is ...
-On/Ona je iz ...|Il/Elle est de ...|He/She is from ...
-On je student ... (Francuskog, matematike, itd.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-Ona je student ... (Francuskog, matematike, itd.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-predmeti|les matières|subjects
-trgovina, prodaja|le commerce|business
-računovodstvo, knjigovodstvo|la comptabilité|accounting
-jezici|les langues (f)|languages
-engleski|l'anglais (m)|English
-francuski|le français|French
-španski|l'espagnol (m)|Spanish
-literatura, književnost|la littérature|literature
-istorija|l'histoire (f)|history
-geografija|la géographie|geography
-političke nauke|les sciences politiques|political science
-matematika|les mathématiques/les maths (f)|math
-nauka|les sciences (f)|sciences
-biologija|la biologie|biology
-hemija|la chimie|chemistry
-informatika|l'informatique (f)|computer science
-muzika|la musique|music
-filozofija|la philosophie|philosophy
-psihologija|la psychologie|psychology
-alfabet, abeceda, azbuka, bukvar|l'alphabet|the alphabet
-životinje|les animaux|animals
-bubašvaba, žohar|le cafard|cockroach
-mačka / maca|le chat / la chatte / la minette|cat / female cat / kitty
-vjeverica|l'écureuil|squirrel
-puž|l'escargot|snail
-mrav|la fourmi|ant
-armadil|le tatou|armadillo
+Dozvolite mi da se predstavim|let me introduce myself
+Ja se zovem ...|My name is ...
+Ja sam iz ...|I am from ...
+Ja studiram ... (Francuski, matematiku, itd.)|I am a student (male) in ... (French, math, etc.)
+Ja studiram ... (Francuski, matematiku, itd.)|I am a student (female) in ... (French, math, etc.)
+On/Ona se zove ...|His/Her name is ...
+On/Ona je iz ...|He/She is from ...
+On je student ... (Francuskog, matematike, itd.)|He is a student (male) in ... (French, math, etc.)
+Ona je student ... (Francuskog, matematike, itd.)|She is a student (female) in ... (French, math, etc.)
+predmeti|subjects
+trgovina, prodaja|business
+računovodstvo, knjigovodstvo|accounting
+jezici|languages
+engleski|English
+francuski|French
+španski|Spanish
+literatura, književnost|literature
+istorija|history
+geografija|geography
+političke nauke|political science
+matematika|math
+nauka|sciences
+biologija|biology
+hemija|chemistry
+informatika|computer science
+muzika|music
+filozofija|philosophy
+psihologija|psychology
+alfabet, abeceda, azbuka, bukvar|the alphabet
+životinje|animals
+bubašvaba, žohar|cockroach
+mačka / maca|cat / female cat / kitty
+vjeverica|squirrel
+puž|snail
+mrav|ant
+armadil|armadillo

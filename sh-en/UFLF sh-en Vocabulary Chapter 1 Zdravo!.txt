@@ -1,178 +1,178 @@
-pozdravi|salutations|greetings
-gospodin|Monsieur|Sir
-gospođa|Madame|Ma'am (Mrs.)
-gospođica|Mademoiselle|Miss
-Dobar dan, gospodine.|Bonjour, Monsieur|Good day (Hello), Sir
-Dobra veče.|Bonsoir|Good evening
-Doviđenja|Au revoir|Goodbye
-Zdravo|Salut!|Hi!
-Vidimo se kasnije.|À tout à l'heure!|See you in a little while.
-Vidimo se večeras.|À ce soir.|See you this evening.
-Vidimo se sutra.|À demain.|See you tomorrow.
-Vidimo se uskoro.|À bientôt.|See you soon.
-Kako se zovete?|Comment vous appelez-vous?|What's your name? (formal)
-Kako se zoveš?|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-Zovem se ...|Je m'appelle ...|My name is ...
-Kako ste?|Comment allez-vous?|How are you? (formal)
-Kako si?|Comment vas-tu?|How are you? (informal)
-Ja sam veoma dobro, hvala.|Je vais très bien, merci.|I am very well, thank you.
-Dobro sam, hvala.|Je vais bien, merci.|I am fine, thank you.
-Nisam loše, hvala.|Pas mal, merci.|Not bad, thank you.
-Kako ide?|Comment ça va?|How are things going?
-Dobro, hvala!|Bien, merci!|Great, thanks!
-Kako ide?|Ça va (bien)?|Are things going (well)?
-Ide dobro.|Ça va bien.|Things are going (well).
-A Vi? Odakle ste Vi?|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-A ti? Odakle si ti?|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-upoznavanje|présentations|introductions
-Gospodine, želio bih da Vam predstavim ...|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-Ovo je ...|Je te présente ...|This is ... (informal)
-Ovo je ...|Voici ...|This is ...
-Ko je to?|Qui est-ce?|Who is it?
-To je ...|C'est ...|It's ...
-Oni su ...|Ce sont ...|They are ...
-Kako se on/ona zove?|Comment s'appelle-t-il/elle?|What's his/her name?
-On/Ona se zove ..., Njegovo/Njeno ime je ...|Il/Elle s'appelle ...|His/Her name is ...
-On/Ona je iz ...|Il/Elle est de ...|He/She is from ...
-Kako se oni/one zovu?|Comment s'appellent-ils/elles?|What are their names?
-Oni/One se zovu ...|Ils/Elles s'appellent ...|Their names are ...
-Šta on/ona radi? Šta je on/ona po zanimanju?|Qu'est-ce qu'il/elle fait?|What does he/she do?
-Šta oni/one rade? Šta su oni/one po zanimanju?|Qu'est-ce qu'ils/elles font?|What do they do?
-On/Ona je ...|Il est ... Elle est ...|He/She is a/an ...
-glumac / glumica|acteur / actrice|actor / actress
-arhitekta, arhitektica|architecte|architect
-pjevač / pjevačica|chanteur / chanteuse|singer
-frizer / frizerka|coiffeur / coiffeuse|hair dresser
-zubar / zubarica|dentiste|dentist
-inženjer / inženjerka|ingénieur|engineer
-novinar / novinarka|journaliste|journalist
-doktor / doktorica|médecin|doctor
-profesor, profesorka, profesorica|professeur|teacher, professor
-penzioner / penzionerka|retraité / retraitée|retired man/woman
-pripravnik|stagiaire|intern
-učionica, razred|la salle de classe|the classroom
-Šta je to?|Qu'est-ce que c'est?|What is it?
-To je ...|C'est ...|It's ...
-To je učionica.|C'est une salle de classe.|It's a classroom.
-U učionici je ..., U učionici ima ..., U učionici se nalazi ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
-vrata|une porte|door
-prozor|une fenêtre|window
-tabla|un tableau (noir)|blackboard
-televizor|une télévision|television
-karta (svijeta), mapa (svijeta)|une carte (du monde)|map (of the world)
-poster|une affiche|poster
-stolica|une chaise|chair
-sto|un bureau|desk
-Na stolu ima ..., Na stolu se nalazi ...|Sur le bureau, il y a ...|On the desk, there is ...
-kreda|une craie|chalk
-olovka|un crayon|pencil
-hemijska olovka|un stylo|pen
-teka|un cahier|notebook
-knjiga|un livre|book
-riječnik|un dictionnaire|dictionary
-ruksak|un sac à dos|backpack
-U laboratoriji ima ... U laboratoriji se nalazi ...|Au labo, il y a ...|In the lab, there are ...
-kompjuteri|des ordinateurs (m)|computers
-Studenti uče!|Les étudiants travaillent!|The students work!
-domaća zadaća|des devoirs (m)|homework
-vježba|un exercice|exercise
-test|un examen|test
-u razredu, u učionici|en classe|in class
-Slušaj.|Écoutez.|Listen.
-Piši.|Écrivez.|Write.
-Podigni dva prsta (ruku).|Levez le doigt.|Raise your finger (hand).
-Ponovi.|Répétez.|Repeat.
-Otvorite svoje knjige.|Ouvrez vos livres.|Open your books.
-Okreni stranicu broj ..., Otvori stranicu broj ...|Ouvrez le livre à la page ...|Turn to page ...
-molim vas|s'il vous plaît|please
-Da li razumijete?|Vous comprenez?|Do you understand?
-Da, ja razumijem. Da, razumijem.|Oui, je comprends.|Yes, I understand.
-Ne, ja ne razumijem. Ne, ne razumijem.|Non, je ne comprends pas.|No, I don't understand.
-Šta ... znači?|Que veut dire ...?|What does ... mean?
-Kako se kaže ...?|Comment dit-on ...?|How do you say ...?
-Evo ...|Voici ...|Here is ... (here are ...)
-Evo ..., Ima ..., Nalazi se ...|Voilà ...|There is ... (there are ...)
-Ima ..., Nalazi se ..., Nalaze se ...|Il y a ...|There is, there are ...
-Koliko ima ...?|Il y a combien de ...?|There are how many ...?
-prosti brojevi 1-69|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-jedan|un, une|1
-dva|deux|2
-tri|trois|3
-četiri|quatre|4
-pet|cinq|5
-šest|six|6
-sedam|sept|7
-osam|huit|8
-devet|neuf|9
-deset|dix|10
-jedanaest|onze|11
-dvanaest|douze|12
-trinaest|treize|13
-četrnaest|quatorze|14
-petnaest|quinze|15
-šesnaest|seize|16
-sedamnaest|dix-sept|17
-osamnaest|dix-huit|18
-devetnaest|dix-neuf|19
-dvadeset|vingt|20
-dvadeset jedan|vingt et un|21
-dvadeset dva|vingt-deux|22
-dvadeset tri|vingt-trois|23
-dvadeset četiri|vingt-quatre|24
-dvadeset pet|vingt-cinq|25
-dvadeset šest|vingt-six|26
-dvadeset sedam|vingt-sept|27
-dvadeset osam|vingt-huit|28
-dvadeset devet|vingt-neuf|29
-trideset|trente|30
-trideset jedan|trente et un|31
-trideset dva|trente-deux|32
-trideset devet|trente-neuf|39
-četrdeset|quarante|40
-četrdeset jedan|quarante et un|41
-četrdeset dva|quarante-deux|42
-četrdeset devet|quarante-neuf|49
-pedeset|cinquante|50
-pedeset jedan|cinquante et un|51
-pedeset dva|cinquante-deux|52
-pedeset devet|cinquante-neuf|59
-šezdeset|soixante|60
-šezdeset jedan|soixante et un|61
-šezdeset dva|soixante-deux|62
-šezdeset devet|soixante-neuf|69
-datum|la date|the date
-kalendar|le calendrier|calendar
-dan|le jour|day
-Koji su dani u nedjelji?|Quels sont les jours de la semaine?|What are the days of the week?
-ponedjeljak|lundi|Monday
-utorak|mardi|Tuesday
-srijeda|mercredi|Wednesday
-četvrtak|jeudi|Thursday
-petak|vendredi|Friday
-subota|samedi|Saturday
-nedjelja|dimanche|Sunday
-Koji je dan danas?|C'est quel jour?|What day is it?
-Danas je ponedjeljak.|C'est lundi.|It's Monday.
-danas|aujourd'hui|today
-sutra|demain|tomorrow
-nedjelja|la semaine|week
-slijedeće nedjelje|la semaine prochaine|next week
-prošle nedjelje|la semaine dernière|last week
-Koji je datum?|Quelle est la date?|What's the date?
-Prvi septembar.|C'est le premier septembre.|It's September 1st.
-Drugi oktobar.|C'est le deux octobre.|It's October 2nd.
-Trideseti avgust.|C'est le 30 août.|It's August 30th.
-mjesec|le mois|month
-Koji su mjeseci u godini?|Quels sont les mois de l'année?|What are the months of the year?
-januar|janvier|January
-februar|février|February
-mart|mars|March
-april|avril|April
-maj|mai|May
-juni|juin|June
-juli|juillet|July
-avgust|août|August
-septembar|septembre|September
-oktobar|octobre|October
-novembar|novembre|November
-decembar|décembre|December
+pozdravi|greetings
+gospodin|Sir
+gospođa|Ma'am (Mrs.)
+gospođica|Miss
+Dobar dan, gospodine.|Good day (Hello), Sir
+Dobra veče.|Good evening
+Doviđenja|Goodbye
+Zdravo|Hi!
+Vidimo se kasnije.|See you in a little while.
+Vidimo se večeras.|See you this evening.
+Vidimo se sutra.|See you tomorrow.
+Vidimo se uskoro.|See you soon.
+Kako se zovete?|What's your name? (formal)
+Kako se zoveš?|What's your name? (informal)
+Zovem se ...|My name is ...
+Kako ste?|How are you? (formal)
+Kako si?|How are you? (informal)
+Ja sam veoma dobro, hvala.|I am very well, thank you.
+Dobro sam, hvala.|I am fine, thank you.
+Nisam loše, hvala.|Not bad, thank you.
+Kako ide?|How are things going?
+Dobro, hvala!|Great, thanks!
+Kako ide?|Are things going (well)?
+Ide dobro.|Things are going (well).
+A Vi? Odakle ste Vi?|And you? Where are you from? (formal)
+A ti? Odakle si ti?|And you? Where are you from? (informal)
+upoznavanje|introductions
+Gospodine, želio bih da Vam predstavim ...|Sir, I would like to introduce to you ... (formal)
+Ovo je ...|This is ... (informal)
+Ovo je ...|This is ...
+Ko je to?|Who is it?
+To je ...|It's ...
+Oni su ...|They are ...
+Kako se on/ona zove?|What's his/her name?
+On/Ona se zove ..., Njegovo/Njeno ime je ...|His/Her name is ...
+On/Ona je iz ...|He/She is from ...
+Kako se oni/one zovu?|What are their names?
+Oni/One se zovu ...|Their names are ...
+Šta on/ona radi? Šta je on/ona po zanimanju?|What does he/she do?
+Šta oni/one rade? Šta su oni/one po zanimanju?|What do they do?
+On/Ona je ...|He/She is a/an ...
+glumac / glumica|actor / actress
+arhitekta, arhitektica|architect
+pjevač / pjevačica|singer
+frizer / frizerka|hair dresser
+zubar / zubarica|dentist
+inženjer / inženjerka|engineer
+novinar / novinarka|journalist
+doktor / doktorica|doctor
+profesor, profesorka, profesorica|teacher, professor
+penzioner / penzionerka|retired man/woman
+pripravnik|intern
+učionica, razred|the classroom
+Šta je to?|What is it?
+To je ...|It's ...
+To je učionica.|It's a classroom.
+U učionici je ..., U učionici ima ..., U učionici se nalazi ...|In the classroom, there is ...
+vrata|door
+prozor|window
+tabla|blackboard
+televizor|television
+karta (svijeta), mapa (svijeta)|map (of the world)
+poster|poster
+stolica|chair
+sto|desk
+Na stolu ima ..., Na stolu se nalazi ...|On the desk, there is ...
+kreda|chalk
+olovka|pencil
+hemijska olovka|pen
+teka|notebook
+knjiga|book
+riječnik|dictionary
+ruksak|backpack
+U laboratoriji ima ... U laboratoriji se nalazi ...|In the lab, there are ...
+kompjuteri|computers
+Studenti uče!|The students work!
+domaća zadaća|homework
+vježba|exercise
+test|test
+u razredu, u učionici|in class
+Slušaj.|Listen.
+Piši.|Write.
+Podigni dva prsta (ruku).|Raise your finger (hand).
+Ponovi.|Repeat.
+Otvorite svoje knjige.|Open your books.
+Okreni stranicu broj ..., Otvori stranicu broj ...|Turn to page ...
+molim vas|please
+Da li razumijete?|Do you understand?
+Da, ja razumijem. Da, razumijem.|Yes, I understand.
+Ne, ja ne razumijem. Ne, ne razumijem.|No, I don't understand.
+Šta ... znači?|What does ... mean?
+Kako se kaže ...?|How do you say ...?
+Evo ...|Here is ... (here are ...)
+Evo ..., Ima ..., Nalazi se ...|There is ... (there are ...)
+Ima ..., Nalazi se ..., Nalaze se ...|There is, there are ...
+Koliko ima ...?|There are how many ...?
+prosti brojevi 1-69|Cardinal Numbers 1-69
+jedan|1
+dva|2
+tri|3
+četiri|4
+pet|5
+šest|6
+sedam|7
+osam|8
+devet|9
+deset|10
+jedanaest|11
+dvanaest|12
+trinaest|13
+četrnaest|14
+petnaest|15
+šesnaest|16
+sedamnaest|17
+osamnaest|18
+devetnaest|19
+dvadeset|20
+dvadeset jedan|21
+dvadeset dva|22
+dvadeset tri|23
+dvadeset četiri|24
+dvadeset pet|25
+dvadeset šest|26
+dvadeset sedam|27
+dvadeset osam|28
+dvadeset devet|29
+trideset|30
+trideset jedan|31
+trideset dva|32
+trideset devet|39
+četrdeset|40
+četrdeset jedan|41
+četrdeset dva|42
+četrdeset devet|49
+pedeset|50
+pedeset jedan|51
+pedeset dva|52
+pedeset devet|59
+šezdeset|60
+šezdeset jedan|61
+šezdeset dva|62
+šezdeset devet|69
+datum|the date
+kalendar|calendar
+dan|day
+Koji su dani u nedjelji?|What are the days of the week?
+ponedjeljak|Monday
+utorak|Tuesday
+srijeda|Wednesday
+četvrtak|Thursday
+petak|Friday
+subota|Saturday
+nedjelja|Sunday
+Koji je dan danas?|What day is it?
+Danas je ponedjeljak.|It's Monday.
+danas|today
+sutra|tomorrow
+nedjelja|week
+slijedeće nedjelje|next week
+prošle nedjelje|last week
+Koji je datum?|What's the date?
+Prvi septembar.|It's September 1st.
+Drugi oktobar.|It's October 2nd.
+Trideseti avgust.|It's August 30th.
+mjesec|month
+Koji su mjeseci u godini?|What are the months of the year?
+januar|January
+februar|February
+mart|March
+april|April
+maj|May
+juni|June
+juli|July
+avgust|August
+septembar|September
+oktobar|October
+novembar|November
+decembar|December

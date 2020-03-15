@@ -32,6 +32,8 @@ Translations in all languages are welcome. Send a pull request or open an issue 
 
 We're happy for any contribution in any form, but if you're making more than one major change (i.e. translations for two different languages) it would be super cool of you to make a separate pull request for each one so that someone can review them more effectively and/or individually.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more guidance and details for making a contribution.
+
 ## License
 Unless otherwise specified, everything in this repository is covered by the following licence:
 

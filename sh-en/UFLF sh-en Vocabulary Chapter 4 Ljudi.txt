@@ -1,0 +1,130 @@
+le visage|the face
+la tête|head
+les cheveux (m)|hair
+le front|forehead
+les sourcils (m)|eyebrows
+les yeux (m)|eyes
+le nez|nose
+les joues (f)|cheeks
+les oreilles (f)|ears
+la bouche|mouth
+les dents (f)|teeth
+le menton|chin
+le cou|neck
+les couleurs(f)|colors
+blanc / blanche|white
+bleu / bleue|blue
+gris / grise|gray
+jaune|yellow
+marron (invariable)|brown
+noir / noire|black
+orange (invariable)|orange
+rouge|red
+vert / verte|green
+violet / violette|purple
+le portrait physique|physical description
+Quelle est votre taille (f)?|What's your height?
+Je fais 1 m. 60.|I'm one meter 60.
+de taille moyenne|of medium height
+Combien pesez-vous?|How much do you weigh?
+Je fais 55 kilos.|I weigh 55 kilos.
+maigre|thin, skinny
+mince|thin, slender
+De quelle couleur sont vos cheveux?|What color is your hair?
+J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
+Il est... Elle est...|He is... She is...
+blond. blonde.|a blond.
+brun. brune.|a brunette.
+roux. rousse.|a red-head.
+Comment est-il coiffé?|What is his hair like?
+Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
+De quelle couleur sont vos yeux?|What color are your eyes?
+J'ai les yeux marron.|I have brown eyes.
+Quelle est la forme de son visage?|What's the shape of his face?
+Il a le visage carré / long / rond.|He has a square / long / round face.
+Il a le nez retroussé / pointu.|He has a snub / pointed nose.
+Il a de grandes oreilles.|He has big ears.
+Il/Elle a...|He/She has...
+des lunettes (f)|glasses
+une cicatrice|scar
+un piercing|body piercing
+un tatouage|tattoo
+le portrait moral (adjectifs)|psychological description
+actif / active|active
+agréable|pleasant
+ambitieux / ambitieuse|ambitious
+amusant / amusante|funny
+arrogant / arrogante|arrogant
+calme|calm
+compétitif / compétitive|competitive
+créatif / créative|creative
+curieux / curieuse|curious
+débrouillard / débrouillarde|resourceful
+désagréable|unpleasant
+drôle|funny
+égoïste|selfish
+ennuyeux / ennuyeuse|boring
+enthousiaste|enthusiastic
+être de bonne humeur|to be in a good mood
+être de mauvaise humeur|to be in a bad mood
+fou / folle|crazy
+franc / franche|frank
+généreux / généreuse|generous
+gentil / gentille|kind, nice
+heureux / heureuse|happy
+honnête|honest
+hypocrite|hypocritical
+idéaliste|idealistic
+incapable|incapable, incompetent
+indifférent / indifférente|indifferent
+intelligent / intelligente|intelligent
+intéressant / intéressante|interesting
+malhonnête|dishonest
+mignon / mignonne|cute
+naïf / naïve|naive
+nerveux / nerveuse|nervous
+optimiste|optimistic
+paresseux / paresseuse|lazy
+patient / patiente|patient
+pessimiste|pessimistic
+prétentieux / prétentieuse|pretentious
+réaliste|realistic
+réservé / réservée|reserved
+sensible|sensitive
+sérieux / sérieuse|serious
+sincère|sincere
+sociable|sociable
+sportif / sportive|athletic
+têtu / têtue|stubborn
+timide|shy, timid
+tolérant / tolérante|tolerant
+travailleur / travailleuse|hard-working
+adjectifs qui précèdent le nom|adjectives preceding the noun
+autre|other
+beau / bel / belle|beautiful
+bon / bonne|good
+grand / grande|tall, big
+gros / grosse|big, fat
+jeune|young
+joli / jolie|pretty
+long / longue|long
+mauvais / mauvaise|bad
+nouveau / nouvel / nouvelle|new
+petit / petite|little
+vieux / vieil / vieille|old
+verbes pronominaux|pronominal verbs
+se réveiller|to wake up
+se lever|to get up
+se laver|to wash (oneself)
+s'habiller|to dress (oneself)
+se brosser les dents|to brush your teeth
+se brosser les cheveux|to brush your hair
+se maquiller|to put on make-up
+se raser|to shave
+se coucher|to go to bed
+s'amuser|to have fun
+s'ennuyer|to be bored
+se dépêcher|to hurry
+se promener|to take a walk
+se reposer|to rest
+se fâcher|to get angry

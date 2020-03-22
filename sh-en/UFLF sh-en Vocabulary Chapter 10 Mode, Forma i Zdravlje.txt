@@ -1,129 +1,129 @@
-|la mode|fashion
-|un défilé de mode|fashion show
-|une marque|brand
-|un chapeau|hat
-|une casquette|cap
-|des vêtements (m)|clothes
-|un survêtement / un jogging|tracksuit
-|des sous-vêtements|underwear
-|un soutien-gorge|bra
-|un slip|briefs
-|une culotte|panties
-|un caleçon / boxer|boxers
-|une chemise|man's shirt
-|un chemisier|blouse
-|un polo|polo shirt
-|un tee-shirt|T-shirt
-|un pull|sweater
-|un pantalon|(a pair of) pants
-|un jean (sing.)|jeans
-|un short (sing.)|(shorter) shorts
-|un bermuda|(longer) shorts
-|une ceinture|belt
-|des chaussettes (f pl)|socks
-|des chaussures (f pl)|shoes
-|des baskets (f pl)|basketball shoes
-|des bottes (f pl)|boots
-|des sandales (f pl)|sandals
-|des tennis (f pl)|tennis shoes
-|des tongs|flip-flops
-|des talons (m) / des chaussures á talons|high-heels
-|une robe|dress
-|une jupe|skirt
-|un tailleur|woman's suit
-|un costume|man's suit
-|une cravate|tie
-|des lunettes (f) de soleil|sunglasses
-|un maillot de bain|swimsuit
-|un blouson|short jacket, leather jacket
-|une veste|jacket
-|un manteau|coat
-|un anorak|parka
-|un imperméable|raincoat
-|une écharpe|scarf
-|des gants (m)|gloves
-|les passe-temps|pastimes
-|la course à pied / faire de la course à pied|running / to go running
-|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
-|le roller / faire du roller|roller blading / to go roller blading
-|le cyclisme / faire du cyclisme|cycling / to go cycling
-|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
-|la musculation / faire de la musculation|weight training / to train with weights
-|la natation / faire de la natation|swimming / to go swimming
-|le canoë / faire du canoë|canoeing / to go canoeing
-|le kayak / faire du kayak|kayaking / to go kayaking
-|la peinture / faire de la peinture|painting / to paint (art)
-|les échecs (m) / jouer aux échecs|chess / to play chess
-|le yoga / faire du yoga|yoga
-|le surf / faire du surf|surfing
-|le cheval / faire du cheval|horseback riding
-|la forme et la santé|fitness and health
-|une allergie|allergy
-|la grippe|the flu
-|une migraine|migraine headache
-|un rhume|a cold
-|des médicaments (m)|medicine
-|des vitamines (f)|vitamins
-|un somnifère|sleeping pill
-|le corps|the body
-|la gorge|throat
-|le bras|arm
-|le coude|elbow
-|le poignet|wrist
-|la main|hand
-|le doigt|finger
-|la poitrine|chest
-|le ventre|stomach
-|le dos|back
-|le derrière|rear, behind
-|les fesses (f)|buttocks
-|la jambe|leg
-|le genou / les genoux|knee / knees
-|la cheville|ankle
-|le pied|foot
-|les orteils (m)|toes
-|adjectifs|adjectives
-|à la mode / branché(e)|in fashion
-|démodé(e)|out of style
-|décontracté(e)|casual
-|habillé(e)|dressy
-|discipliné(e)|disciplined
-|sportif / sportive|athletic
-|stressé(e)|stressed
-|malade|sick
-|verbes|verbs
-|s'habiller|to get dressed
-|mettre|to put (on)
-|porter|to wear
-|aller bien / aller mal|to fit well/poorly
-|grossir|to gain weight
-|être au régime / faire un régime|to be on a diet
-|faire du sport|to exercise
-|mincir|to lose weight
-|être en forme|to be in shape
-|tomber malade|to get sick
-|tousser|to cough
-|avoir mal à...|to hurt (body part)
-|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
-|se reposer|to rest
-|se détendre|to relax
-|fumer|to smoke
-|être en bonne santé|to be in good health
-|expressions interrogatives|interrogative expressions
-|Qu'est-ce qui se passe?|What is going on?
-|Qu'est-ce qui t'intéresse?|What interests you?
-|Qu'est-ce qui t'énerve?|What bothers you?
-|Qu'est-ce qui te fait peur?|What scares you?
-|Qu'est-ce qui te fait plaisir?|What pleases you?
-|Qu'est-ce qui t'amuse?|What amuses you?
-|expressions impersonnelles|impersonal questions
-|Il faut + infinitif|It is necessary (to)
-|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
-|Il est important de + infinitif|It is important (to)
-|Il est nécessaire de + infinitif|It is necessary (to)
-|Il est essentiel de + infinitif|It is essential (to)
-|Il est indispensable de + infinitif|It is essential (to)
-|Il est amusant de ...|It is fun (to) ...
-|Il est difficile de ...|It is difficult (to) ...
-|Il est facile de ...|It is easy (to) ...
-|Il est fatigant de ...|It is tiring/annoying (to) ...
+moda|la mode|fashion
+modni šou|un défilé de mode|fashion show
+brend|une marque|brand
+šešir|un chapeau|hat
+kapa|une casquette|cap
+odjeća|des vêtements (m)|clothes
+trenerka|un survêtement / un jogging|tracksuit
+donji veš|des sous-vêtements|underwear
+grudnjak|un soutien-gorge|bra
+muške gaće|un slip|briefs
+kratke pantalone / ženske gaćice|une culotte|panties
+muške gaće|un caleçon / boxer|boxers
+muška košulja|une chemise|man's shirt
+bluza|un chemisier|blouse
+polo majica|un polo|polo shirt
+T majica|un tee-shirt|T-shirt
+džemper|un pull|sweater
+pantalone|un pantalon|(a pair of) pants
+džins|un jean (sing.)|jeans
+šorc|un short (sing.)|(shorter) shorts
+bermude|un bermuda|(longer) shorts
+kajiš|une ceinture|belt
+čarape|des chaussettes (f pl)|socks
+cipele|des chaussures (f pl)|shoes
+duboke tene|des baskets (f pl)|basketball shoes
+čizme|des bottes (f pl)|boots
+sandale|des sandales (f pl)|sandals
+tene|des tennis (f pl)|tennis shoes
+japanke|des tongs|flip-flops
+cipele sa visokom petom|des talons (m) / des chaussures á talons|high-heels
+haljina|une robe|dress
+suknja|une jupe|skirt
+žensko odijelo|un tailleur|woman's suit
+muško odijelo|un costume|man's suit
+kravata|une cravate|tie
+naočale|des lunettes (f) de soleil|sunglasses
+kupaći kostim|un maillot de bain|swimsuit
+kožna vindjakna|un blouson|short jacket, leather jacket
+jakna|une veste|jacket
+kaput|un manteau|coat
+vindjakna sa kapuljačom|un anorak|parka
+mantil za kišu|un imperméable|raincoat
+šal|une écharpe|scarf
+rukavice|des gants (m)|gloves
+slobodno vrijema / hobi|les passe-temps|pastimes
+trčanje / trčati|la course à pied / faire de la course à pied|running / to go running
+džoging / džogiranje|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
+role, rošule / voziti role, voziti rošule|le roller / faire du roller|roller blading / to go roller blading
+biciklizam / voziti biciklo|le cyclisme / faire du cyclisme|cycling / to go cycling
+alpinizam / ići na alpinističko planinarenje|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
+dizanje tegova / vježbati sa tegovima|la musculation / faire de la musculation|weight training / to train with weights
+plivanje / ići na plivanje|la natation / faire de la natation|swimming / to go swimming
+kanuing / ići na kanuing|le canoë / faire du canoë|canoeing / to go canoeing
+kajak / ići na kajak|le kayak / faire du kayak|kayaking / to go kayaking
+slikarstvo / slikati|la peinture / faire de la peinture|painting / to paint (art)
+šah / igrati šah|les échecs (m) / jouer aux échecs|chess / to play chess
+joga / ići na jogu|le yoga / faire du yoga|yoga
+surfing / ići na surfing|le surf / faire du surf|surfing
+jahanje / ići na jahanje|le cheval / faire du cheval|horseback riding
+fitnes i zdravlje|la forme et la santé|fitness and health
+alergija|une allergie|allergy
+gripa|la grippe|the flu
+migrena|une migraine|migraine headache
+prehlada|un rhume|a cold
+lijekovi|des médicaments (m)|medicine
+vitamini|des vitamines (f)|vitamins
+tablete za spavanje|un somnifère|sleeping pill
+tijelo|le corps|the body
+grlo|la gorge|throat
+ruka|le bras|arm
+lakat|le coude|elbow
+ručni zglob|le poignet|wrist
+šaka / ruka|la main|hand
+prst|le doigt|finger
+prsa|la poitrine|chest
+stomak|le ventre|stomach
+ledja|le dos|back
+poledjina / iza / pozadi|le derrière|rear, behind
+butine|les fesses (f)|buttocks
+noga|la jambe|leg
+koljena|le genou / les genoux|knee / knees
+nožni zglob / skočni zglob|la cheville|ankle
+stopalo|le pied|foot
+palčevi na nogama|les orteils (m)|toes
+pridjevi|adjectifs|adjectives
+moderno / u modi|à la mode / branché(e)|in fashion
+izašlo iz mode|démodé(e)|out of style
+ležerno, opušteno (odjeća i obuća)|décontracté(e)|casual
+elegantan|habillé(e)|dressy
+disciplinovan|discipliné(e)|disciplined
+atletski|sportif / sportive|athletic
+stres / napet / pod pritiskom|stressé(e)|stressed
+bolestan|malade|sick
+glagoli|verbes|verbs
+obući se|s'habiller|to get dressed
+staviti (na)|mettre|to put (on)
+nositi|porter|to wear
+dobro / loše stajati / odgovarati|aller bien / aller mal|to fit well/poorly
+udebljati se|grossir|to gain weight
+biti na dijeti|être au régime / faire un régime|to be on a diet
+vježbati|faire du sport|to exercise
+smršati|mincir|to lose weight
+biti u formi|être en forme|to be in shape
+razboliti se|tomber malade|to get sick
+kašljati|tousser|to cough
+boliti ... / boljeti ..., imati bol u ...|avoir mal à...|to hurt (body part)
+(imati glavobalju, imati bol u ledjima, imati bol u nozi, itd)|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
+odmarati se|se reposer|to rest
+relaksirati se|se détendre|to relax
+pušiti|fumer|to smoke
+biti dobrog zdravlja|être en bonne santé|to be in good health
+upitni oblici|expressions interrogatives|interrogative expressions
+Šta se dešava?|Qu'est-ce qui se passe?|What is going on?
+Šta te interesuje?|Qu'est-ce qui t'intéresse?|What interests you?
+Šta ti smeta?|Qu'est-ce qui t'énerve?|What bothers you?
+Šta te plaši?|Qu'est-ce qui te fait peur?|What scares you?
+Šta ti se svidja?|Qu'est-ce qui te fait plaisir?|What pleases you?
+Šta te zabavlja?|Qu'est-ce qui t'amuse?|What amuses you?
+bezlični izrazi|expressions impersonnelles|impersonal questions
+treba (da)|Il faut + infinitif|It is necessary (to)
+Bolje je (da)|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
+Važno je (da)|Il est important de + infinitif|It is important (to)
+Neophodno je (da)|Il est nécessaire de + infinitif|It is necessary (to)
+Glavno / osnovno / suštinsko je (da)|Il est essentiel de + infinitif|It is essential (to)
+Bitno je (da)|Il est indispensable de + infinitif|It is essential (to)
+Zabavno je (da) ...|Il est amusant de ...|It is fun (to) ...
+Teško je (da) ...|Il est difficile de ...|It is difficult (to) ...
+Lako je (da) ...|Il est facile de ...|It is easy (to) ...
+Zamorno / naporno / dosadno je (da) ...|Il est fatigant de ...|It is tiring/annoying (to) ...

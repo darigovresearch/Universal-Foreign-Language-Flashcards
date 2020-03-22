@@ -1,103 +1,103 @@
-|les études secondaires et supérieures|high school and university studies
-|la rentrée|beginning of school year
-|le collège|junior high, middle school
-|le lycée|high school
-|un lycéen / une lycéenne|high school student
-|la seconde|first year of high school
-|la première|second year of high school
-|la terminale|final year of high school
-|le baccalauréat / le bac|baccalaureate exam
-|un bachelier / une bachelière|student who has passed the bac
-|un concours (d'entrée)|competitive entrance exam
-|la fac|college, university
-|la Faculté des Beaux-Arts|school of fine arts
-|la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
-|la Faculté de Médecine|school of medicine
-|la Faculté de Pharmacie|school of pharmacy
-|la Faculté des Sciences|school of sciences
-|la Faculté de Droit|law school
-|L'Ecole de Commerce (f)|business school
-|les Grandes Écoles (f)|elite professional schools
-|une résidence universitaire|dormitory
-|un restaurant universitaire (un restau-U)|university cafeteria
-|une cafétéria|cafeteria
-|un amphithéâtre / un amphi|amphitheater
-|une salle de classe|classroom
-|un cours (de maths...)|a class (math class...)
-|un cours magistral (des cours magistraux)|large lecture class
-|un laboratoire / un labo|laboratory / lab
-|une bibliothèque|library
-|les devoirs (m)|homework
-|une copie|student paper
-|un exposé oral|oral presentation
-|un examen|test, exam
-|une note|grade
-|les résultats|results, grades
-|un bulletin de notes|grade report
-|un emploi du temps|schedule
-|une carte d'étudiant|student ID card
-|un stage|internship
-|un diplôme|a diploma, degree
-|les matières et les cours|subjects and classes
-|l'architecture (f)|architecture
-|l'art (m)|art
-|le dessin|drawing, design
-|la musique|music
-|la peinture|painting
-|la communication|communications
-|la comptabilité|accounting
-|le droit|law
-|l'économie (f)|economics
-|la géographie|geography
-|l'histoire (f)|history
-|l'informatique (f)|computer science
-|les langues (f)|languages
-|le chinois|Chinese
-|l'allemand (m)|German
-|l'anglais (m)|English
-|l'espagnol (m)|Spanish
-|le français|French
-|l'italien (m)|Italian
-|le latin|Latin
-|la linguistique|linguistics
-|la littérature|literature
-|les mathématiques (f) / les maths|math
-|la médecine|medicine
-|la pharmacie|pharmacy
-|la philosophie|philosophy
-|la psychologie|psychology
-|la biologie|biology
-|la chimie|chemistry
-|la physique|physics
-|les sciences politiques (f)|political science
-|la sociologie|sociology
-|adjectifs|adjectives
-|chargé(e)|full, busy (referring to schedule)
-|occupé(e)|busy
-|prochain(e)|next
-|dernier / dernière|last
-|verbes|verbs
-|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
-|régler (les frais d’inscription)|to pay (one’s tuition/fees)
-|En quelle matiére est-ce que tu te spécialises?|What's your major?
-|suivre|to take (a course), to follow
-|aller en cours|to attend class
-|faire ses devoirs|to do one’s homework
-|faire un effort|to make an effort
-|faire des progrès|to improve
-|se renseigner|to find out about, to get information
-|apprendre|to learn
-|comprendre|to understand
-|passer un examen|to take an exam
-|réussir (à) un examen|to pass (an exam), to succeed (in)
-|réussir à + infinitif|to succeed at ...
-|avoir la moyenne|to receive a passing grade
-|recevoir son diplôme|to graduate, to complete one’s studies
-|être bonne / bon en ...|to be good in/at ...
-|être mauvais(e) en ...|to be bad in/at ...
-|être nul(le) en ... [slang]|to suck in/at ...
-|se décourager|to be discouraged
-|sécher un cours|to skip a class
-|rater|to fail
-|redoubler|to repeat a grade/course
-|quitter|to leave (something, someone or some place)
+srednjoškolsko obrazovanje i univerzitetske obrazovanje|les études secondaires et supérieures|high school and university studies
+početak školske godine|la rentrée|beginning of school year
+srednja škola|le collège|junior high, middle school
+srednja škola|le lycée|high school
+srednjoškolac|un lycéen / une lycéenne|high school student
+prva godina|la seconde|first year of high school
+druga godina|la première|second year of high school
+završna godina|la terminale|final year of high school
+maturski ispit / bakalorea ispit|le baccalauréat / le bac|baccalaureate exam
+maturant|un bachelier / une bachelière|student who has passed the bac
+prijemni ispit|un concours (d'entrée)|competitive entrance exam
+univerzitet|la fac|college, university
+Likovna akademija|la Faculté des Beaux-Arts|school of fine arts
+Fakultet društvenih nauka|la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
+Medicinski fakultet|la Faculté de Médecine|school of medicine
+Farmaceutski fakultet|la Faculté de Pharmacie|school of pharmacy
+Fakultet prirodnih nauka|la Faculté des Sciences|school of sciences
+Pravni fakultet|la Faculté de Droit|law school
+Ekonomski fakultet|L'Ecole de Commerce (f)|business school
+Visoke škole / elitne profesionalne škole|les Grandes Écoles (f)|elite professional schools
+studentski dom|une résidence universitaire|dormitory
+restoran u studentskom domu|un restaurant universitaire (un restau-U)|university cafeteria
+studentska menza / kafeterija|une cafétéria|cafeteria
+amfiteatar|un amphithéâtre / un amphi|amphitheater
+učionica|une salle de classe|classroom
+čas (matematike...)|un cours (de maths...)|a class (math class...)
+predavanje|un cours magistral (des cours magistraux)|large lecture class
+laboratorija|un laboratoire / un labo|laboratory / lab
+bibilioteka|une bibliothèque|library
+domaći zadatak / domaća zadaća|les devoirs (m)|homework
+studentski rad|une copie|student paper
+usmeno izlaganje|un exposé oral|oral presentation
+ispit|un examen|test, exam
+ocjena|une note|grade
+rezultati|les résultats|results, grades
+djačka knjižica / indeks / izvještaj o ocjenama|un bulletin de notes|grade report
+raspored časova|un emploi du temps|schedule
+indeks|une carte d'étudiant|student ID card
+praksa / stažiranje|un stage|internship
+diploma|un diplôme|a diploma, degree
+predmeti|les matières et les cours|subjects and classes
+arhitektura|l'architecture (f)|architecture
+umjetnost|l'art (m)|art
+dizajn|le dessin|drawing, design
+muzika|la musique|music
+slikarstvo|la peinture|painting
+komunikacije|la communication|communications
+računovodstvo|la comptabilité|accounting
+pravo|le droit|law
+ekonomija|l'économie (f)|economics
+geografija|la géographie|geography
+istorija|l'histoire (f)|history
+informatika|l'informatique (f)|computer science
+jezici|les langues (f)|languages
+kineski|le chinois|Chinese
+njemački|l'allemand (m)|German
+engleski|l'anglais (m)|English
+španski|l'espagnol (m)|Spanish
+francuski|le français|French
+italijanski|l'italien (m)|Italian
+latinski|le latin|Latin
+lingvistika|la linguistique|linguistics
+literatura / književnost|la littérature|literature
+matematika|les mathématiques (f) / les maths|math
+medicina|la médecine|medicine
+farmacija|la pharmacie|pharmacy
+filozofija|la philosophie|philosophy
+psihologija|la psychologie|psychology
+biologija|la biologie|biology
+hemija|la chimie|chemistry
+fizika|la physique|physics
+političke nauke|les sciences politiques (f)|political science
+sociologija|la sociologie|sociology
+prilozi|adjectifs|adjectives
+popunjen (raspored)|chargé(e)|full, busy (referring to schedule)
+zauzet|occupé(e)|busy
+slijedeći|prochain(e)|next
+prošli|dernier / dernière|last
+glagoli|verbes|verbs
+upisati se (na fakultet, u filmski klub ...)|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
+platiti (školarinu)|régler (les frais d’inscription)|to pay (one’s tuition/fees)
+Šta ti je glavni izbor predmeta?|En quelle matiére est-ce que tu te spécialises?|What's your major?
+pratiti (nastavu)|suivre|to take (a course), to follow
+prisustvovati času / prisustvovati nastavi|aller en cours|to attend class
+pisati domaću zadaću|faire ses devoirs|to do one’s homework
+truditi se|faire un effort|to make an effort
+napredovati / unaprijediti|faire des progrès|to improve
+dobiti informacije, pronaći, naći|se renseigner|to find out about, to get information
+studirati / učiti|apprendre|to learn
+shvatiti / razumjeti|comprendre|to understand
+polagati ispit|passer un examen|to take an exam
+položiti ispit|réussir (à) un examen|to pass (an exam), to succeed (in)
+uspjeti u ...|réussir à + infinitif|to succeed at ...
+dobiti prolaznu ocjenu|avoir la moyenne|to receive a passing grade
+završiti studije|recevoir son diplôme|to graduate, to complete one’s studies
+biti dobar u ...|être bonne / bon en ...|to be good in/at ...
+biti loš u ...|être mauvais(e) en ...|to be bad in/at ...
+biti loš u ... |être nul(le) en ... [slang]|to suck in/at ...
+biti obeshrabren|se décourager|to be discouraged
+pobjeći sa nastave / časa|sécher un cours|to skip a class
+pasti|rater|to fail
+ponavljati godinu / kurs|redoubler|to repeat a grade/course
+napustiti|quitter|to leave (something, someone or some place)

@@ -1,191 +1,191 @@
-|à table|at the table
-|un verre|glass
-|une tasse|cup
-|un bol|bowl
-|une assiette|plate
-|un couteau|knife
-|une fourchette|fork
-|une cuillère|spoon
-|la cuisine|kitchen, cooking
-|un repas|meal
-|le petit déjeuner|breakfast
-|le déjeuner|lunch
-|le goûter|snack
-|le dîner|dinner, supper
-|au marché, au supermarché|at the market, at the supermarket
-|des fruits (m)|fruits
-|des bananes (f)|bananas
-|des cerises (f)|cherries
-|des citrons (m)|lemons
-|des fraises (f)|strawberries
-|des framboises (f)|raspberries
-|des oranges (f)|oranges
-|des pamplemousses (m)|grapefruit
-|des pêches (f)|peaches
-|des poires (f)|pears
-|des pommes (f)|apples
-|du raisin|grapes
-|des légumes (m)|vegetables
-|de l'ail (m)|garlic
-|des asperges (f)|asparagus
-|des aubergines (f)|eggplants
-|des carottes (f)|carrots
-|des champignons (m)|mushrooms
-|des choux (m)|cabbage
-|des concombres (m)|cucumbers
-|des courgettes (f)|zucchini
-|des épinards (m)|spinach
-|des haricots verts (m)|green beans
-|une/de la laitue|lettuce
-|des oignons (m)|onions
-|des petits pois (m)|peas
-|des poireaux (m)|leeks
-|des poivrons verts (m)|green peppers
-|des pommes de terre (f)|potatoes
-|de la salade|salad, lettuce
-|des tomates (f)|tomatoes
-|à la boucherie|at the butcher shop
-|Chez le boucher, on achète ...|At the butcher's, you buy ...
-|de la viande|meat
-|du boeuf|beef
-|du porc|pork
-|du veau|veal
-|du canard|duck
-|de la dinde|turkey
-|du poulet|chicken
-|à la charcuterie|at the pork butcher shop, delicatessen
-|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
-|du jambon|ham
-|du pâté|pâté
-|des saucisses (f)|sausages
-|du saucisson|hard sausage
-|à la poissonnerie|at the seafood shop
-|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
-|du poisson|fish
-|du saumon|salmon
-|de la sole|sole
-|du thon|tuna
-|à l'épicerie|at the grocery store
-|Chez l'épicier, on trouve ...|At the grocer's, you find ...
-|des céréales (m)|cereal
-|un oeuf, des oeufs|eggs
-|des noix (f)|walnuts
-|des produits laitiers|dairy products
-|du beurre|butter
-|du lait|milk
-|du fromage|cheese
-|du yaourt|yogurt
-|de la glace|ice cream
-|des épices (f)|spices
-|du sel|salt
-|du poivre|pepper
-|de l'huile (f)|oil
-|du vinaigre|vinegar
-|de la mayonnaise|mayonnaise
-|de la moutarde|mustard
-|à la boulangerie-pâtisserie|at the bakery-pastry shop
-|Chez le boulanger, on trouve ...|At the baker's, you find ...
-|du pain|bread
-|une baguette|baguette
-|une brioche|brioche
-|un croissant|croissant
-|un petit pain|roll
-|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
-|des pâtisseries (f)|pastries
-|un gâteau|cake
-|un gâteau au chocolat|chocolate cake
-|une tarte|tart
-|une tarte aux pommes|apple tart
-|une tarte au citron|lemon tart
-|une tarte à la fraise|strawberry tart
-|au café|at the café
-|Au café, on commande ...|At the café, you order ...
-|des boissons non-alcoolisées|non-alcoholic beverages
-|du café|coffee
-|du thé|tea
-|du coca-cola|cola
-|de l'eau (f)|water
-|de l'eau minérale|mineral water
-|du jus de fruit|fruit juice
-|des boissons alcoolisées|alcoholic beverages
-|de la bière|beer
-|du champagne|champagne
-|du vin|wine
-|du vin blanc (du blanc)|white wine
-|du vin rosé (du rosé)|rosé wine
-|du vin rouge (du rouge)|red wine
-|un sandwich jambon beurre|sandwich with ham and butter
-|un croque-monsieur|toasted cheese sandwich with ham
-|un croque-madame|croque-monsieur with a fried egg
-|une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
-|une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
-|au restaurant|at the restaurant
-|Au restaurant, on commande ...|At the restaurant, you order ...
-|un apéritif (m)|before dinner drink
-|une entrée (f)|appetizer / first course
-|un plat principal|main course
-|un dessert|dessert
-|une boisson|drink, beverage
-|des plats typiquement français|typical French dishes
-|des entrées|appetizers
-|des crudités (f)|raw vegetables plus vinaigrette
-|une salade (avec des lardons, des noix, etc.)|salad (with bacon, nuts, etc.)
-|de la soupe à l'oignon|onion soup
-|des plats principaux|main courses
-|du boeuf bourguignon|beef stewed in red wine
-|du coq au vin|chicken (rooster) stewed in red wine
-|un steak-frites|steak and French fries
-|des desserts|desserts
-|de la mousse au chocolat|chocolate mousse
-|de la crème caramel|caramel custard
-|de la crème brûlée|crème brûlée
-|du fondant au chocolat|rich chocolate flourless cake
-|expressions de quantité|expressions of quantity
-|un peu de|a little
-|assez de|enough
-|beaucoup de|a lot
-|trop de|too much (too many)
-|une cuillère de|a spoonful of
-|une bouteille de|a bottle of
-|un pichet de|a pitcher of
-|un litre de|a liter of
-|50 grammes de|50 grams of
-|un kilo de|a kilo of
-|un morceau de|a piece of
-|une tranche de|a slice of
-|une boîte de|a can of
-|un rôti de boeuf|a beef roast
-|une côtelette de porc|a pork chop
-|une douzaine d'oeufs|a dozen eggs
-|adjectifs|adjectives
-|délicieux / délicieuse|delicious
-|frais / fraîche|fresh
-|épicé(e)|spicy
-|grillé(e)|grilled
-|hâché(e)|chopped
-|salé(e)|salty
-|sucré(e)|sweet
-|verbes|verbs
-|avoir faim / avoir soif|to be hungry / to be thirsty
-|boire|to drink
-|déjeuner|to have lunch
-|dîner|to have dinner
-|faire le marché|to go grocery shopping
-|faire la cuisine|to cook
-|prendre un repas|to have a meal
-|faire la vaisselle|to do the dishes
-|grossir|to gain weight
-|faire un régime|to be on a diet
-|maigrir|to lose weight
-|choisir|to choose
-|finir|to finish
-|grandir|to grow up
-|obéir à|to obey
-|réfléchir à|to reflect (on)
-|réussir à|to succeed
-|croire|to believe
-|prendre|to take
-|(apprendre à quelqu'un)|to learn
-|apprendre|(to teach someone)
-|comprendre|to understand
-|surprendre|to surprise
+na stolu|à table|at the table
+čaša|un verre|glass
+šolja|une tasse|cup
+zdjela|un bol|bowl
+tanjir|une assiette|plate
+nož|un couteau|knife
+viljuška|une fourchette|fork
+kašika|une cuillère|spoon
+kuhinja, kuvanje|la cuisine|kitchen, cooking
+obrok, jelo|un repas|meal
+doručak|le petit déjeuner|breakfast
+ručak|le déjeuner|lunch
+užina|le goûter|snack
+večera|le dîner|dinner, supper
+u samoposluzi, u supermarketu|au marché, au supermarché|at the market, at the supermarket
+voće|des fruits (m)|fruits
+banane|des bananes (f)|bananas
+trešnje|des cerises (f)|cherries
+limuni|des citrons (m)|lemons
+jagode|des fraises (f)|strawberries
+maline|des framboises (f)|raspberries
+narandže, naranče|des oranges (f)|oranges
+greipfrut|des pamplemousses (m)|grapefruit
+breskve|des pêches (f)|peaches
+kruške|des poires (f)|pears
+jabuke|des pommes (f)|apples
+groždje|du raisin|grapes
+povrće|des légumes (m)|vegetables
+bijeli luk|de l'ail (m)|garlic
+špargla, asparagus|des asperges (f)|asparagus
+plavi patlidžan|des aubergines (f)|eggplants
+mrkve|des carottes (f)|carrots
+gljive, pečurke|des champignons (m)|mushrooms
+kupusi|des choux (m)|cabbage
+krastavci|des concombres (m)|cucumbers
+tikvice|des courgettes (f)|zucchini
+špinat|des épinards (m)|spinach
+boranija|des haricots verts (m)|green beans
+zelena salata|une/de la laitue|lettuce
+crni luk|des oignons (m)|onions
+grašak|des petits pois (m)|peas
+praziluk, poriluk, prasa|des poireaux (m)|leeks
+zelene paprike|des poivrons verts (m)|green peppers
+krompiri|des pommes de terre (f)|potatoes
+salate|de la salade|salad, lettuce
+paradaizi|des tomates (f)|tomatoes
+u mesari, u mesnici|à la boucherie|at the butcher shop
+Kod mesara, kupujete ...|Chez le boucher, on achète ...|At the butcher's, you buy ...
+meso|de la viande|meat
+govedinu|du boeuf|beef
+svinjetinu|du porc|pork
+teletinu|du veau|veal
+pačetinu (patka)|du canard|duck
+ćuretinu (ćurka)|de la dinde|turkey
+piletinu|du poulet|chicken
+U prodavnici suhomesnatih proizvoda|à la charcuterie|at the pork butcher shop, delicatessen
+U prodavnici suhomesnatih proizvoda kupujete ...|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
+šunku|du jambon|ham
+paštetu|du pâté|pâté
+kobasice|des saucisses (f)|sausages
+salamu|du saucisson|hard sausage
+U ribarnici|à la poissonnerie|at the seafood shop
+U ribarnici, kupujete ...|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
+ribu|du poisson|fish
+losos|du saumon|salmon
+iverak, tabinja|de la sole|sole
+tuna|du thon|tuna
+bakalnica|à l'épicerie|at the grocery store
+U bakalnici, nalazite ...|Chez l'épicier, on trouve ...|At the grocer's, you find ...
+žitarice|des céréales (m)|cereal
+jaja|un oeuf, des oeufs|eggs
+orahe|des noix (f)|walnuts
+mliječne proizvode|des produits laitiers|dairy products
+puter|du beurre|butter
+mlijeko|du lait|milk
+sir|du fromage|cheese
+jogurt|du yaourt|yogurt
+sladoled|de la glace|ice cream
+začine|des épices (f)|spices
+so|du sel|salt
+biber|du poivre|pepper
+ulje|de l'huile (f)|oil
+sirće|du vinaigre|vinegar
+majonez|de la mayonnaise|mayonnaise
+senf|de la moutarde|mustard
+u pekari|à la boulangerie-pâtisserie|at the bakery-pastry shop
+U pekari, nalazite ...|Chez le boulanger, on trouve ...|At the baker's, you find ...
+hljeb|du pain|bread
+baget|une baguette|baguette
+brioš|une brioche|brioche
+kroasan|un croissant|croissant
+zemičke|un petit pain|roll
+Kod poslastičara, nalazite ...|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
+kolače, poslastice|des pâtisseries (f)|pastries
+torte|un gâteau|cake
+čokoladne torte|un gâteau au chocolat|chocolate cake
+kolač, slatka pita|une tarte|tart
+kolač / pita od jabuka|une tarte aux pommes|apple tart
+kolač / pita sa limunom|une tarte au citron|lemon tart
+kolač / pita od jagoda|une tarte à la fraise|strawberry tart
+U kafeu|au café|at the café
+U kafeu, naručujete ...|Au café, on commande ...|At the café, you order ...
+bezalkoholna pića|des boissons non-alcoolisées|non-alcoholic beverages
+kafu|du café|coffee
+čaj|du thé|tea
+koka-kolu|du coca-cola|cola
+vodu|de l'eau (f)|water
+mineralnu vodu|de l'eau minérale|mineral water
+voćni sok|du jus de fruit|fruit juice
+alkoholna pića|des boissons alcoolisées|alcoholic beverages
+pivo|de la bière|beer
+šampanjac|du champagne|champagne
+vino|du vin|wine
+bijelo vino|du vin blanc (du blanc)|white wine
+roze|du vin rosé (du rosé)|rosé wine
+crno vino|du vin rouge (du rouge)|red wine
+sendvič|un sandwich jambon beurre|sandwich with ham and butter
+pečeni sendvić sa šunkom i sirom|un croque-monsieur|toasted cheese sandwich with ham
+pečeni sendvić sa šunkom, sirom jajetom|un croque-madame|croque-monsieur with a fried egg
+kiš (lorraine, od lososa, itd.)|une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
+omlet (sa začinima, sa sirom)|une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
+restoran|au restaurant|at the restaurant
+U restoranu, naručujete ...|Au restaurant, on commande ...|At the restaurant, you order ...
+aperitiv|un apéritif (m)|before dinner drink
+predjelo|une entrée (f)|appetizer / first course
+glavno jelo|un plat principal|main course
+desert|un dessert|dessert
+piće|une boisson|drink, beverage
+tipično francusko jelo|des plats typiquement français|typical French dishes
+predjelo|des entrées|appetizers
+svježe povrće sa sirćetom|des crudités (f)|raw vegetables plus vinaigrette
+salata (sa prženom slaninom, orasima, itd.)|une salade (avec des lardons, des noix, etc.)|salad (with bacon, nuts, etc.)
+supa od luka|de la soupe à l'oignon|onion soup
+glavno jelo|des plats principaux|main courses
+pirjana / dinstana govedina u crnom vinu|du boeuf bourguignon|beef stewed in red wine
+pirjani / dinstani pijeto u crnom vinu|du coq au vin|chicken (rooster) stewed in red wine
+stek sa prženim krompirićima|un steak-frites|steak and French fries
+desert|des desserts|desserts
+čokoladni mus|de la mousse au chocolat|chocolate mousse
+krem karamel|de la crème caramel|caramel custard
+krem brule|de la crème brûlée|crème brûlée
+rastopljeni čokoladni kolač|du fondant au chocolat|rich chocolate flourless cake
+izrazi za količinu|expressions de quantité|expressions of quantity
+malo|un peu de|a little
+dovoljno|assez de|enough
+mnogo|beaucoup de|a lot
+suviše|trop de|too much (too many)
+puna kašika (nečeg)|une cuillère de|a spoonful of
+boca / flaša (nečeg)|une bouteille de|a bottle of
+bokal (nečeg)|un pichet de|a pitcher of
+litar (nečeg)|un litre de|a liter of
+50 grama (nečeg)|50 grammes de|50 grams of
+kilo / kilogram (nečeg)|un kilo de|a kilo of
+komad / parče (nečeg)|un morceau de|a piece of
+kriška (nečeg)|une tranche de|a slice of
+konzerva (nečeg)|une boîte de|a can of
+govedje pečenje|un rôti de boeuf|a beef roast
+svinjski odrezak / kotlet|une côtelette de porc|a pork chop
+tuce jaja|une douzaine d'oeufs|a dozen eggs
+pridjevi|adjectifs|adjectives
+divan / prekrasan / mio|délicieux / délicieuse|delicious
+svjež|frais / fraîche|fresh
+začinjen|épicé(e)|spicy
+pečen na roštilju|grillé(e)|grilled
+isjeckan|hâché(e)|chopped
+slan|salé(e)|salty
+sladak|sucré(e)|sweet
+glagoli|verbes|verbs
+biti gladan / biti žedan|avoir faim / avoir soif|to be hungry / to be thirsty
+piti|boire|to drink
+ručati|déjeuner|to have lunch
+večerati|dîner|to have dinner
+ići u kupovinu|faire le marché|to go grocery shopping
+kuvati|faire la cuisine|to cook
+jesti|prendre un repas|to have a meal
+prati posudje|faire la vaisselle|to do the dishes
+udebljati se|grossir|to gain weight
+biti na dijeti|faire un régime|to be on a diet
+smršati|maigrir|to lose weight
+birati|choisir|to choose
+završiti|finir|to finish
+rasti|grandir|to grow up
+pokoravati se, slušati|obéir à|to obey
+razmišljati o (nečemu)|réfléchir à|to reflect (on)
+uspjeti|réussir à|to succeed
+vjerovati|croire|to believe
+uzeti|prendre|to take
+učiti|(apprendre à quelqu'un)|to learn
+učiti nekoga|apprendre|(to teach someone)
+shvatiti, razumjeti|comprendre|to understand
+iznenaditi|surprendre|to surprise

@@ -1,130 +1,130 @@
-|le visage|the face
-|la tête|head
-|les cheveux (m)|hair
-|le front|forehead
-|les sourcils (m)|eyebrows
-|les yeux (m)|eyes
-|le nez|nose
-|les joues (f)|cheeks
-|les oreilles (f)|ears
-|la bouche|mouth
-|les dents (f)|teeth
-|le menton|chin
-|le cou|neck
-|les couleurs(f)|colors
-|blanc / blanche|white
-|bleu / bleue|blue
-|gris / grise|gray
-|jaune|yellow
-|marron (invariable)|brown
-|noir / noire|black
-|orange (invariable)|orange
-|rouge|red
-|vert / verte|green
-|violet / violette|purple
-|le portrait physique|physical description
-|Quelle est votre taille (f)?|What's your height?
-|Je fais 1 m. 60.|I'm one meter 60.
-|de taille moyenne|of medium height
-|Combien pesez-vous?|How much do you weigh?
-|Je fais 55 kilos.|I weigh 55 kilos.
-|maigre|thin, skinny
-|mince|thin, slender
-|De quelle couleur sont vos cheveux?|What color is your hair?
-|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
-|Il est... Elle est...|He is... She is...
-|blond. blonde.|a blond.
-|brun. brune.|a brunette.
-|roux. rousse.|a red-head.
-|Comment est-il coiffé?|What is his hair like?
-|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
-|De quelle couleur sont vos yeux?|What color are your eyes?
-|J'ai les yeux marron.|I have brown eyes.
-|Quelle est la forme de son visage?|What's the shape of his face?
-|Il a le visage carré / long / rond.|He has a square / long / round face.
-|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
-|Il a de grandes oreilles.|He has big ears.
-|Il/Elle a...|He/She has...
-|des lunettes (f)|glasses
-|une cicatrice|scar
-|un piercing|body piercing
-|un tatouage|tattoo
-|le portrait moral (adjectifs)|psychological description
-|actif / active|active
-|agréable|pleasant
-|ambitieux / ambitieuse|ambitious
-|amusant / amusante|funny
-|arrogant / arrogante|arrogant
-|calme|calm
-|compétitif / compétitive|competitive
-|créatif / créative|creative
-|curieux / curieuse|curious
-|débrouillard / débrouillarde|resourceful
-|désagréable|unpleasant
-|drôle|funny
-|égoïste|selfish
-|ennuyeux / ennuyeuse|boring
-|enthousiaste|enthusiastic
-|être de bonne humeur|to be in a good mood
-|être de mauvaise humeur|to be in a bad mood
-|fou / folle|crazy
-|franc / franche|frank
-|généreux / généreuse|generous
-|gentil / gentille|kind, nice
-|heureux / heureuse|happy
-|honnête|honest
-|hypocrite|hypocritical
-|idéaliste|idealistic
-|incapable|incapable, incompetent
-|indifférent / indifférente|indifferent
-|intelligent / intelligente|intelligent
-|intéressant / intéressante|interesting
-|malhonnête|dishonest
-|mignon / mignonne|cute
-|naïf / naïve|naive
-|nerveux / nerveuse|nervous
-|optimiste|optimistic
-|paresseux / paresseuse|lazy
-|patient / patiente|patient
-|pessimiste|pessimistic
-|prétentieux / prétentieuse|pretentious
-|réaliste|realistic
-|réservé / réservée|reserved
-|sensible|sensitive
-|sérieux / sérieuse|serious
-|sincère|sincere
-|sociable|sociable
-|sportif / sportive|athletic
-|têtu / têtue|stubborn
-|timide|shy, timid
-|tolérant / tolérante|tolerant
-|travailleur / travailleuse|hard-working
-|adjectifs qui précèdent le nom|adjectives preceding the noun
-|autre|other
-|beau / bel / belle|beautiful
-|bon / bonne|good
-|grand / grande|tall, big
-|gros / grosse|big, fat
-|jeune|young
-|joli / jolie|pretty
-|long / longue|long
-|mauvais / mauvaise|bad
-|nouveau / nouvel / nouvelle|new
-|petit / petite|little
-|vieux / vieil / vieille|old
-|verbes pronominaux|pronominal verbs
-|se réveiller|to wake up
-|se lever|to get up
-|se laver|to wash (oneself)
-|s'habiller|to dress (oneself)
-|se brosser les dents|to brush your teeth
-|se brosser les cheveux|to brush your hair
-|se maquiller|to put on make-up
-|se raser|to shave
-|se coucher|to go to bed
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|se promener|to take a walk
-|se reposer|to rest
-|se fâcher|to get angry
+lice|le visage|the face
+glava|la tête|head
+kosa|les cheveux (m)|hair
+čelo|le front|forehead
+obrve|les sourcils (m)|eyebrows
+oči|les yeux (m)|eyes
+nos|le nez|nose
+obrazi|les joues (f)|cheeks
+uši|les oreilles (f)|ears
+usta|la bouche|mouth
+zubi|les dents (f)|teeth
+brada|le menton|chin
+vrat|le cou|neck
+boje|les couleurs(f)|colors
+bijela / bijelo|blanc / blanche|white
+plava / plavo|bleu / bleue|blue
+siva / sivo|gris / grise|gray
+žuta / žuto|jaune|yellow
+braon|marron (invariable)|brown
+crna / crno|noir / noire|black
+narandžasta / narandžasto|orange (invariable)|orange
+crvena / crveno|rouge|red
+zelena / zeleno|vert / verte|green
+ljubičasta / ljubičasto|violet / violette|purple
+fizičke karakteristike|le portrait physique|physical description
+Koliko si visok?|Quelle est votre taille (f)?|What's your height?
+Metar i šezdeset.|Je fais 1 m. 60.|I'm one meter 60.
+srednje visine|de taille moyenne|of medium height
+Koliko si težak?|Combien pesez-vous?|How much do you weigh?
+Težak sam pedeset i pet kilograma.|Je fais 55 kilos.|I weigh 55 kilos.
+mršav|maigre|thin, skinny
+vitak|mince|thin, slender
+Koje je boje tvoja kosa?|De quelle couleur sont vos cheveux?|What color is your hair?
+Moja kosa je plava / smedj / svijetlo braon / kestenjasta / ridja.|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
+On je... Ona je...|Il est... Elle est...|He is... She is...
+plav. plava.|blond. blonde.|a blond.
+smedj. smedja.|brun. brune.|a brunette.
+ridj. ridja.|roux. rousse.|a red-head.
+Kako izgleda njegova kosa?|Comment est-il coiffé?|What is his hair like?
+On ima dugu / kratku / kovrdžavu / pravukosu kosu.|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
+Koje boje su tvoje oči?|De quelle couleur sont vos yeux?|What color are your eyes?
+Imam smedje oči.|J'ai les yeux marron.|I have brown eyes.
+Kakvog oblika je njegovo lice?|Quelle est la forme de son visage?|What's the shape of his face?
+On ima kvadratno / izduzeno / okruglo lice.|Il a le visage carré / long / rond.|He has a square / long / round face.
+On ima prćast / oštar nos.|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
+On ima velike uši.|Il a de grandes oreilles.|He has big ears.
+On/Ona ima...|Il/Elle a...|He/She has...
+naočale|des lunettes (f)|glasses
+ožiljak|une cicatrice|scar
+piersing|un piercing|body piercing
+tetovažu|un tatouage|tattoo
+psihičke karakteristike|le portrait moral (adjectifs)|psychological description
+aktivan / aktivna|actif / active|active
+prijatan / prijatna|agréable|pleasant
+ambiciozan / ambiciozna|ambitieux / ambitieuse|ambitious
+zabavan / zabavna|amusant / amusante|funny
+arogantan / arogantna|arrogant / arrogante|arrogant
+miran / mirna, smiren / smirena|calme|calm
+takmičarski duh|compétitif / compétitive|competitive
+kreativan / kreativna|créatif / créative|creative
+radoznao / radoznala|curieux / curieuse|curious
+dovitljiv / dovitljiva, snalažljiv / snalažljiva, promućuran / promućurna|débrouillard / débrouillarde|resourceful
+neprijatan / neprijatna|désagréable|unpleasant
+smiješan / smiješna, duhovit / duhovita|drôle|funny
+egoist / egoista|égoïste|selfish
+dosadan / dosadna|ennuyeux / ennuyeuse|boring
+entuzijast / entuzijasta|enthousiaste|enthusiastic
+biti dobro raspoložen|être de bonne humeur|to be in a good mood
+biti loše raspoložen, biti neraspoložen|être de mauvaise humeur|to be in a bad mood
+lud / luda, budala|fou / folle|crazy
+iskren|franc / franche|frank
+velikodušan / velikodušna, darežljiv / darežljiva, čovječan / čovječna, plemenit / plemenita|généreux / généreuse|generous
+ljubazan / ljubazna|gentil / gentille|kind, nice
+srećan / srećna, sretan / sretna|heureux / heureuse|happy
+pošten / poštena, čestit / čestita, pravedan / pravedna|honnête|honest
+hipokritičan / hipokritična|hypocrite|hypocritical
+idealist / idealista|idéaliste|idealistic
+nesposoban / nesposobna|incapable|incapable, incompetent
+indiferentan / indiferentna, ravnodušan / ravnodušna|indifférent / indifférente|indifferent
+inteligentan / inteligentna|intelligent / intelligente|intelligent
+interesantan / interesantna|intéressant / intéressante|interesting
+nepošten / nepoštena|malhonnête|dishonest
+sladak / slatka|mignon / mignonne|cute
+naivan / naivna|naïf / naïve|naive
+nervozan / nervozna|nerveux / nerveuse|nervous
+optimist / optimista|optimiste|optimistic
+lijen / lijena|paresseux / paresseuse|lazy
+strpljiv / strpljiva|patient / patiente|patient
+pesimista|pessimiste|pessimistic
+uobražen / uobražena, izvještačen / izvještačena, pretenciozan / pretenciozna|prétentieux / prétentieuse|pretentious
+realan / realna|réaliste|realistic
+rezervisan / rezervisana, uzdržan / uzdržana|réservé / réservée|reserved
+osjetljiv / osjetljiva|sensible|sensitive
+ozbiljan / ozbiljna|sérieux / sérieuse|serious
+iskren / iskrena|sincère|sincere
+društven / društvena|sociable|sociable
+sportski, sportista|sportif / sportive|athletic
+tvrdoglav / tvrdoglava, jogunast / jogunasta|têtu / têtue|stubborn
+stidan / stidna, sramežljiv / sramežljiva|timide|shy, timid
+tolerantan / tolerantna, trpeljiv / trpeljiva|tolérant / tolérante|tolerant
+vrijedan / vrijedna, marljiv / marljiva|travailleur / travailleuse|hard-working
+pridjevi koji prethode imenici|adjectifs qui précèdent le nom|adjectives preceding the noun
+drugi / druga|autre|other
+lijep / lijepa, divan / divna|beau / bel / belle|beautiful
+dobar / dobra|bon / bonne|good
+visok / visoka, velik / velika|grand / grande|tall, big
+krupan / krupna, debeo / debela|gros / grosse|big, fat
+mlad / mlada|jeune|young
+lijep / lijepa|joli / jolie|pretty
+dug / duga|long / longue|long
+loš / loša|mauvais / mauvaise|bad
+nov / nova|nouveau / nouvel / nouvelle|new
+mali / mala|petit / petite|little
+star / stara|vieux / vieil / vieille|old
+povratni glagoli|verbes pronominaux|pronominal verbs
+probuditi se|se réveiller|to wake up
+ustati se|se lever|to get up
+prati se|se laver|to wash (oneself)
+obući se|s'habiller|to dress (oneself)
+oprati zube|se brosser les dents|to brush your teeth
+počešljati se|se brosser les cheveux|to brush your hair
+našminkati se|se maquiller|to put on make-up
+obrijati se|se raser|to shave
+ići na spavanje|se coucher|to go to bed
+zabavljati se|s'amuser|to have fun
+dosadjivati se|s'ennuyer|to be bored
+požuriti se|se dépêcher|to hurry
+šetati se|se promener|to take a walk
+odmarati se|se reposer|to rest
+ljutiti se|se fâcher|to get angry

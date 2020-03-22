@@ -1,104 +1,104 @@
-|à la maison|at home
-|une maison|house
-|un appartement|apartment
-|une résidence universitaire|university dorm
-|une pièce|a room (general term)
-|une fenêtre|window
-|un meuble / des meubles|a piece of furniture / furniture
-|le rez-de-chaussée|ground floor, first floor
-|un escalier|staircase, stairs
-|un balcon|balcony
-|une terrasse|terrace
-|un jardin|garden, yard
-|les pièces|rooms
-|une entrée|entranceway
-|un hall d'entrée|foyer
-|un séjour / un living / un salon / une salle de séjour|living room
-|une salle à manger|dining room
-|une cuisine|kitchen
-|un couloir|hallway
-|une chambre|bedroom
-|une salle de bains|bathroom
-|des toilettes (f pl) / des W.C. (m pl)|toilet
-|une buanderie|laundry room
-|un grenier|attic
-|une cave|cellar, wine cellar
-|un garage|garage
-|dans la chambre il y a...|In the bedroom there is/are...
-|un lit|bed
-|une table de nuit|nightstand
-|une armoire|armoire
-|une commode|chest of drawers
-|un bureau|desk
-|une étagère|bookcase
-|une lampe|lamp
-|un placard|closet
-|de la moquette|carpet (wall to wall)
-|un lecteur DVD / MP3|DVD / MP3 player
-|un ordinateur|computer
-|un téléphone|telephone
-|dans la salle de bains il y a ...|in the bathroom there is/are ...
-|une baignoire|bathtub
-|une douche|shower
-|un lavabo|sink
-|un miroir|mirror
-|dans la salle de séjour il y a ...|in the living room there is/are ...
-|un canapé / un sofa|couch
-|un fauteuil|armchair
-|une table basse|coffee table
-|une télévision|television
-|un tableau / des tableaux|painting / paintings
-|un tapis|area rug or carpet
-|dans la salle à manger il y a ...|in the dining room there is/are ...
-|une table|table
-|une chaise|chair
-|un buffet|hutch, buffet
-|dans la cuisine il y a ...|in the kitchen there is/are ...
-|un réfrigérateur / un frigo|refrigerator / fridge
-|un congélateur|freezer
-|une cuisinière|stove
-|un four|oven
-|un four à micro-ondes|microwave
-|un lave-vaisselle|dishwasher
-|un évier|sink
-|un placard|cabinet
-|une poubelle|trash can
-|dans la buanderie il y a ...|in the laundry room there is/are ...
-|un lave-linge|washing machine
-|un sèche-linge|dryer
-|les tâches domestiques|household chores
-|faire des achats|to go shopping
-|faire le marché|to do the grocery shopping
-|faire des courses (f pl)|to do errands
-|faire le ménage|to do housework
-|faire la cuisine|to cook
-|faire la vaisselle|to do the dishes
-|ranger|to straighten up
-|faire le lit|to make the bed
-|passer l'aspirateur (m)|to pass the vacuum cleaner
-|faire la lessive|to do laundry
-|repasser|to iron
-|bricoler|to make home repairs or improvements
-|adjectifs|adjectives
-|ancien(ne)|old
-|moderne|modern
-|sombre|dark
-|clair(e)|bright, full of light
-|en désordre|messy
-|en ordre|straightened up
-|propre|clean
-|sale|dirty
-|pratique|practical
-|confortable|comfortable
-|verbes|verbs
-|déménager|to move (change residences)
-|verbes réfléchis|reflexive verbs
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|s'inquiéter|to worry
-|se fâcher|to get angry
-|verbes réciproques|reciprocal verbs
-|se disputer|to argue (with one another)
-|s'entendre|to get along (with one another)
-|se parler|to talk to (one another)
+kod kuće|à la maison|at home
+kuća|une maison|house
+apartman|un appartement|apartment
+studentski dom|une résidence universitaire|university dorm
+soba|une pièce|a room (general term)
+prozor|une fenêtre|window
+namještaj|un meuble / des meubles|a piece of furniture / furniture
+prizemlje|le rez-de-chaussée|ground floor, first floor
+stepenice|un escalier|staircase, stairs
+balkon|un balcon|balcony
+terasa|une terrasse|terrace
+bašta / vrt / dvorište|un jardin|garden, yard
+sobe|les pièces|rooms
+ulaz / hodnik|une entrée|entranceway
+ulaz / predvorje / foaje|un hall d'entrée|foyer
+dnevni boravak|un séjour / un living / un salon / une salle de séjour|living room
+trpezarija|une salle à manger|dining room
+kuhinja|une cuisine|kitchen
+prolaz / ulaz / hol|un couloir|hallway
+spavaća soba|une chambre|bedroom
+kupatilo|une salle de bains|bathroom
+toalet / WC|des toilettes (f pl) / des W.C. (m pl)|toilet
+perionica|une buanderie|laundry room
+tavan|un grenier|attic
+vinski podrum|une cave|cellar, wine cellar
+garaža|un garage|garage
+U spavaćoj sobi se nalazi...|dans la chambre il y a...|In the bedroom there is/are...
+krevet|un lit|bed
+sobni ormarić|une table de nuit|nightstand
+orman|une armoire|armoire
+komoda|une commode|chest of drawers
+pisaći sto / radni sto|un bureau|desk
+polica za knjige|une étagère|bookcase
+lampa|une lampe|lamp
+plakar|un placard|closet
+tepih|de la moquette|carpet (wall to wall)
+DVD / MP3|un lecteur DVD / MP3|DVD / MP3 player
+kompjuter, računar|un ordinateur|computer
+telefon|un téléphone|telephone
+U kupatilu se nalaze ...|dans la salle de bains il y a ...|in the bathroom there is/are ...
+kada|une baignoire|bathtub
+tuš|une douche|shower
+umivaonik|un lavabo|sink
+ogledalo|un miroir|mirror
+U dnevnom boravku se nalaze ...|dans la salle de séjour il y a ...|in the living room there is/are ...
+sofa / kauč|un canapé / un sofa|couch
+fotelja|un fauteuil|armchair
+mali sto / niski sto / sto za kafu|une table basse|coffee table
+televizor|une télévision|television
+slike|un tableau / des tableaux|painting / paintings
+tepih|un tapis|area rug or carpet
+U trpezariji se nalaze ...|dans la salle à manger il y a ...|in the dining room there is/are ...
+sto|une table|table
+stolica|une chaise|chair
+kredenac|un buffet|hutch, buffet
+U kuhinji se nalaze ...|dans la cuisine il y a ...|in the kitchen there is/are ...
+frižider|un réfrigérateur / un frigo|refrigerator / fridge
+zamrzivač|un congélateur|freezer
+peć|une cuisinière|stove
+rerna / pećnica|un four|oven
+mikrovalna rerna / mikrovalna pećnica|un four à micro-ondes|microwave
+mašina za pranje posudja|un lave-vaisselle|dishwasher
+sudoper|un évier|sink
+plakar|un placard|cabinet
+kanta za smeće|une poubelle|trash can
+U perionici se nalaze ...|dans la buanderie il y a ...|in the laundry room there is/are ...
+mašina za pranje veša|un lave-linge|washing machine
+mašina za sušenje veša|un sèche-linge|dryer
+kućni poslovi|les tâches domestiques|household chores
+ići u kupovinu|faire des achats|to go shopping
+ići u nabavku hrane|faire le marché|to do the grocery shopping
+ići u kupovinu|faire des courses (f pl)|to do errands
+raditi kućne poslove|faire le ménage|to do housework
+kuvati|faire la cuisine|to cook
+prati posudje|faire la vaisselle|to do the dishes
+pospremati|ranger|to straighten up
+namještati krevet|faire le lit|to make the bed
+čistiti kuću usisivačem|passer l'aspirateur (m)|to pass the vacuum cleaner
+prati veš|faire la lessive|to do laundry
+peglati|repasser|to iron
+vršiti kućne popravke|bricoler|to make home repairs or improvements
+pridjevi|adjectifs|adjectives
+star|ancien(ne)|old
+savremen / moderan|moderne|modern
+taman / mračan|sombre|dark
+svijetao|clair(e)|bright, full of light
+neuredno|en désordre|messy
+uredan|en ordre|straightened up
+čist|propre|clean
+prljav|sale|dirty
+praktičan|pratique|practical
+udoban|confortable|comfortable
+glagoli|verbes|verbs
+seliti / preseliti|déménager|to move (change residences)
+povratni glagoli|verbes réfléchis|reflexive verbs
+zabavljati se / uživati|s'amuser|to have fun
+dosadjivati se|s'ennuyer|to be bored
+žuriti se|se dépêcher|to hurry
+brinuti se|s'inquiéter|to worry
+ljutiti se|se fâcher|to get angry
+povratni glagoli|verbes réciproques|reciprocal verbs
+raspravljati se|se disputer|to argue (with one another)
+družiti se|s'entendre|to get along (with one another)
+razgovarati se|se parler|to talk to (one another)

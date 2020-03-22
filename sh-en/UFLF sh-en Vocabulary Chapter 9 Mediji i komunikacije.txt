@@ -1,106 +1,106 @@
-televizija, bioskop|la télévision, le cinéma|television, cinema
-TV|la télé|TV
-daljinski upravljač|la télécommande|remote control
-kanal|une chaîne|channel
-tv program|un programme|television schedule
-sapunica|un feuilleton|series / soap opera
-tv serija|une série|series
-tv šou|une émission|show
-crtani film|un dessin animé|cartoon
-dokumentarni film|un documentaire|documentary
-varijete šou|une émission de variétés|variety show
-tv igre|un jeu télévisé|game show
-rijaliti šou|la télé-réalité|reality television
-dnevnik, vijesti, aktuelne emisije|un magazine d'actualités (à la télévision)|news show
-vijesti / informativna emisija|les informations (f pl) / les infos (f pl) / le journal|news
-aktuelnosti|l'actualité (f)|current events
-metereološki izvještaj|la météo|weather report
-reporter / novinar|un reporter / un journaliste|reporter / journalist
-intervju|une interview|interview
-reklame, reklamni program|une publicité / une pub|commercial
-koncert|un concert|concert
-film|un film|movie
-ljubavni film / romantični film|un film d'amour|romantic movie
-naučno-fantastični film|un film de science-fiction|science-fiction movie
-film strave i užasa / horor film|un film d'horreur|horror movie
-akcioni film|un film d'action / un film d'aventures|action film / adventure film
-detektivski film|un film policier|detective/police movie
-drama|un drame|drama
-komedija|une comédie|comedy (movie, play)
-muzički film / mjuzikl|un (film) musical|musical
-muzička komedija|une comédie musicale|musical comedy
-kaubojski film|un western|western
-orginalna verzija / francuska verzija|en VO / en VF|original version / French version
-sa prevodom / bez prevoda|avec / sans sous-titres|with / without subtitles
-glumac / glumica|un acteur / une actrice|actor / actress
-slavan|une célébrité|celebrity
-zvijezda|une star / une vedette|star (refers to men or women)
-(tv, filmska, radio...) zvijezda|une personnalité (de la télévision, du cinéma, de la radio...)|celebrity
-negativac|le méchant|the bad guy
-štampa|la presse|the press
-kiosk|un kiosque (à journaux)|news stand
-žurnal (nacionalni, regionalni)|un journal (national, régional)|newspaper (national, regional)
-komični strip|une bande-dessinée|comic strip
-oglas|une petite annonce|classified ad
-magazin|un magazine|magazine
-knjiga|un livre|book
-roman|un roman|novel
-radio|la radio|the radio
-radio stanica|une station|radio station
-pjesma|une chanson|song
-pjevač / pjevačica|un chanteur / une chanteuse|singer
-grupa / bend|un groupe|a band
-internet|l'internet|the internet
-računar / kompjuter|un ordinateur|computer
-laptop|un portable|laptop
-veb|le web|the web
-vebsait|un site|website
-početna stranica|une page d'accueil|homepage
-forum|un forum|bulletin board, newsgroup
-pretraživač|un moteur de recherche|search engine
-lozinka|un mot de passe|password
-imejl|un email / un courriel|e-mail
-onlajn / na vezi|en ligne|online
-link / veza|un lien|link
-telefon|le téléphone|the telephone
-mobilni telefon|un (téléphone) portable|cell phone
-snimljena poruka|un répondeur / une boîte vocale|voicemail
-pismena poruka|un texto|text message
-na telefonu|au téléphone|on the phone
-Halo...|Allô...|Hello...
-Gdje si / šta radiš?|T'es où?|Where are you at / what are you doing?
-Mogu li razgovarati sa...|Est-ce que je peux parler à...|May I speak to...
-Želio / željela bih neke informacije.|Je voudrais un renseignement.|I would like some information.
-Jedan momenat molim Vas.|Un instant s'il vous plaît.|Please hold. / One moment please.
-Ostanite na liniji.|Ne quittez pas.|Stay on the line.
-Spojiću Vas sa njim / njom.|Je vous le / la passe.|I'm putting you through to him / her. / I'm connecting you to him / her.
-Koji su brojevi Vašeg telefona?|Quel est votre numéro de téléphone?|What is your phone number?
-Želite li da ostavite poruku?|Est-ce que vous voulez laisser un message?|Do you want to leave a message?
-Možete li ponovo nazvati u tri posle podne?|Pouvez-vous rappeler à 15h?|Could you call back at 3 p.m.?
-Ko zove?|Qui est à l'appareil?|Who's on the phone?
-pridjevi|adjectifs|adjectives
-slavni / čuveni|célèbre|famous
-zabavan / komičan|amusant(e) / comique / marrant(e) / drôle|funny
-prevedeno na strani jezik|doublé(e)|dubbed
-zastrašujući|effrayant(e)|frightening
-dosadan|ennuyeux / ennuyeuse|boring
-strani|étranger / étrangère|foreign
-besplatan|gratuit(e)|free
-optimističan|optimiste|optimistic / hopeful
-pesimističan|pessimiste|pessimistic
-realan|réaliste|realistic
-satiričan|satirique|satirical
-tragičan|tragique|tragic
-tužan|triste|sad
-agresivan|violent(e)|violent
-glagoli|verbes|verbs
-pretraživati (veb)|surfer / aller (sur internet)|to surf (the web)
-kliknuti|cliquer|to click
-učivati, pohraniti podatke|télécharger|to download
-opisati|décrire|to describe
-reći|dire|to say
-pisati|écrire|to write
-trajati|durer|to last
-čitati|lire|to read
-pokazati|montrer|to show
-provesti (vrijeme)|passer (du temps)|to spend (time)
+televizija, bioskop|television, cinema
+TV|TV
+daljinski upravljač|remote control
+kanal|channel
+tv program|television schedule
+sapunica|series / soap opera
+tv serija|series
+tv šou|show
+crtani film|cartoon
+dokumentarni film|documentary
+varijete šou|variety show
+tv igre|game show
+rijaliti šou|reality television
+dnevnik, vijesti, aktuelne emisije|news show
+vijesti / informativna emisija|news
+aktuelnosti|current events
+metereološki izvještaj|weather report
+reporter / novinar|reporter / journalist
+intervju|interview
+reklame, reklamni program|commercial
+koncert|concert
+film|movie
+ljubavni film / romantični film|romantic movie
+naučno-fantastični film|science-fiction movie
+film strave i užasa / horor film|horror movie
+akcioni film|action film / adventure film
+detektivski film|detective/police movie
+drama|drama
+komedija|comedy (movie, play)
+muzički film / mjuzikl|musical
+muzička komedija|musical comedy
+kaubojski film|western
+orginalna verzija / francuska verzija|original version / French version
+sa prevodom / bez prevoda|with / without subtitles
+glumac / glumica|actor / actress
+slavan|celebrity
+zvijezda|star (refers to men or women)
+(tv, filmska, radio...) zvijezda|celebrity
+negativac|the bad guy
+štampa|the press
+kiosk|news stand
+žurnal (nacionalni, regionalni)|newspaper (national, regional)
+komični strip|comic strip
+oglas|classified ad
+magazin|magazine
+knjiga|book
+roman|novel
+radio|the radio
+radio stanica|radio station
+pjesma|song
+pjevač / pjevačica|singer
+grupa / bend|a band
+internet|the internet
+računar / kompjuter|computer
+laptop|laptop
+veb|the web
+vebsait|website
+početna stranica|homepage
+forum|bulletin board, newsgroup
+pretraživač|search engine
+lozinka|password
+imejl|e-mail
+onlajn / na vezi|online
+link / veza|link
+telefon|the telephone
+mobilni telefon|cell phone
+snimljena poruka|voicemail
+pismena poruka|text message
+na telefonu|on the phone
+Halo...|Hello...
+Gdje si / šta radiš?|Where are you at / what are you doing?
+Mogu li razgovarati sa...|May I speak to...
+Želio / željela bih neke informacije.|I would like some information.
+Jedan momenat molim Vas.|Please hold. / One moment please.
+Ostanite na liniji.|Stay on the line.
+Spojiću Vas sa njim / njom.|I'm putting you through to him / her. / I'm connecting you to him / her.
+Koji su brojevi Vašeg telefona?|What is your phone number?
+Želite li da ostavite poruku?|Do you want to leave a message?
+Možete li ponovo nazvati u tri posle podne?|Could you call back at 3 p.m.?
+Ko zove?|Who's on the phone?
+pridjevi|adjectives
+slavni / čuveni|famous
+zabavan / komičan|funny
+prevedeno na strani jezik|dubbed
+zastrašujući|frightening
+dosadan|boring
+strani|foreign
+besplatan|free
+optimističan|optimistic / hopeful
+pesimističan|pessimistic
+realan|realistic
+satiričan|satirical
+tragičan|tragic
+tužan|sad
+agresivan|violent
+glagoli|verbs
+pretraživati (veb)|to surf (the web)
+kliknuti|to click
+učivati, pohraniti podatke|to download
+opisati|to describe
+reći|to say
+pisati|to write
+trajati|to last
+čitati|to read
+pokazati|to show
+provesti (vrijeme)|to spend (time)

@@ -1,74 +1,74 @@
-praznici|les fêtes|holidays
-nacionalni prazanici|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
-Nova godina *|le Jour de l'An, le premier janvier *|New Year's Day
-Sretenje Gospodnje|la Chandeleur, le 2 février|Candlemas
-Sveti Valentin, Dan zaljubljenih|la Saint-Valentin, le 14 février|Valentine's Day
-karneval / poklade|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
-Pesah|La pâque juive / Pessach|Passover
-Vaskrs *|Pâques *|Easter
-Aprilili / Prvi april|le premier avril|April Fool's Day
-Praznik rada / 1. Maj *|la fête du Travail, le 1er mai *|Labor Day
-Dan pobjede *|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
-Spasovdan *|l'Ascension (f) *|Ascension Day
-Dan majki|la fête des mères|Mother's Day
-Dan očeva|la fête des pères|Father's Day
-Trojčin dan / Duhovi|la Pentecôte|Pentecost
-Dan Bastilje, nacioalni dan Francuske 14 juli *|la fête nationale, le 14 juillet *|Bastille Day, French National Day
-Velika Gospojina / Bogorodičino voznesenje *|le 15 août, l'Assomption (f) *|the feast of the Assumption
-veče uoči Svih svetih, 31. oktobar|Halloween|Halloween
-Jom Kipur|Yom Kippour|Yom Kippur
-Roš Hašana|Rosh Hashana|Rosh Hashana
-Svi sveti *|la Toussaint, le 1er novembre *|All Saints' Day
-Dan primirja, 11. novembar *|l'Armistice (m), le 11 novembre *|Armistice Day
-Ramazan|le Ramadan|Ramadan
-Hanuka|Hanouka|Hannukah
-Božić *|Noël (m), le 25 décembre *|Christmas
-Sveti Silvester|la Saint-Sylvestre, le 31 décembre|New Year's Eve
-izrazi|expressions|expressions
-Srećna Nova godina!|Bonne Année!|Happy New Year!
-Srećan Dan svetaca!|Bonne fête!|Happy Saint's Day!
-Srećan rodjendan!|Bon (Joyeux) anniversaire!|Happy Birthday!
-Sve najbolje!|Meilleurs Voeux!|Best wishes!
-Prvoaprilska budala!|Poisson d'avril!|April Fool!
-Sretan Vaskrs!|Joyeuses Pâques!|Happy Easter!
-Sretan Božić!|Joyeux Noël!|Merry Christmas!
-obredi i običaji|rites et coutumes|rituals and customs
-Večera prije Nove godine ili Božića|le réveillon|Christmas Eve or New Year's Eve party
-vatrometi|des feux d'artifice (m)|fireworks
-(vojna) parada|un défilé (militaire)|(military) parade
-svečanost, slavlje|une fête|saint's day, celebration, party
-rodjendan, godišnica|un anniversaire|birthday, anniversary
-kolač|un gâteau|cake
-svijeća|une bougie|candle
-poklon|un cadeau|gift
-vjenčanje|les noces (f pl)|wedding
-godišnjica braka|un anniversaire de mariage|wedding anniversary
-svečanost, ceremonija|une cérémonie|ceremony
-šampanjac|le champagne|champagne
-djurdjevak|le muguet|lily of the valley
-šale|des blagues (f)|jokes
-kostimi|des costumes (m)|costumes
-palačinke|des crêpes (f)|crepes
-vikend, piknik|un pique-nique|picnic
-čokoladna rolada|la bûche de Noël|Yule log (also a cake in the shape of a Yule log)
-čestitka|une carte de voeux|greeting card
-imela, Božićno drvo|le gui|mistletoe
-Deda Mraz|le Père Noël|Santa Claus
-Novogodišnja / Božićna jelka|le sapin de Noël|Christmas tree
-obdanište / Hristovo rodjenje|la crèche|nativity
-bogosluženje / služba|la messe|mass
-šabat|le sabbat / le shabbat|sabbath
-glagoli|verbes|verbs
-slaviti|célébrer|to celebrate
-slaviti|faire la fête|to party
-slaviti|fêter|to celebrate
-slaviti veče prije Božica ili Nove godine|réveillonner|to celebrate Christmas Eve or New Year's Eve
-pozvati|inviter|to invite
-ponuditi|offrir|to give
-dati|donner|to give
-primiti|recevoir|to receive
-otvoriti|ouvrir|to open
-ugasiti (svijeće)|souffler|to blow out (candles)
-šaliti se|plaisanter|to joke
-zbijati šalu (sa nekim)|faire un poisson d'avril|to play a joke (on someone)
-spojiti praznike|faire le pont|literally 'to make a bridge'
+praznici|holidays
+nacionalni prazanici|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
+Nova godina *|New Year's Day
+Sretenje Gospodnje|Candlemas
+Sveti Valentin, Dan zaljubljenih|Valentine's Day
+karneval / poklade|Mardi Gras, Carnival
+Pesah|Passover
+Vaskrs *|Easter
+Aprilili / Prvi april|April Fool's Day
+Praznik rada / 1. Maj *|Labor Day
+Dan pobjede *|VE Day (Victory in Europe)
+Spasovdan *|Ascension Day
+Dan majki|Mother's Day
+Dan očeva|Father's Day
+Trojčin dan / Duhovi|Pentecost
+Dan Bastilje, nacioalni dan Francuske 14 juli *|Bastille Day, French National Day
+Velika Gospojina / Bogorodičino voznesenje *|the feast of the Assumption
+veče uoči Svih svetih, 31. oktobar|Halloween
+Jom Kipur|Yom Kippur
+Roš Hašana|Rosh Hashana
+Svi sveti *|All Saints' Day
+Dan primirja, 11. novembar *|Armistice Day
+Ramazan|Ramadan
+Hanuka|Hannukah
+Božić *|Christmas
+Sveti Silvester|New Year's Eve
+izrazi|expressions
+Srećna Nova godina!|Happy New Year!
+Srećan Dan svetaca!|Happy Saint's Day!
+Srećan rodjendan!|Happy Birthday!
+Sve najbolje!|Best wishes!
+Prvoaprilska budala!|April Fool!
+Sretan Vaskrs!|Happy Easter!
+Sretan Božić!|Merry Christmas!
+obredi i običaji|rituals and customs
+Večera prije Nove godine ili Božića|Christmas Eve or New Year's Eve party
+vatrometi|fireworks
+(vojna) parada|(military) parade
+svečanost, slavlje|saint's day, celebration, party
+rodjendan, godišnica|birthday, anniversary
+kolač|cake
+svijeća|candle
+poklon|gift
+vjenčanje|wedding
+godišnjica braka|wedding anniversary
+svečanost, ceremonija|ceremony
+šampanjac|champagne
+djurdjevak|lily of the valley
+šale|jokes
+kostimi|costumes
+palačinke|crepes
+vikend, piknik|picnic
+čokoladna rolada|Yule log (also a cake in the shape of a Yule log)
+čestitka|greeting card
+imela, Božićno drvo|mistletoe
+Deda Mraz|Santa Claus
+Novogodišnja / Božićna jelka|Christmas tree
+obdanište / Hristovo rodjenje|nativity
+bogosluženje / služba|mass
+šabat|sabbath
+glagoli|verbs
+slaviti|to celebrate
+slaviti|to party
+slaviti|to celebrate
+slaviti veče prije Božica ili Nove godine|to celebrate Christmas Eve or New Year's Eve
+pozvati|to invite
+ponuditi|to give
+dati|to give
+primiti|to receive
+otvoriti|to open
+ugasiti (svijeće)|to blow out (candles)
+šaliti se|to joke
+zbijati šalu (sa nekim)|to play a joke (on someone)
+spojiti praznike|literally 'to make a bridge'

@@ -1,154 +1,154 @@
-lična karta|fiche d'identité|identification form
-prezime|Nom (de famille)|last name
-ime|Prénom(s)|first (and middle) name(s)
-godište|Age|age
-nacionalnost|Nationalité|nationality
-mjesto boravka|Résidence actuelle|current address
-profesija|Profession|profession
-hobi|Passe-temps préférés|pastimes
-lični podatci|questions personnelles|personal questions
-Kako se zoveš? Kako se zovete?|Comment vous appelez-vous?|What is your name?
-Koliko imaš godina?|Quel âge avez-vous?|How old are you?
-Koje si nacionalnosti? Koje ste nacionalnosti?|Quelle est votre nationalité?|What is your nationality?
-Odakle si? Odakle ste?|Vous êtes d'où?|Where are you from?
-Gdje živiš? Gdje živite?|Où habitez-vous?|Where do you live?
-Šta radiš? Šta radite? Čime se baviš? Čime se bavite?|Que faites-vous dans la vie?|What do you do for a living?
-Koji je tvoj omiljeni hobi? Koji je vaš omiljeni hobi?|Quels sont vos passe-temps préférés?|What are your favorite pastimes?
-porodica|la famille|the family
-čovjek|un homme|man
-žena, supruga|une femme|woman, wife
-muž, suprug|un mari|husband
-vjerenica / vjerenik|un fiancé / une fiancée|fiancé / fiancée
-roditelji, rodjaci|des parents|parents, relatives
-otac|un père|father
-majka|une mère|mother
-dijete|un/une enfant|child
-sin|un fils|son
-kćerka|une fille|daughter
-jedinac|un fils unique|only child (male)
-jedinica|une fille unique|only child (female)
-brat|un frère|brother
-sestra|une soeur|sister
-dede i babe|des grands-parents (m)|grandparents
-deda|un grand-père|grandfather
-baba|une grand-mère|grandmother
-unuk, unuka|un petit-enfant|grandchild
-stric, ujak|un oncle|uncle
-strina, ujna, tetka|une tante|aunt
-nećak|un neveu|nephew
-nećakinja|une nièce|niece
-prijatelji|les amis|friends
-prijatelj / prijateljica|un ami / une amie|friend
-prijatelj, drug, prijateljica, drugarica|un/une camarade|friend
-momak / djevojka|un copain / une copine|friend; boyfriend / girlfriend
-upitne riječice|mots interrogatifs|interrogative words
-gdje?|où?|where?
-kada?|quand?|when?
-ko?|qui?|who?
-kako?|comment?|how?
-koji?|quel / quelle / quels / quelles|which?
-zašto?|pourquoi?|why?
-zato|parce que|because
-vrijeme|l'heure|time
-vrijeme|l'heure (f)|the time
-Koliko je sati?|Quelle heure est-il?|What time is it?
-Osam je sati. Osam sati.|Il est huit heures.|It's 8 o'clock.
-Osam i deset.|Il est huit heures dix.|It's ten after 8.
-Osam i petnaest.|Il est huit heures et quart.|It's quarter after 8.
-Osam i dvadeset i pet.|Il est huit heures vingt-cinq.|It's twenty-five after 8.
-Osam i trideset.|Il est huit heures et demie.|It's eight-thirty.
-Dvadeset do devet.|Il est neuf heures moins vingt.|It's twenty to nine.
-Petnaest do devet.|Il est neuf heures moins le quart.|It's quarter to nine.
-Podne je.|Il est midi.|It's noon.
-Dvanaest i trideset.|Il est midi et demi.|It's twelve-thirty.
-Ponoć je.|Il est minuit.|It's midnight.
-Tri sata...|Il est trois heures...|It's three o'clock...
-ujutro|du matin|in the morning (3 a.m.)
-poslije podne|de l'après-midi|in the afternoon (3 p.m.)
-Sedam sati...|Il est sept heures...|It's seven o'clock...
-uveče|du soir|in the evening (7 p.m.)
-zvanično vrijeme|l'heure officielle|official time
-Deset sati.|Il est 10h.|It's 10 a.m.
-Dvanaest i pet. Dvanaest nula pet.|Il est 12h05.|It's 12:05 p.m.
-Trinaest i petnaest.|Il est 13h15.|It's 1:15 p.m.
-Petnaest i trideset pet.|Il est 15h35.|It's 3:35 p.m.
-Osamnaest i četrdeset pet.|Il est 18h45.|It's 6:45 p.m.
-Dvadeset dva i pedeset devet.|Il est 22h59.|It's 10:59 p.m.
-hobiji i activnosti|passe-temps et activités|pastimes and activities
-imati|avoir|to have
-trebati|avoir besoin de...|to need
-željeti|avoir envie de...|to feel like (to want to)
-namjeravati|avoir l'intention de...|to intend (to)
-tražiti|chercher|to look for
-naći|trouver|to find
-(Ko traži, taj nadje!)|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
-zaljubiti se|tomber amoureux (de) /amoureuse (de)|to fall in love
-poljubiti|embrasser|to kiss
-slušati...|écouter...|to listen to...
-muziku|de la musique|music
-pjevati|chanter|to sing
-igrati|danser|to dance
-voljeti|aimer|to like, to love
-klasična muzika / džez|la musique classique / le jazz|classical music / jazz
-hip-hop / tekno|le hip-hop / la techno|hip-hop / techno
-sport / tenis / fudbal|le sport / le tennis / le football|sports / tennis / soccer
-košarka / golf / trčanje|le basket / le golf / le footing|basketball / golf / running
-više voljeti|préférer|to prefer
-obožavati|adorer|to adore
-mrziti|détester|to detest
-živjeti|habiter|to live
-ostati kod kuće|rester à la maison|to stay at home
-studirati|étudier|to study
-čitati|lire|to read
-zaboraviti|oublier|to forget
-gledati televiziju|regarder la télévision|to watch television
-telefonirati|téléphoner à|to telephone
-govoriti|parler|to speak
-igrati...|jouer...|to play...
-fudbal / tenis / karte|au foot / au tennis / aux cartes|soccer / tennis / cards
-gitaru / klavir|de la guitare / du piano|guitar / piano
-plivati|nager|to swim
-sresti|rencontrer|to meet
-sanjati|rêver|to dream
-raditi|travailler|to work
-putovati|voyager|to travel
-prilozi|adverbes|adverbs
-takodje|aussi|also
-sad|maintenant|now
-kasnije|plus tard|later
-mnogo|beaucoup|a lot
-malo|peu / un peu|little / a little
-rijetko|rarement|rarely
-ponekad, kadkad, tu i tamo|parfois|at times
-ponekad|quelquefois|sometimes
-često|souvent|often
-uvijek|toujours|always
-nikad, nikada|ne ... jamais|never
-kontinenti, zemlje, nacionalnosti|continents, pays, nationalités|continents, Countries, Nationalities
-kontinent|un continent|continent
-zemlja|un pays|country
-Afrika / afrikanac, afrikanka|l'Afrique (f) / africain (e)|Africa / African
-Alžir / alžirac, alžirka|l'Algérie (f) / algérien(ne)|Algeria / Algerian
-Maroko / marokanac, marokanka|le Maroc / marocain(e)|Morocco / Moroccan
-Senegal / senegalac, senegalka|le Sénégal / sénégalais(e)|Senegal / Senegalese
-Tunis / tunižanin, tunižka|la Tunisie / tunisien(ne)|Tunisia / Tunisian
-Sjeverna Amerika|l'Amérique du Nord|North America
-Kanada / kanadjanin, kanadjanka|le Canada / canadien(ne)|Canada / Canadian
-Sjedinjene Američke Države / amerikanac, amerikanka|les Etats-Unis / américain(e)|United States / American
-Meksiko / meksikanac, meksikanka|le Mexique / mexicain(e)|Mexico / Mexican
-Južna Amerika / južnoamerikanac, južnoamerikanka|l'Amérique du Sud|South American
-Francuska Gajana / gajanac, gajanka|la Guyane française / guyanais(e)|French Guyana / Guyanese
-Azija / azijac, azijka|l'Asie (f) / asiatique|Asia / Asian
-Kina / kinez, kineskinja|la Chine / chinois(e)|China / Chinese
-Japan / japanac, japanka|le Japon / japonais(e)|Japan / Japanese
-Vijetnam / vijetnamac, vijetnamka|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
-Okeanija|l'Océanie|Oceania (the South Sea Islands)
-Australija / australijanac, australijanka|l'Australie (f) / australien(ne)|Australia / Australian
-Evropa / evropljanin, evropljanka|l'Europe (f) / européen(ne)|Europe / European
-Njemačka / nijemac, nijemica|l'Allemagne (f) / allemand(e)|Germany / German
-Engleska / englez, engleskinja|l'Angleterre (f) / anglais(e)|England / English
-Belgija / belgijanac, belgijanka|la Belgique / belge|Belgium / Belgian
-Španija / španac, španjolka|l'Espagne (f) / espagnol(e)|Spain / Spanish
-Francuska / francuz, francuskinja|la France / français(e)|France / French
-Italija / italijan, italijanka|l'Italie (f) / italien(ne)|Italy / Italian
-Švajcarska / švajcarac, švajcarkinja|la Suisse / suisse|Switzerland / Swiss
+lična karta|identification form
+prezime|last name
+ime|first (and middle) name(s)
+godište|age
+nacionalnost|nationality
+mjesto boravka|current address
+profesija|profession
+hobi|pastimes
+lični podatci|personal questions
+Kako se zoveš? Kako se zovete?|What is your name?
+Koliko imaš godina?|How old are you?
+Koje si nacionalnosti? Koje ste nacionalnosti?|What is your nationality?
+Odakle si? Odakle ste?|Where are you from?
+Gdje živiš? Gdje živite?|Where do you live?
+Šta radiš? Šta radite? Čime se baviš? Čime se bavite?|What do you do for a living?
+Koji je tvoj omiljeni hobi? Koji je vaš omiljeni hobi?|What are your favorite pastimes?
+porodica|the family
+čovjek|man
+žena, supruga|woman, wife
+muž, suprug|husband
+vjerenica / vjerenik|fiancé / fiancée
+roditelji, rodjaci|parents, relatives
+otac|father
+majka|mother
+dijete|child
+sin|son
+kćerka|daughter
+jedinac|only child (male)
+jedinica|only child (female)
+brat|brother
+sestra|sister
+dede i babe|grandparents
+deda|grandfather
+baba|grandmother
+unuk, unuka|grandchild
+stric, ujak|uncle
+strina, ujna, tetka|aunt
+nećak|nephew
+nećakinja|niece
+prijatelji|friends
+prijatelj / prijateljica|friend
+prijatelj, drug, prijateljica, drugarica|friend
+momak / djevojka|friend; boyfriend / girlfriend
+upitne riječice|interrogative words
+gdje?|where?
+kada?|when?
+ko?|who?
+kako?|how?
+koji?|which?
+zašto?|why?
+zato|because
+vrijeme|time
+vrijeme|the time
+Koliko je sati?|What time is it?
+Osam je sati. Osam sati.|It's 8 o'clock.
+Osam i deset.|It's ten after 8.
+Osam i petnaest.|It's quarter after 8.
+Osam i dvadeset i pet.|It's twenty-five after 8.
+Osam i trideset.|It's eight-thirty.
+Dvadeset do devet.|It's twenty to nine.
+Petnaest do devet.|It's quarter to nine.
+Podne je.|It's noon.
+Dvanaest i trideset.|It's twelve-thirty.
+Ponoć je.|It's midnight.
+Tri sata...|It's three o'clock...
+ujutro|in the morning (3 a.m.)
+poslije podne|in the afternoon (3 p.m.)
+Sedam sati...|It's seven o'clock...
+uveče|in the evening (7 p.m.)
+zvanično vrijeme|official time
+Deset sati.|It's 10 a.m.
+Dvanaest i pet. Dvanaest nula pet.|It's 12:05 p.m.
+Trinaest i petnaest.|It's 1:15 p.m.
+Petnaest i trideset pet.|It's 3:35 p.m.
+Osamnaest i četrdeset pet.|It's 6:45 p.m.
+Dvadeset dva i pedeset devet.|It's 10:59 p.m.
+hobiji i activnosti|pastimes and activities
+imati|to have
+trebati|to need
+željeti|to feel like (to want to)
+namjeravati|to intend (to)
+tražiti|to look for
+naći|to find
+(Ko traži, taj nadje!)|(Who looks for (searches), finds!)
+zaljubiti se|to fall in love
+poljubiti|to kiss
+slušati...|to listen to...
+muziku|music
+pjevati|to sing
+igrati|to dance
+voljeti|to like, to love
+klasična muzika / džez|classical music / jazz
+hip-hop / tekno|hip-hop / techno
+sport / tenis / fudbal|sports / tennis / soccer
+košarka / golf / trčanje|basketball / golf / running
+više voljeti|to prefer
+obožavati|to adore
+mrziti|to detest
+živjeti|to live
+ostati kod kuće|to stay at home
+studirati|to study
+čitati|to read
+zaboraviti|to forget
+gledati televiziju|to watch television
+telefonirati|to telephone
+govoriti|to speak
+igrati...|to play...
+fudbal / tenis / karte|soccer / tennis / cards
+gitaru / klavir|guitar / piano
+plivati|to swim
+sresti|to meet
+sanjati|to dream
+raditi|to work
+putovati|to travel
+prilozi|adverbs
+takodje|also
+sad|now
+kasnije|later
+mnogo|a lot
+malo|little / a little
+rijetko|rarely
+ponekad, kadkad, tu i tamo|at times
+ponekad|sometimes
+često|often
+uvijek|always
+nikad, nikada|never
+kontinenti, zemlje, nacionalnosti|continents, Countries, Nationalities
+kontinent|continent
+zemlja|country
+Afrika / afrikanac, afrikanka|Africa / African
+Alžir / alžirac, alžirka|Algeria / Algerian
+Maroko / marokanac, marokanka|Morocco / Moroccan
+Senegal / senegalac, senegalka|Senegal / Senegalese
+Tunis / tunižanin, tunižka|Tunisia / Tunisian
+Sjeverna Amerika|North America
+Kanada / kanadjanin, kanadjanka|Canada / Canadian
+Sjedinjene Američke Države / amerikanac, amerikanka|United States / American
+Meksiko / meksikanac, meksikanka|Mexico / Mexican
+Južna Amerika / južnoamerikanac, južnoamerikanka|South American
+Francuska Gajana / gajanac, gajanka|French Guyana / Guyanese
+Azija / azijac, azijka|Asia / Asian
+Kina / kinez, kineskinja|China / Chinese
+Japan / japanac, japanka|Japan / Japanese
+Vijetnam / vijetnamac, vijetnamka|Vietnam / Vietnamese
+Okeanija|Oceania (the South Sea Islands)
+Australija / australijanac, australijanka|Australia / Australian
+Evropa / evropljanin, evropljanka|Europe / European
+Njemačka / nijemac, nijemica|Germany / German
+Engleska / englez, engleskinja|England / English
+Belgija / belgijanac, belgijanka|Belgium / Belgian
+Španija / španac, španjolka|Spain / Spanish
+Francuska / francuz, francuskinja|France / French
+Italija / italijan, italijanka|Italy / Italian
+Švajcarska / švajcarac, švajcarkinja|Switzerland / Swiss

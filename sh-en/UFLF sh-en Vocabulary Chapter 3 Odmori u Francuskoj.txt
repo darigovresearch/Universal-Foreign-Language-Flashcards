@@ -1,150 +1,150 @@
-vrijeme|le temps|weather
-Kakvo je vrijeme?|Quel temps fait-il?|What's the weather?
-Lijepo je vrijme.|Il fait beau.|It's nice.
-Vruće.|Il fait chaud.|It's hot.
-Sunčano.|Il fait du soleil. / Il y a du soleil.|It's sunny.
-Svježe je.|Il fait frais.|It's cool.
-Loše je vrijeme.|Il fait mauvais.|It's bad.
-Hladno je.|Il fait froid.|It's cold.
-Maglovito je.|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
-Vjetrovito je.|Il fait du vent. / Il y a du vent.|It's windy.
-Oblačno.|Il y a des nuages.|It's cloudy.
-Olujno.|Il y a des orages.|There are storms.
-Kišovito je.|Il pleut.|It's raining.
-Pada snijeg.|Il neige.|It's snowing.
-godišnja doba|les saisons|seasons
-proljeće / na proljeće, u proljeće |le printemps / au printemps|spring / in the spring
-ljeto / na ljeto, u ljeto|l'été (m) / en été|summer / in the summer
-jesen / na jesen, u jesen|l'automne (m) / en automne|fall / in the fall
-zima / na zimu, u zimu|l'hiver (m) / en hiver|winter / in the winter
-geografija|la géographie|geography
-unutrašnjost|la campagne|countryside
-grad|la ville|town, city
-provincija, oblast, pokrajina|une province|province
-regija, oblast, kraj|une région|region
-jezero|un lac|lake
-velika rijeka (koja se uliva u more)|un fleuve|major river (that flows to the sea)
-Loara|la Loire|the Loire (river)
-Žirona|la Garonne|the Garonne (river)
-Rona|le Rhône|the Rhône (river)
-Sena|la Seine|the Seine (river)
-more|la mer|sea
-Mediteransko more|la mer Méditerranée|the Mediterranean Sea
-okean|l'océan (m)|ocean
-Atlantik, Atlantski okean|l'océan Atlantique|the Atlantic Ocean
-La Manš|la Manche|the English Channel
-plaža|la plage|beach
-šuma|une forêt|forest
-planina|la montagne|mountain
-Alpe|les Alpes (f)|the Alps
-Jura (planine)|le Jura|the Jura (mountains)
-Pirineji|les Pyrénées (f)|the Pyrenees
-Centralni masiv|le Massif Central|the Massif Central
-Vouž|les Vosges (f)|the Vosges
-strane svijeta na kompasu / busoli|les points cardinaux|points of the compass
-na sjeveru|dans le nord / au nord|in the north
-na jugu|dans le sud / au sud|in the south
-na istoku|dans l'est / à l'est|in the east
-na zapadu|dans l'ouest / à l'ouest|in the west
-u centru|au centre|in the center
-na obali|sur la côte|on the coast
-Kontinentalna Francuska|L'Hexagone|France
-Alzas|l'Alsace (f)|Alsace
-Burgonja, Burgundija|la Bourgogne|Burgundy
-Bretanja|la Bretagne|Brittany
-Azurna obala|la Côte d'Azur|the Riviera
-Korzika|la Corse|Corsica
-Ile-de-France, pokrajina u Francuskoj|l'Ile de France (f)|Ile de France
-(Pariski region)|(la région parisienne)|(Parisian region)
-Lorena|la Lorraine|Lorraine
-Normandija|la Normandie|Normandy
-Provansa|la Provence|Provence
-Dolina Loare|la Vallée de la Loire|the Loire Valley
-aktivnosti|les activités|activities
-ići|aller|to go
-ići u bioskop|aller au cinéma|to go to the movies
-ići u klub|aller en boîte|to go clubbing
-ići na koncert|aller au concert|to go to a concert
-ići na univerzitet|aller à l'université|to go to the university
-ići u park|aller au parc|to go to the park
-voziti biciklo|faire de la bicyclette|to go bicycle riding
-voziti se brodom|faire du bateau|to go boating
-surfovati|faire de la planche à voile|to go windsurfing
-planinariti|faire des randonnées|to go hiking
-ići na skijanja|faire du ski|to go skiing
-voziti se biciklom|faire du vélo|to go cycling
-ići na jedrenje|faire de la voile|to go sailing
-ići u šetnju, šetati se|faire une promenade|to take a walk
-ići na odmor|passer les vacances (f pl)|spend a vacation
-posjetiti, obići...|visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
-katedrala|une cathédrale|a cathedral
-dvorac, zamak|un château|a castle
-izložba|une exposition|an exhibition, show
-spomenik|un monument|a monument
-muzej|un musée|a museum
-prevozna sredstva|les transports|means of transport
-Kako putujete?|Comment voyagez-vous?|How do you travel?
-Putujem...|Je voyage...|I travel...
-avionom / avion|en avion / un avion|by plane / plane
-brodom / brod|en bateau / un bateau|by boat / boat
-vozom / voz|en train / un train|by train / train
-turističkim autobusom / turističkim autobus|en car / un car|by tour bus (from city to city) / tour bus
-kolima / kola|en voiture / une voiture|by car / car
-Kako idete ... (na univerzitet, kod roditelja, na posao, itd.)?|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
-Idem...|Je vais...|I go...
-metroom / metro|en métro / le métro|by subway / subway
-autobusom / autobus|en bus / un bus|by bus / bus
-taksijem / taksi|en taxi / un taxi|by taxi / taxi
-motociklom / motocikl|à moto / une moto|by motorcycle / motorcycle
-biciklom / bicikl|à vélo / un vélo|by bicycle / bicycle
-pješke|à pied|on foot
-glagoli|verbes|verbs
-kupiti|acheter|to buy
-dovesti (nekoga)|amener|to bring somebody (along)
-promijeniti|changer|to change
-spavati|dormir|to sleep
-odvesti, povesti|emmener|to take somebody (along)
-nadati se|espérer|to hope
-pokušati, pokušavati, probati|essayer|to try
-jesti|manger|to eat
-plivati|nager|to swim
-dijeliti, podijeliti, razdijeliti|partager|to share
-odlaziti|partir|to leave
-izaći vani, izlaziti vani|sortir|to go out
-prosti brojevi 70-100|les nombres cardinaux 70-100|Cardinal Numbers 70-100
-sedamdeset|soixante-dix|70
-sedamdeset jedan|soixante et onze|71
-sedamdeset dva|soixante-douze|72
-sedamdeset tri|soixante-treize|73
-sedamdeset četiri|soixante-quatorze|74
-sedamdeset pet|soixante-quinze|75
-sedamdeset šest|soixante-seize|76
-sedamdeset sedam|soixante-dix-sept|77
-sedamdeset osam|soixante-dix-huit|78
-sedamdeset devet|soixante-dix-neuf|79
-osamdeset|quatre-vingts|80
-osamdeset jedan|quatre-vingt-un|81
-osamdeset dva|quatre-vingt-deux|82
-osamdeset tri|quatre-vingt-trois|83
-osamdeset četiri|quatre-vingt-quatre|84
-osamdeset pet|quatre-vingt-cinq|85
-osamdeset šest|quatre-vingt-six|86
-osamdeset sedam|quatre-vingt-sept|87
-osamdeset osam|quatre-vingt-huit|88
-osamdeset devet|quatre-vingt-neuf|89
-devedeset|quatre-vingt-dix|90
-devedeset jedan|quatre-vingt-onze|91
-devedeset dva|quatre-vingt-douze|92
-devedeset tri|quatre-vingt-treize|93
-devedeset četiri|quatre-vingt-quatorze|94
-devedeset pet|quatre-vingt-quinze|95
-devedeset šest|quatre-vingt-seize|96
-devedeset sedam|quatre-vingt-dix-sept|97
-devedeset osam|quatre-vingt-dix-huit|98
-devedeset devet|quatre-vingt-dix-neuf|99
-sto, stotinu|cent|100
-sto dva|cent deux|102
-dvije stotine|deux cents|200
-hiljada|mille|1.000
-dvije hiljade|deux mille|2.000
-milion|un million|1.000.000
+vrijeme|weather
+Kakvo je vrijeme?|What's the weather?
+Lijepo je vrijme.|It's nice.
+Vruće.|It's hot.
+Sunčano.|It's sunny.
+Svježe je.|It's cool.
+Loše je vrijeme.|It's bad.
+Hladno je.|It's cold.
+Maglovito je.|It's foggy.
+Vjetrovito je.|It's windy.
+Oblačno.|It's cloudy.
+Olujno.|There are storms.
+Kišovito je.|It's raining.
+Pada snijeg.|It's snowing.
+godišnja doba|seasons
+proljeće / na proljeće, u proljeće |spring / in the spring
+ljeto / na ljeto, u ljeto|summer / in the summer
+jesen / na jesen, u jesen|fall / in the fall
+zima / na zimu, u zimu|winter / in the winter
+geografija|geography
+unutrašnjost|countryside
+grad|town, city
+provincija, oblast, pokrajina|province
+regija, oblast, kraj|region
+jezero|lake
+velika rijeka (koja se uliva u more)|major river (that flows to the sea)
+Loara|the Loire (river)
+Žirona|the Garonne (river)
+Rona|the Rhône (river)
+Sena|the Seine (river)
+more|sea
+Mediteransko more|the Mediterranean Sea
+okean|ocean
+Atlantik, Atlantski okean|the Atlantic Ocean
+La Manš|the English Channel
+plaža|beach
+šuma|forest
+planina|mountain
+Alpe|the Alps
+Jura (planine)|the Jura (mountains)
+Pirineji|the Pyrenees
+Centralni masiv|the Massif Central
+Vouž|the Vosges
+strane svijeta na kompasu / busoli|points of the compass
+na sjeveru|in the north
+na jugu|in the south
+na istoku|in the east
+na zapadu|in the west
+u centru|in the center
+na obali|on the coast
+Kontinentalna Francuska|France
+Alzas|Alsace
+Burgonja, Burgundija|Burgundy
+Bretanja|Brittany
+Azurna obala|the Riviera
+Korzika|Corsica
+Ile-de-France, pokrajina u Francuskoj|Ile de France
+(Pariski region)|(Parisian region)
+Lorena|Lorraine
+Normandija|Normandy
+Provansa|Provence
+Dolina Loare|the Loire Valley
+aktivnosti|activities
+ići|to go
+ići u bioskop|to go to the movies
+ići u klub|to go clubbing
+ići na koncert|to go to a concert
+ići na univerzitet|to go to the university
+ići u park|to go to the park
+voziti biciklo|to go bicycle riding
+voziti se brodom|to go boating
+surfovati|to go windsurfing
+planinariti|to go hiking
+ići na skijanja|to go skiing
+voziti se biciklom|to go cycling
+ići na jedrenje|to go sailing
+ići u šetnju, šetati se|to take a walk
+ići na odmor|spend a vacation
+posjetiti, obići...|to visit... (a place, not a person)
+katedrala|a cathedral
+dvorac, zamak|a castle
+izložba|an exhibition, show
+spomenik|a monument
+muzej|a museum
+prevozna sredstva|means of transport
+Kako putujete?|How do you travel?
+Putujem...|I travel...
+avionom / avion|by plane / plane
+brodom / brod|by boat / boat
+vozom / voz|by train / train
+turističkim autobusom / turističkim autobus|by tour bus (from city to city) / tour bus
+kolima / kola|by car / car
+Kako idete ... (na univerzitet, kod roditelja, na posao, itd.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+Idem...|I go...
+metroom / metro|by subway / subway
+autobusom / autobus|by bus / bus
+taksijem / taksi|by taxi / taxi
+motociklom / motocikl|by motorcycle / motorcycle
+biciklom / bicikl|by bicycle / bicycle
+pješke|on foot
+glagoli|verbs
+kupiti|to buy
+dovesti (nekoga)|to bring somebody (along)
+promijeniti|to change
+spavati|to sleep
+odvesti, povesti|to take somebody (along)
+nadati se|to hope
+pokušati, pokušavati, probati|to try
+jesti|to eat
+plivati|to swim
+dijeliti, podijeliti, razdijeliti|to share
+odlaziti|to leave
+izaći vani, izlaziti vani|to go out
+prosti brojevi 70-100|Cardinal Numbers 70-100
+sedamdeset|70
+sedamdeset jedan|71
+sedamdeset dva|72
+sedamdeset tri|73
+sedamdeset četiri|74
+sedamdeset pet|75
+sedamdeset šest|76
+sedamdeset sedam|77
+sedamdeset osam|78
+sedamdeset devet|79
+osamdeset|80
+osamdeset jedan|81
+osamdeset dva|82
+osamdeset tri|83
+osamdeset četiri|84
+osamdeset pet|85
+osamdeset šest|86
+osamdeset sedam|87
+osamdeset osam|88
+osamdeset devet|89
+devedeset|90
+devedeset jedan|91
+devedeset dva|92
+devedeset tri|93
+devedeset četiri|94
+devedeset pet|95
+devedeset šest|96
+devedeset sedam|97
+devedeset osam|98
+devedeset devet|99
+sto, stotinu|100
+sto dva|102
+dvije stotine|200
+hiljada|1.000
+dvije hiljade|2.000
+milion|1.000.000

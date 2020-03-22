@@ -1,148 +1,148 @@
-grad|la ville|the city
-trg|une place|public square
-ulica|une rue|street
-bulevar|un boulevard|boulevard
-avenija|une avenue|avenue
-kvart / četvrt|un quartier|neighborhood
-opština|l'arrondissement (m)|administrative district in a large city (e.g. Paris)
-centar grada|le centre-ville|downtown
-predgradje / periferija|la banlieue|suburbs
-zgrada|un bâtiment|building
-kancelarija|un bureau|office
-stambena zgrada|un immeuble|apartment building
-kuća|une maison|house
-hotel|un hôtel|hotel
-butik|une boutique|boutique
-prodavnica (muzička, video, itd.)|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
-šoping centar|un centre commercial|shopping center, mall
-samoposluga / supermarket|un supermarché|supermarket
-kafe|un café|café
-restoran|un restaurant|restaurant
-muzej|un musée|museum
-kino / bioskop|un cinéma|movie theater
-noćni klub / disko klub|une boîte de nuit / une discothèque|a nightclub, dance club
-pozorište|un théâtre|theater
-stadion|un stade|stadium
-parkiralište / parking|un parking|parking lot
-park|un parc|park
-gradski park|un jardin public|park, large garden
-rijeka|un fleuve|river
-most|un pont|bridge
-banka|une banque|bank
-pošta|un bureau de poste|post office
-poštansko sanduče|une boîte aux lettres|mailbox
-telefonska govornica|une cabine téléphonique|phone booth
-hemijska čistionica|une laverie|launderette
-gradska vijećnica|l'hôtel de ville (m), la mairie|city hall, mayor's office
-turist biro|l'office du tourisme (m)|chamber of commerce
-bolnica|un hôpital|hospital
-aerodrum|un aéroport|airport
-željeznička stanica|une gare|train station
-osnovna škola|une école (6 ans à 11 ans)|school
-srednja škola|un collège (11 ans à 15 ans)|junior high, middle school
-licej|un lycée (15 ans à 18 ans)|high school
-univerzitet|une université|university
-biblioteka|une bibliothèque|library
-crkva|une église|church
-katedrala|une cathédrale|cathedral
-džamija|une mosquée|mosque
-sinagoga|une synagogue|synagogue
-templ|un temple|temple
-mali biznis|les petits commerces|small businesses
-bakalnica|une épicerie|grocery store
-mesnica|une boucherie|butcher shop
-prodavnica suhomesnatih proizvoda|une charcuterie|pork butchers shop, deli
-ugostitelj|un traiteur|deli, catering shop
-pekara|une boulangerie|bakery
-poslastičarnica / slastičarna|une pâtisserie|pastry shop
-trafika / kiosk|un bureau de tabac|tobacco shop
-knjižara|une librairie|bookstore
-knjižara / papirnica|une papeterie|paper/stationery store
-apoteka|une pharmacie|pharmacy
-orijentisati se|s'orienter|getting your bearings
-Gdje je... ?|Où se trouve... ?|Where is... ?
-(Gdje je pošta?)|(Où se trouve la poste?)|(Where is the post office?)
-pored|à côté (de)|beside, next to
-samo jedan korak od|à deux pas (de)|just a step from
-na desno|à droite (de)|on the right
-na lijevo|à gauche (de)|on the left
-na kraju|au bout (de)|at the far end of
-na raskrsnici|au carrefour (de)|at the intersection of
-u centru|au centre|in the center
-na uglu|au coin (de)|at the corner of
-kod (nekoga)|chez|at someones house
-pored|derrière|behind
-ispred|devant|in front of
-preko puta, na suprotnoj strani|en face (de)|facing, opposite
-u gradu|en ville|in the city
-daleko|loin (de)|far
-blizu|près (de)|near, close
-ispod|sous|under
-na|sur|on
-na vašoj desnoj/lijevoj strani|sur votre droite/gauche|on your right/left
-pravo|tout droit|straight ahead
-u blizini / obližnji|tout près|nearby
-radni brojevi|les nombres ordinaux|ordinal numbers
-prvi|premier, première|first
-drugi|deuxième|second
-treći|troisième|third
-četvrti|quatrième|fourth
-peti|cinquième|fifth
-česti|sixième|sixth
-sedmi|septième|seventh
-osmi|huitième|eighth
-deveti|neuvième|ninth
-deseti|dixième|tenth
-jedanaesti|onzième|eleventh
-dvanaesti|douzième|twelfth
-trinaesti|treizième|thirteenth
-četrnaesti|quatorzième|fourteenth
-petnaesti|quinzième|fifteenth
-šesnaesti|seizième|sixteenth
-sedamnaesti|dix-septième|seventeenth
-osamnaesti|dix-huitième|eighteenth
-devetnaesti|dix-neuvième|nineteenth
-dvadeseti|vingtième|twentieth
-glagoli koji koriste être za pravljenje prošlog vremena|verbes qui prennent être au passé composé|verbs which use être in the compound past
-ići|aller|to go
-izaći|sortir|to go out
-otići  / poći  / otputovati|partir|to leave
-ići kući|rentrer|to go home, to go back
-vratiti se|retourner|to return
-doći|arriver|to arrive
-ući|entrer|to enter
-ostati|rester|to stay
-ići gore / penjati se / ići uz stepenice|monter|to go up, to go upstairs, to climb
-silaziti|descendre|to go down, to go downstairs
-pasti|tomber|to fall
-proći pored|passer|to pass, to go by (intransitive)
-roditi se|naître|to be born
-umrijeti|mourir|to die
-ostali glagoli|autres verbes|other verbs
-ići okolo (po gradu)|se déplacer (en ville)|to get around (town)
-uzeti metro, taksi, itd.|prendre le métro, un taxi, etc.|to take the metro, a taxi, etc.
-ići pješice / pješke|aller à pied|to go on foot
-hodati|marcher|to walk
-okrenuti se|tourner|to turn
-preći|traverser|to cross
-nastaviti|continuer|to continue
-pitati (za)|demander|to ask (for)
-biti pronadjen|se trouver|to be found, to be located
-čekati|attendre|to wait for
-čuti|entendre|to hear
-izgubiti|perdre|to lose
-vratiti|rendre|to hand in, give back
-posjetiti nekoga|rendre visite à quelqu'un|to visit someone
-odgovoriti|répondre|to answer
-prodavati|vendre|to sell
-past participl nepravilnih glagola|participes passés irréguliers|irregular past participles
-imati: imao sam ...|avoir: j'ai eu ...|to have: I had ...
-piti: pio sam ...|boire: j'ai bu ...|to drink: I drank ...
-biti: bio sam ...|être: j'ai été ...|to be: I was ...
-vjerovati: vjerovao sam ...|croire: j'ai cru ...|to believe: I believed ...
-raditi: radio sam ...|faire: j'ai fait ...|to do: I did ...
-vidjeti: vidio sam ...|voir: j'ai vu ...|to see: I saw ...
-uzeti: uzeo sam ...|prendre: j'ai pris ...|to take: I took ...
-umrijeti: on / ona je umrla ...|mourir: il est mort / elle est mort(e) ...|to die: he/she died ...
-staviti: stavio sam ...|mettre: j'ai mis ...|to put: I put ...
-roditi se: on / ona se rodila ...|naître: il est né / elle est né(e) ...|to be born: he/she was born ...
+grad|the city
+trg|public square
+ulica|street
+bulevar|boulevard
+avenija|avenue
+kvart / četvrt|neighborhood
+opština|administrative district in a large city (e.g. Paris)
+centar grada|downtown
+predgradje / periferija|suburbs
+zgrada|building
+kancelarija|office
+stambena zgrada|apartment building
+kuća|house
+hotel|hotel
+butik|boutique
+prodavnica (muzička, video, itd.)|store (music, video, etc.)
+šoping centar|shopping center, mall
+samoposluga / supermarket|supermarket
+kafe|café
+restoran|restaurant
+muzej|museum
+kino / bioskop|movie theater
+noćni klub / disko klub|a nightclub, dance club
+pozorište|theater
+stadion|stadium
+parkiralište / parking|parking lot
+park|park
+gradski park|park, large garden
+rijeka|river
+most|bridge
+banka|bank
+pošta|post office
+poštansko sanduče|mailbox
+telefonska govornica|phone booth
+hemijska čistionica|launderette
+gradska vijećnica|city hall, mayor's office
+turist biro|chamber of commerce
+bolnica|hospital
+aerodrum|airport
+željeznička stanica|train station
+osnovna škola|school
+srednja škola|junior high, middle school
+licej|high school
+univerzitet|university
+biblioteka|library
+crkva|church
+katedrala|cathedral
+džamija|mosque
+sinagoga|synagogue
+templ|temple
+mali biznis|small businesses
+bakalnica|grocery store
+mesnica|butcher shop
+prodavnica suhomesnatih proizvoda|pork butchers shop, deli
+ugostitelj|deli, catering shop
+pekara|bakery
+poslastičarnica / slastičarna|pastry shop
+trafika / kiosk|tobacco shop
+knjižara|bookstore
+knjižara / papirnica|paper/stationery store
+apoteka|pharmacy
+orijentisati se|getting your bearings
+Gdje je... ?|Where is... ?
+(Gdje je pošta?)|(Where is the post office?)
+pored|beside, next to
+samo jedan korak od|just a step from
+na desno|on the right
+na lijevo|on the left
+na kraju|at the far end of
+na raskrsnici|at the intersection of
+u centru|in the center
+na uglu|at the corner of
+kod (nekoga)|at someones house
+pored|behind
+ispred|in front of
+preko puta, na suprotnoj strani|facing, opposite
+u gradu|in the city
+daleko|far
+blizu|near, close
+ispod|under
+na|on
+na vašoj desnoj/lijevoj strani|on your right/left
+pravo|straight ahead
+u blizini / obližnji|nearby
+radni brojevi|ordinal numbers
+prvi|first
+drugi|second
+treći|third
+četvrti|fourth
+peti|fifth
+česti|sixth
+sedmi|seventh
+osmi|eighth
+deveti|ninth
+deseti|tenth
+jedanaesti|eleventh
+dvanaesti|twelfth
+trinaesti|thirteenth
+četrnaesti|fourteenth
+petnaesti|fifteenth
+šesnaesti|sixteenth
+sedamnaesti|seventeenth
+osamnaesti|eighteenth
+devetnaesti|nineteenth
+dvadeseti|twentieth
+glagoli koji koriste être za pravljenje prošlog vremena|verbs which use être in the compound past
+ići|to go
+izaći|to go out
+otići  / poći  / otputovati|to leave
+ići kući|to go home, to go back
+vratiti se|to return
+doći|to arrive
+ući|to enter
+ostati|to stay
+ići gore / penjati se / ići uz stepenice|to go up, to go upstairs, to climb
+silaziti|to go down, to go downstairs
+pasti|to fall
+proći pored|to pass, to go by (intransitive)
+roditi se|to be born
+umrijeti|to die
+ostali glagoli|other verbs
+ići okolo (po gradu)|to get around (town)
+uzeti metro, taksi, itd.|to take the metro, a taxi, etc.
+ići pješice / pješke|to go on foot
+hodati|to walk
+okrenuti se|to turn
+preći|to cross
+nastaviti|to continue
+pitati (za)|to ask (for)
+biti pronadjen|to be found, to be located
+čekati|to wait for
+čuti|to hear
+izgubiti|to lose
+vratiti|to hand in, give back
+posjetiti nekoga|to visit someone
+odgovoriti|to answer
+prodavati|to sell
+past participl nepravilnih glagola|irregular past participles
+imati: imao sam ...|to have: I had ...
+piti: pio sam ...|to drink: I drank ...
+biti: bio sam ...|to be: I was ...
+vjerovati: vjerovao sam ...|to believe: I believed ...
+raditi: radio sam ...|to do: I did ...
+vidjeti: vidio sam ...|to see: I saw ...
+uzeti: uzeo sam ...|to take: I took ...
+umrijeti: on / ona je umrla ...|to die: he/she died ...
+staviti: stavio sam ...|to put: I put ...
+roditi se: on / ona se rodila ...|to be born: he/she was born ...

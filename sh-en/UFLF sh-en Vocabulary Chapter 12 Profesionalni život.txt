@@ -1,86 +1,86 @@
-poslovni svijet / zaposleni|le monde du travail|the working world
-biznis / posao|les affaires (f pl)|business
-firma, preduzeće|une entreprise / une boîte [slang]|firm, business
-kancelarija|un bureau|office
-klijent, kupac|un client / une cliente|client, customer
-profesija|un métier|profession
-posao|un emploi / un travail / un job / un boulot [slang]|job
-nepuno radno vrijeme / puno radno vrijeme|un poste à mi-temps/à plein temps|half-time/full-time position
-nezaposleni|un chômeur / une chômeuse|unemployed person
-tržište rada|le marché du travail|job market
-oglasi|les petites annonces (f pl)|classified ads
-CV / kratka biografija|un curriculum vitae (un CV)|résumé
-intervju|un entretien|interview
-pogodnosti (zdravstveno osiguranje, penzioni plan itd.)|les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
-plata|un salaire|salary
-godišnji odmori|les congés|vacation days
-unapredjenje|une promotion|promotion
-penzionisanje|la retraite|retirement
-penzioner|un retraité / une retraitée|retired person
-profesija|les métiers|professions
-državni činovnik|un/une fonctionnaire|civil servant, government worker
-poštar|un facteur|mail carrier
-vojno lice|un militaire|person in the armed services
-policajac|un policier|police officer
-vatrogasac|un pompier|firefighter
-učitelj / nastavnik|un enseignant / une enseignante|teacher
-socijalni radnik|une assistante sociale|social worker
-ljekar, doktor|un médecin|doctor, physician
-stomatolog / zubar|un/une dentiste|dentist
-medicinska sestra|un infirmier / une infirmière|nurse
-kiropraktičar, fizioterapeut|un kinésithérapeute / un kiné|chiropractor, physical therapist
-psiholog|un/une psychologue|psychologist
-optičar|un opticien / une opticienne|optician
-farmaceut|un pharmacien / une pharmacienne|pharmacist
-pravnik|un avocat / une avocate|lawyer
-bankar|un banquier / une banquière|banker
-vlasnik firme|un chef d'entreprise|company head, business owner
-šef|un patron / une patronne|boss
-generalni direktor|un P.D.G. (Président Directeur Général)|CEO
-izvršni direktor|un cadre|executive
-knjigovodja|un/une comptable|accountant
-reklamni agent|un publicitaire|advertising agent
-sekretar / sekretarica|un/une secrétaire|secretary
-zaposleni (činovnik)|un employé / une employée (de bureau)|employee (office employee)
-radnik|un ouvrier / une ouvrière|blue collar worker
-fabrika / tvornica|une usine|factory
-informatičar|un informaticien / une informaticienne|computer scientist
-inženjer|un ingénieur|engineer
-istraživač|un chercheur|researcher
-tehničar|un technicien / une technicienne|technician
-vlasniki|un/une propriétaire|owner
-vlasnik prodavnice|un commerçant / une commerçante|shopkeeper, store owner
-prodavač|un vendeur / une vendeuse|salesperson
-blagajnik|un caissier / une caissière|cashier
-vlasnik restorana|un restaurateur|restaurant owner
-kuvar|un cuisinier / une cuisinière|cook
-kelner / kelnerica|un serveur / une serveuse|wait person
-pekar|un boulanger / une boulangère|a baker
-modni dizajner, krojačica|un couturier / une couturière|fashion designer, seamstress
-frizer|un coiffeur / une coiffeuse|hairdresser
-kritičar (filmski, likovnih umjetnosti, itd.)|un critique (de films, d'art, etc.)|critic (film, art, etc.)
-pisac|un écrivain|writer
-novinar|un journaliste|reporter, journalist
-slikar|un peintre / une peintre|painter
-muzičar|un musicien / une musicienne|musician
-turistički agent|un voyagiste / un agent de voyage|travel agent
-domaćica|une femme au foyer|housewife
-pridjevi|adjectifs|adjectives
-teško|dur(e) / difficile|hard, tough, difficult
-dinamično|dynamique|dynamic
-iskreno|honnête|honest
-fascinantno|passionnant(e)|enthralling, fascinating
-korisno|utile|useful
-beskorisno|inutile|useless
-polovno|d'occasion (une voiture d'occasion)|second-hand, used
-glagoli|verbes|verbs
-tražiti posao|chercher une situation|to look for a job
-konkurisati / prijaviti se za posao|faire une demande d'emploi|to apply for a job
-dogovoriti sastanak|prendre un rendez-vous|to make an appointment
-ispuniti formular|remplir un formulaire|to fill out a form
-biti izabran za posao|embaucher / être embauché(e)|to hire / to be hired
-upravljati, rukovoditi, organizovati|gérer|to manage, direct, organize
-zarađivati za život / zaraditi novac|gagner sa vie / gagner de l'argent|to earn a living / to earn money
-platiti porez|payer des impôts|to pay taxes
-biti nezaposlen|être au chômage|to be unemployed
-biti penzioner|être à la retraite|to be retired
+poslovni svijet / zaposleni|the working world
+biznis / posao|business
+firma, preduzeće|firm, business
+kancelarija|office
+klijent, kupac|client, customer
+profesija|profession
+posao|job
+nepuno radno vrijeme / puno radno vrijeme|half-time/full-time position
+nezaposleni|unemployed person
+tržište rada|job market
+oglasi|classified ads
+CV / kratka biografija|résumé
+intervju|interview
+pogodnosti (zdravstveno osiguranje, penzioni plan itd.)|benefits (health insurance, retirement plan, etc.)
+plata|salary
+godišnji odmori|vacation days
+unapredjenje|promotion
+penzionisanje|retirement
+penzioner|retired person
+profesija|professions
+državni činovnik|civil servant, government worker
+poštar|mail carrier
+vojno lice|person in the armed services
+policajac|police officer
+vatrogasac|firefighter
+učitelj / nastavnik|teacher
+socijalni radnik|social worker
+ljekar, doktor|doctor, physician
+stomatolog / zubar|dentist
+medicinska sestra|nurse
+kiropraktičar, fizioterapeut|chiropractor, physical therapist
+psiholog|psychologist
+optičar|optician
+farmaceut|pharmacist
+pravnik|lawyer
+bankar|banker
+vlasnik firme|company head, business owner
+šef|boss
+generalni direktor|CEO
+izvršni direktor|executive
+knjigovodja|accountant
+reklamni agent|advertising agent
+sekretar / sekretarica|secretary
+zaposleni (činovnik)|employee (office employee)
+radnik|blue collar worker
+fabrika / tvornica|factory
+informatičar|computer scientist
+inženjer|engineer
+istraživač|researcher
+tehničar|technician
+vlasniki|owner
+vlasnik prodavnice|shopkeeper, store owner
+prodavač|salesperson
+blagajnik|cashier
+vlasnik restorana|restaurant owner
+kuvar|cook
+kelner / kelnerica|wait person
+pekar|a baker
+modni dizajner, krojačica|fashion designer, seamstress
+frizer|hairdresser
+kritičar (filmski, likovnih umjetnosti, itd.)|critic (film, art, etc.)
+pisac|writer
+novinar|reporter, journalist
+slikar|painter
+muzičar|musician
+turistički agent|travel agent
+domaćica|housewife
+pridjevi|adjectives
+teško|hard, tough, difficult
+dinamično|dynamic
+iskreno|honest
+fascinantno|enthralling, fascinating
+korisno|useful
+beskorisno|useless
+polovno|second-hand, used
+glagoli|verbs
+tražiti posao|to look for a job
+konkurisati / prijaviti se za posao|to apply for a job
+dogovoriti sastanak|to make an appointment
+ispuniti formular|to fill out a form
+biti izabran za posao|to hire / to be hired
+upravljati, rukovoditi, organizovati|to manage, direct, organize
+zarađivati za život / zaraditi novac|to earn a living / to earn money
+platiti porez|to pay taxes
+biti nezaposlen|to be unemployed
+biti penzioner|to be retired

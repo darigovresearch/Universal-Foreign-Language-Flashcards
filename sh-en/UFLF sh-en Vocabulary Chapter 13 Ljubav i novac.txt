@@ -1,94 +1,94 @@
-finansije|les finances|finances
-banka|une banque|bank
-štedionica|une caisse d'épargne|savings and loan association
-račun (u banci)|un compte (bancaire)|(bank) account
-bankomat|un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
-evro|l'euro|euro (currency)
-naslijedstovo|un héritage|inheritance
-troškovi|les dépenses|expenses
-računi / fakture|les factures (f pl)|bills
-smještaj|le logement|housing
-zakup / stanarina / renta / kirija|le loyer|rent
-ishrana / hrana / snabdjevanje|l'alimentation|food
-zabava / razonoda|le divertissement / les loisirs|entertainment
-račun za telefon|la facture de téléphone|telephone bill
-troškovi školovanja|les frais (m) de scolarité|tuition, education expenses
-studentski kredit|l'emprunt-étudiant|student loan
-osiguranje|l'assurance|insurance
-gas|l'essence (f)|gas
-komunalije / režijski troškovi|les charges|utilities
-porezi|les impôts (m pl)|taxes
-dugovi|les dettes (f pl)|debts
-berza|la bourse|the stock market
-akcije / dionice|des actions (f pl)|stocks
-novčanik|un portefeuille|portfolio (also, wallet)
-pridjevi|adjectifs|adjectives
-velikodušan / darežljiv / plemenit|généreux / généreuse|generous
-rasipati novac|dépensier / dépensière|spendthrift
-škrtica, cicija|radin / radine [slang]|miserly, stingy
-štedljiv|économe|economical, frugal
-jeftin|bon marché / pas cher|inexpensive
-biti na rasprodaji|être en solde|to be on sale
-povoljna / dobra cijena|un prix intéressant|a good price
-skupo|cher / chère|expensive
-biti bez novca|être fauché(e) [slang]|to be broke
-imati dovoljno novca za ugodan život|être aisé(e)|to be well off
-zadovoljan|satisfait(e)|satisfied, fulfilled
-glagoli - finansije|verbes - les finances|verbs - finances
-koštati|coûter|to cost
-trošiti|dépenser|to spend
-otplatiti|rembourser|to reimburse
-posuditi|emprunter|borrow
-imati sredstva / novca za|avoir les moyens de|to have the means to
-iznajmiti|louer|to rent
-napraviti proračun budžeta|faire un budget|to establish a budget
-preko proračuna budžeta|dépasser son budget|to go beyond one's budget
-imati dugove / biti u dugu|avoir des dettes|to have debts
-rasipati|gaspiller|to waste
-štediti novac|faire des économies|to save money
-ponuditi|offrir|to give, to offer
-ljubavni život|les amours|love life
-par|un couple|couple
-ljubav na prvi pogled|le coup de foudre|love at first sight
-strasna ljubav|l'amour passion (m)|passionate love
-ljubav nečijeg života|le grand amour|the love of one's life
-sastanak|un rendez-vous|date (also an appointment)
-odnosi|une relation|relationship
-zaruke|les fiançailles (f pl)|engagement
-vjerenica / vjerenik|un fiancé / une fiancée|fiancé / fiancée
-vjenčanje|le mariage|marriage, wedding
-podudarnost karaktera|la compatibilité|compatibility / matching
-fizički izgled|l'apparence physique|physical appearance
-sreća|le bonheur|happiness
-komuniciranje|la communication|interaction / communication
-smisao za humor|le sens de l'humour|sense of humor
-poštovanje|le respect|respect
-iskrenost|l'honnêteté (f)|honesty
-romantičnost|le romantisme|romanticism
-glagoli - ljubavni život|verbes - les amours|verbs - love life
-udvarati se / flertovati|draguer|to try to pick up, to hit on someone, to flirt
-biti prijatelji|être amis|to be friends
-živjeti zajedno|vivre ensemble|to live together
-poljubiti jedno drugo|s'embrasser|to kiss each other
-voljeti jedno drugo|s'aimer|to love each other
-ugovor o zajedničkom životu|se pacser|to enter a PACS contract
-zaručiti se|se fiancer|to get engaged
-vjenčati se|se marier|to get married
-raskinuti / prekinuti|rompre|to break up
-razvesti se|divorcer|to get divorced
-varati|tromper|to cheat on
-horoskop|l'horoscope (m)|horoscope
-Koji si znak u horoskopu?|Quel est ton signe?|What's your sign?
-znak|le signe|sign
-Jarac (u horoskopu)|le Capricorne|Capricorn
-Vodolija|le Verseau|Aquarius
-Riba|les Poissons (m)|Pisces
-Ovan|le Bélier|Aries
-Bik|le Taureau|Taurus
-Blizanci|les Gémeaux (m)|Gemini
-Rak|le Cancer|Cancer
-Lav|le Lion|Leo
-Djevica|la Vierge|Virgo
-Vaga|la Balance|Libra
-Škorpija|le Scorpion|Scorpio
-Strelac|le Sagittaire|Sagittarius
+finansije|finances
+banka|bank
+štedionica|savings and loan association
+račun (u banci)|(bank) account
+bankomat|ATM (automatic teller machine)
+evro|euro (currency)
+naslijedstovo|inheritance
+troškovi|expenses
+računi / fakture|bills
+smještaj|housing
+zakup / stanarina / renta / kirija|rent
+ishrana / hrana / snabdjevanje|food
+zabava / razonoda|entertainment
+račun za telefon|telephone bill
+troškovi školovanja|tuition, education expenses
+studentski kredit|student loan
+osiguranje|insurance
+gas|gas
+komunalije / režijski troškovi|utilities
+porezi|taxes
+dugovi|debts
+berza|the stock market
+akcije / dionice|stocks
+novčanik|portfolio (also, wallet)
+pridjevi|adjectives
+velikodušan / darežljiv / plemenit|generous
+rasipati novac|spendthrift
+škrtica, cicija|miserly, stingy
+štedljiv|economical, frugal
+jeftin|inexpensive
+biti na rasprodaji|to be on sale
+povoljna / dobra cijena|a good price
+skupo|expensive
+biti bez novca|to be broke
+imati dovoljno novca za ugodan život|to be well off
+zadovoljan|satisfied, fulfilled
+glagoli - finansije|verbs - finances
+koštati|to cost
+trošiti|to spend
+otplatiti|to reimburse
+posuditi|borrow
+imati sredstva / novca za|to have the means to
+iznajmiti|to rent
+napraviti proračun budžeta|to establish a budget
+preko proračuna budžeta|to go beyond one's budget
+imati dugove / biti u dugu|to have debts
+rasipati|to waste
+štediti novac|to save money
+ponuditi|to give, to offer
+ljubavni život|love life
+par|couple
+ljubav na prvi pogled|love at first sight
+strasna ljubav|passionate love
+ljubav nečijeg života|the love of one's life
+sastanak|date (also an appointment)
+odnosi|relationship
+zaruke|engagement
+vjerenica / vjerenik|fiancé / fiancée
+vjenčanje|marriage, wedding
+podudarnost karaktera|compatibility / matching
+fizički izgled|physical appearance
+sreća|happiness
+komuniciranje|interaction / communication
+smisao za humor|sense of humor
+poštovanje|respect
+iskrenost|honesty
+romantičnost|romanticism
+glagoli - ljubavni život|verbs - love life
+udvarati se / flertovati|to try to pick up, to hit on someone, to flirt
+biti prijatelji|to be friends
+živjeti zajedno|to live together
+poljubiti jedno drugo|to kiss each other
+voljeti jedno drugo|to love each other
+ugovor o zajedničkom životu|to enter a PACS contract
+zaručiti se|to get engaged
+vjenčati se|to get married
+raskinuti / prekinuti|to break up
+razvesti se|to get divorced
+varati|to cheat on
+horoskop|horoscope
+Koji si znak u horoskopu?|What's your sign?
+znak|sign
+Jarac (u horoskopu)|Capricorn
+Vodolija|Aquarius
+Riba|Pisces
+Ovan|Aries
+Bik|Taurus
+Blizanci|Gemini
+Rak|Cancer
+Lav|Leo
+Djevica|Virgo
+Vaga|Libra
+Škorpija|Scorpio
+Strelac|Sagittarius

@@ -1,104 +1,104 @@
-kod kuće|à la maison|at home
-kuća|une maison|house
-apartman|un appartement|apartment
-studentski dom|une résidence universitaire|university dorm
-soba|une pièce|a room (general term)
-prozor|une fenêtre|window
-namještaj|un meuble / des meubles|a piece of furniture / furniture
-prizemlje|le rez-de-chaussée|ground floor, first floor
-stepenice|un escalier|staircase, stairs
-balkon|un balcon|balcony
-terasa|une terrasse|terrace
-bašta / vrt / dvorište|un jardin|garden, yard
-sobe|les pièces|rooms
-ulaz / hodnik|une entrée|entranceway
-ulaz / predvorje / foaje|un hall d'entrée|foyer
-dnevni boravak|un séjour / un living / un salon / une salle de séjour|living room
-trpezarija|une salle à manger|dining room
-kuhinja|une cuisine|kitchen
-prolaz / ulaz / hol|un couloir|hallway
-spavaća soba|une chambre|bedroom
-kupatilo|une salle de bains|bathroom
-toalet / WC|des toilettes (f pl) / des W.C. (m pl)|toilet
-perionica|une buanderie|laundry room
-tavan|un grenier|attic
-vinski podrum|une cave|cellar, wine cellar
-garaža|un garage|garage
-U spavaćoj sobi se nalazi...|dans la chambre il y a...|In the bedroom there is/are...
-krevet|un lit|bed
-sobni ormarić|une table de nuit|nightstand
-orman|une armoire|armoire
-komoda|une commode|chest of drawers
-pisaći sto / radni sto|un bureau|desk
-polica za knjige|une étagère|bookcase
-lampa|une lampe|lamp
-plakar|un placard|closet
-tepih|de la moquette|carpet (wall to wall)
-DVD / MP3|un lecteur DVD / MP3|DVD / MP3 player
-kompjuter, računar|un ordinateur|computer
-telefon|un téléphone|telephone
-U kupatilu se nalaze ...|dans la salle de bains il y a ...|in the bathroom there is/are ...
-kada|une baignoire|bathtub
-tuš|une douche|shower
-umivaonik|un lavabo|sink
-ogledalo|un miroir|mirror
-U dnevnom boravku se nalaze ...|dans la salle de séjour il y a ...|in the living room there is/are ...
-sofa / kauč|un canapé / un sofa|couch
-fotelja|un fauteuil|armchair
-mali sto / niski sto / sto za kafu|une table basse|coffee table
-televizor|une télévision|television
-slike|un tableau / des tableaux|painting / paintings
-tepih|un tapis|area rug or carpet
-U trpezariji se nalaze ...|dans la salle à manger il y a ...|in the dining room there is/are ...
-sto|une table|table
-stolica|une chaise|chair
-kredenac|un buffet|hutch, buffet
-U kuhinji se nalaze ...|dans la cuisine il y a ...|in the kitchen there is/are ...
-frižider|un réfrigérateur / un frigo|refrigerator / fridge
-zamrzivač|un congélateur|freezer
-peć|une cuisinière|stove
-rerna / pećnica|un four|oven
-mikrovalna rerna / mikrovalna pećnica|un four à micro-ondes|microwave
-mašina za pranje posudja|un lave-vaisselle|dishwasher
-sudoper|un évier|sink
-plakar|un placard|cabinet
-kanta za smeće|une poubelle|trash can
-U perionici se nalaze ...|dans la buanderie il y a ...|in the laundry room there is/are ...
-mašina za pranje veša|un lave-linge|washing machine
-mašina za sušenje veša|un sèche-linge|dryer
-kućni poslovi|les tâches domestiques|household chores
-ići u kupovinu|faire des achats|to go shopping
-ići u nabavku hrane|faire le marché|to do the grocery shopping
-ići u kupovinu|faire des courses (f pl)|to do errands
-raditi kućne poslove|faire le ménage|to do housework
-kuvati|faire la cuisine|to cook
-prati posudje|faire la vaisselle|to do the dishes
-pospremati|ranger|to straighten up
-namještati krevet|faire le lit|to make the bed
-čistiti kuću usisivačem|passer l'aspirateur (m)|to pass the vacuum cleaner
-prati veš|faire la lessive|to do laundry
-peglati|repasser|to iron
-vršiti kućne popravke|bricoler|to make home repairs or improvements
-pridjevi|adjectifs|adjectives
-star|ancien(ne)|old
-savremen / moderan|moderne|modern
-taman / mračan|sombre|dark
-svijetao|clair(e)|bright, full of light
-neuredno|en désordre|messy
-uredan|en ordre|straightened up
-čist|propre|clean
-prljav|sale|dirty
-praktičan|pratique|practical
-udoban|confortable|comfortable
-glagoli|verbes|verbs
-seliti / preseliti|déménager|to move (change residences)
-povratni glagoli|verbes réfléchis|reflexive verbs
-zabavljati se / uživati|s'amuser|to have fun
-dosadjivati se|s'ennuyer|to be bored
-žuriti se|se dépêcher|to hurry
-brinuti se|s'inquiéter|to worry
-ljutiti se|se fâcher|to get angry
-povratni glagoli|verbes réciproques|reciprocal verbs
-raspravljati se|se disputer|to argue (with one another)
-družiti se|s'entendre|to get along (with one another)
-razgovarati se|se parler|to talk to (one another)
+kod kuće|at home
+kuća|house
+apartman|apartment
+studentski dom|university dorm
+soba|a room (general term)
+prozor|window
+namještaj|a piece of furniture / furniture
+prizemlje|ground floor, first floor
+stepenice|staircase, stairs
+balkon|balcony
+terasa|terrace
+bašta / vrt / dvorište|garden, yard
+sobe|rooms
+ulaz / hodnik|entranceway
+ulaz / predvorje / foaje|foyer
+dnevni boravak|living room
+trpezarija|dining room
+kuhinja|kitchen
+prolaz / ulaz / hol|hallway
+spavaća soba|bedroom
+kupatilo|bathroom
+toalet / WC|toilet
+perionica|laundry room
+tavan|attic
+vinski podrum|cellar, wine cellar
+garaža|garage
+U spavaćoj sobi se nalazi...|In the bedroom there is/are...
+krevet|bed
+sobni ormarić|nightstand
+orman|armoire
+komoda|chest of drawers
+pisaći sto / radni sto|desk
+polica za knjige|bookcase
+lampa|lamp
+plakar|closet
+tepih|carpet (wall to wall)
+DVD / MP3|DVD / MP3 player
+kompjuter, računar|computer
+telefon|telephone
+U kupatilu se nalaze ...|in the bathroom there is/are ...
+kada|bathtub
+tuš|shower
+umivaonik|sink
+ogledalo|mirror
+U dnevnom boravku se nalaze ...|in the living room there is/are ...
+sofa / kauč|couch
+fotelja|armchair
+mali sto / niski sto / sto za kafu|coffee table
+televizor|television
+slike|painting / paintings
+tepih|area rug or carpet
+U trpezariji se nalaze ...|in the dining room there is/are ...
+sto|table
+stolica|chair
+kredenac|hutch, buffet
+U kuhinji se nalaze ...|in the kitchen there is/are ...
+frižider|refrigerator / fridge
+zamrzivač|freezer
+peć|stove
+rerna / pećnica|oven
+mikrovalna rerna / mikrovalna pećnica|microwave
+mašina za pranje posudja|dishwasher
+sudoper|sink
+plakar|cabinet
+kanta za smeće|trash can
+U perionici se nalaze ...|in the laundry room there is/are ...
+mašina za pranje veša|washing machine
+mašina za sušenje veša|dryer
+kućni poslovi|household chores
+ići u kupovinu|to go shopping
+ići u nabavku hrane|to do the grocery shopping
+ići u kupovinu|to do errands
+raditi kućne poslove|to do housework
+kuvati|to cook
+prati posudje|to do the dishes
+pospremati|to straighten up
+namještati krevet|to make the bed
+čistiti kuću usisivačem|to pass the vacuum cleaner
+prati veš|to do laundry
+peglati|to iron
+vršiti kućne popravke|to make home repairs or improvements
+pridjevi|adjectives
+star|old
+savremen / moderan|modern
+taman / mračan|dark
+svijetao|bright, full of light
+neuredno|messy
+uredan|straightened up
+čist|clean
+prljav|dirty
+praktičan|practical
+udoban|comfortable
+glagoli|verbs
+seliti / preseliti|to move (change residences)
+povratni glagoli|reflexive verbs
+zabavljati se / uživati|to have fun
+dosadjivati se|to be bored
+žuriti se|to hurry
+brinuti se|to worry
+ljutiti se|to get angry
+povratni glagoli|reciprocal verbs
+raspravljati se|to argue (with one another)
+družiti se|to get along (with one another)
+razgovarati se|to talk to (one another)

@@ -2,10 +2,10 @@ pozdravi|greetings
 gospodin|Sir
 gospođa|Ma'am (Mrs.)
 gospođica|Miss
-Dobar dan, gospodine.|Good day (Hello), Sir
-Dobra veče.|Good evening
+Dobar dan, gospodine|Good day (Hello), Sir
+Dobra veče|Good evening
 Doviđenja|Goodbye
-Zdravo|Hi!
+Zdravo!|Hi!
 Vidimo se kasnije.|See you in a little while.
 Vidimo se večeras.|See you this evening.
 Vidimo se sutra.|See you tomorrow.

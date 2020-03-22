@@ -15,7 +15,7 @@ un magazine d'actualités (à la télévision)|news show
 les informations (f pl) / les infos (f pl) / le journal|news
 l'actualité (f)|current events
 la météo|weather report
-un reporter /  un journaliste|reporter / journalist
+un reporter / un journaliste|reporter / journalist
 une interview|interview
 une publicité / une pub|commercial
 un concert|concert
@@ -49,7 +49,7 @@ la radio|the radio
 une station|radio station
 une chanson|song
 un chanteur / une chanteuse|singer
-un groupe|a  band
+un groupe|a band
 l'internet|the internet
 un ordinateur|computer
 un portable|laptop

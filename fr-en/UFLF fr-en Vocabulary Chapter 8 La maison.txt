@@ -24,7 +24,7 @@ une buanderie|laundry room
 un grenier|attic
 une cave|cellar, wine cellar
 un garage|garage
-dans la chambre il y a...|In the bedroom...
+dans la chambre il y a...|In the bedroom there is/are...
 un lit|bed
 une table de nuit|nightstand
 une armoire|armoire

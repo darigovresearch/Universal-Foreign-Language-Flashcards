@@ -23,3 +23,20 @@ assignees: ''
 11. Les études
 12. La vie professionnelle
 13. L'amour et l'argent
+
+English Equivalent
+
+0. Welcome!
+1. Hello! 
+2. Here I am !
+3. Holidays in France
+4. People
+5. Bon appétit!
+6. Town or City
+7. Celebrations 
+8. House/Home
+9. Media & communications
+10. Fashion, Form, Health
+11. Studies
+12. Professional Life
+13. Love and Money

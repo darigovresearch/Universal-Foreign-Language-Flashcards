@@ -24,7 +24,7 @@ assignees: ''
 12. La vie professionnelle
 13. L'amour et l'argent
 
-English Equivalent
+English equivalent if helpful
 
 0. Welcome!
 1. Hello! 
@@ -35,8 +35,8 @@ English Equivalent
 6. Town or City
 7. Celebrations 
 8. House/Home
-9. Media & communications
-10. Fashion, Form, Health
+9. Media and communications
+10. Fashion, Form and health
 11. Studies
-12. Professional Life
-13. Love and Money
+12. Professional life
+13. Love and money

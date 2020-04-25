@@ -1,4 +1,4 @@
-Introduction (UFLF fr-en)|"
+Introduction (UFLF el-en)|"
 <h2>Introduction</h2>
 <p>This deck has taken words outlined in the vocabulary section of each chapter of the <a href=""http://www.laits.utexas.edu/fi/"">Francais Interactif</a> language program and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
@@ -15,39 +15,39 @@ Introduction (UFLF fr-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-je me présente|let me introduce myself
-Je m'appelle ...|My name is ...
-Je suis de ...|I am from ...
-Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-Il/Elle s'appelle ...|His/Her name is ...
-Il/Elle est de ...|He/She is from ...
-Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-les matières|subjects
-le commerce|business
-la comptabilité|accounting
-les langues (f)|languages
-l'anglais (m)|English
-le français|French
-l'espagnol (m)|Spanish
-la littérature|literature
-l'histoire (f)|history
-la géographie|geography
-les sciences politiques|political science
-les mathématiques/les maths (f)|math
-les sciences (f)|sciences
-la biologie|biology
-la chimie|chemistry
-l'informatique (f)|computer science
-la musique|music
-la philosophie|philosophy
-la psychologie|psychology
-l'alphabet|the alphabet
-les animaux|animals
-le cafard|cockroach
-le chat / la chatte / la minette|cat / female cat / kitty
-l'écureuil|squirrel
-l'escargot|snail
-la fourmi|ant
-le tatou|armadillo
+|je me présente|let me introduce myself
+|Je m'appelle ...|My name is ...
+|Je suis de ...|I am from ...
+|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
+|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
+|Il/Elle s'appelle ...|His/Her name is ...
+|Il/Elle est de ...|He/She is from ...
+|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
+|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
+|les matières|subjects
+|le commerce|business
+|la comptabilité|accounting
+|les langues (f)|languages
+|l'anglais (m)|English
+|le français|French
+|l'espagnol (m)|Spanish
+|la littérature|literature
+|l'histoire (f)|history
+|la géographie|geography
+|les sciences politiques|political science
+|les mathématiques/les maths (f)|math
+|les sciences (f)|sciences
+|la biologie|biology
+|la chimie|chemistry
+|l'informatique (f)|computer science
+|la musique|music
+|la philosophie|philosophy
+|la psychologie|psychology
+|l'alphabet|the alphabet
+|les animaux|animals
+|le cafard|cockroach
+|le chat / la chatte / la minette|cat / female cat / kitty
+|l'écureuil|squirrel
+|l'escargot|snail
+|la fourmi|ant
+|le tatou|armadillo

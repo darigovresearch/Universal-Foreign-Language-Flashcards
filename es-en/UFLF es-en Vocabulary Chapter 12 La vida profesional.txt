@@ -1,86 +1,86 @@
-le monde du travail|the working world
-les affaires (f pl)|business
-une entreprise / une boîte [slang]|firm, business
-un bureau|office
-un client / une cliente|client, customer
-un métier|profession
-un emploi / un travail / un job / un boulot [slang]|job
-un poste à mi-temps/à plein temps|half-time/full-time position
-un chômeur / une chômeuse|unemployed person
-le marché du travail|job market
-les petites annonces (f pl)|classified ads
-un curriculum vitae (un CV)|résumé
-un entretien|interview
-les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
-un salaire|salary
-les congés|vacation days
-une promotion|promotion
-la retraite|retirement
-un retraité / une retraitée|retired person
-les métiers|professions
-un/une fonctionnaire|civil servant, government worker
-un facteur|mail carrier
-un militaire|person in the armed services
-un policier|police officer
-un pompier|firefighter
-un enseignant / une enseignante|teacher
-une assistante sociale|social worker
-un médecin|doctor, physician
-un/une dentiste|dentist
-un infirmier / une infirmière|nurse
-un kinésithérapeute / un kiné|chiropractor, physical therapist
-un/une psychologue|psychologist
-un opticien / une opticienne|optician
-un pharmacien / une pharmacienne|pharmacist
-un avocat / une avocate|lawyer
-un banquier / une banquière|banker
-un chef d'entreprise|company head, business owner
-un patron / une patronne|boss
-un P.D.G. (Président Directeur Général)|CEO
-un cadre|executive
-un/une comptable|accountant
-un publicitaire|advertising agent
-un/une secrétaire|secretary
-un employé / une employée (de bureau)|employee (office employee)
-un ouvrier / une ouvrière|blue collar worker
-une usine|factory
-un informaticien / une informaticienne|computer scientist
-un ingénieur|engineer
-un chercheur|researcher
-un technicien / une technicienne|technician
-un/une propriétaire|owner
-un commerçant / une commerçante|shopkeeper, store owner
-un vendeur / une vendeuse|salesperson
-un caissier / une caissière|cashier
-un restaurateur|restaurant owner
-un cuisinier / une cuisinière|cook
-un serveur / une serveuse|wait person
-un boulanger / une boulangère|a baker
-un couturier / une couturière|fashion designer, seamstress
-un coiffeur / une coiffeuse|hairdresser
-un critique (de films, d'art, etc.)|critic (film, art, etc.)
-un écrivain|writer
-un journaliste|reporter, journalist
-un peintre / une peintre|painter
-un musicien / une musicienne|musician
-un voyagiste / un agent de voyage|travel agent
-une femme au foyer|housewife
-adjectifs|adjectives
-dur(e) / difficile|hard, tough, difficult
-dynamique|dynamic
-honnête|honest
-passionnant(e)|enthralling, fascinating
-utile|useful
-inutile|useless
-d'occasion (une voiture d'occasion)|second-hand, used
-verbes|verbs
-chercher une situation|to look for a job
-faire une demande d'emploi|to apply for a job
-prendre un rendez-vous|to make an appointment
-remplir un formulaire|to fill out a form
-embaucher / être embauché(e)|to hire / to be hired
-gérer|to manage, direct, organize
-gagner sa vie / gagner de l'argent|to earn a living / to earn money
-payer des impôts|to pay taxes
-être au chômage|to be unemployed
-être à la retraite|to be retired
+|le monde du travail|the working world
+|les affaires (f pl)|business
+|une entreprise / une boîte [slang]|firm, business
+|un bureau|office
+|un client / une cliente|client, customer
+|un métier|profession
+|un emploi / un travail / un job / un boulot [slang]|job
+|un poste à mi-temps/à plein temps|half-time/full-time position
+|un chômeur / une chômeuse|unemployed person
+|le marché du travail|job market
+|les petites annonces (f pl)|classified ads
+|un curriculum vitae (un CV)|résumé
+|un entretien|interview
+|les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
+|un salaire|salary
+|les congés|vacation days
+|une promotion|promotion
+|la retraite|retirement
+|un retraité / une retraitée|retired person
+|les métiers|professions
+|un/une fonctionnaire|civil servant, government worker
+|un facteur|mail carrier
+|un militaire|person in the armed services
+|un policier|police officer
+|un pompier|firefighter
+|un enseignant / une enseignante|teacher
+|une assistante sociale|social worker
+|un médecin|doctor, physician
+|un/une dentiste|dentist
+|un infirmier / une infirmière|nurse
+|un kinésithérapeute / un kiné|chiropractor, physical therapist
+|un/une psychologue|psychologist
+|un opticien / une opticienne|optician
+|un pharmacien / une pharmacienne|pharmacist
+|un avocat / une avocate|lawyer
+|un banquier / une banquière|banker
+|un chef d'entreprise|company head, business owner
+|un patron / une patronne|boss
+|un P.D.G. (Président Directeur Général)|CEO
+|un cadre|executive
+|un/une comptable|accountant
+|un publicitaire|advertising agent
+|un/une secrétaire|secretary
+|un employé / une employée (de bureau)|employee (office employee)
+|un ouvrier / une ouvrière|blue collar worker
+|une usine|factory
+|un informaticien / une informaticienne|computer scientist
+|un ingénieur|engineer
+|un chercheur|researcher
+|un technicien / une technicienne|technician
+|un/une propriétaire|owner
+|un commerçant / une commerçante|shopkeeper, store owner
+|un vendeur / une vendeuse|salesperson
+|un caissier / une caissière|cashier
+|un restaurateur|restaurant owner
+|un cuisinier / une cuisinière|cook
+|un serveur / une serveuse|wait person
+|un boulanger / une boulangère|a baker
+|un couturier / une couturière|fashion designer, seamstress
+|un coiffeur / une coiffeuse|hairdresser
+|un critique (de films, d'art, etc.)|critic (film, art, etc.)
+|un écrivain|writer
+|un journaliste|reporter, journalist
+|un peintre / une peintre|painter
+|un musicien / une musicienne|musician
+|un voyagiste / un agent de voyage|travel agent
+|une femme au foyer|housewife
+|adjectifs|adjectives
+|dur(e) / difficile|hard, tough, difficult
+|dynamique|dynamic
+|honnête|honest
+|passionnant(e)|enthralling, fascinating
+|utile|useful
+|inutile|useless
+|d'occasion (une voiture d'occasion)|second-hand, used
+|verbes|verbs
+|chercher une situation|to look for a job
+|faire une demande d'emploi|to apply for a job
+|prendre un rendez-vous|to make an appointment
+|remplir un formulaire|to fill out a form
+|embaucher / être embauché(e)|to hire / to be hired
+|gérer|to manage, direct, organize
+|gagner sa vie / gagner de l'argent|to earn a living / to earn money
+|payer des impôts|to pay taxes
+|être au chômage|to be unemployed
+|être à la retraite|to be retired

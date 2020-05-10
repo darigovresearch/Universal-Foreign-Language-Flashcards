@@ -1,4 +1,4 @@
-Introduction (UFLF fr-en)|"
+Introduction (UFLF es-en)|"
 <h2>Introduction</h2>
 <p>This deck has taken words outlined in the vocabulary section of each chapter of the <a href=""http://www.laits.utexas.edu/fi/"">Francais Interactif</a> language program and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
@@ -16,14 +16,14 @@ Introduction (UFLF fr-en)|"
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
 Me presento|je me présente|let me introduce myself
-Me llamo.../Soy...|Je m'appelle ...|My name is ...
+Me llamo ...|Je m'appelle ...|My name is ...
 Soy de ...|Je suis de ...|I am from ...
-Soy un estudiante de...(male)(francés, matemáticas,etc.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Soy un estudiante de...(female)(francés, matemáticas,etc.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-El/Ella se llama...|Il/Elle s'appelle ...|His/Her name is ...
-El/Ella es de...|Il/Elle est de ...|He/She is from ...
-(El) es un estudiante de ...(francés,matemáticas,etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-(Ella) es un estudiante de ...(francés,matemáticas,etc.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
+Soy un estudiante de ... (francés, matemáticas, etc.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
+Soy un estudiante de ... (francés, matemáticas, etc.)|Je suis étudiante en ... (français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
+El/Ella se llama ...|Il/Elle s'appelle ...|His/Her name is ...
+El/Ella es de ...|Il/Elle est de ...|He/She is from ...
+(El) es un estudiante de ... (francés, matemáticas, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
+(Ella) es un estudiante de ... (francés, matemáticas, etc.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
 las asignaturas|les matières|subjects
 la empresa|le commerce|business
 la contabilidad|la comptabilité|accounting
@@ -46,7 +46,7 @@ la psicología|la psychologie|psychology
 el alfabeto|l'alphabet|the alphabet
 los animales|les animaux|animals
 la cucaracha|le cafard|cockroach
-el gato\la gata|le chat / la chatte / la minette|cat / female cat / kitty
+el gato / la gata / la gatita|le chat / la chatte / la minette|cat / female cat / kitty
 la ardilla|l'écureuil|squirrel
 el caracol|l'escargot|snail
 la hormiga|la fourmi|ant

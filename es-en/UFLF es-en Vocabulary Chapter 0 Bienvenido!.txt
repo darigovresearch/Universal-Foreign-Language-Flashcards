@@ -41,7 +41,7 @@ la biología|biology
 la química|chemistry
 la informática|computer science
 la música|music
-la fiosofía|philosophy
+la filosofía|philosophy
 la psicología|psychology
 el alfabeto|the alphabet
 los animales|animals

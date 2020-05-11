@@ -45,7 +45,7 @@ Introduction (UFLF el-en)|"
 Αλφάβητο|l'alphabet|the alphabet
 Ζώα|les animaux|animals
 Κατσαρίδα|le cafard|cockroach
-Γάτα|le chat / la chatte / la minette|cat / female cat / kitty
+Γάτα / Γατάκι|le chat / la chatte / la minette|cat / female cat / kitty
 Σκίουρος|l'écureuil|squirrel
 Σαλιγκάρι|l'escargot|snail
 Μυρμήγκι|la fourmi|ant

@@ -15,39 +15,39 @@ Introduction (UFLF el-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-Επιτρέψτε μου να σας συστήσω|je me présente|let me introduce myself
-Με λένε ...|Je m'appelle ...|My name is ...
-Είμαι από το/την ...|Je suis de ...|I am from ...
-Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-Το όνομα του/της είναι ...|Il/Elle s'appelle ...|His/Her name is ...
-Είναι απο το/την ...|Il/Elle est de ...|He/She is from ...
-Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-Μαθαίνει (Γαλλικά, μαθηματικά, etc.)|les matières|subjects
-Η Επιχείρηση|le commerce|business
-Η Λογιστική|la comptabilité|accounting
-Οι Γλώσσες|les langues (f)|languages
-Τα Αγγλικά|l'anglais (m)|English
-Τα Γαλλικά|le français|French
-Τα Ισπανικά|l'espagnol (m)|Spanish
-Η Λογοτεχνία|la littérature|literature
-Η Ιστορία|l'histoire (f)|history
-Η Γεωγραφία|la géographie|geography
-Τις Πολιτικές Επιστήμες|les sciences politiques|political science
-Τα Μαθηματικά|les mathématiques/les maths (f)|math
-Τις Επιστήμες|les sciences (f)|sciences
-Η Βιολογία|la biologie|biology
-Η Χημεία|la chimie|chemistry
-|l'informatique (f)|computer science
-Η Μουσική|la musique|music
-Η Φιλοσοφία|la philosophie|philosophy
-Η Ψυχολογία|la psychologie|psychology
-Το Αλφάβητο|l'alphabet|the alphabet
-Ta Ζώα|les animaux|animals
-H Κατσαρίδα|le cafard|cockroach
-H Γάτα / H Γατάκι|le chat / la chatte / la minette|cat / female cat / kitty
-Ο Σκίουρος|l'écureuil|squirrel
-Το Σαλιγκάρι|l'escargot|snail
-Το Μυρμήγκι|la fourmi|ant
-Το Αρμαδίλο|le tatou|armadillo
+Επιτρέψτε μου να σας συστήσω|let me introduce myself
+Με λένε ...|My name is ...
+Είμαι από το/την ...|I am from ...
+Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|I am a student (male) in ... (French, math, etc.)
+Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|I am a student (female) in ... (French, math, etc.)
+Το όνομα του/της είναι ...|His/Her name is ...
+Είναι απο το/την ...|He/She is from ...
+Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|He is a student (male) in ... (French, math, etc.)
+Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|She is a student (female) in ... (French, math, etc.)
+Μαθαίνει (Γαλλικά, μαθηματικά, etc.)|subjects
+Η Επιχείρηση|business
+Η Λογιστική|accounting
+Οι Γλώσσες|languages
+Τα Αγγλικά|English
+Τα Γαλλικά|French
+Τα Ισπανικά|Spanish
+Η Λογοτεχνία|literature
+Η Ιστορία|history
+Η Γεωγραφία|geography
+Τις Πολιτικές Επιστήμες|political science
+Τα Μαθηματικά|math
+Τις Επιστήμες|sciences
+Η Βιολογία|biology
+Η Χημεία|chemistry
+|computer science
+Η Μουσική|music
+Η Φιλοσοφία|philosophy
+Η Ψυχολογία|psychology
+Το Αλφάβητο|the alphabet
+Ta Ζώα|animals
+H Κατσαρίδα|cockroach
+H Γάτα / H Γατάκι|cat / female cat / kitty
+Ο Σκίουρος|squirrel
+Το Σαλιγκάρι|snail
+Το Μυρμήγκι|ant
+Το Αρμαδίλο|armadillo

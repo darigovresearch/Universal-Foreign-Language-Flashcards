@@ -24,29 +24,29 @@ Introduction (UFLF el-en)|"
 Είναι απο το/την ...|Il/Elle est de ...|He/She is from ...
 Μαθαίνει ...(Γαλλικά, μαθηματικά, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
 Μαθαίνει (Γαλλικά, μαθηματικά, etc.)|les matières|subjects
-Επιχείρηση|le commerce|business
-Λογιστική|la comptabilité|accounting
-Γλώσσες|les langues (f)|languages
-Αγγλικά|l'anglais (m)|English
-Γαλλικά|le français|French
-Ισπανικά|l'espagnol (m)|Spanish
-Λογοτεχνία|la littérature|literature
-Ιστορία|l'histoire (f)|history
-Γεωγραφία|la géographie|geography
-Πολιτικές Επιστήμες|les sciences politiques|political science
-Μαθηματικά|les mathématiques/les maths (f)|math
-Επιστήμες|les sciences (f)|sciences
-Βιολογία|la biologie|biology
-Χημεία|la chimie|chemistry
+Η Επιχείρηση|le commerce|business
+Η Λογιστική|la comptabilité|accounting
+Οι Γλώσσες|les langues (f)|languages
+Τα Αγγλικά|l'anglais (m)|English
+Τα Γαλλικά|le français|French
+Τα Ισπανικά|l'espagnol (m)|Spanish
+Η Λογοτεχνία|la littérature|literature
+Η Ιστορία|l'histoire (f)|history
+Η Γεωγραφία|la géographie|geography
+Τις Πολιτικές Επιστήμες|les sciences politiques|political science
+Τα Μαθηματικά|les mathématiques/les maths (f)|math
+Τις Επιστήμες|les sciences (f)|sciences
+Η Βιολογία|la biologie|biology
+Η Χημεία|la chimie|chemistry
 |l'informatique (f)|computer science
-Μουσική|la musique|music
-Φιλοσοφία|la philosophie|philosophy
-Ψυχολογία|la psychologie|psychology
-Αλφάβητο|l'alphabet|the alphabet
-Ζώα|les animaux|animals
-Κατσαρίδα|le cafard|cockroach
-Γάτα / Γατάκι|le chat / la chatte / la minette|cat / female cat / kitty
-Σκίουρος|l'écureuil|squirrel
-Σαλιγκάρι|l'escargot|snail
-Μυρμήγκι|la fourmi|ant
-Αρμαδίλο|le tatou|armadillo
+Η Μουσική|la musique|music
+Η Φιλοσοφία|la philosophie|philosophy
+Η Ψυχολογία|la psychologie|psychology
+Το Αλφάβητο|l'alphabet|the alphabet
+Ta Ζώα|les animaux|animals
+H Κατσαρίδα|le cafard|cockroach
+H Γάτα / H Γατάκι|le chat / la chatte / la minette|cat / female cat / kitty
+Ο Σκίουρος|l'écureuil|squirrel
+Το Σαλιγκάρι|l'escargot|snail
+Το Μυρμήγκι|la fourmi|ant
+Το Αρμαδίλο|le tatou|armadillo

@@ -18,11 +18,11 @@ Introduction (UFLF el-en)|"
 Επιτρέψτε μου να σας συστήσω|je me présente|let me introduce myself
 Με λένε ...|Je m'appelle ...|My name is ...
 Είμαι από το/την ...|Je suis de ...|I am from ...
-Μαθαίνω  ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Μαθαίνω  ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
+Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
+Μαθαίνω ... (Γαλλικά, μαθηματικά, etc.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
 Το όνομα του/της είναι ...|Il/Elle s'appelle ...|His/Her name is ...
 Είναι απο το/την ...|Il/Elle est de ...|He/She is from ...
-Μαθαίνει ...(Γαλλικά, μαθηματικά, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
+Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
 Μαθαίνει (Γαλλικά, μαθηματικά, etc.)|les matières|subjects
 Η Επιχείρηση|le commerce|business
 Η Λογιστική|la comptabilité|accounting

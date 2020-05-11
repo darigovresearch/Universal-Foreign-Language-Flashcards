@@ -23,6 +23,7 @@ Introduction (UFLF el-en)|"
 Το όνομα του/της είναι ...|Il/Elle s'appelle ...|His/Her name is ...
 Είναι απο το/την ...|Il/Elle est de ...|He/She is from ...
 Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
+Μαθαίνει ... (Γαλλικά, μαθηματικά, etc.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
 Μαθαίνει (Γαλλικά, μαθηματικά, etc.)|les matières|subjects
 Η Επιχείρηση|le commerce|business
 Η Λογιστική|la comptabilité|accounting

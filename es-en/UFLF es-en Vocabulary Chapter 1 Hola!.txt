@@ -38,7 +38,7 @@ Su nombre es ...|Il/Elle s'appelle ...|His/Her name is ...
 Sus nombres son ...|Ils/Elles s'appellent ...|Their names are ...
 ¿Qué (el/ella) hace?|Qu'est-ce qu'il/elle fait?|What does he/she do?
 ¿Qué (ellos) hacen?|Qu'est-ce qu'ils/elles font?|What do they do?
-(El/Ella) es un/a ... |Il est ... Elle est ...|He/She is a/an ...
+(El/Ella) es un/una ... |Il est ... Elle est ...|He/She is a/an ...
 actor / actriz/actor|acteur / actrice|actor / actress
 arquitecto / arquitecta|architecte|architect
 cantante|chanteur / chanteuse|singer
@@ -159,9 +159,9 @@ la semana|la semaine|week
 la próxima semana|la semaine prochaine|next week
 la semana pasada|la semaine dernière|last week
 ¿Qué fecha es?|Quelle est la date?|What's the date?
-Es 1 de septiembre|C'est le premier septembre.|It's September 1st.
-Es 2 de octubre|C'est le deux octobre.|It's October 2nd.
-Es 30 de agosto|C'est le 30 août.|It's August 30th.
+Es 1 de septiembre.|C'est le premier septembre.|It's September 1st.
+Es 2 de octubre.|C'est le deux octobre.|It's October 2nd.
+Es 30 de agosto.|C'est le 30 août.|It's August 30th.
 el mes|le mois|month
 ¿Cuáles son los meses del año?|Quels sont les mois de l'année?|What are the months of the year?
 Enero|janvier|January

@@ -1,178 +1,178 @@
-salutaciones|salutations|greetings
-Señor|Monsieur|Sir
-Señora|Madame|Ma'am (Mrs.)
-Señorita|Mademoiselle|Miss
-Buenos días (hola), señor|Bonjour, Monsieur|Good day (Hello), Sir
-Buenas tardes|Bonsoir|Good evening
-Adiós|Au revoir|Goodbye
-Hola!|Salut!|Hi!
-Te veo en un rato.|À tout à l'heure!|See you in a little while.
-Te veo esta tarde.|À ce soir.|See you this evening.
-Hasta mañana.|À demain.|See you tomorrow.
-Hasta luego.|À bientôt.|See you soon.
-¿Cuál es tu nombre?|Comment vous appelez-vous?|What's your name? (formal)
-¿Cómo te llamas?|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-Me llamo ...|Je m'appelle ...|My name is ...
-¿Cómo estas?|Comment allez-vous?|How are you? (formal)
-¿Qué tal?|Comment vas-tu?|How are you? (informal)
-Estoy muy bien, gracias.|Je vais très bien, merci.|I am very well, thank you.
-Estoy bien, gracias.|Je vais bien, merci.|I am fine, thank you.
-Nada mal, gracias.|Pas mal, merci.|Not bad, thank you.
-¿Cómo va todo?|Comment ça va?|How are things going?
-Estupendo, gracias!|Bien, merci!|Great, thanks!
-Las cosas van bien.|Ça va bien.|Things are going (well).
-¿Cómo van las cosas?|Ça va (bien)?|Are things going (well)?
-¿Y usted? de dónde es?|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-¿Y tú? de dónde eres?|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-presentaciones|présentations|introductions
-Señor, me gustaría presentarme ...|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-Soy ...|Je te présente ...|This is ... (informal)
-Este es ...|Voici ...|This is ...
-¿Quién es?|Qui est-ce?|Who is it?
-Es ...|C'est ...|It's ...
-(Ellos) son|Ce sont ...|They are ...
-¿Cómo se llama?|Comment s'appelle-t-il/elle?|What's his/her name?
-Su nombre es ...|Il/Elle s'appelle ...|His/Her name is ...
-(El/Ella) es de ...|Il/Elle est de ...|He/She is from ...
-¿Cómo se llaman?|Comment s'appellent-ils/elles?|What are their names?
-Sus nombres son ...|Ils/Elles s'appellent ...|Their names are ...
-¿Qué (el/ella) hace?|Qu'est-ce qu'il/elle fait?|What does he/she do?
-¿Qué (ellos) hacen?|Qu'est-ce qu'ils/elles font?|What do they do?
-(El/Ella) es un/una ... |Il est ... Elle est ...|He/She is a/an ...
-actor / actriz/actor|acteur / actrice|actor / actress
-arquitecto / arquitecta|architecte|architect
-cantante|chanteur / chanteuse|singer
-peluquero / peluquera|coiffeur / coiffeuse|hair dresser
-dentista|dentiste|dentist
-ingeniero / igeniera|ingénieur|engineer
-periodista|journaliste|journalist
-doctor / doctora|médecin|doctor
-profesor / profesora|professeur|teacher, professor
-jubilado / jubilada|retraité / retraitée|retired man/woman
-interno / interna|stagiaire|intern
-la clase|la salle de classe|the classroom
-¿Qué es esto?|Qu'est-ce que c'est?|What is it?
-Esto es ...|C'est ...|It's ...
-Es una clase.|C'est une salle de classe.|It's a classroom.
-En la clase, hay ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
-una puerta|une porte|door
-una ventana|une fenêtre|window
-una pizarra|un tableau (noir)|blackboard
-una television|une télévision|television
-un mapa (del mundo)|une carte (du monde)|map (of the world)
-un poster|une affiche|poster
-una silla|une chaise|chair
-un escritorio|un bureau|desk
-En el escritorio, hay ...|Sur le bureau, il y a ...|On the desk, there is ...
-una tiza|une craie|chalk
-un lápiz|un crayon|pencil
-un bolígrafo|un stylo|pen
-una libreta|un cahier|notebook
-un libro|un livre|book
-un diccionario|un dictionnaire|dictionary
-una mochila|un sac à dos|backpack
-En el laboratorio, hay ...|Au labo, il y a ...|In the lab, there are ...
-ordenadores|des ordinateurs (m)|computers
-Los estudiantes trabajan!|Les étudiants travaillent!|The students work!
-los deberes|des devoirs (m)|homework
-el ejercicio|un exercice|exercise
-el examen|un examen|test
-en clase|en classe|in class
-Escucha.|Écoutez.|Listen.
-Escribe.|Écrivez.|Write.
-Levanta el dedo (la mano).|Levez le doigt.|Raise your finger (hand).
-Repite.|Répétez.|Repeat.
-Abre los libros.|Ouvrez vos livres.|Open your books.
-Pasa la página ...|Ouvrez le livre à la page ...|Turn to page ...
-por favor|s'il vous plaît|please
-¿Lo entiendes?|Vous comprenez?|Do you understand?
-Sí, lo entiendo.|Oui, je comprends.|Yes, I understand.
-No, no lo entiendo.|Non, je ne comprends pas.|No, I don't understand.
-¿Qué significa ...?|Que veut dire ...?|What does ... mean?
-¿Cómo se dice ...?|Comment dit-on ...?|How do you say ...?
-Aquí esta ... (Aquí estan ...)|Voici ...|Here is ... (here are ...)
-Hay ...|Voilà ...|There is ... (there are ...)
-Hay ...|Il y a ...|There is, there are ...
-¿Cuántos hay ...?|Il y a combien de ...?|There are how many ...?
-Los numeros cardinales 1-69|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-uno|un, une|1
-dos|deux|2
-tres|trois|3
-cuatro|quatre|4
-cinco|cinq|5
-seis|six|6
-siete|sept|7
-ocho|huit|8
-nueve|neuf|9
-diez|dix|10
-once|onze|11
-doze|douze|12
-trece|treize|13
-catorce|quatorze|14
-quinze|quinze|15
-diesis|seize|16
-diecisiete|dix-sept|17
-dieciocho|dix-huit|18
-diecinueve|dix-neuf|19
-veinte|vingt|20
-veintiuno|vingt et un|21
-veintidós|vingt-deux|22
-veinteitres|vingt-trois|23
-veinticuatro|vingt-quatre|24
-veinticinco|vingt-cinq|25
-veintiseis|vingt-six|26
-ventisiete|vingt-sept|27
-veintiocho|vingt-huit|28
-veintinueve|vingt-neuf|29
-trenta|trente|30
-trentaiuno|trente et un|31
-trentaidós|trente-deux|32
-trentainueve|trente-neuf|39
-cuarenta|quarante|40
-cuarentaiuno|quarante et un|41
-cuarentaidós|quarante-deux|42
-cuarentainueve|quarante-neuf|49
-cincuenta|cinquante|50
-cincuentaiuno|cinquante et un|51
-cincuentaidós|cinquante-deux|52
-cincuentainueve|cinquante-neuf|59
-sesenta|soixante|60
-sesentaiuno|soixante et un|61
-sesentaidós|soixante-deux|62
-sesentainueve|soixante-neuf|69
-la cita|la date|the date
-el calendario|le calendrier|calendar
-el día|le jour|day
-¿Cuáles son los días de la semana?|Quels sont les jours de la semaine?|What are the days of the week?
-Lunes|lundi|Monday
-Martes|mardi|Tuesday
-Miércoles|mercredi|Wednesday
-Jueves|jeudi|Thursday
-Viernes|vendredi|Friday
-Sábado|samedi|Saturday
-Domingo|dimanche|Sunday
-¿Qué día es hoy?|C'est quel jour?|What day is it?
-Hoy es lunes.|C'est lundi.|It's Monday.
-hoy|aujourd'hui|today
-mañana|demain|tomorrow
-la semana|la semaine|week
-la próxima semana|la semaine prochaine|next week
-la semana pasada|la semaine dernière|last week
-¿Qué fecha es?|Quelle est la date?|What's the date?
-Es 1 de septiembre.|C'est le premier septembre.|It's September 1st.
-Es 2 de octubre.|C'est le deux octobre.|It's October 2nd.
-Es 30 de agosto.|C'est le 30 août.|It's August 30th.
-el mes|le mois|month
-¿Cuáles son los meses del año?|Quels sont les mois de l'année?|What are the months of the year?
-Enero|janvier|January
-Febrero|février|February
-Marzo|mars|March
-Abril|avril|April
-Mayo|mai|May
-Junio|juin|June
-Julio|juillet|July
-Agosto|août|August
-Septiembre|septembre|September
-Octubre|octobre|October
-Noviembre|novembre|November
-Diciembre|décembre|December
+salutaciones|greetings
+Señor|Sir
+Señora|Ma'am (Mrs.)
+Señorita|Miss
+Buenos días (hola), señor|Good day (Hello), Sir
+Buenas tardes|Good evening
+Adiós|Goodbye
+Hola!|Hi!
+Te veo en un rato.|See you in a little while.
+Te veo esta tarde.|See you this evening.
+Hasta mañana.|See you tomorrow.
+Hasta luego.|See you soon.
+¿Cuál es tu nombre?|What's your name? (formal)
+¿Cómo te llamas?|What's your name? (informal)
+Me llamo ...|My name is ...
+¿Cómo estas?|How are you? (formal)
+¿Qué tal?|How are you? (informal)
+Estoy muy bien, gracias.|I am very well, thank you.
+Estoy bien, gracias.|I am fine, thank you.
+Nada mal, gracias.|Not bad, thank you.
+¿Cómo va todo?|How are things going?
+Estupendo, gracias!|Great, thanks!
+Las cosas van bien.|Things are going (well).
+¿Cómo van las cosas?|Are things going (well)?
+¿Y usted? de dónde es?|And you? Where are you from? (formal)
+¿Y tú? de dónde eres?|And you? Where are you from? (informal)
+presentaciones|introductions
+Señor, me gustaría presentarme ...|Sir, I would like to introduce to you ... (formal)
+Soy ...|This is ... (informal)
+Este es ...|This is ...
+¿Quién es?|Who is it?
+Es ...|It's ...
+(Ellos) son|They are ...
+¿Cómo se llama?|What's his/her name?
+Su nombre es ...|His/Her name is ...
+(El/Ella) es de ...|He/She is from ...
+¿Cómo se llaman?|What are their names?
+Sus nombres son ...|Their names are ...
+¿Qué (el/ella) hace?|What does he/she do?
+¿Qué (ellos) hacen?|What do they do?
+(El/Ella) es un/una ... |He/She is a/an ...
+actor / actriz/actor|actor / actress
+arquitecto / arquitecta|architect
+cantante|singer
+peluquero / peluquera|hair dresser
+dentista|dentist
+ingeniero / igeniera|engineer
+periodista|journalist
+doctor / doctora|doctor
+profesor / profesora|teacher, professor
+jubilado / jubilada|retired man/woman
+interno / interna|intern
+la clase|the classroom
+¿Qué es esto?|What is it?
+Esto es ...|It's ...
+Es una clase.|It's a classroom.
+En la clase, hay ...|In the classroom, there is ...
+una puerta|door
+una ventana|window
+una pizarra|blackboard
+una television|television
+un mapa (del mundo)|map (of the world)
+un poster|poster
+una silla|chair
+un escritorio|desk
+En el escritorio, hay ...|On the desk, there is ...
+una tiza|chalk
+un lápiz|pencil
+un bolígrafo|pen
+una libreta|notebook
+un libro|book
+un diccionario|dictionary
+una mochila|backpack
+En el laboratorio, hay ...|In the lab, there are ...
+ordenadores|computers
+Los estudiantes trabajan!|The students work!
+los deberes|homework
+el ejercicio|exercise
+el examen|test
+en clase|in class
+Escucha.|Listen.
+Escribe.|Write.
+Levanta el dedo (la mano).|Raise your finger (hand).
+Repite.|Repeat.
+Abre los libros.|Open your books.
+Pasa la página ...|Turn to page ...
+por favor|please
+¿Lo entiendes?|Do you understand?
+Sí, lo entiendo.|Yes, I understand.
+No, no lo entiendo.|No, I don't understand.
+¿Qué significa ...?|What does ... mean?
+¿Cómo se dice ...?|How do you say ...?
+Aquí esta ... (Aquí estan ...)|Here is ... (here are ...)
+Hay ...|There is ... (there are ...)
+Hay ...|There is, there are ...
+¿Cuántos hay ...?|There are how many ...?
+Los numeros cardinales 1-69|Cardinal Numbers 1-69
+uno|1
+dos|2
+tres|3
+cuatro|4
+cinco|5
+seis|6
+siete|7
+ocho|8
+nueve|9
+diez|10
+once|11
+doze|12
+trece|13
+catorce|14
+quinze|15
+diesis|16
+diecisiete|17
+dieciocho|18
+diecinueve|19
+veinte|20
+veintiuno|21
+veintidós|22
+veinteitres|23
+veinticuatro|24
+veinticinco|25
+veintiseis|26
+ventisiete|27
+veintiocho|28
+veintinueve|29
+trenta|30
+trentaiuno|31
+trentaidós|32
+trentainueve|39
+cuarenta|40
+cuarentaiuno|41
+cuarentaidós|42
+cuarentainueve|49
+cincuenta|50
+cincuentaiuno|51
+cincuentaidós|52
+cincuentainueve|59
+sesenta|60
+sesentaiuno|61
+sesentaidós|62
+sesentainueve|69
+la cita|the date
+el calendario|calendar
+el día|day
+¿Cuáles son los días de la semana?|What are the days of the week?
+Lunes|Monday
+Martes|Tuesday
+Miércoles|Wednesday
+Jueves|Thursday
+Viernes|Friday
+Sábado|Saturday
+Domingo|Sunday
+¿Qué día es hoy?|What day is it?
+Hoy es lunes.|It's Monday.
+hoy|today
+mañana|tomorrow
+la semana|week
+la próxima semana|next week
+la semana pasada|last week
+¿Qué fecha es?|What's the date?
+Es 1 de septiembre.|It's September 1st.
+Es 2 de octubre.|It's October 2nd.
+Es 30 de agosto.|It's August 30th.
+el mes|month
+¿Cuáles son los meses del año?|What are the months of the year?
+Enero|January
+Febrero|February
+Marzo|March
+Abril|April
+Mayo|May
+Junio|June
+Julio|July
+Agosto|August
+Septiembre|September
+Octubre|October
+Noviembre|November
+Diciembre|December

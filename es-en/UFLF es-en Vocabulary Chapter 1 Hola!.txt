@@ -2,7 +2,7 @@ salutaciones|salutations|greetings
 Señor|Monsieur|Sir
 Señora|Madame|Ma'am (Mrs.)
 Señorita|Mademoiselle|Miss
-Buenos días (hola), señor |Bonjour, Monsieur|Good day (Hello), Sir
+Buenos días (hola), señor|Bonjour, Monsieur|Good day (Hello), Sir
 Buenas tardes|Bonsoir|Good evening
 Adiós|Au revoir|Goodbye
 Hola!|Salut!|Hi!
@@ -12,7 +12,7 @@ Hasta mañana.|À demain.|See you tomorrow.
 Hasta luego.|À bientôt.|See you soon.
 ¿Cuál es tu nombre?|Comment vous appelez-vous?|What's your name? (formal)
 ¿Cómo te llamas?|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-Me llamo|Je m'appelle ...|My name is ...
+Me llamo ...|Je m'appelle ...|My name is ...
 ¿Cómo estas?|Comment allez-vous?|How are you? (formal)
 ¿Qué tal?|Comment vas-tu?|How are you? (informal)
 Estoy muy bien, gracias.|Je vais très bien, merci.|I am very well, thank you.
@@ -52,14 +52,14 @@ jubilado / jubilada|retraité / retraitée|retired man/woman
 interno / interna|stagiaire|intern
 la clase|la salle de classe|the classroom
 ¿Qué es esto?|Qu'est-ce que c'est?|What is it?
-Esto es ... |C'est ...|It's ...
-Es una clase|C'est une salle de classe.|It's a classroom.
-En la clase hay ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
+Esto es ...|C'est ...|It's ...
+Es una clase.|C'est une salle de classe.|It's a classroom.
+En la clase, hay ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
 una puerta|une porte|door
 una ventana|une fenêtre|window
 una pizarra|un tableau (noir)|blackboard
 una television|une télévision|television
-un mapa del mundo|une carte (du monde)|map (of the world)
+un mapa (del mundo)|une carte (du monde)|map (of the world)
 un poster|une affiche|poster
 una silla|une chaise|chair
 un escritorio|un bureau|desk
@@ -80,8 +80,8 @@ el examen|un examen|test
 en clase|en classe|in class
 Escucha.|Écoutez.|Listen.
 Escribe.|Écrivez.|Write.
-Levanta el dedo (la mano)|Levez le doigt.|Raise your finger (hand).
-Repite|Répétez.|Repeat.
+Levanta el dedo (la mano).|Levez le doigt.|Raise your finger (hand).
+Repite.|Répétez.|Repeat.
 Abre los libros.|Ouvrez vos livres.|Open your books.
 Pasa la página ...|Ouvrez le livre à la page ...|Turn to page ...
 por favor|s'il vous plaît|please
@@ -90,7 +90,7 @@ Sí, lo entiendo.|Oui, je comprends.|Yes, I understand.
 No, no lo entiendo.|Non, je ne comprends pas.|No, I don't understand.
 ¿Qué significa ...?|Que veut dire ...?|What does ... mean?
 ¿Cómo se dice ...?|Comment dit-on ...?|How do you say ...?
-¿Aquí esta/n ...|Voici ...|Here is ... (here are ...)
+Aquí esta ... (Aquí estan ...)|Voici ...|Here is ... (here are ...)
 Hay ...|Voilà ...|There is ... (there are ...)
 Hay ...|Il y a ...|There is, there are ...
 ¿Cuántos hay ...?|Il y a combien de ...?|There are how many ...?

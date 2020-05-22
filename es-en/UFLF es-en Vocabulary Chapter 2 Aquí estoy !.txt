@@ -48,7 +48,7 @@ preguntas interrogativas|mots interrogatifs|interrogative words
 ¿cómo?|comment?|how?
 ¿cuál? / ¿cuáles?|quel / quelle / quels / quelles|which?
 ¿Por qué?|pourquoi?|why?
-porque |parce que|because
+porque|parce que|because
 la hora|l'heure|time
 la hora|l'heure (f)|the time
 ¿Qué hora es?|Quelle heure est-il?|What time is it?
@@ -81,7 +81,7 @@ tener la necesidad de|avoir envie de...|to feel like (to want to)
 tener la intención de|avoir l'intention de...|to intend (to)
 buscar|chercher|to look for
 encontrar|trouver|to find
-El que busca lo encuentra|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
+(El que busca lo encuentra!)|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
 enamorarse de|tomber amoureux (de) /amoureuse (de)|to fall in love
 besar|embrasser|to kiss
 escuchar...|écouter...|to listen to...
@@ -101,7 +101,7 @@ quedarse en casa|rester à la maison|to stay at home
 estudiar|étudier|to study
 leer|lire|to read
 olvidar|oublier|to forget
-ver la televión|regarder la télévision|to watch television
+ver la televisión|regarder la télévision|to watch television
 llamar por teléfono|téléphoner à|to telephone
 hablar|parler|to speak
 jugar...|jouer...|to play...
@@ -124,7 +124,7 @@ algunas veces|quelquefois|sometimes
 a menudo|souvent|often
 siempre|toujours|always
 jamás / nunca|ne ... jamais|never
-continentes, Paises, Nacionalidades|continents, pays, nationalités|continents, Countries, Nationalities
+continentes, Países, Nacionalidades|continents, pays, nationalités|continents, Countries, Nationalities
 un continente|un continent|continent
 un país|un pays|country
 Africa / Africano(a)|l'Afrique (f) / africain (e)|Africa / African

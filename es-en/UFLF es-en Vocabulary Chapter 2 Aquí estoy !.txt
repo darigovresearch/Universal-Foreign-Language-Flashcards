@@ -1,154 +1,154 @@
-carnet de identidad|fiche d'identité|identification form
-apellido|Nom (de famille)|last name
-nombre y apellidos|Prénom(s)|first (and middle) name(s)
-edad|Age|age
-nacionalidad|Nationalité|nationality
-domicilio actual|Résidence actuelle|current address
-professión|Profession|profession
-aficiones|Passe-temps préférés|pastimes
-preguntas personales|questions personnelles|personal questions
-¿Cuál es tu nombre?|Comment vous appelez-vous?|What is your name?
-¿Cuántos años tienes?|Quel âge avez-vous?|How old are you?
-¿Cuál es tu nacionalidad?|Quelle est votre nationalité?|What is your nationality?
-¿De dónde eres?|Vous êtes d'où?|Where are you from?
-¿Dónde vives?|Où habitez-vous?|Where do you live?
-¿A qué te dedicas?|Que faites-vous dans la vie?|What do you do for a living?
-¿Cuáles son tus aficiones?|Quels sont vos passe-temps préférés?|What are your favorite pastimes?
-la familia|la famille|the family
-un hombre|un homme|man
-una mujer, esposa|une femme|woman, wife
-un marido|un mari|husband
-un prometido / una prometida|un fiancé / une fiancée|fiancé / fiancée
-los padres, parientes|des parents|parents, relatives
-un padre|un père|father
-una madre|une mère|mother
-un niño / una niña|un/une enfant|child
-un hijo|un fils|son
-una hija|une fille|daughter
-hijo único|un fils unique|only child (male)
-hija única|une fille unique|only child (female)
-un hermano|un frère|brother
-una hermana|une soeur|sister
-los abuelos|des grands-parents (m)|grandparents
-un abuelo|un grand-père|grandfather
-una abuela|une grand-mère|grandmother
-un nieto / una nieta|un petit-enfant|grandchild
-un tío|un oncle|uncle
-una tía|une tante|aunt
-un sobrino|un neveu|nephew
-una sobrina|une nièce|niece
-amigos|les amis|friends
-un amigo / una amiga|un ami / une amie|friend
-un amigo / una amiga|un/une camarade|friend
-un novio / una novia|un copain / une copine|friend; boyfriend / girlfriend
-preguntas interrogativas|mots interrogatifs|interrogative words
-¿dónde?|où?|where?
-¿cuándo?|quand?|when?
-¿quién?|qui?|who?
-¿cómo?|comment?|how?
-¿cuál? / ¿cuáles?|quel / quelle / quels / quelles|which?
-¿Por qué?|pourquoi?|why?
-porque|parce que|because
-la hora|l'heure|time
-la hora|l'heure (f)|the time
-¿Qué hora es?|Quelle heure est-il?|What time is it?
-Son las 8 en punto.|Il est huit heures.|It's 8 o'clock.
-Son las ocho y diez.|Il est huit heures dix.|It's ten after 8.
-Son las 8 y cuarto.|Il est huit heures et quart.|It's quarter after 8.
-Son las 8 y veinticinco.|Il est huit heures vingt-cinq.|It's twenty-five after 8.
-Son las ocho y media.|Il est huit heures et demie.|It's eight-thirty.
-Son las nueve menos veinte.|Il est neuf heures moins vingt.|It's twenty to nine.
-Son las nueve menos cuarto.|Il est neuf heures moins le quart.|It's quarter to nine.
-Es mediodía.|Il est midi.|It's noon.
-Son las doze y media.|Il est midi et demi.|It's twelve-thirty.
-Es medianoche.|Il est minuit.|It's midnight.
-Son las tres en punto...|Il est trois heures...|It's three o'clock...
-por la mañana|du matin|in the morning (3 a.m.)
-por la tarde|de l'après-midi|in the afternoon (3 p.m.)
-Son las siete en punto...|Il est sept heures...|It's seven o'clock...
-por la tarde-noche|du soir|in the evening (7 p.m.)
-la hora oficial|l'heure officielle|official time
-Son las 10 de la mañana.|Il est 10h.|It's 10 a.m.
-Son las 12:05h.|Il est 12h05.|It's 12:05 p.m.
-Son la 13:15h.|Il est 13h15.|It's 1:15 p.m.
-Son las 15:35h.|Il est 15h35.|It's 3:35 p.m.
-Son las 18:45h.|Il est 18h45.|It's 6:45 p.m.
-Son las 22:59h.|Il est 22h59.|It's 10:59 p.m.
-aficiones y actividades|passe-temps et activités|pastimes and activities
-tener|avoir|to have
-necesitar|avoir besoin de...|to need
-tener la necesidad de|avoir envie de...|to feel like (to want to)
-tener la intención de|avoir l'intention de...|to intend (to)
-buscar|chercher|to look for
-encontrar|trouver|to find
-(El que busca lo encuentra!)|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
-enamorarse de|tomber amoureux (de) /amoureuse (de)|to fall in love
-besar|embrasser|to kiss
-escuchar...|écouter...|to listen to...
-la música|de la musique|music
-cantar|chanter|to sing
-bailar|danser|to dance
-gustar, querer, amar|aimer|to like, to love
-la música clásica / el jazz|la musique classique / le jazz|classical music / jazz
-el hip-hop / la techno|le hip-hop / la techno|hip-hop / techno
-el deporte / el tennis / el fútbol|le sport / le tennis / le football|sports / tennis / soccer
-el baloncesto / el golf / correr|le basket / le golf / le footing|basketball / golf / running
-preferir|préférer|to prefer
-adorar|adorer|to adore
-detestar|détester|to detest
-vivir|habiter|to live
-quedarse en casa|rester à la maison|to stay at home
-estudiar|étudier|to study
-leer|lire|to read
-olvidar|oublier|to forget
-ver la televisión|regarder la télévision|to watch television
-llamar por teléfono|téléphoner à|to telephone
-hablar|parler|to speak
-jugar...|jouer...|to play...
-al fútbol / al tennis / a las cartas|au foot / au tennis / aux cartes|soccer / tennis / cards
-la guitarra / el piano|de la guitare / du piano|guitar / piano
-nadar|nager|to swim
-encontrar|rencontrer|to meet
-soñar|rêver|to dream
-trabajar|travailler|to work
-viajar|voyager|to travel
-adverbios|adverbes|adverbs
-también|aussi|also
-ahora|maintenant|now
-después|plus tard|later
-mucho|beaucoup|a lot
-un poco|peu / un peu|little / a little
-raramente|rarement|rarely
-a veces|parfois|at times
-algunas veces|quelquefois|sometimes
-a menudo|souvent|often
-siempre|toujours|always
-jamás / nunca|ne ... jamais|never
-continentes, Países, Nacionalidades|continents, pays, nationalités|continents, Countries, Nationalities
-un continente|un continent|continent
-un país|un pays|country
-Africa / Africano(a)|l'Afrique (f) / africain (e)|Africa / African
-Argelia / Argelino(a) / |l'Algérie (f) / algérien(ne)|Algeria / Algerian
-Marruecos / Marroquí|le Maroc / marocain(e)|Morocco / Moroccan
-Senegal / Senegalés(sa)|le Sénégal / sénégalais(e)|Senegal / Senegalese
-Tunez / Tunecino(a)|la Tunisie / tunisien(ne)|Tunisia / Tunisian
-Norte America / Norte Americano(a)|l'Amérique du Nord|North America
-Canada / Canadiense|le Canada / canadien(ne)|Canada / Canadian
-Estados Unidos / Americano(a)|les Etats-Unis / américain(e)|United States / American
-México / Mexicano(a)|le Mexique / mexicain(e)|Mexico / Mexican
-Suramérica / Suramericano(a)|l'Amérique du Sud|South American
-Guayana Francesa / Guayanés(sa)|la Guyane française / guyanais(e)|French Guyana / Guyanese
-Asia / Asiático(a)|l'Asie (f) / asiatique|Asia / Asian
-China / Chino(a)|la Chine / chinois(e)|China / Chinese
-Japonés / Japonés(sa)|le Japon / japonais(e)|Japan / Japanese
-Vietnam / Vietnamita|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
-Oceania |l'Océanie|Oceania (the South Sea Islands)
-Australia / Australiano(a)|l'Australie (f) / australien(ne)|Australia / Australian
-Europa / Europeo(a)|l'Europe (f) / européen(ne)|Europe / European
-Alemania / Alemán(a)|l'Allemagne (f) / allemand(e)|Germany / German
-Inglaterra / Inglés(sa)|l'Angleterre (f) / anglais(e)|England / English
-Bélgica / Belga|la Belgique / belge|Belgium / Belgian
-España / Español(a) |l'Espagne (f) / espagnol(e)|Spain / Spanish
-Francia / francés(sa)|la France / français(e)|France / French
-Italia / Italiano(a)|l'Italie (f) / italien(ne)|Italy / Italian
-Suiza / Suizo(a)|la Suisse / suisse|Switzerland / Swiss
+carnet de identidad|identification form
+apellido|last name
+nombre y apellidos|first (and middle) name(s)
+edad|age
+nacionalidad|nationality
+domicilio actual|current address
+professión|profession
+aficiones|pastimes
+preguntas personales|personal questions
+¿Cuál es tu nombre?|What is your name?
+¿Cuántos años tienes?|How old are you?
+¿Cuál es tu nacionalidad?|What is your nationality?
+¿De dónde eres?|Where are you from?
+¿Dónde vives?|Where do you live?
+¿A qué te dedicas?|What do you do for a living?
+¿Cuáles son tus aficiones?|What are your favorite pastimes?
+la familia|the family
+un hombre|man
+una mujer, esposa|woman, wife
+un marido|husband
+un prometido / una prometida|fiancé / fiancée
+los padres, parientes|parents, relatives
+un padre|father
+una madre|mother
+un niño / una niña|child
+un hijo|son
+una hija|daughter
+hijo único|only child (male)
+hija única|only child (female)
+un hermano|brother
+una hermana|sister
+los abuelos|grandparents
+un abuelo|grandfather
+una abuela|grandmother
+un nieto / una nieta|grandchild
+un tío|uncle
+una tía|aunt
+un sobrino|nephew
+una sobrina|niece
+amigos|friends
+un amigo / una amiga|friend
+un amigo / una amiga|friend
+un novio / una novia|friend; boyfriend / girlfriend
+preguntas interrogativas|interrogative words
+¿dónde?|where?
+¿cuándo?|when?
+¿quién?|who?
+¿cómo?|how?
+¿cuál? / ¿cuáles?|which?
+¿Por qué?|why?
+porque|because
+la hora|time
+la hora|the time
+¿Qué hora es?|What time is it?
+Son las 8 en punto.|It's 8 o'clock.
+Son las ocho y diez.|It's ten after 8.
+Son las 8 y cuarto.|It's quarter after 8.
+Son las 8 y veinticinco.|It's twenty-five after 8.
+Son las ocho y media.|It's eight-thirty.
+Son las nueve menos veinte.|It's twenty to nine.
+Son las nueve menos cuarto.|It's quarter to nine.
+Es mediodía.|It's noon.
+Son las doze y media.|It's twelve-thirty.
+Es medianoche.|It's midnight.
+Son las tres en punto...|It's three o'clock...
+por la mañana|in the morning (3 a.m.)
+por la tarde|in the afternoon (3 p.m.)
+Son las siete en punto...|It's seven o'clock...
+por la tarde-noche|in the evening (7 p.m.)
+la hora oficial|official time
+Son las 10 de la mañana.|It's 10 a.m.
+Son las 12:05h.|It's 12:05 p.m.
+Son la 13:15h.|It's 1:15 p.m.
+Son las 15:35h.|It's 3:35 p.m.
+Son las 18:45h.|It's 6:45 p.m.
+Son las 22:59h.|It's 10:59 p.m.
+aficiones y actividades|pastimes and activities
+tener|to have
+necesitar|to need
+tener la necesidad de|to feel like (to want to)
+tener la intención de|to intend (to)
+buscar|to look for
+encontrar|to find
+(El que busca lo encuentra!)|(Who looks for (searches), finds!)
+enamorarse de|to fall in love
+besar|to kiss
+escuchar...|to listen to...
+la música|music
+cantar|to sing
+bailar|to dance
+gustar, querer, amar|to like, to love
+la música clásica / el jazz|classical music / jazz
+el hip-hop / la techno|hip-hop / techno
+el deporte / el tennis / el fútbol|sports / tennis / soccer
+el baloncesto / el golf / correr|basketball / golf / running
+preferir|to prefer
+adorar|to adore
+detestar|to detest
+vivir|to live
+quedarse en casa|to stay at home
+estudiar|to study
+leer|to read
+olvidar|to forget
+ver la televisión|to watch television
+llamar por teléfono|to telephone
+hablar|to speak
+jugar...|to play...
+al fútbol / al tennis / a las cartas|soccer / tennis / cards
+la guitarra / el piano|guitar / piano
+nadar|to swim
+encontrar|to meet
+soñar|to dream
+trabajar|to work
+viajar|to travel
+adverbios|adverbs
+también|also
+ahora|now
+después|later
+mucho|a lot
+un poco|little / a little
+raramente|rarely
+a veces|at times
+algunas veces|sometimes
+a menudo|often
+siempre|always
+jamás / nunca|never
+continentes, Países, Nacionalidades|continents, Countries, Nationalities
+un continente|continent
+un país|country
+Africa / Africano(a)|Africa / African
+Argelia / Argelino(a) / |Algeria / Algerian
+Marruecos / Marroquí|Morocco / Moroccan
+Senegal / Senegalés(sa)|Senegal / Senegalese
+Tunez / Tunecino(a)|Tunisia / Tunisian
+Norte America / Norte Americano(a)|North America
+Canada / Canadiense|Canada / Canadian
+Estados Unidos / Americano(a)|United States / American
+México / Mexicano(a)|Mexico / Mexican
+Suramérica / Suramericano(a)|South American
+Guayana Francesa / Guayanés(sa)|French Guyana / Guyanese
+Asia / Asiático(a)|Asia / Asian
+China / Chino(a)|China / Chinese
+Japonés / Japonés(sa)|Japan / Japanese
+Vietnam / Vietnamita|Vietnam / Vietnamese
+Oceania |Oceania (the South Sea Islands)
+Australia / Australiano(a)|Australia / Australian
+Europa / Europeo(a)|Europe / European
+Alemania / Alemán(a)|Germany / German
+Inglaterra / Inglés(sa)|England / English
+Bélgica / Belga|Belgium / Belgian
+España / Español(a) |Spain / Spanish
+Francia / francés(sa)|France / French
+Italia / Italiano(a)|Italy / Italian
+Suiza / Suizo(a)|Switzerland / Swiss

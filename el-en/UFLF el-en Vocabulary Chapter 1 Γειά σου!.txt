@@ -1,178 +1,178 @@
-Χαιρετίσματα|salutations|greetings
-Κύριε|Monsieur|Sir
-Κύρια|Madame|Ma'am (Mrs.)
-Κύρια|Mademoiselle|Miss
-Γειά σας, Κύριε|Bonjour, Monsieur|Good day (Hello), Sir
-Καλό απόγεθμα|Bonsoir|Good evening
-Γeιά σας|Au revoir|Goodbye
-Γειά!|Salut!|Hi!
-Τα λέμε λίγο!|À tout à l'heure!|See you in a little while.
-Τα λέμε απόψε.|À ce soir.|See you this evening.
-Τα λέμε αύριο.|À demain.|See you tomorrow.
-|À bientôt.|See you soon.
-|Comment vous appelez-vous?|What's your name? (formal)
-Πως σε λένε;|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-Με λένε ...|Je m'appelle ...|My name is ...
-Τι κάνεις;|Comment allez-vous?|How are you? (formal)
-|Comment vas-tu?|How are you? (informal)
-Είμαι πολύ καλά, ευχαριστώ.|Je vais très bien, merci.|I am very well, thank you.
-Είμαι καλά, ευχαριστώ.|Je vais bien, merci.|I am fine, thank you.
-|Pas mal, merci.|Not bad, thank you.
-|Comment ça va?|How are things going?
-Υπέροχα, ευχαριστώ!|Bien, merci!|Great, thanks!
-Τα πράγματα πάνε καλά;|Ça va (bien)?|Are things going (well)?
-Τα πράγματα πάνε καλά.|Ça va bien.|Things are going (well).
-Και εσύ; Άπο που είσαι;|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-Και εσύ; Άπο που είσαι;|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-Σύσταση|présentations|introductions
-Κύριε, θέλω να σε συστήσω στο/στην ...|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-Αυτή/Αυτό είναι Η/Ο ...|Je te présente ...|This is ... (informal)
-Αυτή/Αυτό είναι Η/Ο ...|Voici ...|This is ...
-Ποιος είναι;|Qui est-ce?|Who is it?
-Είναι Η/Ο ...|C'est ...|It's ...
-Είναι ...|Ce sont ...|They are ...
-Τι είναι το όνομα της/του;|Comment s'appelle-t-il/elle?|What's his/her name?
-Το όνομα του/της είναι ...|Il/Elle s'appelle ...|His/Her name is ...
-Είναι απο το/την ...|Il/Elle est de ...|He/She is from ...
-Ποια είναι τα ονόματα τους;|Comment s'appellent-ils/elles?|What are their names?
-Τα ονόματα τους είναι ...|Ils/Elles s'appellent ...|Their names are ...
-Τι κάνει;|Qu'est-ce qu'il/elle fait?|What does he/she do?
-Τι κάνουν;|Qu'est-ce qu'ils/elles font?|What do they do?
-Είναι ...|Il est ... Elle est ...|He/She is a/an ...
-Ηθοποιός|acteur / actrice|actor / actress
-Αρχιτέκτονας|architecte|architect
-Τραγουδιστής / Τραγουδίστρια|chanteur / chanteuse|singer
-Κομμωτής / Κομμώτρια|coiffeur / coiffeuse|hair dresser
-Οδοντίατρος|dentiste|dentist
-Μηχανικός|ingénieur|engineer
-Δημοσιογράφος|journaliste|journalist
-Γιατρός|médecin|doctor
-Δάσκαλος / Δασκάλα|professeur|teacher, professor
-|retraité / retraitée|retired man/woman
-|stagiaire|intern
-Η τάξη|la salle de classe|the classroom
-Τι είναι;|Qu'est-ce que c'est?|What is it?
-Είναι ...|C'est ...|It's ...
-Είναι μια τάξη.|C'est une salle de classe.|It's a classroom.
-Στην τάξη, υπάρχει ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
-Πόρτα|une porte|door
-Παράθυρο|une fenêtre|window
-Πίνακας (μαύρος)|un tableau (noir)|blackboard
-Τηλεόραση|une télévision|television
-Ένας χάρτης (γεογραφικός)|une carte (du monde)|map (of the world)
-Εικόνα|une affiche|poster
-Καρέκλα|une chaise|chair
-Γραφείο|un bureau|desk
-Στο γραφείο, υπάρχει ...|Sur le bureau, il y a ...|On the desk, there is ...
-Κιμωλία|une craie|chalk
-Μολύβι|un crayon|pencil
-Στυλό|un stylo|pen
-|un cahier|notebook
-Βιβλίο|un livre|book
-Λεξικό|un dictionnaire|dictionary
-Σακίδιο|un sac à dos|backpack
-Στο εργαστήριο, υπάρχουν ...|Au labo, il y a ...|In the lab, there are ...
-Υπολογιστές|des ordinateurs (m)|computers
-Οι μαθητές εργάζονται!|Les étudiants travaillent!|The students work!
-|des devoirs (m)|homework
-Άσκηση|un exercice|exercise
-Εξέταση|un examen|test
-Στην τάξη|en classe|in class
-Άκου.|Écoutez.|Listen.
-Γράφε.|Écrivez.|Write.
-Σήκωσε το χέρι σου.|Levez le doigt.|Raise your finger (hand).
-|Répétez.|Repeat.
-Ανοίξτε τα βιβλία σας.|Ouvrez vos livres.|Open your books.
-|Ouvrez le livre à la page ...|Turn to page ...
-Σε παρακαλώ|s'il vous plaît|please
-Καταλαβαίνεις;|Vous comprenez?|Do you understand?
-Ναί, καταλαβαίνω.|Oui, je comprends.|Yes, I understand.
-'Οχι, δεν καταλαβαίνω.|Non, je ne comprends pas.|No, I don't understand.
-Τι σημαίνει ...;|Que veut dire ...?|What does ... mean?
-Πως λες ...;|Comment dit-on ...?|How do you say ...?
-Εδώ είναι ...|Voici ...|Here is ... (here are ...)
-Υπάρχει ... (Υπάρχουν ...)|Voilà ...|There is ... (there are ...)
-Υπάρχει ... (Υπάρχουν ...)|Il y a ...|There is, there are ...
-Πόσα/Πόσες ... υπάρχουν;|Il y a combien de ...?|There are how many ...?
-Τους βασικούς αριθμούς 1-69|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-Ένα|un, une|1
-Δύο|deux|2
-Τρία|trois|3
-Τέσσερα|quatre|4
-Πέντε|cinq|5
-Έξι|six|6
-Επτά|sept|7
-Οκτώ|huit|8
-Εννέα|neuf|9
-Δέκα|dix|10
-Έντεκα|onze|11
-Δώδεκα|douze|12
-Δέκατρια|treize|13
-Δεκατέσσερα|quatorze|14
-Δεκαπέντε|quinze|15
-Δεκαέξι|seize|16
-Δεκαεπτά|dix-sept|17
-Δεκαοκτώ|dix-huit|18
-Δεκαεννέα|dix-neuf|19
-Είκοσι|vingt|20
-Είκοσι ένα|vingt et un|21
-Είκοσι δύο|vingt-deux|22
-Είκοσι τρία|vingt-trois|23
-Είκοσι τέσσερα|vingt-quatre|24
-Είκοσι πέντε|vingt-cinq|25
-Είκοσι έξι|vingt-six|26
-Είκοσι επτά|vingt-sept|27
-Είκοσι οκτώ|vingt-huit|28
-Είκοσι εννέα|vingt-neuf|29
-Τριάντα|trente|30
-Τριάντα ένα|trente et un|31
-Τριάντα δύο|trente-deux|32
-Τριάντα εννέα|trente-neuf|39
-Σαράντα|quarante|40
-Σαράντα ένα|quarante et un|41
-Σαράντα δύο|quarante-deux|42
-Σαράντα εννέα|quarante-neuf|49
-Πενήντα|cinquante|50
-Πενήντα ένα|cinquante et un|51
-Πενήντα δύο|cinquante-deux|52
-Πενήντα εννέα|cinquante-neuf|59
-Εξήντα|soixante|60
-Εξήντα ένα|soixante et un|61
-Εξήντα δύο|soixante-deux|62
-Εξήντα εννέα|soixante-neuf|69
-Η ημερομηνία|la date|the date
-Ημερολόγιο|le calendrier|calendar
-Μέρα|le jour|day
-Ποιες είναι οι μέρες της εβδομάδας;|Quels sont les jours de la semaine?|What are the days of the week?
-Δευτέρα|lundi|Monday
-Τρίτη|mardi|Tuesday
-Τετάρτη|mercredi|Wednesday
-Πέμπτη|jeudi|Thursday
-Παρασκευή|vendredi|Friday
-Σάββατο|samedi|Saturday
-Κυριακή|dimanche|Sunday
-Τι μέρα είναι;|C'est quel jour?|What day is it?
-Είναι Δευτέρα.|C'est lundi.|It's Monday.
-Σήμερα|aujourd'hui|today
-Άυριο|demain|tomorrow
-Εβδομάδα|la semaine|week
-Την επόμενη εβδομάδα|la semaine prochaine|next week
-Την προηγούμενη εβδομάδα|la semaine dernière|last week
-Ποια είναι η ημερομηνία;|Quelle est la date?|What's the date?
-Είναι η πρώτη του Σεπτεμβρίου.|C'est le premier septembre.|It's September 1st.
-Είναι η δεύτερη του Οκτωβρίου.|C'est le deux octobre.|It's October 2nd.
-Είναι το τριακοστό του Αυγούστου.|C'est le 30 août.|It's August 30th.
-Μήνας|le mois|month
-Ποιοι είναι οι μήνες του έτους;|Quels sont les mois de l'année?|What are the months of the year?
-Ιανουάριος|janvier|January
-Φεβρουάριος|février|February
-Μάρτιος|mars|March
-Απρίλιος|avril|April
-Μαΐος|mai|May
-Ioύνιος|juin|June
-Ιούλιος|juillet|July
-Αύγουστος|août|August
-Σεπτέμβριος|septembre|September
-Οχτώβριος|octobre|October
-Νοέμβριος|novembre|November
-Δεκέμβριος|décembre|December
+Χαιρετίσματα|greetings
+Κύριε|Sir
+Κύρια|Ma'am (Mrs.)
+Κύρια|Miss
+Γειά σας, Κύριε|Good day (Hello), Sir
+Καλό απόγεθμα|Good evening
+Γeιά σας|Goodbye
+Γειά!|Hi!
+Τα λέμε λίγο!|See you in a little while.
+Τα λέμε απόψε.|See you this evening.
+Τα λέμε αύριο.|See you tomorrow.
+|See you soon.
+|What's your name? (formal)
+Πως σε λένε;|What's your name? (informal)
+Με λένε ...|My name is ...
+Τι κάνεις;|How are you? (formal)
+|How are you? (informal)
+Είμαι πολύ καλά, ευχαριστώ.|I am very well, thank you.
+Είμαι καλά, ευχαριστώ.|I am fine, thank you.
+|Not bad, thank you.
+|How are things going?
+Υπέροχα, ευχαριστώ!|Great, thanks!
+Τα πράγματα πάνε καλά;|Are things going (well)?
+Τα πράγματα πάνε καλά.|Things are going (well).
+Και εσύ; Άπο που είσαι;|And you? Where are you from? (formal)
+Και εσύ; Άπο που είσαι;|And you? Where are you from? (informal)
+Σύσταση|introductions
+Κύριε, θέλω να σε συστήσω στο/στην ...|Sir, I would like to introduce to you ... (formal)
+Αυτή/Αυτό είναι Η/Ο ...|This is ... (informal)
+Αυτή/Αυτό είναι Η/Ο ...|This is ...
+Ποιος είναι;|Who is it?
+Είναι Η/Ο ...|It's ...
+Είναι ...|They are ...
+Τι είναι το όνομα της/του;|What's his/her name?
+Το όνομα του/της είναι ...|His/Her name is ...
+Είναι απο το/την ...|He/She is from ...
+Ποια είναι τα ονόματα τους;|What are their names?
+Τα ονόματα τους είναι ...|Their names are ...
+Τι κάνει;|What does he/she do?
+Τι κάνουν;|What do they do?
+Είναι ...|He/She is a/an ...
+Ηθοποιός|actor / actress
+Αρχιτέκτονας|architect
+Τραγουδιστής / Τραγουδίστρια|singer
+Κομμωτής / Κομμώτρια|hair dresser
+Οδοντίατρος|dentist
+Μηχανικός|engineer
+Δημοσιογράφος|journalist
+Γιατρός|doctor
+Δάσκαλος / Δασκάλα|teacher, professor
+|retired man/woman
+|intern
+Η τάξη|the classroom
+Τι είναι;|What is it?
+Είναι ...|It's ...
+Είναι μια τάξη.|It's a classroom.
+Στην τάξη, υπάρχει ...|In the classroom, there is ...
+Πόρτα|door
+Παράθυρο|window
+Πίνακας (μαύρος)|blackboard
+Τηλεόραση|television
+Ένας χάρτης (γεογραφικός)|map (of the world)
+Εικόνα|poster
+Καρέκλα|chair
+Γραφείο|desk
+Στο γραφείο, υπάρχει ...|On the desk, there is ...
+Κιμωλία|chalk
+Μολύβι|pencil
+Στυλό|pen
+|notebook
+Βιβλίο|book
+Λεξικό|dictionary
+Σακίδιο|backpack
+Στο εργαστήριο, υπάρχουν ...|In the lab, there are ...
+Υπολογιστές|computers
+Οι μαθητές εργάζονται!|The students work!
+|homework
+Άσκηση|exercise
+Εξέταση|test
+Στην τάξη|in class
+Άκου.|Listen.
+Γράφε.|Write.
+Σήκωσε το χέρι σου.|Raise your finger (hand).
+|Repeat.
+Ανοίξτε τα βιβλία σας.|Open your books.
+|Turn to page ...
+Σε παρακαλώ|please
+Καταλαβαίνεις;|Do you understand?
+Ναί, καταλαβαίνω.|Yes, I understand.
+'Οχι, δεν καταλαβαίνω.|No, I don't understand.
+Τι σημαίνει ...;|What does ... mean?
+Πως λες ...;|How do you say ...?
+Εδώ είναι ...|Here is ... (here are ...)
+Υπάρχει ... (Υπάρχουν ...)|There is ... (there are ...)
+Υπάρχει ... (Υπάρχουν ...)|There is, there are ...
+Πόσα/Πόσες ... υπάρχουν;|There are how many ...?
+Τους βασικούς αριθμούς 1-69|Cardinal Numbers 1-69
+Ένα|1
+Δύο|2
+Τρία|3
+Τέσσερα|4
+Πέντε|5
+Έξι|6
+Επτά|7
+Οκτώ|8
+Εννέα|9
+Δέκα|10
+Έντεκα|11
+Δώδεκα|12
+Δέκατρια|13
+Δεκατέσσερα|14
+Δεκαπέντε|15
+Δεκαέξι|16
+Δεκαεπτά|17
+Δεκαοκτώ|18
+Δεκαεννέα|19
+Είκοσι|20
+Είκοσι ένα|21
+Είκοσι δύο|22
+Είκοσι τρία|23
+Είκοσι τέσσερα|24
+Είκοσι πέντε|25
+Είκοσι έξι|26
+Είκοσι επτά|27
+Είκοσι οκτώ|28
+Είκοσι εννέα|29
+Τριάντα|30
+Τριάντα ένα|31
+Τριάντα δύο|32
+Τριάντα εννέα|39
+Σαράντα|40
+Σαράντα ένα|41
+Σαράντα δύο|42
+Σαράντα εννέα|49
+Πενήντα|50
+Πενήντα ένα|51
+Πενήντα δύο|52
+Πενήντα εννέα|59
+Εξήντα|60
+Εξήντα ένα|61
+Εξήντα δύο|62
+Εξήντα εννέα|69
+Η ημερομηνία|the date
+Ημερολόγιο|calendar
+Μέρα|day
+Ποιες είναι οι μέρες της εβδομάδας;|What are the days of the week?
+Δευτέρα|Monday
+Τρίτη|Tuesday
+Τετάρτη|Wednesday
+Πέμπτη|Thursday
+Παρασκευή|Friday
+Σάββατο|Saturday
+Κυριακή|Sunday
+Τι μέρα είναι;|What day is it?
+Είναι Δευτέρα.|It's Monday.
+Σήμερα|today
+Άυριο|tomorrow
+Εβδομάδα|week
+Την επόμενη εβδομάδα|next week
+Την προηγούμενη εβδομάδα|last week
+Ποια είναι η ημερομηνία;|What's the date?
+Είναι η πρώτη του Σεπτεμβρίου.|It's September 1st.
+Είναι η δεύτερη του Οκτωβρίου.|It's October 2nd.
+Είναι το τριακοστό του Αυγούστου.|It's August 30th.
+Μήνας|month
+Ποιοι είναι οι μήνες του έτους;|What are the months of the year?
+Ιανουάριος|January
+Φεβρουάριος|February
+Μάρτιος|March
+Απρίλιος|April
+Μαΐος|May
+Ioύνιος|June
+Ιούλιος|July
+Αύγουστος|August
+Σεπτέμβριος|September
+Οχτώβριος|October
+Νοέμβριος|November
+Δεκέμβριος|December

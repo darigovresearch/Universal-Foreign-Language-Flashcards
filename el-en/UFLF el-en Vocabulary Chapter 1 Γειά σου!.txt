@@ -6,22 +6,22 @@
 Καλό απόγεθμα|Bonsoir|Good evening
 Γeιά σας|Au revoir|Goodbye
 Γειά!|Salut!|Hi!
-Τα λέμε λίγο|À tout à l'heure!|See you in a little while.
-Τα λέμε απόψε|À ce soir.|See you this evening.
-Τα λέμε αύριο|À demain.|See you tomorrow.
+Τα λέμε λίγο!|À tout à l'heure!|See you in a little while.
+Τα λέμε απόψε.|À ce soir.|See you this evening.
+Τα λέμε αύριο.|À demain.|See you tomorrow.
 |À bientôt.|See you soon.
 |Comment vous appelez-vous?|What's your name? (formal)
 Πως σε λένε;|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
 Με λένε ...|Je m'appelle ...|My name is ...
 Τι κάνεις;|Comment allez-vous?|How are you? (formal)
 |Comment vas-tu?|How are you? (informal)
-Είμαι πολύ καλά, ευχαριστώ|Je vais très bien, merci.|I am very well, thank you.
-Είμαι καλά, ευχαριστώ|Je vais bien, merci.|I am fine, thank you.
+Είμαι πολύ καλά, ευχαριστώ.|Je vais très bien, merci.|I am very well, thank you.
+Είμαι καλά, ευχαριστώ.|Je vais bien, merci.|I am fine, thank you.
 |Pas mal, merci.|Not bad, thank you.
 |Comment ça va?|How are things going?
 Υπέροχα, ευχαριστώ!|Bien, merci!|Great, thanks!
 Τα πράγματα πάνε καλά;|Ça va (bien)?|Are things going (well)?
-Τα πράγματα πάνε καλά|Ça va bien.|Things are going (well).
+Τα πράγματα πάνε καλά.|Ça va bien.|Things are going (well).
 Και εσύ; Άπο που είσαι;|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
 Και εσύ; Άπο που είσαι;|Et toi? Tu es d'où?|And you? Where are you from? (informal)
 Σύσταση|présentations|introductions
@@ -41,13 +41,13 @@
 Είναι ...|Il est ... Elle est ...|He/She is a/an ...
 Ηθοποιός|acteur / actrice|actor / actress
 Αρχιτέκτονας|architecte|architect
-Τραγουδιστής/Τραγουδίστρια|chanteur / chanteuse|singer
-Κομμωτής/Κομμώτρια|coiffeur / coiffeuse|hair dresser
+Τραγουδιστής / Τραγουδίστρια|chanteur / chanteuse|singer
+Κομμωτής / Κομμώτρια|coiffeur / coiffeuse|hair dresser
 Οδοντίατρος|dentiste|dentist
 Μηχανικός|ingénieur|engineer
 Δημοσιογράφος|journaliste|journalist
 Γιατρός|médecin|doctor
-Δάσκαλος/Δασκάλα|professeur|teacher, professor
+Δάσκαλος / Δασκάλα|professeur|teacher, professor
 |retraité / retraitée|retired man/woman
 |stagiaire|intern
 Η τάξη|la salle de classe|the classroom
@@ -78,18 +78,18 @@
 Άσκηση|un exercice|exercise
 Εξέταση|un examen|test
 Στην τάξη|en classe|in class
-Άκου|Écoutez.|Listen.
-Γράφε|Écrivez.|Write.
-Σήκωσε το χέρι σου|Levez le doigt.|Raise your finger (hand).
+Άκου.|Écoutez.|Listen.
+Γράφε.|Écrivez.|Write.
+Σήκωσε το χέρι σου.|Levez le doigt.|Raise your finger (hand).
 |Répétez.|Repeat.
-Ανοίξτε τα βιβλία σας|Ouvrez vos livres.|Open your books.
+Ανοίξτε τα βιβλία σας.|Ouvrez vos livres.|Open your books.
 |Ouvrez le livre à la page ...|Turn to page ...
 Σε παρακαλώ|s'il vous plaît|please
 Καταλαβαίνεις;|Vous comprenez?|Do you understand?
 Ναί, καταλαβαίνω.|Oui, je comprends.|Yes, I understand.
 'Οχι, δεν καταλαβαίνω.|Non, je ne comprends pas.|No, I don't understand.
-Τι σημαίνει ... ;|Que veut dire ...?|What does ... mean?
-Πως λες ... ;|Comment dit-on ...?|How do you say ...?
+Τι σημαίνει ...;|Que veut dire ...?|What does ... mean?
+Πως λες ...;|Comment dit-on ...?|How do you say ...?
 Εδώ είναι ...|Voici ...|Here is ... (here are ...)
 Υπάρχει ... (Υπάρχουν ...)|Voilà ...|There is ... (there are ...)
 Υπάρχει ... (Υπάρχουν ...)|Il y a ...|There is, there are ...

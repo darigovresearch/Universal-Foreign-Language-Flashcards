@@ -1,130 +1,130 @@
-|le visage|the face
-|la tête|head
-|les cheveux (m)|hair
-|le front|forehead
-|les sourcils (m)|eyebrows
-|les yeux (m)|eyes
-|le nez|nose
-|les joues (f)|cheeks
-|les oreilles (f)|ears
-|la bouche|mouth
-|les dents (f)|teeth
-|le menton|chin
-|le cou|neck
-|les couleurs(f)|colors
-|blanc / blanche|white
-|bleu / bleue|blue
-|gris / grise|gray
-|jaune|yellow
-|marron (invariable)|brown
-|noir / noire|black
-|orange (invariable)|orange
-|rouge|red
-|vert / verte|green
-|violet / violette|purple
-|le portrait physique|physical description
-|Quelle est votre taille (f)?|What's your height?
-|Je fais 1 m. 60.|I'm one meter 60.
-|de taille moyenne|of medium height
-|Combien pesez-vous?|How much do you weigh?
-|Je fais 55 kilos.|I weigh 55 kilos.
-|maigre|thin, skinny
-|mince|thin, slender
-|De quelle couleur sont vos cheveux?|What color is your hair?
-|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
-|Il est... Elle est...|He is... She is...
-|blond. blonde.|a blond.
-|brun. brune.|a brunette.
-|roux. rousse.|a red-head.
-|Comment est-il coiffé?|What is his hair like?
-|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
-|De quelle couleur sont vos yeux?|What color are your eyes?
-|J'ai les yeux marron.|I have brown eyes.
-|Quelle est la forme de son visage?|What's the shape of his face?
-|Il a le visage carré / long / rond.|He has a square / long / round face.
-|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
-|Il a de grandes oreilles.|He has big ears.
-|Il/Elle a...|He/She has...
-|des lunettes (f)|glasses
-|une cicatrice|scar
-|un piercing|body piercing
-|un tatouage|tattoo
-|le portrait moral (adjectifs)|psychological description
-|actif / active|active
-|agréable|pleasant
-|ambitieux / ambitieuse|ambitious
-|amusant / amusante|funny
-|arrogant / arrogante|arrogant
-|calme|calm
-|compétitif / compétitive|competitive
-|créatif / créative|creative
-|curieux / curieuse|curious
-|débrouillard / débrouillarde|resourceful
-|désagréable|unpleasant
-|drôle|funny
-|égoïste|selfish
-|ennuyeux / ennuyeuse|boring
-|enthousiaste|enthusiastic
-|être de bonne humeur|to be in a good mood
-|être de mauvaise humeur|to be in a bad mood
-|fou / folle|crazy
-|franc / franche|frank
-|généreux / généreuse|generous
-|gentil / gentille|kind, nice
-|heureux / heureuse|happy
-|honnête|honest
-|hypocrite|hypocritical
-|idéaliste|idealistic
-|incapable|incapable, incompetent
-|indifférent / indifférente|indifferent
-|intelligent / intelligente|intelligent
-|intéressant / intéressante|interesting
-|malhonnête|dishonest
-|mignon / mignonne|cute
-|naïf / naïve|naive
-|nerveux / nerveuse|nervous
-|optimiste|optimistic
-|paresseux / paresseuse|lazy
-|patient / patiente|patient
-|pessimiste|pessimistic
-|prétentieux / prétentieuse|pretentious
-|réaliste|realistic
-|réservé / réservée|reserved
-|sensible|sensitive
-|sérieux / sérieuse|serious
-|sincère|sincere
-|sociable|sociable
-|sportif / sportive|athletic
-|têtu / têtue|stubborn
-|timide|shy, timid
-|tolérant / tolérante|tolerant
-|travailleur / travailleuse|hard-working
-|adjectifs qui précèdent le nom|adjectives preceding the noun
-|autre|other
-|beau / bel / belle|beautiful
-|bon / bonne|good
-|grand / grande|tall, big
-|gros / grosse|big, fat
-|jeune|young
-|joli / jolie|pretty
-|long / longue|long
-|mauvais / mauvaise|bad
-|nouveau / nouvel / nouvelle|new
-|petit / petite|little
-|vieux / vieil / vieille|old
-|verbes pronominaux|pronominal verbs
-|se réveiller|to wake up
-|se lever|to get up
-|se laver|to wash (oneself)
-|s'habiller|to dress (oneself)
-|se brosser les dents|to brush your teeth
-|se brosser les cheveux|to brush your hair
-|se maquiller|to put on make-up
-|se raser|to shave
-|se coucher|to go to bed
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|se promener|to take a walk
-|se reposer|to rest
-|se fâcher|to get angry
+la cara|le visage|the face
+la cabeza|la tête|head
+el pelo|les cheveux (m)|hair
+la frente|le front|forehead
+las cejas|les sourcils (m)|eyebrows
+los ojos|les yeux (m)|eyes
+la nariz|le nez|nose
+las mejillas|les joues (f)|cheeks
+las orejas|les oreilles (f)|ears
+la boca|la bouche|mouth
+los dientes|les dents (f)|teeth
+la barbilla|le menton|chin
+el cuello|le cou|neck
+los colores|les couleurs(f)|colors
+blanco|blanc / blanche|white
+azul|bleu / bleue|blue
+gris|gris / grise|gray
+amarillo|jaune|yellow
+marrón|marron (invariable)|brown
+negro|noir / noire|black
+naranja|orange (invariable)|orange
+rojo|rouge|red
+verde|vert / verte|green
+lila|violet / violette|purple
+descripción física|le portrait physique|physical description
+¿Cuánto mides?|Quelle est votre taille (f)?|What's your height?
+(Yo)mido un metro sesenta|Je fais 1 m. 60.|I'm one meter 60.
+de altura media|de taille moyenne|of medium height
+¿Cuánto pesas?|Combien pesez-vous?|How much do you weigh?
+(Yo) peso 55 kilos.|Je fais 55 kilos.|I weigh 55 kilos.
+delagado, flaco|maigre|thin, skinny
+delgado, esbelto|mince|thin, slender
+¿De que color es tu pelo?|De quelle couleur sont vos cheveux?|What color is your hair?
+(Yo) tengo el pelo rubio / marrón / castaño claro / pelirojo.|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
+El es... Ella es...|Il est... Elle est...|He is... She is...
+rubio. rubia.|blond. blonde.|a blond.
+moreno. morena|brun. brune.|a brunette.
+pelirojo. peliroja.|roux. rousse.|a red-head.
+¿Cómo es su pelo?|Comment est-il coiffé?|What is his hair like?
+(El) tiene el pelo largo / corto / rizado / liso.|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
+¿De qué color son tus ojos?|De quelle couleur sont vos yeux?|What color are your eyes?
+Tengo ojos marrones.|J'ai les yeux marron.|I have brown eyes.
+¿Qué forma tiene su cara?|Quelle est la forme de son visage?|What's the shape of his face?
+(El) tiene cara cuadrada / alargada / redonda.|Il a le visage carré / long / rond.|He has a square / long / round face.
+(El) tiene un desaire / nariz puntiaguda.|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
+(El) tiene orejas grandes.|Il a de grandes oreilles.|He has big ears.
+(El)/(Ella) tiene...|Il/Elle a...|He/She has...
+gafas|des lunettes (f)|glasses
+una cicatriz|une cicatrice|scar
+una perforación|un piercing|body piercing
+un tatuaje|un tatouage|tattoo
+descripción psciológica|le portrait moral (adjectifs)|psychological description
+activo / activa|actif / active|active
+agradable|agréable|pleasant
+ambicioso / ambiciosa|ambitieux / ambitieuse|ambitious
+divertido / divertida|amusant / amusante|funny
+arrogante|arrogant / arrogante|arrogant
+calmado / calmada|calme|calm
+competitivo / competitiva|compétitif / compétitive|competitive
+creativo / creativa|créatif / créative|creative
+curioso / curiosa|curieux / curieuse|curious
+habilidoso / habilidosa|débrouillard / débrouillarde|resourceful
+desagradable|désagréable|unpleasant
+gracioso / divertida|drôle|funny
+egoísta|égoïste|selfish
+aburrido / aburrida|ennuyeux / ennuyeuse|boring
+entusiasta|enthousiaste|enthusiastic
+estar de buen humor|être de bonne humeur|to be in a good mood
+estar de mal humor|être de mauvaise humeur|to be in a bad mood
+loco / loca|fou / folle|crazy
+franco / franca|franc / franche|frank
+generoso / generosa|généreux / généreuse|generous
+amable, amable|gentil / gentille|kind, nice
+feliz|heureux / heureuse|happy
+honesto|honnête|honest
+hipócrita|hypocrite|hypocritical
+idealístico|idéaliste|idealistic
+incapaz, incompetente|incapable|incapable, incompetent
+indiferente|indifférent / indifférente|indifferent
+inteligente|intelligent / intelligente|intelligent
+interesante|intéressant / intéressante|interesting
+deshonesto / deshonesta|malhonnête|dishonest
+lindo / linda|mignon / mignonne|cute
+ingenuo / ingenua|naïf / naïve|naive
+nervioso / nerviosa|nerveux / nerveuse|nervous
+optimista|optimiste|optimistic
+vago / vaga|paresseux / paresseuse|lazy
+paciente|patient / patiente|patient
+pesimista|pessimiste|pessimistic
+pretencioso / pretenciosa|prétentieux / prétentieuse|pretentious
+realista|réaliste|realistic
+reservado|réservé / réservée|reserved
+sensible|sensible|sensitive
+serio / seria|sérieux / sérieuse|serious
+sincero|sincère|sincere
+sociable|sociable|sociable
+deportista|sportif / sportive|athletic
+tozudo / tozuda|têtu / têtue|stubborn
+tímido / tímida, tímido / tímida|timide|shy, timid
+tolerante|tolérant / tolérante|tolerant
+trabajador / trabajadora|travailleur / travailleuse|hard-working
+adjectivos que van delante del sustantivo|adjectifs qui précèdent le nom|adjectives preceding the noun
+otro|autre|other
+hermoso / hermosa|beau / bel / belle|beautiful
+bueno / buena|bon / bonne|good
+alto / alta, grande|grand / grande|tall, big
+grande, gordo / gorda|gros / grosse|big, fat
+joven|jeune|young
+bonito / bonita|joli / jolie|pretty
+largo / larga|long / longue|long
+malo / mala|mauvais / mauvaise|bad
+nuevo / nueva|nouveau / nouvel / nouvelle|new
+pequeño / pequeña|petit / petite|little
+viejo / vieja|vieux / vieil / vieille|old
+los verbos pronominales|verbes pronominaux|pronominal verbs
+despertarse|se réveiller|to wake up
+levantarse|se lever|to get up
+lavarse|se laver|to wash (oneself)
+vestirse|s'habiller|to dress (oneself)
+cepillarse los dientes|se brosser les dents|to brush your teeth
+peinarse|se brosser les cheveux|to brush your hair
+maquillarse|se maquiller|to put on make-up
+afeitarse|se raser|to shave
+irse a la cama|se coucher|to go to bed
+divertirse|s'amuser|to have fun
+aburrirse|s'ennuyer|to be bored
+apresurarse|se dépêcher|to hurry
+dar un pasep|se promener|to take a walk
+descansar|se reposer|to rest
+enfadarse|se fâcher|to get angry

@@ -48,18 +48,18 @@ en el este|dans l'est / à l'est|in the east
 en el oeste|dans l'ouest / à l'ouest|in the west
 en el centro|au centre|in the center
 en la costa|sur la côte|on the coast
-Francia|L'Hexagone|France
-Alsacia|l'Alsace (f)|Alsace
-Borgoña|la Bourgogne|Burgundy
-Bretaña|la Bretagne|Brittany
+la Francia|L'Hexagone|France
+la Alsacia|l'Alsace (f)|Alsace
+la Borgoña|la Bourgogne|Burgundy
+la Bretaña|la Bretagne|Brittany
 la Riviera francesa / la Costa Azul|la Côte d'Azur|the Riviera
-Córcega|la Corse|Corsica
+la Córcega|la Corse|Corsica
 la Isla de Francia|l'Ile de France (f)|Ile de France
 (la región Parisina)|(la région parisienne)|(Parisian region)
-Lorena|la Lorraine|Lorraine
-Normandía|la Normandie|Normandy
-Provenza|la Provence|Provence
-El Valle de Loira|la Vallée de la Loire|the Loire Valley
+la Lorena|la Lorraine|Lorraine
+la Normandía|la Normandie|Normandy
+la Provenza|la Provence|Provence
+el Valle de Loira|la Vallée de la Loire|the Loire Valley
 las actividades|les activités|activities
 ir|aller|to go
 ir al cine|aller au cinéma|to go to the movies

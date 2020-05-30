@@ -1,150 +1,150 @@
-el tiempo|le temps|weather
-¿Qué tiempo hace?|Quel temps fait-il?|What's the weather?
-Hace bueno.|Il fait beau.|It's nice.
-Hace calor.|Il fait chaud.|It's hot.
-Hace sol.|Il fait du soleil. / Il y a du soleil.|It's sunny.
-Hace fresco.|Il fait frais.|It's cool.
-Hace mal tiempo.|Il fait mauvais.|It's bad.
-Hace frío.|Il fait froid.|It's cold.
-Hay niebla.|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
-Hace viento.|Il fait du vent. / Il y a du vent.|It's windy.
-Está nublado.|Il y a des nuages.|It's cloudy.
-Hay tormenta.|Il y a des orages.|There are storms.
-Está lloviendo.|Il pleut.|It's raining.
-Está nevando.|Il neige.|It's snowing.
-las estaciones|les saisons|seasons
-la primavera / en primavera|le printemps / au printemps|spring / in the spring
-el verano / en verano|l'été (m) / en été|summer / in the summer
-el otoño / en otoño|l'automne (m) / en automne|fall / in the fall
-invierno / en invierno|l'hiver (m) / en hiver|winter / in the winter
-la geografía|la géographie|geography
-el campo|la campagne|countryside
-pueblo, ciudad|la ville|town, city
-una provincia|une province|province
-una región|une région|region
-un lago|un lac|lake
-un río mayor|un fleuve|major river (that flows to the sea)
-el Loira (río)|la Loire|the Loire (river)
-el Garona (río)|la Garonne|the Garonne (river)
-el Ródano (río)|le Rhône|the Rhône (river)
-el Sena (río)|la Seine|the Seine (river)
-el mar|la mer|sea
-el mar Mediterráneo|la mer Méditerranée|the Mediterranean Sea
-el océano|l'océan (m)|ocean
-el oceáno Atlántico|l'océan Atlantique|the Atlantic Ocean
-el Canal de la Mancha|la Manche|the English Channel
-la playa|la plage|beach
-un bosque|une forêt|forest
-la montaña|la montagne|mountain
-los Alpes|les Alpes (f)|the Alps
-el Macizo del Jura (montañas)|le Jura|the Jura (mountains)
-los Pirineos|les Pyrénées (f)|the Pyrenees
-el Macizo Central|le Massif Central|the Massif Central
-la Cordillera de los Vosgos|les Vosges (f)|the Vosges
-los puntos cardinales|les points cardinaux|points of the compass
-en el norte|dans le nord / au nord|in the north
-en el sud|dans le sud / au sud|in the south
-en el este|dans l'est / à l'est|in the east
-en el oeste|dans l'ouest / à l'ouest|in the west
-en el centro|au centre|in the center
-en la costa|sur la côte|on the coast
-la Francia|L'Hexagone|France
-la Alsacia|l'Alsace (f)|Alsace
-la Borgoña|la Bourgogne|Burgundy
-la Bretaña|la Bretagne|Brittany
-la Riviera francesa / la Costa Azul|la Côte d'Azur|the Riviera
-la Córcega|la Corse|Corsica
-la Isla de Francia|l'Ile de France (f)|Ile de France
-(la región Parisina)|(la région parisienne)|(Parisian region)
-la Lorena|la Lorraine|Lorraine
-la Normandía|la Normandie|Normandy
-la Provenza|la Provence|Provence
-el Valle de Loira|la Vallée de la Loire|the Loire Valley
-las actividades|les activités|activities
-ir|aller|to go
-ir al cine|aller au cinéma|to go to the movies
-ir a la dicoteca|aller en boîte|to go clubbing
-ir al concierto|aller au concert|to go to a concert
-ir a la universidad|aller à l'université|to go to the university
-ir al parque|aller au parc|to go to the park
-montar en bicicleta|faire de la bicyclette|to go bicycle riding
-ir en bote|faire du bateau|to go boating
-hacer windsurf|faire de la planche à voile|to go windsurfing
-hacer senderismo|faire des randonnées|to go hiking
-ir a esquiar|faire du ski|to go skiing
-montar en bicicleta|faire du vélo|to go cycling
-ir a navegar|faire de la voile|to go sailing
-dar un paseo|faire une promenade|to take a walk
-pasar las vacaciones|passer les vacances (f pl)|spend a vacation
-visitar... (un lugar, no una persona)|visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
-una catedral|une cathédrale|a cathedral
-un castillo|un château|a castle
-una exposición, espectáculo|une exposition|an exhibition, show
-un monumento|un monument|a monument
-un museo|un musée|a museum
-los medios de transporte|les transports|means of transport
-¿Cómo viajas?|Comment voyagez-vous?|How do you travel?
-(Yo) viajo...|Je voyage...|I travel...
-en avión / avión|en avion / un avion|by plane / plane
-en barco / barco|en bateau / un bateau|by boat / boat
-en tren / tren|en train / un train|by train / train
-en bus turístico (de una ciudad a otra) / bus turístico|en car / un car|by tour bus (from city to city) / tour bus
-en coche / coche|en voiture / une voiture|by car / car
-¿Cómo vas... (a la universidad, a la casa de tus padres, al trabajo, etc.)?|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
-(Yo) voy...|Je vais...|I go...
-en metro / metro|en métro / le métro|by subway / subway
-en autobús / autobús|en bus / un bus|by bus / bus
-en taxi / taxi|en taxi / un taxi|by taxi / taxi
-en moto / moto|à moto / une moto|by motorcycle / motorcycle
-en bicicleta / bicicleta|à vélo / un vélo|by bicycle / bicycle
-a pie|à pied|on foot
-verbos|verbes|verbs
-comprar|acheter|to buy
-traer a alguien|amener|to bring somebody (along)
-cambiar|changer|to change
-dormir|dormir|to sleep
-llevar a alguien|emmener|to take somebody (along)
-esperar|espérer|to hope
-intentar|essayer|to try
-comer|manger|to eat
-nadar|nager|to swim
-compartir|partager|to share
-marchar|partir|to leave
-salir|sortir|to go out
-los números cardinales 70-100|les nombres cardinaux 70-100|Cardinal Numbers 70-100
-setenta|soixante-dix|70
-setenta y uno|soixante et onze|71
-setenta y dos|soixante-douze|72
-setenta y tres|soixante-treize|73
-setenta y cuatro|soixante-quatorze|74
-setenta y cinco|soixante-quinze|75
-setenta y seis|soixante-seize|76
-setenta y siete|soixante-dix-sept|77
-setenta y ocho|soixante-dix-huit|78
-setenta y nueve|soixante-dix-neuf|79
-ochenta|quatre-vingts|80
-ochenta y uno|quatre-vingt-un|81
-ochenta y dos|quatre-vingt-deux|82
-ochenta y tres|quatre-vingt-trois|83
-ochenta y cuatro|quatre-vingt-quatre|84
-ochenta y cinco|quatre-vingt-cinq|85
-ochenta y seis|quatre-vingt-six|86
-ochenta y siete|quatre-vingt-sept|87
-ochenta y ocho|quatre-vingt-huit|88
-ochenta y nueve|quatre-vingt-neuf|89
-noventa|quatre-vingt-dix|90
-noventa y uno|quatre-vingt-onze|91
-noventa y dos|quatre-vingt-douze|92
-noventa y tres|quatre-vingt-treize|93
-noventa y cuatro|quatre-vingt-quatorze|94
-noventa y cinco|quatre-vingt-quinze|95
-noventa y seis|quatre-vingt-seize|96
-noventa y siete|quatre-vingt-dix-sept|97
-noventa y ocho|quatre-vingt-dix-huit|98
-noventa y nueve|quatre-vingt-dix-neuf|99
-cien|cent|100
-ciento dos|cent deux|102
-dos cientos|deux cents|200
-mil|mille|1.000
-dos mil|deux mille|2.000
-un millón|un million|1.000.000
+el tiempo|weather
+¿Qué tiempo hace?|What's the weather?
+Hace bueno.|It's nice.
+Hace calor.|It's hot.
+Hace sol.|It's sunny.
+Hace fresco.|It's cool.
+Hace mal tiempo.|It's bad.
+Hace frío.|It's cold.
+Hay niebla.|It's foggy.
+Hace viento.|It's windy.
+Está nublado.|It's cloudy.
+Hay tormenta.|There are storms.
+Está lloviendo.|It's raining.
+Está nevando.|It's snowing.
+las estaciones|seasons
+la primavera / en primavera|spring / in the spring
+el verano / en verano|summer / in the summer
+el otoño / en otoño|fall / in the fall
+invierno / en invierno|winter / in the winter
+la geografía|geography
+el campo|countryside
+pueblo, ciudad|town, city
+una provincia|province
+una región|region
+un lago|lake
+un río mayor|major river (that flows to the sea)
+el Loira (río)|the Loire (river)
+el Garona (río)|the Garonne (river)
+el Ródano (río)|the Rhône (river)
+el Sena (río)|the Seine (river)
+el mar|sea
+el mar Mediterráneo|the Mediterranean Sea
+el océano|ocean
+el oceáno Atlántico|the Atlantic Ocean
+el Canal de la Mancha|the English Channel
+la playa|beach
+un bosque|forest
+la montaña|mountain
+los Alpes|the Alps
+el Macizo del Jura (montañas)|the Jura (mountains)
+los Pirineos|the Pyrenees
+el Macizo Central|the Massif Central
+la Cordillera de los Vosgos|the Vosges
+los puntos cardinales|points of the compass
+en el norte|in the north
+en el sud|in the south
+en el este|in the east
+en el oeste|in the west
+en el centro|in the center
+en la costa|on the coast
+la Francia|France
+la Alsacia|Alsace
+la Borgoña|Burgundy
+la Bretaña|Brittany
+la Riviera francesa / la Costa Azul|the Riviera
+la Córcega|Corsica
+la Isla de Francia|Ile de France
+(la región Parisina)|(Parisian region)
+la Lorena|Lorraine
+la Normandía|Normandy
+la Provenza|Provence
+el Valle de Loira|the Loire Valley
+las actividades|activities
+ir|to go
+ir al cine|to go to the movies
+ir a la dicoteca|to go clubbing
+ir al concierto|to go to a concert
+ir a la universidad|to go to the university
+ir al parque|to go to the park
+montar en bicicleta|to go bicycle riding
+ir en bote|to go boating
+hacer windsurf|to go windsurfing
+hacer senderismo|to go hiking
+ir a esquiar|to go skiing
+montar en bicicleta|to go cycling
+ir a navegar|to go sailing
+dar un paseo|to take a walk
+pasar las vacaciones|spend a vacation
+visitar... (un lugar, no una persona)|to visit... (a place, not a person)
+una catedral|a cathedral
+un castillo|a castle
+una exposición, espectáculo|an exhibition, show
+un monumento|a monument
+un museo|a museum
+los medios de transporte|means of transport
+¿Cómo viajas?|How do you travel?
+(Yo) viajo...|I travel...
+en avión / avión|by plane / plane
+en barco / barco|by boat / boat
+en tren / tren|by train / train
+en bus turístico (de una ciudad a otra) / bus turístico|by tour bus (from city to city) / tour bus
+en coche / coche|by car / car
+¿Cómo vas... (a la universidad, a la casa de tus padres, al trabajo, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+(Yo) voy...|I go...
+en metro / metro|by subway / subway
+en autobús / autobús|by bus / bus
+en taxi / taxi|by taxi / taxi
+en moto / moto|by motorcycle / motorcycle
+en bicicleta / bicicleta|by bicycle / bicycle
+a pie|on foot
+verbos|verbs
+comprar|to buy
+traer a alguien|to bring somebody (along)
+cambiar|to change
+dormir|to sleep
+llevar a alguien|to take somebody (along)
+esperar|to hope
+intentar|to try
+comer|to eat
+nadar|to swim
+compartir|to share
+marchar|to leave
+salir|to go out
+los números cardinales 70-100|Cardinal Numbers 70-100
+setenta|70
+setenta y uno|71
+setenta y dos|72
+setenta y tres|73
+setenta y cuatro|74
+setenta y cinco|75
+setenta y seis|76
+setenta y siete|77
+setenta y ocho|78
+setenta y nueve|79
+ochenta|80
+ochenta y uno|81
+ochenta y dos|82
+ochenta y tres|83
+ochenta y cuatro|84
+ochenta y cinco|85
+ochenta y seis|86
+ochenta y siete|87
+ochenta y ocho|88
+ochenta y nueve|89
+noventa|90
+noventa y uno|91
+noventa y dos|92
+noventa y tres|93
+noventa y cuatro|94
+noventa y cinco|95
+noventa y seis|96
+noventa y siete|97
+noventa y ocho|98
+noventa y nueve|99
+cien|100
+ciento dos|102
+dos cientos|200
+mil|1.000
+dos mil|2.000
+un millón|1.000.000

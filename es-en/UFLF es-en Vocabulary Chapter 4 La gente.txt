@@ -24,7 +24,7 @@ verde|vert / verte|green
 lila|violet / violette|purple
 descripción física|le portrait physique|physical description
 ¿Cuánto mides?|Quelle est votre taille (f)?|What's your height?
-(Yo)mido un metro sesenta|Je fais 1 m. 60.|I'm one meter 60.
+(Yo) mido un metro sesenta.|Je fais 1 m. 60.|I'm one meter 60.
 de altura media|de taille moyenne|of medium height
 ¿Cuánto pesas?|Combien pesez-vous?|How much do you weigh?
 (Yo) peso 55 kilos.|Je fais 55 kilos.|I weigh 55 kilos.
@@ -34,7 +34,7 @@ delgado, esbelto|mince|thin, slender
 (Yo) tengo el pelo rubio / marrón / castaño claro / pelirojo.|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
 El es... Ella es...|Il est... Elle est...|He is... She is...
 rubio. rubia.|blond. blonde.|a blond.
-moreno. morena|brun. brune.|a brunette.
+moreno. morena.|brun. brune.|a brunette.
 pelirojo. peliroja.|roux. rousse.|a red-head.
 ¿Cómo es su pelo?|Comment est-il coiffé?|What is his hair like?
 (El) tiene el pelo largo / corto / rizado / liso.|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
@@ -96,7 +96,7 @@ sincero|sincère|sincere
 sociable|sociable|sociable
 deportista|sportif / sportive|athletic
 tozudo / tozuda|têtu / têtue|stubborn
-tímido / tímida, tímido / tímida|timide|shy, timid
+tímido / tímida|timide|shy, timid
 tolerante|tolérant / tolérante|tolerant
 trabajador / trabajadora|travailleur / travailleuse|hard-working
 adjectivos que van delante del sustantivo|adjectifs qui précèdent le nom|adjectives preceding the noun
@@ -125,6 +125,6 @@ irse a la cama|se coucher|to go to bed
 divertirse|s'amuser|to have fun
 aburrirse|s'ennuyer|to be bored
 apresurarse|se dépêcher|to hurry
-dar un pasep|se promener|to take a walk
+dar un paseo|se promener|to take a walk
 descansar|se reposer|to rest
 enfadarse|se fâcher|to get angry

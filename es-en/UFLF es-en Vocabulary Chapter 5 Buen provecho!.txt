@@ -1,191 +1,191 @@
-en la mesa|à table|at the table
-un vaso|un verre|glass
-una taza|une tasse|cup
-un bol|un bol|bowl
-un plato|une assiette|plate
-un cuchillo|un couteau|knife
-un tenedor|une fourchette|fork
-una cuchara|une cuillère|spoon
-la cocina|la cuisine|kitchen, cooking
-una comida|un repas|meal
-desayuno|le petit déjeuner|breakfast
-almuerzo|le déjeuner|lunch
-aperitivo|le goûter|snack
-cena|le dîner|dinner, supper
-en el mercado, en el supermercado|au marché, au supermarché|at the market, at the supermarket
-las frutas|des fruits (m)|fruits
-los plátanos|des bananes (f)|bananas
-las cerezas|des cerises (f)|cherries
-los limones|des citrons (m)|lemons
-las fresas|des fraises (f)|strawberries
-las frambuesas|des framboises (f)|raspberries
-las naranjas|des oranges (f)|oranges
-los pomelos|des pamplemousses (m)|grapefruit
-los melocotones|des pêches (f)|peaches
-las peras|des poires (f)|pears
-las manzanas|des pommes (f)|apples
-las uvas|du raisin|grapes
-las verduras|des légumes (m)|vegetables
-el ajo|de l'ail (m)|garlic
-los espárragos|des asperges (f)|asparagus
-las berenjenas|des aubergines (f)|eggplants
-las zanahorias|des carottes (f)|carrots
-los champiñones|des champignons (m)|mushrooms
-el repollo|des choux (m)|cabbage
-los pepinos|des concombres (m)|cucumbers
-el calabacín|des courgettes (f)|zucchini
-las espinacas|des épinards (m)|spinach
-las judías verdes|des haricots verts (m)|green beans
-la lechuga|une/de la laitue|lettuce
-las cebollas|des oignons (m)|onions
-los guisantes|des petits pois (m)|peas
-los puerros|des poireaux (m)|leeks
-los pimientos verdes|des poivrons verts (m)|green peppers
-las patatas|des pommes de terre (f)|potatoes
-la ensalada, la lechuga|de la salade|salad, lettuce
-los tomates|des tomates (f)|tomatoes
-la carnicería|à la boucherie|at the butcher shop
-En la carnicería, (tu) compras ...|Chez le boucher, on achète ...|At the butcher's, you buy ...
-la carne|de la viande|meat
-carne de res|du boeuf|beef
-carne de cerdo|du porc|pork
-carne de ternera|du veau|veal
-pato|du canard|duck
-pavo|de la dinde|turkey
-pollo|du poulet|chicken
-en la charcutería, delicatessen|à la charcuterie|at the pork butcher shop, delicatessen
-En la charcutería, (tu) compras ...|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
-el jamón|du jambon|ham
-el paté|du pâté|pâté
-las salchichas|des saucisses (f)|sausages
-el salchichón|du saucisson|hard sausage
-en la pescaderia|à la poissonnerie|at the seafood shop
-En la pescaderia, (tu) compras|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
-pescado|du poisson|fish
-salmón|du saumon|salmon
-lenguado|de la sole|sole
-atún|du thon|tuna
-en la frutería|à l'épicerie|at the grocery store
-En la frutería, (tu) encuentras ...|Chez l'épicier, on trouve ...|At the grocer's, you find ...
-cereal|des céréales (m)|cereal
-huevos|un oeuf, des oeufs|eggs
-nueces|des noix (f)|walnuts
-productos lácteos|des produits laitiers|dairy products
-mantequilla|du beurre|butter
-leche|du lait|milk
-queso|du fromage|cheese
-yogurt|du yaourt|yogurt
-helado|de la glace|ice cream
-espécies|des épices (f)|spices
-sal|du sel|salt
-pimienta|du poivre|pepper
-aceite|de l'huile (f)|oil
-vinagre|du vinaigre|vinegar
-mayonesa|de la mayonnaise|mayonnaise
-mostaza|de la moutarde|mustard
-en la panadería|à la boulangerie-pâtisserie|at the bakery-pastry shop
-En la panadería, (tu) encuentras ...|Chez le boulanger, on trouve ...|At the baker's, you find ...
-pan|du pain|bread
-una barra de pan|une baguette|baguette
-un bollo|une brioche|brioche
-un cruasán|un croissant|croissant
-un panecillo|un petit pain|roll
-En la pastelería, (tu) encuentras ...|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
-las pastas|des pâtisseries (f)|pastries
-un pastel|un gâteau|cake
-un pastel de chocolate|un gâteau au chocolat|chocolate cake
-una tarta|une tarte|tart
-una tarta de manzana|une tarte aux pommes|apple tart
-una tarta de limón|une tarte au citron|lemon tart
-una tarta de fresas|une tarte à la fraise|strawberry tart
-en la cafetería|au café|at the café
-En la cafetería, (tu) pides|Au café, on commande ...|At the café, you order ...
-unas bebidas no alcohólicas|des boissons non-alcoolisées|non-alcoholic beverages
-un café|du café|coffee
-un té|du thé|tea
-una cocacola|du coca-cola|cola
-agua|de l'eau (f)|water
-un agua mineral|de l'eau minérale|mineral water
-un zumo de fruta|du jus de fruit|fruit juice
-unas bebidas alcohólicas|des boissons alcoolisées|alcoholic beverages
-una cerveza|de la bière|beer
-un champán|du champagne|champagne
-un vino|du vin|wine
-un vino blanco|du vin blanc (du blanc)|white wine
-un vino rosado|du vin rosé (du rosé)|rosé wine
-un vino rojo|du vin rouge (du rouge)|red wine
-un bocata de jamón y mantequilla|un sandwich jambon beurre|sandwich with ham and butter
-un sandwich tostado de queso y jamón|un croque-monsieur|toasted cheese sandwich with ham
-un croque-monsieur con un huveo frito|un croque-madame|croque-monsieur with a fried egg
-una quiche (lorena, salmón, etc.)|une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
-una tortilla (de hierbas, queso)|une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
-en el restaurante|au restaurant|at the restaurant
-En el restaurante, (tu) pides ...|Au restaurant, on commande ...|At the restaurant, you order ...
-un aperitivo|un apéritif (m)|before dinner drink
-un entrante|une entrée (f)|appetizer / first course
-un plato principal|un plat principal|main course
-un postre|un dessert|dessert
-una bebida|une boisson|drink, beverage
-los platos típicos franceses|des plats typiquement français|typical French dishes
-los aperitivos|des entrées|appetizers
-verduras crudas con vinagre|des crudités (f)|raw vegetables plus vinaigrette
-una ensalada (con tocino, nueces, etc.)|une salade (avec des lardons, des noix, etc.)|salad (with bacon, nuts, etc.)
-una sopa de cebolla|de la soupe à l'oignon|onion soup
-platos principales|des plats principaux|main courses
-en estofado de carne con vino tinto|du boeuf bourguignon|beef stewed in red wine
-un pollo guisado en vino tinto|du coq au vin|chicken (rooster) stewed in red wine
-un bistec y patatas fritas|un steak-frites|steak and French fries
-los postres|des desserts|desserts
-un mousse de chocolate|de la mousse au chocolat|chocolate mousse
-flan de caramelo|de la crème caramel|caramel custard
-una crème brûlée|de la crème brûlée|crème brûlée
-una fondant de chocolate|du fondant au chocolat|rich chocolate flourless cake
-expresiones de cantidad|expressions de quantité|expressions of quantity
-un poco|un peu de|a little
-suficiente|assez de|enough
-mucho|beaucoup de|a lot
-demasiado|trop de|too much (too many)
-una cucharada de|une cuillère de|a spoonful of
-una botella de|une bouteille de|a bottle of
-una pizca de|un pichet de|a pitcher of
-un litro de|un litre de|a liter of
-50 gramos de|50 grammes de|50 grams of
-un kilo de|un kilo de|a kilo of
-un trozo de|un morceau de|a piece of
-una rebanada de|une tranche de|a slice of
-un lata de|une boîte de|a can of
-carne asada|un rôti de boeuf|a beef roast
-una chuleta de cerdo|une côtelette de porc|a pork chop
-una docena de huevos|une douzaine d'oeufs|a dozen eggs
-adjetivos|adjectifs|adjectives
-delicioso / deliciosa|délicieux / délicieuse|delicious
-fresco / fresca|frais / fraîche|fresh
-picante|épicé(e)|spicy
-al grill|grillé(e)|grilled
-cortado / cortada|hâché(e)|chopped
-salado(a)|salé(e)|salty
-azucarado(a)|sucré(e)|sweet
-los verbos|verbes|verbs
-tener hambre / tener sed|avoir faim / avoir soif|to be hungry / to be thirsty
-beber|boire|to drink
-almorzar|déjeuner|to have lunch
-cenar|dîner|to have dinner
-ir a comprar al supermercado|faire le marché|to go grocery shopping
-cocinar|faire la cuisine|to cook
-tener una comida|prendre un repas|to have a meal
-fregar los platos|faire la vaisselle|to do the dishes
-engordar|grossir|to gain weight
-hacer dieta|faire un régime|to be on a diet
-perder peso|maigrir|to lose weight
-escoger|choisir|to choose
-acabar|finir|to finish
-crecer|grandir|to grow up
-obedecer|obéir à|to obey
-reflexionar|réfléchir à|to reflect (on)
-tener éxito|réussir à|to succeed
-creer|croire|to believe
-tomar|prendre|to take
-aprender|(apprendre à quelqu'un)|to learn
-enseñar|apprendre|(to teach someone)
-entender|comprendre|to understand
-sorprender|surprendre|to surprise
+en la mesa|at the table
+un vaso|glass
+una taza|cup
+un bol|bowl
+un plato|plate
+un cuchillo|knife
+un tenedor|fork
+una cuchara|spoon
+la cocina|kitchen, cooking
+una comida|meal
+desayuno|breakfast
+almuerzo|lunch
+aperitivo|snack
+cena|dinner, supper
+en el mercado, en el supermercado|at the market, at the supermarket
+las frutas|fruits
+los plátanos|bananas
+las cerezas|cherries
+los limones|lemons
+las fresas|strawberries
+las frambuesas|raspberries
+las naranjas|oranges
+los pomelos|grapefruit
+los melocotones|peaches
+las peras|pears
+las manzanas|apples
+las uvas|grapes
+las verduras|vegetables
+el ajo|garlic
+los espárragos|asparagus
+las berenjenas|eggplants
+las zanahorias|carrots
+los champiñones|mushrooms
+el repollo|cabbage
+los pepinos|cucumbers
+el calabacín|zucchini
+las espinacas|spinach
+las judías verdes|green beans
+la lechuga|lettuce
+las cebollas|onions
+los guisantes|peas
+los puerros|leeks
+los pimientos verdes|green peppers
+las patatas|potatoes
+la ensalada, la lechuga|salad, lettuce
+los tomates|tomatoes
+la carnicería|at the butcher shop
+En la carnicería, (tu) compras ...|At the butcher's, you buy ...
+la carne|meat
+carne de res|beef
+carne de cerdo|pork
+carne de ternera|veal
+pato|duck
+pavo|turkey
+pollo|chicken
+en la charcutería, delicatessen|at the pork butcher shop, delicatessen
+En la charcutería, (tu) compras ...|At the pork butcher's, you buy ...
+el jamón|ham
+el paté|pâté
+las salchichas|sausages
+el salchichón|hard sausage
+en la pescaderia|at the seafood shop
+En la pescaderia, (tu) compras|At the fish merchant's, you buy ...
+pescado|fish
+salmón|salmon
+lenguado|sole
+atún|tuna
+en la frutería|at the grocery store
+En la frutería, (tu) encuentras ...|At the grocer's, you find ...
+cereal|cereal
+huevos|eggs
+nueces|walnuts
+productos lácteos|dairy products
+mantequilla|butter
+leche|milk
+queso|cheese
+yogurt|yogurt
+helado|ice cream
+espécies|spices
+sal|salt
+pimienta|pepper
+aceite|oil
+vinagre|vinegar
+mayonesa|mayonnaise
+mostaza|mustard
+en la panadería|at the bakery-pastry shop
+En la panadería, (tu) encuentras ...|At the baker's, you find ...
+pan|bread
+una barra de pan|baguette
+un bollo|brioche
+un cruasán|croissant
+un panecillo|roll
+En la pastelería, (tu) encuentras ...|At the pastry chef's, you find ...
+las pastas|pastries
+un pastel|cake
+un pastel de chocolate|chocolate cake
+una tarta|tart
+una tarta de manzana|apple tart
+una tarta de limón|lemon tart
+una tarta de fresas|strawberry tart
+en la cafetería|at the café
+En la cafetería, (tu) pides|At the café, you order ...
+unas bebidas no alcohólicas|non-alcoholic beverages
+un café|coffee
+un té|tea
+una cocacola|cola
+agua|water
+un agua mineral|mineral water
+un zumo de fruta|fruit juice
+unas bebidas alcohólicas|alcoholic beverages
+una cerveza|beer
+un champán|champagne
+un vino|wine
+un vino blanco|white wine
+un vino rosado|rosé wine
+un vino rojo|red wine
+un bocata de jamón y mantequilla|sandwich with ham and butter
+un sandwich tostado de queso y jamón|toasted cheese sandwich with ham
+un croque-monsieur con un huveo frito|croque-monsieur with a fried egg
+una quiche (lorena, salmón, etc.)|quiche (lorraine, salmon, etc.)
+una tortilla (de hierbas, queso)|omelette (with herbs, cheese)
+en el restaurante|at the restaurant
+En el restaurante, (tu) pides ...|At the restaurant, you order ...
+un aperitivo|before dinner drink
+un entrante|appetizer / first course
+un plato principal|main course
+un postre|dessert
+una bebida|drink, beverage
+los platos típicos franceses|typical French dishes
+los aperitivos|appetizers
+verduras crudas con vinagre|raw vegetables plus vinaigrette
+una ensalada (con tocino, nueces, etc.)|salad (with bacon, nuts, etc.)
+una sopa de cebolla|onion soup
+platos principales|main courses
+en estofado de carne con vino tinto|beef stewed in red wine
+un pollo guisado en vino tinto|chicken (rooster) stewed in red wine
+un bistec y patatas fritas|steak and French fries
+los postres|desserts
+un mousse de chocolate|chocolate mousse
+flan de caramelo|caramel custard
+una crème brûlée|crème brûlée
+una fondant de chocolate|rich chocolate flourless cake
+expresiones de cantidad|expressions of quantity
+un poco|a little
+suficiente|enough
+mucho|a lot
+demasiado|too much (too many)
+una cucharada de|a spoonful of
+una botella de|a bottle of
+una pizca de|a pitcher of
+un litro de|a liter of
+50 gramos de|50 grams of
+un kilo de|a kilo of
+un trozo de|a piece of
+una rebanada de|a slice of
+un lata de|a can of
+carne asada|a beef roast
+una chuleta de cerdo|a pork chop
+una docena de huevos|a dozen eggs
+adjetivos|adjectives
+delicioso / deliciosa|delicious
+fresco / fresca|fresh
+picante|spicy
+al grill|grilled
+cortado / cortada|chopped
+salado(a)|salty
+azucarado(a)|sweet
+los verbos|verbs
+tener hambre / tener sed|to be hungry / to be thirsty
+beber|to drink
+almorzar|to have lunch
+cenar|to have dinner
+ir a comprar al supermercado|to go grocery shopping
+cocinar|to cook
+tener una comida|to have a meal
+fregar los platos|to do the dishes
+engordar|to gain weight
+hacer dieta|to be on a diet
+perder peso|to lose weight
+escoger|to choose
+acabar|to finish
+crecer|to grow up
+obedecer|to obey
+reflexionar|to reflect (on)
+tener éxito|to succeed
+creer|to believe
+tomar|to take
+aprender|to learn
+enseñar|(to teach someone)
+entender|to understand
+sorprender|to surprise

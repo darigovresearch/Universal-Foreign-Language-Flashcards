@@ -12,8 +12,8 @@ una oficina|un bureau|office
 un bloque de pisos|un immeuble|apartment building
 una casa|une maison|house
 un hotel|un hôtel|hotel
-una tienda|une boutique|boutique
-una tienda de (música, video, etc.)|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
+una boutique|une boutique|boutique
+una tienda (de música, de video, etc.)|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
 el centro comercial|un centre commercial|shopping center, mall
 el supermercado|un supermarché|supermarket
 una cafeteria|un café|café
@@ -60,16 +60,16 @@ una librería|une librairie|bookstore
 una papelería|une papeterie|paper/stationery store
 una farmacia|une pharmacie|pharmacy
 orientarse|s'orienter|getting your bearings
-¿Dónde está...?|Où se trouve... ?|Where is... ?
+¿Dónde está... ?|Où se trouve... ?|Where is... ?
 (¿Dónde está la oficina de correos?)|(Où se trouve la poste?)|(Where is the post office?)
 junto a, al lado de|à côté (de)|beside, next to
 a un paso de|à deux pas (de)|just a step from
 a la derecha|à droite (de)|on the right
 a la izquierda|à gauche (de)|on the left
-en el otro extremo|au bout (de)|at the far end of
+en el otro extremo de|au bout (de)|at the far end of
 en la intersección de|au carrefour (de)|at the intersection of
 en el centro|au centre|in the center
-en la esquina|au coin (de)|at the corner of
+en la esquina de|au coin (de)|at the corner of
 en la casa de alguien|chez|at someones house
 detrás|derrière|behind
 en frente de|devant|in front of
@@ -83,7 +83,7 @@ a tu derecha/izquierda|sur votre droite/gauche|on your right/left
 recto|tout droit|straight ahead
 cerca|tout près|nearby
 números ordinales|les nombres ordinaux|ordinal numbers
-primero|premier, première|first
+primero, primera|premier, première|first
 segundo|deuxième|second
 tercero|troisième|third
 cuarto|quatrième|fourth
@@ -126,7 +126,7 @@ caminar|marcher|to walk
 girar|tourner|to turn
 cruzar|traverser|to cross
 continuar|continuer|to continue
-preguntar por|demander|to ask (for)
+preguntar (por)|demander|to ask (for)
 ser encontrado|se trouver|to be found, to be located
 esperar a|attendre|to wait for
 escuchar|entendre|to hear

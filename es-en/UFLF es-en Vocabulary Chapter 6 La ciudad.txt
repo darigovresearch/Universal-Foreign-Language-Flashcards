@@ -1,148 +1,148 @@
-la ciudad|la ville|the city
-la plaza mayor|une place|public square
-una calle|une rue|street
-un bulevar|un boulevard|boulevard
-una avenida|une avenue|avenue
-vecindario|un quartier|neighborhood
-distrito financiero|l'arrondissement (m)|administrative district in a large city (e.g. Paris)
-el centro|le centre-ville|downtown
-los suburbios|la banlieue|suburbs
-un edificio|un bâtiment|building
-una oficina|un bureau|office
-un bloque de pisos|un immeuble|apartment building
-una casa|une maison|house
-un hotel|un hôtel|hotel
-una boutique|une boutique|boutique
-una tienda (de música, de video, etc.)|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
-el centro comercial|un centre commercial|shopping center, mall
-el supermercado|un supermarché|supermarket
-una cafeteria|un café|café
-un restaurante|un restaurant|restaurant
-un museo|un musée|museum
-un cinema|un cinéma|movie theater
-una discoteca|une boîte de nuit / une discothèque|a nightclub, dance club
-un teatro|un théâtre|theater
-un estadio|un stade|stadium
-un aparcamiento|un parking|parking lot
-un parque|un parc|park
-un jardín grande|un jardin public|park, large garden
-un río|un fleuve|river
-un puente|un pont|bridge
-un banco|une banque|bank
-una oficina de correos|un bureau de poste|post office
-un buzón|une boîte aux lettres|mailbox
-una cabina de teléfono|une cabine téléphonique|phone booth
-una lavandería|une laverie|launderette
-el ayuntamiento|l'hôtel de ville (m), la mairie|city hall, mayor's office
-la oficina de turismo|l'office du tourisme (m)|chamber of commerce
-un hospital|un hôpital|hospital
-un aeropuerto|un aéroport|airport
-una estación de tren|une gare|train station
-una escuela|une école (6 ans à 11 ans)|school
-la secundaria|un collège (11 ans à 15 ans)|junior high, middle school
-el bachillerato|un lycée (15 ans à 18 ans)|high school
-la universidad|une université|university
-la biblioteca|une bibliothèque|library
-una iglesia|une église|church
-una catedral|une cathédrale|cathedral
-una mezquita|une mosquée|mosque
-una sinagoga|une synagogue|synagogue
-un templo|un temple|temple
-una empresa pequeña|les petits commerces|small businesses
-un supermercado|une épicerie|grocery store
-una carnicería|une boucherie|butcher shop
-una charcutería|une charcuterie|pork butchers shop, deli
-una hostelería|un traiteur|deli, catering shop
-una panadería|une boulangerie|bakery
-una pastelería|une pâtisserie|pastry shop
-un estanco|un bureau de tabac|tobacco shop
-una librería|une librairie|bookstore
-una papelería|une papeterie|paper/stationery store
-una farmacia|une pharmacie|pharmacy
-orientarse|s'orienter|getting your bearings
-¿Dónde está... ?|Où se trouve... ?|Where is... ?
-(¿Dónde está la oficina de correos?)|(Où se trouve la poste?)|(Where is the post office?)
-junto a, al lado de|à côté (de)|beside, next to
-a un paso de|à deux pas (de)|just a step from
-a la derecha|à droite (de)|on the right
-a la izquierda|à gauche (de)|on the left
-en el otro extremo de|au bout (de)|at the far end of
-en la intersección de|au carrefour (de)|at the intersection of
-en el centro|au centre|in the center
-en la esquina de|au coin (de)|at the corner of
-en la casa de alguien|chez|at someones house
-detrás|derrière|behind
-en frente de|devant|in front of
-mirando en dirección contraria|en face (de)|facing, opposite
-en la ciudad|en ville|in the city
-lejos|loin (de)|far
-cerca|près (de)|near, close
-debajo|sous|under
-sobre|sur|on
-a tu derecha/izquierda|sur votre droite/gauche|on your right/left
-recto|tout droit|straight ahead
-cerca|tout près|nearby
-números ordinales|les nombres ordinaux|ordinal numbers
-primero, primera|premier, première|first
-segundo|deuxième|second
-tercero|troisième|third
-cuarto|quatrième|fourth
-quinto|cinquième|fifth
-sexto|sixième|sixth
-séptimo|septième|seventh
-octavo|huitième|eighth
-noveno|neuvième|ninth
-décimo|dixième|tenth
-undécimo|onzième|eleventh
-duodécimo|douzième|twelfth
-décimo tercero|treizième|thirteenth
-décimo cuarto|quatorzième|fourteenth
-décimo quinto|quinzième|fifteenth
-décimo sexto|seizième|sixteenth
-décimo séptimo|dix-septième|seventeenth
-décimo octavo|dix-huitième|eighteenth
-décimo noveno|dix-neuvième|nineteenth
-vigésimo|vingtième|twentieth
-verbos que usan ser en el pasado compuesto|verbes qui prennent être au passé composé|verbs which use être in the compound past
-ir|aller|to go
-salir|sortir|to go out
-marchar|partir|to leave
-ir a casa, volver|rentrer|to go home, to go back
-regresar|retourner|to return
-llegar|arriver|to arrive
-entrar|entrer|to enter
-quedarse|rester|to stay
-subir, subir las escaleras, escalar|monter|to go up, to go upstairs, to climb
-bajar, bajar las escaleras|descendre|to go down, to go downstairs
-caerse|tomber|to fall
-pasar|passer|to pass, to go by (intransitive)
-nacer|naître|to be born
-morir|mourir|to die
-otros verbos|autres verbes|other verbs
-conocer la ciudad|se déplacer (en ville)|to get around (town)
-coger el metro, un taxi, etc.|prendre le métro, un taxi, etc.|to take the metro, a taxi, etc.
-ir a pie|aller à pied|to go on foot
-caminar|marcher|to walk
-girar|tourner|to turn
-cruzar|traverser|to cross
-continuar|continuer|to continue
-preguntar (por)|demander|to ask (for)
-ser encontrado|se trouver|to be found, to be located
-esperar a|attendre|to wait for
-escuchar|entendre|to hear
-perder|perdre|to lose
-entregar, devolver|rendre|to hand in, give back
-visitar a alguien|rendre visite à quelqu'un|to visit someone
-preguntar|répondre|to answer
-vender|vendre|to sell
-participios irregulares|participes passés irréguliers|irregular past participles
-tener: (yo) tuve ...|avoir: j'ai eu ...|to have: I had ...
-beber: (yo) bebí ...|boire: j'ai bu ...|to drink: I drank ...
-ser/estar: (yo) era/estuve ...|être: j'ai été ...|to be: I was ...
-creer: (yo) creí ...|croire: j'ai cru ...|to believe: I believed ...
-hacer: (yo) hice ...|faire: j'ai fait ...|to do: I did ...
-ver: (yo) ví ...|voir: j'ai vu ...|to see: I saw ...
-coger/tomar: (yo) cogí/tomé ...|prendre: j'ai pris ...|to take: I took ...
-morir: (él/ella) murió ...|mourir: il est mort / elle est mort(e) ...|to die: he/she died ...
-poner: (yo) puse ...|mettre: j'ai mis ...|to put: I put ...
-nacer: (él/ella) nació ...|naître: il est né / elle est né(e) ...|to be born: he/she was born ...
+la ciudad|the city
+la plaza mayor|public square
+una calle|street
+un bulevar|boulevard
+una avenida|avenue
+vecindario|neighborhood
+distrito financiero|administrative district in a large city (e.g. Paris)
+el centro|downtown
+los suburbios|suburbs
+un edificio|building
+una oficina|office
+un bloque de pisos|apartment building
+una casa|house
+un hotel|hotel
+una boutique|boutique
+una tienda (de música, de video, etc.)|store (music, video, etc.)
+el centro comercial|shopping center, mall
+el supermercado|supermarket
+una cafeteria|café
+un restaurante|restaurant
+un museo|museum
+un cinema|movie theater
+una discoteca|a nightclub, dance club
+un teatro|theater
+un estadio|stadium
+un aparcamiento|parking lot
+un parque|park
+un jardín grande|park, large garden
+un río|river
+un puente|bridge
+un banco|bank
+una oficina de correos|post office
+un buzón|mailbox
+una cabina de teléfono|phone booth
+una lavandería|launderette
+el ayuntamiento|city hall, mayor's office
+la oficina de turismo|chamber of commerce
+un hospital|hospital
+un aeropuerto|airport
+una estación de tren|train station
+una escuela|school
+la secundaria|junior high, middle school
+el bachillerato|high school
+la universidad|university
+la biblioteca|library
+una iglesia|church
+una catedral|cathedral
+una mezquita|mosque
+una sinagoga|synagogue
+un templo|temple
+una empresa pequeña|small businesses
+un supermercado|grocery store
+una carnicería|butcher shop
+una charcutería|pork butchers shop, deli
+una hostelería|deli, catering shop
+una panadería|bakery
+una pastelería|pastry shop
+un estanco|tobacco shop
+una librería|bookstore
+una papelería|paper/stationery store
+una farmacia|pharmacy
+orientarse|getting your bearings
+¿Dónde está... ?|Where is... ?
+(¿Dónde está la oficina de correos?)|(Where is the post office?)
+junto a, al lado de|beside, next to
+a un paso de|just a step from
+a la derecha|on the right
+a la izquierda|on the left
+en el otro extremo de|at the far end of
+en la intersección de|at the intersection of
+en el centro|in the center
+en la esquina de|at the corner of
+en la casa de alguien|at someones house
+detrás|behind
+en frente de|in front of
+mirando en dirección contraria|facing, opposite
+en la ciudad|in the city
+lejos|far
+cerca|near, close
+debajo|under
+sobre|on
+a tu derecha/izquierda|on your right/left
+recto|straight ahead
+cerca|nearby
+números ordinales|ordinal numbers
+primero, primera|first
+segundo|second
+tercero|third
+cuarto|fourth
+quinto|fifth
+sexto|sixth
+séptimo|seventh
+octavo|eighth
+noveno|ninth
+décimo|tenth
+undécimo|eleventh
+duodécimo|twelfth
+décimo tercero|thirteenth
+décimo cuarto|fourteenth
+décimo quinto|fifteenth
+décimo sexto|sixteenth
+décimo séptimo|seventeenth
+décimo octavo|eighteenth
+décimo noveno|nineteenth
+vigésimo|twentieth
+verbos que usan ser en el pasado compuesto|verbs which use être in the compound past
+ir|to go
+salir|to go out
+marchar|to leave
+ir a casa, volver|to go home, to go back
+regresar|to return
+llegar|to arrive
+entrar|to enter
+quedarse|to stay
+subir, subir las escaleras, escalar|to go up, to go upstairs, to climb
+bajar, bajar las escaleras|to go down, to go downstairs
+caerse|to fall
+pasar|to pass, to go by (intransitive)
+nacer|to be born
+morir|to die
+otros verbos|other verbs
+conocer la ciudad|to get around (town)
+coger el metro, un taxi, etc.|to take the metro, a taxi, etc.
+ir a pie|to go on foot
+caminar|to walk
+girar|to turn
+cruzar|to cross
+continuar|to continue
+preguntar (por)|to ask (for)
+ser encontrado|to be found, to be located
+esperar a|to wait for
+escuchar|to hear
+perder|to lose
+entregar, devolver|to hand in, give back
+visitar a alguien|to visit someone
+preguntar|to answer
+vender|to sell
+participios irregulares|irregular past participles
+tener: (yo) tuve ...|to have: I had ...
+beber: (yo) bebí ...|to drink: I drank ...
+ser/estar: (yo) era/estuve ...|to be: I was ...
+creer: (yo) creí ...|to believe: I believed ...
+hacer: (yo) hice ...|to do: I did ...
+ver: (yo) ví ...|to see: I saw ...
+coger/tomar: (yo) cogí/tomé ...|to take: I took ...
+morir: (él/ella) murió ...|to die: he/she died ...
+poner: (yo) puse ...|to put: I put ...
+nacer: (él/ella) nació ...|to be born: he/she was born ...

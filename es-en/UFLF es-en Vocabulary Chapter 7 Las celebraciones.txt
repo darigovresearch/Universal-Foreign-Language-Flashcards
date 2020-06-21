@@ -1,74 +1,74 @@
-las vacaciones|les fêtes|holidays
-fiestas nacionales|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
-Año Nuevo *|le Jour de l'An, le premier janvier *|New Year's Day
-La Candelaría, el 2 de febrero|la Chandeleur, le 2 février|Candlemas
-San Valentín, el 14 de febrero|la Saint-Valentin, le 14 février|Valentine's Day
-El Martes de Carnaval|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
-La Pascua Judía|La pâque juive / Pessach|Passover
-Pascua *|Pâques *|Easter
-Uno de Abril, el día de los inocentes|le premier avril|April Fool's Day
-Día del trabajador *|la fête du Travail, le 1er mai *|Labor Day
-el 8 de mayo, día de la Victoria en Europa *|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
-Día de la Ascensión *|l'Ascension (f) *|Ascension Day
-Día de la Madre|la fête des mères|Mother's Day
-Día del Padre|la fête des pères|Father's Day
-Pentecoste|la Pentecôte|Pentecost
-Día de la Bastilla, Día Nacional de Francia *|la fête nationale, le 14 juillet *|Bastille Day, French National Day
-El 15 de agosto, fiesta de la Asumpción *|le 15 août, l'Assomption (f) *|the feast of the Assumption
-Halloween|Halloween|Halloween
-Día de la Expiación|Yom Kippour|Yom Kippur
-Rosh Hashaná|Rosh Hashana|Rosh Hashana
-Día de todos los Santos *|la Toussaint, le 1er novembre *|All Saints' Day
-Día del Armisticio *|l'Armistice (m), le 11 novembre *|Armistice Day
-Ramadán|le Ramadan|Ramadan
-Janucá|Hanouka|Hannukah
-Navidades, el 25 de diciembre *|Noël (m), le 25 décembre *|Christmas
-Noche viejas|la Saint-Sylvestre, le 31 décembre|New Year's Eve
-expresiones|expressions|expressions
-¡Feliz Año Nuevo!|Bonne Année!|Happy New Year!
-¡Feliz Día de los Santos!|Bonne fête!|Happy Saint's Day!
-¡Feliz Cumpleaños!|Bon (Joyeux) anniversaire!|Happy Birthday!
-¡Mejores deseos!|Meilleurs Voeux!|Best wishes!
-¡Inocente!|Poisson d'avril!|April Fool!
-¡Feliz Pacua!|Joyeuses Pâques!|Happy Easter!
-¡Feliz Navidad!|Joyeux Noël!|Merry Christmas!
-rituales y costumbres|rites et coutumes|rituals and customs
-Fiesta de Nochebuena o Fiesta de Nochevieja|le réveillon|Christmas Eve or New Year's Eve party
-fuegos artificiales|des feux d'artifice (m)|fireworks
-un desfile militar|un défilé (militaire)|(military) parade
-el día de los santos, celebración, fiesta|une fête|saint's day, celebration, party
-cumpleaños, aniversario|un anniversaire|birthday, anniversary
-pastel|un gâteau|cake
-vela|une bougie|candle
-regalo|un cadeau|gift
-boda|les noces (f pl)|wedding
-aniversario de boda|un anniversaire de mariage|wedding anniversary
-una ceremonia|une cérémonie|ceremony
-champán|le champagne|champagne
-lirio del valle|le muguet|lily of the valley
-bromas|des blagues (f)|jokes
-costumbres|des costumes (m)|costumes
-las crepes|des crêpes (f)|crepes
-picnic|un pique-nique|picnic
-Yule log|la bûche de Noël|Yule log (also a cake in the shape of a Yule log)
-una carta de felicitaciones|une carte de voeux|greeting card
-muérdago|le gui|mistletoe
-Papa Noel|le Père Noël|Santa Claus
-el árbol de Navidad|le sapin de Noël|Christmas tree
-natividad|la crèche|nativity
-la masa|la messe|mass
-sabbat|le sabbat / le shabbat|sabbath
-los verbos|verbes|verbs
-celebrar|célébrer|to celebrate
-ir de fiesta|faire la fête|to party
-celebrar|fêter|to celebrate
-celebrar la Nochebuena o la Nochevieja|réveillonner|to celebrate Christmas Eve or New Year's Eve
-invitar|inviter|to invite
-ofrecer|offrir|to give
-dar|donner|to give
-recibir|recevoir|to receive
-abrir|ouvrir|to open
-soplar (las velas)|souffler|to blow out (candles)
-bromear|plaisanter|to joke
-hacer una broma (a alguien)|faire un poisson d'avril|to play a joke (on someone)
-hacer el puente|faire le pont|literally 'to make a bridge'
+las vacaciones|holidays
+fiestas nacionales|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
+Año Nuevo *|New Year's Day
+La Candelaría, el 2 de febrero|Candlemas
+San Valentín, el 14 de febrero|Valentine's Day
+El Martes de Carnaval|Mardi Gras, Carnival
+La Pascua Judía|Passover
+Pascua *|Easter
+Uno de Abril, el día de los inocentes|April Fool's Day
+Día del trabajador *|Labor Day
+el 8 de mayo, día de la Victoria en Europa *|VE Day (Victory in Europe)
+Día de la Ascensión *|Ascension Day
+Día de la Madre|Mother's Day
+Día del Padre|Father's Day
+Pentecoste|Pentecost
+Día de la Bastilla, Día Nacional de Francia *|Bastille Day, French National Day
+El 15 de agosto, fiesta de la Asumpción *|the feast of the Assumption
+Halloween|Halloween
+Día de la Expiación|Yom Kippur
+Rosh Hashaná|Rosh Hashana
+Día de todos los Santos *|All Saints' Day
+Día del Armisticio *|Armistice Day
+Ramadán|Ramadan
+Janucá|Hannukah
+Navidades, el 25 de diciembre *|Christmas
+Noche viejas|New Year's Eve
+expresiones|expressions
+¡Feliz Año Nuevo!|Happy New Year!
+¡Feliz Día de los Santos!|Happy Saint's Day!
+¡Feliz Cumpleaños!|Happy Birthday!
+¡Mejores deseos!|Best wishes!
+¡Inocente!|April Fool!
+¡Feliz Pacua!|Happy Easter!
+¡Feliz Navidad!|Merry Christmas!
+rituales y costumbres|rituals and customs
+Fiesta de Nochebuena o Fiesta de Nochevieja|Christmas Eve or New Year's Eve party
+fuegos artificiales|fireworks
+un desfile militar|(military) parade
+el día de los santos, celebración, fiesta|saint's day, celebration, party
+cumpleaños, aniversario|birthday, anniversary
+pastel|cake
+vela|candle
+regalo|gift
+boda|wedding
+aniversario de boda|wedding anniversary
+una ceremonia|ceremony
+champán|champagne
+lirio del valle|lily of the valley
+bromas|jokes
+costumbres|costumes
+las crepes|crepes
+picnic|picnic
+Yule log|Yule log (also a cake in the shape of a Yule log)
+una carta de felicitaciones|greeting card
+muérdago|mistletoe
+Papa Noel|Santa Claus
+el árbol de Navidad|Christmas tree
+natividad|nativity
+la masa|mass
+sabbat|sabbath
+los verbos|verbs
+celebrar|to celebrate
+ir de fiesta|to party
+celebrar|to celebrate
+celebrar la Nochebuena o la Nochevieja|to celebrate Christmas Eve or New Year's Eve
+invitar|to invite
+ofrecer|to give
+dar|to give
+recibir|to receive
+abrir|to open
+soplar (las velas)|to blow out (candles)
+bromear|to joke
+hacer una broma (a alguien)|to play a joke (on someone)
+hacer el puente|literally 'to make a bridge'

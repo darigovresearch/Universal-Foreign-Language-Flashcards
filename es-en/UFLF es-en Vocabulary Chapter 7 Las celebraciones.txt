@@ -1,35 +1,35 @@
 las vacaciones|les fêtes|holidays
-fiestas nacionales (indicado debajo con un *).|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
-Año Nuevo|le Jour de l'An, le premier janvier *|New Year's Day
+fiestas nacionales|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
+Año Nuevo *|le Jour de l'An, le premier janvier *|New Year's Day
 La Candelaría, el 2 de febrero|la Chandeleur, le 2 février|Candlemas
 San Valentín, el 14 de febrero|la Saint-Valentin, le 14 février|Valentine's Day
 El Martes de Carnaval|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
 La Pascua Judía|La pâque juive / Pessach|Passover
-Pascua|Pâques *|Easter
+Pascua *|Pâques *|Easter
 Uno de Abril, el día de los inocentes|le premier avril|April Fool's Day
-Día del trabajador|la fête du Travail, le 1er mai *|Labor Day
-el 8 de mayo, día de la Victoria en Europa|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
-Día de la Ascensión|l'Ascension (f) *|Ascension Day
+Día del trabajador *|la fête du Travail, le 1er mai *|Labor Day
+el 8 de mayo, día de la Victoria en Europa *|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
+Día de la Ascensión *|l'Ascension (f) *|Ascension Day
 Día de la Madre|la fête des mères|Mother's Day
 Día del Padre|la fête des pères|Father's Day
 Pentecoste|la Pentecôte|Pentecost
-Día de la Bastilla, Día Nacional de Francia|la fête nationale, le 14 juillet *|Bastille Day, French National Day
-El 15 de agosto, fiesta de la Asumpción|le 15 août, l'Assomption (f) *|the feast of the Assumption
+Día de la Bastilla, Día Nacional de Francia *|la fête nationale, le 14 juillet *|Bastille Day, French National Day
+El 15 de agosto, fiesta de la Asumpción *|le 15 août, l'Assomption (f) *|the feast of the Assumption
 Halloween|Halloween|Halloween
 Día de la Expiación|Yom Kippour|Yom Kippur
 Rosh Hashaná|Rosh Hashana|Rosh Hashana
-Día de todos los Santos|la Toussaint, le 1er novembre *|All Saints' Day
-Día del Armisticio|l'Armistice (m), le 11 novembre *|Armistice Day
+Día de todos los Santos *|la Toussaint, le 1er novembre *|All Saints' Day
+Día del Armisticio *|l'Armistice (m), le 11 novembre *|Armistice Day
 Ramadán|le Ramadan|Ramadan
 Janucá|Hanouka|Hannukah
-Navidades, el 25 de diciembre|Noël (m), le 25 décembre *|Christmas
+Navidades, el 25 de diciembre *|Noël (m), le 25 décembre *|Christmas
 Noche viejas|la Saint-Sylvestre, le 31 décembre|New Year's Eve
 expresiones|expressions|expressions
 ¡Feliz Año Nuevo!|Bonne Année!|Happy New Year!
 ¡Feliz Día de los Santos!|Bonne fête!|Happy Saint's Day!
 ¡Feliz Cumpleaños!|Bon (Joyeux) anniversaire!|Happy Birthday!
 ¡Mejores deseos!|Meilleurs Voeux!|Best wishes!
-Inocente!|Poisson d'avril!|April Fool!
+¡Inocente!|Poisson d'avril!|April Fool!
 ¡Feliz Pacua!|Joyeuses Pâques!|Happy Easter!
 ¡Feliz Navidad!|Joyeux Noël!|Merry Christmas!
 rituales y costumbres|rites et coutumes|rituals and customs

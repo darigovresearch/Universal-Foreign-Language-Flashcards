@@ -1,104 +1,104 @@
-|à la maison|at home
-|une maison|house
-|un appartement|apartment
-|une résidence universitaire|university dorm
-|une pièce|a room (general term)
-|une fenêtre|window
-|un meuble / des meubles|a piece of furniture / furniture
-|le rez-de-chaussée|ground floor, first floor
-|un escalier|staircase, stairs
-|un balcon|balcony
-|une terrasse|terrace
-|un jardin|garden, yard
-|les pièces|rooms
-|une entrée|entranceway
-|un hall d'entrée|foyer
-|un séjour / un living / un salon / une salle de séjour|living room
-|une salle à manger|dining room
-|une cuisine|kitchen
-|un couloir|hallway
-|une chambre|bedroom
-|une salle de bains|bathroom
-|des toilettes (f pl) / des W.C. (m pl)|toilet
-|une buanderie|laundry room
-|un grenier|attic
-|une cave|cellar, wine cellar
-|un garage|garage
-|dans la chambre il y a...|In the bedroom there is/are...
-|un lit|bed
-|une table de nuit|nightstand
-|une armoire|armoire
-|une commode|chest of drawers
-|un bureau|desk
-|une étagère|bookcase
-|une lampe|lamp
-|un placard|closet
-|de la moquette|carpet (wall to wall)
-|un lecteur DVD / MP3|DVD / MP3 player
-|un ordinateur|computer
-|un téléphone|telephone
-|dans la salle de bains il y a ...|in the bathroom there is/are ...
-|une baignoire|bathtub
-|une douche|shower
-|un lavabo|sink
-|un miroir|mirror
-|dans la salle de séjour il y a ...|in the living room there is/are ...
-|un canapé / un sofa|couch
-|un fauteuil|armchair
-|une table basse|coffee table
-|une télévision|television
-|un tableau / des tableaux|painting / paintings
-|un tapis|area rug or carpet
-|dans la salle à manger il y a ...|in the dining room there is/are ...
-|une table|table
-|une chaise|chair
-|un buffet|hutch, buffet
-|dans la cuisine il y a ...|in the kitchen there is/are ...
-|un réfrigérateur / un frigo|refrigerator / fridge
-|un congélateur|freezer
-|une cuisinière|stove
-|un four|oven
-|un four à micro-ondes|microwave
-|un lave-vaisselle|dishwasher
-|un évier|sink
-|un placard|cabinet
-|une poubelle|trash can
-|dans la buanderie il y a ...|in the laundry room there is/are ...
-|un lave-linge|washing machine
-|un sèche-linge|dryer
-|les tâches domestiques|household chores
-|faire des achats|to go shopping
-|faire le marché|to do the grocery shopping
-|faire des courses (f pl)|to do errands
-|faire le ménage|to do housework
-|faire la cuisine|to cook
-|faire la vaisselle|to do the dishes
-|ranger|to straighten up
-|faire le lit|to make the bed
-|passer l'aspirateur (m)|to pass the vacuum cleaner
-|faire la lessive|to do laundry
-|repasser|to iron
-|bricoler|to make home repairs or improvements
-|adjectifs|adjectives
-|ancien(ne)|old
-|moderne|modern
-|sombre|dark
-|clair(e)|bright, full of light
-|en désordre|messy
-|en ordre|straightened up
-|propre|clean
-|sale|dirty
-|pratique|practical
-|confortable|comfortable
-|verbes|verbs
-|déménager|to move (change residences)
-|verbes réfléchis|reflexive verbs
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|s'inquiéter|to worry
-|se fâcher|to get angry
-|verbes réciproques|reciprocal verbs
-|se disputer|to argue (with one another)
-|s'entendre|to get along (with one another)
-|se parler|to talk to (one another)
+en casa|à la maison|at home
+una casa|une maison|house
+un apartamento|un appartement|apartment
+residencia universitaria|une résidence universitaire|university dorm
+una habitación|une pièce|a room (general term)
+una ventana|une fenêtre|window
+un mueble / unos muebles|un meuble / des meubles|a piece of furniture / furniture
+planta baja, primer piso|le rez-de-chaussée|ground floor, first floor
+escaleras|un escalier|staircase, stairs
+un balcón|un balcon|balcony
+una terraza|une terrasse|terrace
+un jardín|un jardin|garden, yard
+habitaciones|les pièces|rooms
+una entrada|une entrée|entranceway
+un recibidor|un hall d'entrée|foyer
+un salón|un séjour / un living / un salon / une salle de séjour|living room
+comedor|une salle à manger|dining room
+una cocina|une cuisine|kitchen
+un salón|un couloir|hallway
+un dormitorio|une chambre|bedroom
+un cuarto de baño|une salle de bains|bathroom
+un baño|des toilettes (f pl) / des W.C. (m pl)|toilet
+un lavadero|une buanderie|laundry room
+ático|un grenier|attic
+sótano, bodega|une cave|cellar, wine cellar
+un garage|un garage|garage
+En el dormitorio hay ...|dans la chambre il y a...|In the bedroom there is/are...
+una cama|un lit|bed
+una mesita de noche|une table de nuit|nightstand
+un armario|une armoire|armoire
+una cajonera|une commode|chest of drawers
+un escritorio|un bureau|desk
+una estantería|une étagère|bookcase
+una lámpara|une lampe|lamp
+un armario|un placard|closet
+una alfombra|de la moquette|carpet (wall to wall)
+un reproductor de DVD / MP3|un lecteur DVD / MP3|DVD / MP3 player
+un ordenador|un ordinateur|computer
+un teléfono|un téléphone|telephone
+en el baño hay ...|dans la salle de bains il y a ...|in the bathroom there is/are ...
+una bañera|une baignoire|bathtub
+una ducha|une douche|shower
+un fregadero|un lavabo|sink
+un espejo|un miroir|mirror
+en el salón hay ...|dans la salle de séjour il y a ...|in the living room there is/are ...
+un sofá|un canapé / un sofa|couch
+un sillón|un fauteuil|armchair
+una mesita|une table basse|coffee table
+una televisión|une télévision|television
+pintando / cuadros|un tableau / des tableaux|painting / paintings
+un tapete|un tapis|area rug or carpet
+en el comedor hay ...|dans la salle à manger il y a ...|in the dining room there is/are ...
+una mesa|une table|table
+una silla|une chaise|chair
+una cómoda|un buffet|hutch, buffet
+en la cocina hay ...|dans la cuisine il y a ...|in the kitchen there is/are ...
+un refrigerador / una nevera|un réfrigérateur / un frigo|refrigerator / fridge
+un congelador|un congélateur|freezer
+una estufa|une cuisinière|stove
+un horno|un four|oven
+un microondas|un four à micro-ondes|microwave
+un lavavajillas|un lave-vaisselle|dishwasher
+un fregadero|un évier|sink
+un armario|un placard|cabinet
+un contenedor de basura|une poubelle|trash can
+en el lavadero hay ...|dans la buanderie il y a ...|in the laundry room there is/are ...
+una lavadora|un lave-linge|washing machine
+una secadora|un sèche-linge|dryer
+las tareas de casa|les tâches domestiques|household chores
+ir a comprar|faire des achats|to go shopping
+ir a hacer la compra|faire le marché|to do the grocery shopping
+hacer los recados|faire des courses (f pl)|to do errands
+hacer las tareas de casa|faire le ménage|to do housework
+cocinar|faire la cuisine|to cook
+lavar los platos|faire la vaisselle|to do the dishes
+limpiar y ordenar|ranger|to straighten up
+hacer la cama|faire le lit|to make the bed
+pasar la aspiradora|passer l'aspirateur (m)|to pass the vacuum cleaner
+hacer la colada|faire la lessive|to do laundry
+planchar|repasser|to iron
+hacer reparaciones|bricoler|to make home repairs or improvements
+adjetivos|adjectifs|adjectives
+viejo|ancien(ne)|old
+moderno|moderne|modern
+oscuro|sombre|dark
+radiante, lleno de luz|clair(e)|bright, full of light
+desordenado|en désordre|messy
+en orden|en ordre|straightened up
+limpio|propre|clean
+sucio|sale|dirty
+práctico|pratique|practical
+cómodo|confortable|comfortable
+verbos|verbes|verbs
+mudarse|déménager|to move (change residences)
+verbos reflexivos|verbes réfléchis|reflexive verbs
+divertirse|s'amuser|to have fun
+aburrirse|s'ennuyer|to be bored
+darse prisa|se dépêcher|to hurry
+preocuparse|s'inquiéter|to worry
+enfadarse|se fâcher|to get angry
+verbos recíprocos|verbes réciproques|reciprocal verbs
+discutirse|se disputer|to argue (with one another)
+llevarse bien|s'entendre|to get along (with one another)
+hablarse|se parler|to talk to (one another)

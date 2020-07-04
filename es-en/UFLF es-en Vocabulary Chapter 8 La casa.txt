@@ -24,7 +24,7 @@ un lavadero|une buanderie|laundry room
 ático|un grenier|attic
 sótano, bodega|une cave|cellar, wine cellar
 un garage|un garage|garage
-En el dormitorio hay ...|dans la chambre il y a...|In the bedroom there is/are...
+En el dormitorio hay...|dans la chambre il y a...|In the bedroom there is/are...
 una cama|un lit|bed
 una mesita de noche|une table de nuit|nightstand
 un armario|une armoire|armoire

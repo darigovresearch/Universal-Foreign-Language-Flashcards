@@ -1,106 +1,106 @@
-la televisión, el cinema|la télévision, le cinéma|television, cinema
-la tele TV|la télé|TV
-el mando a distancia|la télécommande|remote control
-un canal|une chaîne|channel
-guía de televisión|un programme|television schedule
-series / culebrón|un feuilleton|series / soap opera
-una serie|une série|series
-un programa|une émission|show
-dibujos animados|un dessin animé|cartoon
-un documental|un documentaire|documentary
-un espectáculo de variedades|une émission de variétés|variety show
-concurso televisivo|un jeu télévisé|game show
-telerealidad|la télé-réalité|reality television
-las notícias|un magazine d'actualités (à la télévision)|news show
-las notícias|les informations (f pl) / les infos (f pl) / le journal|news
-últimos acontecimientos|l'actualité (f)|current events
-el tiempo|la météo|weather report
-reportero / reportera / periodista|un reporter / un journaliste|reporter / journalist
-una entrevista|une interview|interview
-un anuncio|une publicité / une pub|commercial
-un concierto|un concert|concert
-una película|un film|movie
-una película romántica|un film d'amour|romantic movie
-una película de ciencia ficción|un film de science-fiction|science-fiction movie
-una película de miedo|un film d'horreur|horror movie
-una película de aventuras|un film d'action / un film d'aventures|action film / adventure film
-una película policiaca|un film policier|detective/police movie
-un drama|un drame|drama
-una comedia (película, obra de teatro)|une comédie|comedy (movie, play)
-un musical|un (film) musical|musical
-una comedia musical|une comédie musicale|musical comedy
-una película del oeste|un western|western
-versión original / versión Francesa|en VO / en VF|original version / French version
-con / sin subtítulos|avec / sans sous-titres|with / without subtitles
-un actor / actriz|un acteur / une actrice|actor / actress
-un famoso / una famosa|une célébrité|celebrity
-una estrella|une star / une vedette|star (refers to men or women)
-una celebridad|une personnalité (de la télévision, du cinéma, de la radio...)|celebrity
-el chico malo|le méchant|the bad guy
-la prensa|la presse|the press
-el quiosco|un kiosque (à journaux)|news stand
-el periódico (nacional, regional)|un journal (national, régional)|newspaper (national, regional)
-una tira cómica|une bande-dessinée|comic strip
-un anuncio clasificado|une petite annonce|classified ad
-una revista|un magazine|magazine
-un libro|un livre|book
-una novela|un roman|novel
-la radio|la radio|the radio
-una emisora de radio|une station|radio station
-una canción|une chanson|song
-un cantante / una cantante|un chanteur / une chanteuse|singer
-una banda|un groupe|a band
-internet|l'internet|the internet
-un ordenador|un ordinateur|computer
-un portátil|un portable|laptop
-la web|le web|the web
-una página web|un site|website
-una página de inicio|une page d'accueil|homepage
-una cartelera, un grupo de notícias|un forum|bulletin board, newsgroup
-un buscador|un moteur de recherche|search engine
-una contraseña|un mot de passe|password
-email|un email / un courriel|e-mail
-en línea|en ligne|online
-un enlace|un lien|link
-un teléfono|le téléphone|the telephone
-un celular|un (téléphone) portable|cell phone
-un contestador|un répondeur / une boîte vocale|voicemail
-un mensaje|un texto|text message
-en el teléfono|au téléphone|on the phone
-Hola...|Allô...|Hello...
-¿Dónde estás? / ¿Qué haces?|T'es où?|Where are you at / what are you doing?
-Puedo hablar con...|Est-ce que je peux parler à...|May I speak to...
-Desearía alguna información sobre.|Je voudrais un renseignement.|I would like some information.
-Por favor espere. / Un momento por favor.|Un instant s'il vous plaît.|Please hold. / One moment please.
-Espere.|Ne quittez pas.|Stay on the line.
-Te lo paso / la paso.|Je vous le / la passe.|I'm putting you through to him / her. / I'm connecting you to him / her.
-¿Cuál es tu número de teléfono?|Quel est votre numéro de téléphone?|What is your phone number?
-¿Quieres dejarle un mensaje?|Est-ce que vous voulez laisser un message?|Do you want to leave a message?
-¿Puedes llamar a las 3 de la tarde?|Pouvez-vous rappeler à 15h?|Could you call back at 3 p.m.?
-¿Quién es?|Qui est à l'appareil?|Who's on the phone?
-adjetivos|adjectifs|adjectives
-famoso / famosa|célèbre|famous
-gracioso / graciosa|amusant(e) / comique / marrant(e) / drôle|funny
-doblado / doblada|doublé(e)|dubbed
-aterrador|effrayant(e)|frightening
-aburrido / aburrida|ennuyeux / ennuyeuse|boring
-extranjero|étranger / étrangère|foreign
-gratis|gratuit(e)|free
-optimístico|optimiste|optimistic / hopeful
-pesimístico|pessimiste|pessimistic
-realístico|réaliste|realistic
-satírico|satirique|satirical
-trágico|tragique|tragic
-triste|triste|sad
-violento|violent(e)|violent
-los verbos|verbes|verbs
-navegar por la red|surfer / aller (sur internet)|to surf (the web)
-hacer un clic|cliquer|to click
-descargar|télécharger|to download
-describir|décrire|to describe
-decir|dire|to say
-escribir|écrire|to write
-durar|durer|to last
-leer|lire|to read
-mostrar|montrer|to show
-pasar el tiempo|passer (du temps)|to spend (time)
+la televisión, el cinema|television, cinema
+la tele TV|TV
+el mando a distancia|remote control
+un canal|channel
+guía de televisión|television schedule
+series / culebrón|series / soap opera
+una serie|series
+un programa|show
+dibujos animados|cartoon
+un documental|documentary
+un espectáculo de variedades|variety show
+concurso televisivo|game show
+telerealidad|reality television
+las notícias|news show
+las notícias|news
+últimos acontecimientos|current events
+el tiempo|weather report
+reportero / reportera / periodista|reporter / journalist
+una entrevista|interview
+un anuncio|commercial
+un concierto|concert
+una película|movie
+una película romántica|romantic movie
+una película de ciencia ficción|science-fiction movie
+una película de miedo|horror movie
+una película de aventuras|action film / adventure film
+una película policiaca|detective/police movie
+un drama|drama
+una comedia (película, obra de teatro)|comedy (movie, play)
+un musical|musical
+una comedia musical|musical comedy
+una película del oeste|western
+versión original / versión Francesa|original version / French version
+con / sin subtítulos|with / without subtitles
+un actor / actriz|actor / actress
+un famoso / una famosa|celebrity
+una estrella|star (refers to men or women)
+una celebridad|celebrity
+el chico malo|the bad guy
+la prensa|the press
+el quiosco|news stand
+el periódico (nacional, regional)|newspaper (national, regional)
+una tira cómica|comic strip
+un anuncio clasificado|classified ad
+una revista|magazine
+un libro|book
+una novela|novel
+la radio|the radio
+una emisora de radio|radio station
+una canción|song
+un cantante / una cantante|singer
+una banda|a band
+internet|the internet
+un ordenador|computer
+un portátil|laptop
+la web|the web
+una página web|website
+una página de inicio|homepage
+una cartelera, un grupo de notícias|bulletin board, newsgroup
+un buscador|search engine
+una contraseña|password
+email|e-mail
+en línea|online
+un enlace|link
+un teléfono|the telephone
+un celular|cell phone
+un contestador|voicemail
+un mensaje|text message
+en el teléfono|on the phone
+Hola...|Hello...
+¿Dónde estás? / ¿Qué haces?|Where are you at / what are you doing?
+Puedo hablar con...|May I speak to...
+Desearía alguna información sobre.|I would like some information.
+Por favor espere. / Un momento por favor.|Please hold. / One moment please.
+Espere.|Stay on the line.
+Te lo paso / la paso.|I'm putting you through to him / her. / I'm connecting you to him / her.
+¿Cuál es tu número de teléfono?|What is your phone number?
+¿Quieres dejarle un mensaje?|Do you want to leave a message?
+¿Puedes llamar a las 3 de la tarde?|Could you call back at 3 p.m.?
+¿Quién es?|Who's on the phone?
+adjetivos|adjectives
+famoso / famosa|famous
+gracioso / graciosa|funny
+doblado / doblada|dubbed
+aterrador|frightening
+aburrido / aburrida|boring
+extranjero|foreign
+gratis|free
+optimístico|optimistic / hopeful
+pesimístico|pessimistic
+realístico|realistic
+satírico|satirical
+trágico|tragic
+triste|sad
+violento|violent
+los verbos|verbs
+navegar por la red|to surf (the web)
+hacer un clic|to click
+descargar|to download
+describir|to describe
+decir|to say
+escribir|to write
+durar|to last
+leer|to read
+mostrar|to show
+pasar el tiempo|to spend (time)

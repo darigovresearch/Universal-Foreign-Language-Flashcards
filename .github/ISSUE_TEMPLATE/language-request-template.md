@@ -40,3 +40,7 @@ English equivalent if helpful
 11. Studies
 12. Professional life
 13. Love and money
+
+Additional terms
+1. Vocabulary
+2. Chapter

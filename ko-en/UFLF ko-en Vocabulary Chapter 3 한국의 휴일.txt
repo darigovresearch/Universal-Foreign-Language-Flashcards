@@ -1,0 +1,150 @@
+|le temps|weather
+|Quel temps fait-il?|What's the weather?
+|Il fait beau.|It's nice.
+|Il fait chaud.|It's hot.
+|Il fait du soleil. / Il y a du soleil.|It's sunny.
+|Il fait frais.|It's cool.
+|Il fait mauvais.|It's bad.
+|Il fait froid.|It's cold.
+|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
+|Il fait du vent. / Il y a du vent.|It's windy.
+|Il y a des nuages.|It's cloudy.
+|Il y a des orages.|There are storms.
+|Il pleut.|It's raining.
+|Il neige.|It's snowing.
+|les saisons|seasons
+|le printemps / au printemps|spring / in the spring
+|l'été (m) / en été|summer / in the summer
+|l'automne (m) / en automne|fall / in the fall
+|l'hiver (m) / en hiver|winter / in the winter
+|la géographie|geography
+|la campagne|countryside
+|la ville|town, city
+|une province|province
+|une région|region
+|un lac|lake
+|un fleuve|major river (that flows to the sea)
+|la Loire|the Loire (river)
+|la Garonne|the Garonne (river)
+|le Rhône|the Rhône (river)
+|la Seine|the Seine (river)
+|la mer|sea
+|la mer Méditerranée|the Mediterranean Sea
+|l'océan (m)|ocean
+|l'océan Atlantique|the Atlantic Ocean
+|la Manche|the English Channel
+|la plage|beach
+|une forêt|forest
+|la montagne|mountain
+|les Alpes (f)|the Alps
+|le Jura|the Jura (mountains)
+|les Pyrénées (f)|the Pyrenees
+|le Massif Central|the Massif Central
+|les Vosges (f)|the Vosges
+|les points cardinaux|points of the compass
+|dans le nord / au nord|in the north
+|dans le sud / au sud|in the south
+|dans l'est / à l'est|in the east
+|dans l'ouest / à l'ouest|in the west
+|au centre|in the center
+|sur la côte|on the coast
+|L'Hexagone|France
+|l'Alsace (f)|Alsace
+|la Bourgogne|Burgundy
+|la Bretagne|Brittany
+|la Côte d'Azur|the Riviera
+|la Corse|Corsica
+|l'Ile de France (f)|Ile de France
+|(la région parisienne)|(Parisian region)
+|la Lorraine|Lorraine
+|la Normandie|Normandy
+|la Provence|Provence
+|la Vallée de la Loire|the Loire Valley
+|les activités|activities
+|aller|to go
+|aller au cinéma|to go to the movies
+|aller en boîte|to go clubbing
+|aller au concert|to go to a concert
+|aller à l'université|to go to the university
+|aller au parc|to go to the park
+|faire de la bicyclette|to go bicycle riding
+|faire du bateau|to go boating
+|faire de la planche à voile|to go windsurfing
+|faire des randonnées|to go hiking
+|faire du ski|to go skiing
+|faire du vélo|to go cycling
+|faire de la voile|to go sailing
+|faire une promenade|to take a walk
+|passer les vacances (f pl)|spend a vacation
+|visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
+|une cathédrale|a cathedral
+|un château|a castle
+|une exposition|an exhibition, show
+|un monument|a monument
+|un musée|a museum
+|les transports|means of transport
+|Comment voyagez-vous?|How do you travel?
+|Je voyage...|I travel...
+|en avion / un avion|by plane / plane
+|en bateau / un bateau|by boat / boat
+|en train / un train|by train / train
+|en car / un car|by tour bus (from city to city) / tour bus
+|en voiture / une voiture|by car / car
+|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+|Je vais...|I go...
+|en métro / le métro|by subway / subway
+|en bus / un bus|by bus / bus
+|en taxi / un taxi|by taxi / taxi
+|à moto / une moto|by motorcycle / motorcycle
+|à vélo / un vélo|by bicycle / bicycle
+|à pied|on foot
+|verbes|verbs
+|acheter|to buy
+|amener|to bring somebody (along)
+|changer|to change
+|dormir|to sleep
+|emmener|to take somebody (along)
+|espérer|to hope
+|essayer|to try
+|manger|to eat
+|nager|to swim
+|partager|to share
+|partir|to leave
+|sortir|to go out
+|les nombres cardinaux 70-100|Cardinal Numbers 70-100
+|soixante-dix|70
+|soixante et onze|71
+|soixante-douze|72
+|soixante-treize|73
+|soixante-quatorze|74
+|soixante-quinze|75
+|soixante-seize|76
+|soixante-dix-sept|77
+|soixante-dix-huit|78
+|soixante-dix-neuf|79
+|quatre-vingts|80
+|quatre-vingt-un|81
+|quatre-vingt-deux|82
+|quatre-vingt-trois|83
+|quatre-vingt-quatre|84
+|quatre-vingt-cinq|85
+|quatre-vingt-six|86
+|quatre-vingt-sept|87
+|quatre-vingt-huit|88
+|quatre-vingt-neuf|89
+|quatre-vingt-dix|90
+|quatre-vingt-onze|91
+|quatre-vingt-douze|92
+|quatre-vingt-treize|93
+|quatre-vingt-quatorze|94
+|quatre-vingt-quinze|95
+|quatre-vingt-seize|96
+|quatre-vingt-dix-sept|97
+|quatre-vingt-dix-huit|98
+|quatre-vingt-dix-neuf|99
+|cent|100
+|cent deux|102
+|deux cents|200
+|mille|1.000
+|deux mille|2.000
+|un million|1.000.000

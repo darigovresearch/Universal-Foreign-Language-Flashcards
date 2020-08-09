@@ -19,7 +19,7 @@ Introduction (UFLF ko-en)|"
 내 이름은 ...|Je m'appelle ...|My name is ...
 나는 ... 출신이다.|Je suis de ...|I am from ...
 나는 ... (프랑스어, 수학, 기타 등등 )과의 (남)학생이다.|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-나는 ... (프랑스어, 수학, 기타 등등)과의 (여)학생이다.|Je suis étudiante en...(français, maths, etc.)|I ama  student (female) in ... (French, math, etc.)
+나는 ... (프랑스어, 수학, 기타 등등)과의 (여)학생이다.|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
 그/그녀의 이름은 ...|Il/Elle s'appelle ...|His/Her name is ...
 그/그녀의 출신은 ...|Il/Elle est de ...|He/She is from ...
 그는 ... (프랑스어, 수학, 기타 등등)과의 학생이다.|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
@@ -43,7 +43,7 @@ Introduction (UFLF ko-en)|"
 음악|la musique|music
 철학|la philosophie|philosophy
 심리학|la psychologie|psychology
-알파벳|l'alphabet|alphabet
+알파벳|l'alphabet|the alphabet
 동물|les animaux|animals
 바퀴벌레|le cafard|cockroach
 고양이 / 암컷 고양이 / 새끼 고양이|le chat / la chatte / la minette|cat / female cat / kitty

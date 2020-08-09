@@ -15,39 +15,39 @@ Introduction (UFLF ko-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-내 소개를 할게|je me présente|let me introduce myself
-내 이름은 ...|Je m'appelle ...|My name is ...
-나는 ... 출신이다.|Je suis de ...|I am from ...
-나는 ... (프랑스어, 수학, 기타 등등 )과의 (남)학생이다.|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-나는 ... (프랑스어, 수학, 기타 등등)과의 (여)학생이다.|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-그/그녀의 이름은 ...|Il/Elle s'appelle ...|His/Her name is ...
-그/그녀의 출신은 ...|Il/Elle est de ...|He/She is from ...
-그는 ... (프랑스어, 수학, 기타 등등)과의 학생이다.|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-그녀는 ... (프랑스어, 수학, 기타 등등)과의 학생이다.|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-과목|les matières|subjects
-무역|le commerce|business
-회계|la comptabilité|accounting
-언어들|les langues (f)|languages
-영어|l'anglais (m)|English
-프랑스어|le français|French
-스페인어|l'espagnol (m)|Spanish
-문학|la littérature|literature
-역사|l'histoire (f)|history
-지리학|la géographie|geography
-정치학|les sciences politiques|political science
-수학|les mathématiques/les maths (f)|math
-과학|les sciences (f)|sciences
-생물학|la biologie|biology
-화학|la chimie|chemistry
-컴퓨터과학|l'informatique (f)|computer science
-음악|la musique|music
-철학|la philosophie|philosophy
-심리학|la psychologie|psychology
-알파벳|l'alphabet|the alphabet
-동물|les animaux|animals
-바퀴벌레|le cafard|cockroach
-고양이 / 암컷 고양이 / 새끼 고양이|le chat / la chatte / la minette|cat / female cat / kitty
-다람쥐|l'écureuil|squirrel
-달팽이|l'escargot|snail
-개미|la fourmi|ant
-아르마딜로|le tatou|armadillo
+내 소개를 할게|let me introduce myself
+내 이름은 ...|My name is ...
+나는 ... 출신이다.|I am from ...
+나는 ... (프랑스어, 수학, 기타 등등 )과의 (남)학생이다.|I am a student (male) in ... (French, math, etc.)
+나는 ... (프랑스어, 수학, 기타 등등)과의 (여)학생이다.|I am a student (female) in ... (French, math, etc.)
+그/그녀의 이름은 ...|His/Her name is ...
+그/그녀의 출신은 ...|He/She is from ...
+그는 ... (프랑스어, 수학, 기타 등등)과의 학생이다.|He is a student (male) in ... (French, math, etc.)
+그녀는 ... (프랑스어, 수학, 기타 등등)과의 학생이다.|She is a student (female) in ... (French, math, etc.)
+과목|subjects
+무역|business
+회계|accounting
+언어들|languages
+영어|English
+프랑스어|French
+스페인어|Spanish
+문학|literature
+역사|history
+지리학|geography
+정치학|political science
+수학|math
+과학|sciences
+생물학|biology
+화학|chemistry
+컴퓨터과학|computer science
+음악|music
+철학|philosophy
+심리학|psychology
+알파벳|the alphabet
+동물|animals
+바퀴벌레|cockroach
+고양이 / 암컷 고양이 / 새끼 고양이|cat / female cat / kitty
+다람쥐|squirrel
+달팽이|snail
+개미|ant
+아르마딜로|armadillo

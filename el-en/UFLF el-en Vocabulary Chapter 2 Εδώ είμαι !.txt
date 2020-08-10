@@ -1,154 +1,154 @@
 |fiche d'identité|identification form
-|Nom (de famille)|last name
-|Prénom(s)|first (and middle) name(s)
-|Age|age
-|Nationalité|nationality
-|Résidence actuelle|current address
-|Profession|profession
-|Passe-temps préférés|pastimes
-|questions personnelles|personal questions
-|Comment vous appelez-vous?|What is your name?
-|Quel âge avez-vous?|How old are you?
+Επώνυμο|Nom (de famille)|last name
+Όνομα|Prénom(s)|first (and middle) name(s)
+Ηλικία|Age|age
+Ιθαγένεια|Nationalité|nationality
+Τωρινή διεύθυνση|Résidence actuelle|current address
+Επάγγελμα|Profession|profession
+Χόμπι|Passe-temps préférés|pastimes
+Προσωπικές ερωτήσεις|questions personnelles|personal questions
+Πως σε λένε;|Comment vous appelez-vous?|What is your name?
+Πόσο χρονών είσαι;|Quel âge avez-vous?|How old are you?
 |Quelle est votre nationalité?|What is your nationality?
-|Vous êtes d'où?|Where are you from?
-|Où habitez-vous?|Where do you live?
+Από που είσαι;|Vous êtes d'où?|Where are you from?
+Που μένεις;|Où habitez-vous?|Where do you live?
 |Que faites-vous dans la vie?|What do you do for a living?
 |Quels sont vos passe-temps préférés?|What are your favorite pastimes?
-|la famille|the family
-|un homme|man
-|une femme|woman, wife
-|un mari|husband
-|un fiancé / une fiancée|fiancé / fiancée
-|des parents|parents, relatives
-|un père|father
-|une mère|mother
-|un/une enfant|child
-|un fils|son
-|une fille|daughter
-|un fils unique|only child (male)
-|une fille unique|only child (female)
-|un frère|brother
-|une soeur|sister
-|des grands-parents (m)|grandparents
-|un grand-père|grandfather
-|une grand-mère|grandmother
-|un petit-enfant|grandchild
-|un oncle|uncle
-|une tante|aunt
-|un neveu|nephew
-|une nièce|niece
-|les amis|friends
-|un ami / une amie|friend
+Η οικογένεια|la famille|the family
+Άνδρας|un homme|man
+Γυναίκα|une femme|woman, wife
+Άνδρας|un mari|husband
+Αρραβωνιατικός/Αρραβωνιαστικιά|un fiancé / une fiancée|fiancé / fiancée
+Γονείς|des parents|parents, relatives
+Πατέρας|un père|father
+Μητέρα|une mère|mother
+Παιδί|un/une enfant|child
+Υιός|un fils|son
+Κόρη|une fille|daughter
+Μοναχοπαίδι|un fils unique|only child (male)
+Μοναχοπαίδι|une fille unique|only child (female)
+Αδελφός|un frère|brother
+Αδελφή|une soeur|sister
+Παππούς και γιαγιά|des grands-parents (m)|grandparents
+Παππούς|un grand-père|grandfather
+Γιαγιά|une grand-mère|grandmother
+Εγγόνι|un petit-enfant|grandchild
+Θείος|un oncle|uncle
+Θεία|une tante|aunt
+Ανιψιός|un neveu|nephew
+Ανιψία|une nièce|niece
+Φίλοι|les amis|friends
+Φίλος / Φίλη|un ami / une amie|friend
 |un/une camarade|friend
 |un copain / une copine|friend; boyfriend / girlfriend
 |mots interrogatifs|interrogative words
-|où?|where?
-|quand?|when?
-|qui?|who?
-|comment?|how?
+Που;|où?|where?
+Πότε;|quand?|when?
+Ποιος;|qui?|who?
+Πως;|comment?|how?
 |quel / quelle / quels / quelles|which?
-|pourquoi?|why?
-|parce que|because
-|l'heure|time
-|l'heure (f)|the time
-|Quelle heure est-il?|What time is it?
-|Il est huit heures.|It's 8 o'clock.
-|Il est huit heures dix.|It's ten after 8.
-|Il est huit heures et quart.|It's quarter after 8.
-|Il est huit heures vingt-cinq.|It's twenty-five after 8.
-|Il est huit heures et demie.|It's eight-thirty.
-|Il est neuf heures moins vingt.|It's twenty to nine.
-|Il est neuf heures moins le quart.|It's quarter to nine.
-|Il est midi.|It's noon.
-|Il est midi et demi.|It's twelve-thirty.
-|Il est minuit.|It's midnight.
-|Il est trois heures...|It's three o'clock...
-|du matin|in the morning (3 a.m.)
-|de l'après-midi|in the afternoon (3 p.m.)
-|Il est sept heures...|It's seven o'clock...
-|du soir|in the evening (7 p.m.)
-|l'heure officielle|official time
-|Il est 10h.|It's 10 a.m.
-|Il est 12h05.|It's 12:05 p.m.
-|Il est 13h15.|It's 1:15 p.m.
-|Il est 15h35.|It's 3:35 p.m.
-|Il est 18h45.|It's 6:45 p.m.
-|Il est 22h59.|It's 10:59 p.m.
+Γιατί;|pourquoi?|why?
+Επειδή|parce que|because
+Ωρα'|l'heure|time
+Η ωρα|l'heure (f)|the time
+Τι ώρα είναι;|Quelle heure est-il?|What time is it?
+Είναι οκτώ η ώρα.|Il est huit heures.|It's 8 o'clock.
+Είναι οκτώ και δέκα.|Il est huit heures dix.|It's ten after 8.
+Είναι οκτώ και τέταρτο.|Il est huit heures et quart.|It's quarter after 8.
+Είναι οκτώ και είκοσι πέντε.|Il est huit heures vingt-cinq.|It's twenty-five after 8.
+Είναι οκτώ και μισή.|Il est huit heures et demie.|It's eight-thirty.
+Είναι εννέα παρα είκοσι.|Il est neuf heures moins vingt.|It's twenty to nine.
+Είναι εννέα παρα τέταρτο.|Il est neuf heures moins le quart.|It's quarter to nine.
+Είναι μεσημέρι.|Il est midi.|It's noon.
+Είναι δώδεκα και μισή.|Il est midi et demi.|It's twelve-thirty.
+Είναι μεσάνυχτα.|Il est minuit.|It's midnight.
+Είναι τρεις η ώρα.|Il est trois heures...|It's three o'clock...
+Το πρωί|du matin|in the morning (3 a.m.)
+Το απόγευμα|de l'après-midi|in the afternoon (3 p.m.)
+Είναι επτά η ώρα...|Il est sept heures...|It's seven o'clock...
+Το απόγευμα|du soir|in the evening (7 p.m.)
+Επίσημη ώρα|l'heure officielle|official time
+Είναι 10 π.μ.|Il est 10h.|It's 10 a.m.
+Είναι 12:05 μ.μ.|Il est 12h05.|It's 12:05 p.m.
+Είναι 1:15  μ.μ.|Il est 13h15.|It's 1:15 p.m.
+Είναι 3:35 μ.μ.|Il est 15h35.|It's 3:35 p.m.
+Είναι 6:45 μ.μ.|Il est 18h45.|It's 6:45 p.m.
+Είναι 10:59 μ.μ.|Il est 22h59.|It's 10:59 p.m.
 |passe-temps et activités|pastimes and activities
-|avoir|to have
-|avoir besoin de...|to need
-|avoir envie de...|to feel like (to want to)
-|avoir l'intention de...|to intend (to)
-|chercher|to look for
-|trouver|to find
+να έχω|avoir|to have
+να χρειάστω|avoir besoin de...|to need
+να θέλω να...|avoir envie de...|to feel like (to want to)
+να σκοπεύω να...|avoir l'intention de...|to intend (to)
+να κοιτάξω|chercher|to look for
+να βρω|trouver|to find
 |(Qui cherche, trouve!)|(Who looks for (searches), finds!)
 |tomber amoureux (de) /amoureuse (de)|to fall in love
-|embrasser|to kiss
-|écouter...|to listen to...
-|de la musique|music
-|chanter|to sing
-|danser|to dance
-|aimer|to like, to love
-|la musique classique / le jazz|classical music / jazz
-|le hip-hop / la techno|hip-hop / techno
-|le sport / le tennis / le football|sports / tennis / soccer
-|le basket / le golf / le footing|basketball / golf / running
-|préférer|to prefer
-|adorer|to adore
-|détester|to detest
-|habiter|to live
-|rester à la maison|to stay at home
-|étudier|to study
-|lire|to read
-|oublier|to forget
-|regarder la télévision|to watch television
-|téléphoner à|to telephone
-|parler|to speak
-|jouer...|to play...
-|au foot / au tennis / aux cartes|soccer / tennis / cards
-|de la guitare / du piano|guitar / piano
-|nager|to swim
-|rencontrer|to meet
-|rêver|to dream
-|travailler|to work
-|voyager|to travel
-|adverbes|adverbs
-|aussi|also
-|maintenant|now
-|plus tard|later
-|beaucoup|a lot
-|peu / un peu|little / a little
-|rarement|rarely
-|parfois|at times
-|quelquefois|sometimes
-|souvent|often
-|toujours|always
-|ne ... jamais|never
-|continents, pays, nationalités|continents, Countries, Nationalities
-|un continent|continent
-|un pays|country
-|l'Afrique (f) / africain (e)|Africa / African
-|l'Algérie (f) / algérien(ne)|Algeria / Algerian
-|le Maroc / marocain(e)|Morocco / Moroccan
-|le Sénégal / sénégalais(e)|Senegal / Senegalese
-|la Tunisie / tunisien(ne)|Tunisia / Tunisian
-|l'Amérique du Nord|North America
-|le Canada / canadien(ne)|Canada / Canadian
-|les Etats-Unis / américain(e)|United States / American
-|le Mexique / mexicain(e)|Mexico / Mexican
-|l'Amérique du Sud|South American
-|la Guyane française / guyanais(e)|French Guyana / Guyanese
-|l'Asie (f) / asiatique|Asia / Asian
-|la Chine / chinois(e)|China / Chinese
-|le Japon / japonais(e)|Japan / Japanese
-|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
+να φιλήσω|embrasser|to kiss
+να ακούσω|écouter...|to listen to...
+Μουσική|de la musique|music
+να τραγουδώ|chanter|to sing
+να χορεύω|danser|to dance
+να μου αρέσει|aimer|to like, to love
+μουσική τζαζ|la musique classique / le jazz|classical music / jazz
+Χιπ χοπ|le hip-hop / la techno|hip-hop / techno
+Άθλημα / τένις / ποδόσφαιρο|le sport / le tennis / le football|sports / tennis / soccer
+Μπάσκετ / γκολφ / τρέξιμο|le basket / le golf / le footing|basketball / golf / running
+να προτιμώ|préférer|to prefer
+να λατρεύω|adorer|to adore
+να αντιπαθώ|détester|to detest
+να ζω|habiter|to live
+να μείνω στο σπίτι|rester à la maison|to stay at home
+να διαβάζω|étudier|to study
+να διαβάζώ|lire|to read
+να ξεχάσω|oublier|to forget
+να δω τηλεόραση|regarder la télévision|to watch television
+να τηλεφωνήσω|téléphoner à|to telephone
+να μιλήσω|parler|to speak
+να παίζω|jouer...|to play...
+Ποδόσφαιρο / τένις / κάρτες |au foot / au tennis / aux cartes|soccer / tennis / cards
+Κιθάρα / πιάνο|de la guitare / du piano|guitar / piano
+να κολυμπήσω|nager|to swim
+να συναντώ|rencontrer|to meet
+να ονειρευτώ|rêver|to dream
+να δουλέυω|travailler|to work
+να ταξιδεύω|voyager|to travel
+Επιρρήματα|adverbes|adverbs
+Επίσης|aussi|also
+Τώρα|maintenant|now
+Αργότερα|plus tard|later
+Πολύ|beaucoup|a lot
+Λίγο|peu / un peu|little / a little
+Σπανίως|rarement|rarely
+Ωρες ωρες|parfois|at times
+Ωρες ωρες|quelquefois|sometimes
+Συχνά|souvent|often
+Πάντα|toujours|always
+Ποτέ|ne ... jamais|never
+Ηπείρους, χώρες, εθνικότητες|continents, pays, nationalités|continents, Countries, Nationalities
+Ήπειρος|un continent|continent
+Χώρα|un pays|country
+Αφρική|l'Afrique (f) / africain (e)|Africa / African
+Αλγερία|l'Algérie (f) / algérien(ne)|Algeria / Algerian
+Μαρόκο / Μαροκινός|le Maroc / marocain(e)|Morocco / Moroccan
+Σενεγάλη / Σενεγάλη|le Sénégal / sénégalais(e)|Senegal / Senegalese
+Τυνησία / Τυνησιακά|la Tunisie / tunisien(ne)|Tunisia / Tunisian
+Βόρεια Αμερική|l'Amérique du Nord|North America
+Καναδάς / Καναδικός|le Canada / canadien(ne)|Canada / Canadian
+Ηνωμένες Πολιτείες / Αμερικάνος|les Etats-Unis / américain(e)|United States / American
+Μεξικό / Μεξικάνικος|le Mexique / mexicain(e)|Mexico / Mexican
+Νοτιοαμερικάνος|l'Amérique du Sud|South American
+Γαλλική Γουιάνα / Γουανέζος|la Guyane française / guyanais(e)|French Guyana / Guyanese
+Ασιάτης|l'Asie (f) / asiatique|Asia / Asian
+Κίνα / Κινέζικα|la Chine / chinois(e)|China / Chinese
+Ιαπωνία / Ιαπωνικά|le Japon / japonais(e)|Japan / Japanese
+Βιετναμ / Βιετναμέζικα|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
 |l'Océanie|Oceania (the South Sea Islands)
-|l'Australie (f) / australien(ne)|Australia / Australian
-|l'Europe (f) / européen(ne)|Europe / European
-|l'Allemagne (f) / allemand(e)|Germany / German
-|l'Angleterre (f) / anglais(e)|England / English
-|la Belgique / belge|Belgium / Belgian
-|l'Espagne (f) / espagnol(e)|Spain / Spanish
-|la France / français(e)|France / French
-|l'Italie (f) / italien(ne)|Italy / Italian
-|la Suisse / suisse|Switzerland / Swiss
+Αυστραλία / Αυστραλός|l'Australie (f) / australien(ne)|Australia / Australian
+Ευρώπη / Ευρωπαϊκός|l'Europe (f) / européen(ne)|Europe / European
+Γερμανία / Γερμανός|l'Allemagne (f) / allemand(e)|Germany / German
+Αγγλία / Αγγλικά|l'Angleterre (f) / anglais(e)|England / English
+Βέλγιο / Βελγικός|la Belgique / belge|Belgium / Belgian
+Ισπανία / Ισπανιkά|l'Espagne (f) / espagnol(e)|Spain / Spanish
+Γαλλία / Γαλλική|la France / français(e)|France / French
+Ιταλία / Ιταλικός|l'Italie (f) / italien(ne)|Italy / Italian
+Ελβετία / Ελβετός|la Suisse / suisse|Switzerland / Swiss

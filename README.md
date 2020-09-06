@@ -15,6 +15,8 @@ Feel free to share the deck and give the repository a star so more people are li
 ## Usage
 If you want to just learn the words, download <a href="https://apps.ankiweb.net/">Anki</a> on your device of choice and open the .apkg file to add it into your collection. You can choose to download the whole texbook as a single deck or you can download it a chapter at a time from the individual chapter files in the "APKG" folder for the relevant language pair. If you wish to build the deck from scratch you will need to import the .txt file via the desktop with HTML enabled and the separator to be "|".
 
+Watch our video on an Introduction to Anki for a complete overeview -> [https://www.youtube.com/watch?v=Dji_h7PILrw](https://www.youtube.com/watch?v=Dji_h7PILrw)
+
 ## Potential Improvements Yet to be Made
 1. To find a way to systematically pull the pronounciation of each word or phrase from the audio provided in the textbook.
     - Currently audio from the textbook are batched together and are not word by word, we are looking into splitting these programmatically & appending them to each card

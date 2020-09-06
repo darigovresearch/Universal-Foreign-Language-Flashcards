@@ -44,3 +44,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This work was based on the work ***Francais Interactif*** by the [COERLL](http://www.laits.utexas.edu/fi/), licensed under a [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/).
 
 To see this work in full go to http://www.laits.utexas.edu/fi/
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>

@@ -39,7 +39,7 @@ Introduction (UFLF el-en)|"
 Τις Επιστήμες|sciences
 Η Βιολογία|biology
 Η Χημεία|chemistry
-|computer science
+Επιστήμη υπολογιστών|computer science
 Η Μουσική|music
 Η Φιλοσοφία|philosophy
 Η Ψυχολογία|psychology

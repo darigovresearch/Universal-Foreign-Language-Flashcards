@@ -28,9 +28,9 @@ Introduction (UFLF it-en)|"
 |le commerce|business
 |la comptabilité|accounting
 |les langues (f)|languages
-|l'anglais (m)|English
-|le français|French
-|l'espagnol (m)|Spanish
+l'inglese (m)|l'anglais (m)|English
+il francese|le français|French
+il spagnolo|l'espagnol (m)|Spanish
 |la littérature|literature
 |l'histoire (f)|history
 |la géographie|geography
@@ -40,11 +40,11 @@ Introduction (UFLF it-en)|"
 |la biologie|biology
 |la chimie|chemistry
 |l'informatique (f)|computer science
-|la musique|music
-|la philosophie|philosophy
+la musica|la musique|music
+la filosofia|la philosophie|philosophy
 |la psychologie|psychology
 |l'alphabet|the alphabet
-|les animaux|animals
+gli animali|les animaux|animals
 |le cafard|cockroach
 |le chat / la chatte / la minette|cat / female cat / kitty
 |l'écureuil|squirrel

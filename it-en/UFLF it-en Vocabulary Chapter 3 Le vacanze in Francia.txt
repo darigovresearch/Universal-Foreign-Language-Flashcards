@@ -1,4 +1,4 @@
-|le temps|weather
+il tiempo|le temps|weather
 |Quel temps fait-il?|What's the weather?
 |Il fait beau.|It's nice.
 |Il fait chaud.|It's hot.
@@ -21,7 +21,7 @@
 |la campagne|countryside
 |la ville|town, city
 |une province|province
-|une région|region
+una regione|une région|region
 |un lac|lake
 |un fleuve|major river (that flows to the sea)
 |la Loire|the Loire (river)
@@ -33,7 +33,7 @@
 |l'océan (m)|ocean
 |l'océan Atlantique|the Atlantic Ocean
 |la Manche|the English Channel
-|la plage|beach
+la spiaggia|la plage|beach
 |une forêt|forest
 |la montagne|mountain
 |les Alpes (f)|the Alps
@@ -61,7 +61,7 @@
 |la Provence|Provence
 |la Vallée de la Loire|the Loire Valley
 |les activités|activities
-|aller|to go
+andare|aller|to go
 |aller au cinéma|to go to the movies
 |aller en boîte|to go clubbing
 |aller au concert|to go to a concert
@@ -77,11 +77,11 @@
 |faire une promenade|to take a walk
 |passer les vacances (f pl)|spend a vacation
 |visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
-|une cathédrale|a cathedral
+una cattedrale|une cathédrale|a cathedral
 |un château|a castle
 |une exposition|an exhibition, show
-|un monument|a monument
-|un musée|a museum
+un monumento|un monument|a monument
+un museo|un musée|a museum
 |les transports|means of transport
 |Comment voyagez-vous?|How do you travel?
 |Je voyage...|I travel...
@@ -99,52 +99,52 @@
 |à vélo / un vélo|by bicycle / bicycle
 |à pied|on foot
 |verbes|verbs
-|acheter|to buy
+comprare|acheter|to buy
 |amener|to bring somebody (along)
-|changer|to change
-|dormir|to sleep
+cambiare|changer|to change
+dormire|dormir|to sleep
 |emmener|to take somebody (along)
-|espérer|to hope
-|essayer|to try
-|manger|to eat
+sperare|espérer|to hope
+provare|essayer|to try
+mangiare|manger|to eat
 |nager|to swim
 |partager|to share
-|partir|to leave
-|sortir|to go out
+partire|partir|to leave
+sortire|sortir|to go out
 |les nombres cardinaux 70-100|Cardinal Numbers 70-100
-|soixante-dix|70
-|soixante et onze|71
-|soixante-douze|72
-|soixante-treize|73
-|soixante-quatorze|74
-|soixante-quinze|75
-|soixante-seize|76
-|soixante-dix-sept|77
-|soixante-dix-huit|78
-|soixante-dix-neuf|79
-|quatre-vingts|80
-|quatre-vingt-un|81
-|quatre-vingt-deux|82
-|quatre-vingt-trois|83
-|quatre-vingt-quatre|84
-|quatre-vingt-cinq|85
-|quatre-vingt-six|86
-|quatre-vingt-sept|87
-|quatre-vingt-huit|88
-|quatre-vingt-neuf|89
-|quatre-vingt-dix|90
-|quatre-vingt-onze|91
-|quatre-vingt-douze|92
-|quatre-vingt-treize|93
-|quatre-vingt-quatorze|94
-|quatre-vingt-quinze|95
-|quatre-vingt-seize|96
-|quatre-vingt-dix-sept|97
-|quatre-vingt-dix-huit|98
-|quatre-vingt-dix-neuf|99
-|cent|100
-|cent deux|102
-|deux cents|200
-|mille|1.000
-|deux mille|2.000
-|un million|1.000.000
+settanta|soixante-dix|70
+sessantuno|soixante et onze|71
+sessantadue|soixante-douze|72
+sessantatré|soixante-treize|73
+sessantaquattro|soixante-quatorze|74
+sessantacinque|soixante-quinze|75
+sessantasei|soixante-seize|76
+sessantasette|soixante-dix-sept|77
+sessantotto|soixante-dix-huit|78
+sessantanove|soixante-dix-neuf|79
+ottanta|quatre-vingts|80
+ottantuno|quatre-vingt-un|81
+ottantadue|quatre-vingt-deux|82
+ottantatré|quatre-vingt-trois|83
+ottantaquattro|quatre-vingt-quatre|84
+ottantacinque|quatre-vingt-cinq|85
+ottantasei|quatre-vingt-six|86
+ottantasette|quatre-vingt-sept|87
+ottantotto|quatre-vingt-huit|88
+ottantanove|quatre-vingt-neuf|89
+novanta|quatre-vingt-dix|90
+novantuno|quatre-vingt-onze|91
+novantadue|quatre-vingt-douze|92
+novantatré|quatre-vingt-treize|93
+novantaquattro|quatre-vingt-quatorze|94
+novantacinque|quatre-vingt-quinze|95
+novantasei|quatre-vingt-seize|96
+novantasette|quatre-vingt-dix-sept|97
+novantotto|quatre-vingt-dix-huit|98
+novantanove|quatre-vingt-dix-neuf|99
+cento|cent|100
+centodue|cent deux|102
+duecento|deux cents|200
+mile|mille|1.000
+duemile|deux mille|2.000
+un milione|un million|1.000.000

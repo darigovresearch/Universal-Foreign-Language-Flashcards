@@ -1,26 +1,26 @@
-|le visage|the face
-|la tête|head
-|les cheveux (m)|hair
+la faccia|le visage|the face
+la testa|la tête|head
+gli capelli|les cheveux (m)|hair
 |le front|forehead
 |les sourcils (m)|eyebrows
 |les yeux (m)|eyes
 |le nez|nose
 |les joues (f)|cheeks
 |les oreilles (f)|ears
-|la bouche|mouth
-|les dents (f)|teeth
+la bocca|la bouche|mouth
+gli denti|les dents (f)|teeth
 |le menton|chin
 |le cou|neck
 |les couleurs(f)|colors
-|blanc / blanche|white
-|bleu / bleue|blue
-|gris / grise|gray
-|jaune|yellow
-|marron (invariable)|brown
-|noir / noire|black
-|orange (invariable)|orange
-|rouge|red
-|vert / verte|green
+bianco / bianca|blanc / blanche|white
+blu / blue|bleu / bleue|blue
+grigio / grigia|gris / grise|gray
+giallo/gialla|jaune|yellow
+marrone|marron (invariable)|brown
+nero / nera|noir / noire|black
+arrancia|orange (invariable)|orange
+rosso / rossa|rouge|red
+verde|vert / verte|green
 |violet / violette|purple
 |le portrait physique|physical description
 |Quelle est votre taille (f)?|What's your height?
@@ -45,8 +45,8 @@
 |Il a le nez retroussé / pointu.|He has a snub / pointed nose.
 |Il a de grandes oreilles.|He has big ears.
 |Il/Elle a...|He/She has...
-|des lunettes (f)|glasses
-|une cicatrice|scar
+dei occhiali|des lunettes (f)|glasses
+una cicatrice|une cicatrice|scar
 |un piercing|body piercing
 |un tatouage|tattoo
 |le portrait moral (adjectifs)|psychological description
@@ -100,18 +100,18 @@
 |tolérant / tolérante|tolerant
 |travailleur / travailleuse|hard-working
 |adjectifs qui précèdent le nom|adjectives preceding the noun
-|autre|other
-|beau / bel / belle|beautiful
-|bon / bonne|good
-|grand / grande|tall, big
-|gros / grosse|big, fat
-|jeune|young
-|joli / jolie|pretty
+altro|autre|other
+bello / bella / belle|beau / bel / belle|beautiful
+buono / buona|bon / bonne|good
+grande / granda|grand / grande|tall, big
+grosso / grossa|gros / grosse|big, fat
+giovano / giovana|jeune|young
+bello / bella|joli / jolie|pretty
 |long / longue|long
-|mauvais / mauvaise|bad
-|nouveau / nouvel / nouvelle|new
-|petit / petite|little
-|vieux / vieil / vieille|old
+male / mala|mauvais / mauvaise|bad
+nuovo / nuova|nouveau / nouvel / nouvelle|new
+piccolo / piccola|petit / petite|little
+vecchio / vecchia / vecchi|vieux / vieil / vieille|old
 |verbes pronominaux|pronominal verbs
 |se réveiller|to wake up
 |se lever|to get up

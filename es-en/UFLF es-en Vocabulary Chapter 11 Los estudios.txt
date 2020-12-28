@@ -9,7 +9,7 @@
 |le baccalauréat / le bac|baccalaureate exam
 |un bachelier / une bachelière|student who has passed the bac
 |un concours (d'entrée)|competitive entrance exam
-|la fac|college, university
+l'universidad (f)|la fac|college, university
 |la Faculté des Beaux-Arts|school of fine arts
 |la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
 |la Faculté de Médecine|school of medicine
@@ -42,41 +42,41 @@
 |l'architecture (f)|architecture
 |l'art (m)|art
 |le dessin|drawing, design
-|la musique|music
+la música|la musique|music
 |la peinture|painting
 |la communication|communications
 |la comptabilité|accounting
 |le droit|law
 |l'économie (f)|economics
-|la géographie|geography
-|l'histoire (f)|history
-|l'informatique (f)|computer science
-|les langues (f)|languages
+la geografía|la géographie|geography
+la historia|l'histoire (f)|history
+la informática|l'informatique (f)|computer science
+los idiomas|les langues (f)|languages
 |le chinois|Chinese
 |l'allemand (m)|German
-|l'anglais (m)|English
-|l'espagnol (m)|Spanish
-|le français|French
+El inglés|l'anglais (m)|English
+El español|l'espagnol (m)|Spanish
+El francés|le français|French
 |l'italien (m)|Italian
 |le latin|Latin
 |la linguistique|linguistics
-|la littérature|literature
-|les mathématiques (f) / les maths|math
+la literatura|la littérature|literature
+las matemáticas/mates|les mathématiques (f) / les maths|math
 |la médecine|medicine
 |la pharmacie|pharmacy
-|la philosophie|philosophy
-|la psychologie|psychology
-|la biologie|biology
-|la chimie|chemistry
+la filosofía|la philosophie|philosophy
+la psicología|la psychologie|psychology
+la biología|la biologie|biology
+la química|la chimie|chemistry
 |la physique|physics
-|les sciences politiques (f)|political science
+las ciencias políticas|les sciences politiques (f)|political science
 |la sociologie|sociology
-|adjectifs|adjectives
+adjetivos|adjectifs|adjectives
 |chargé(e)|full, busy (referring to schedule)
-|occupé(e)|busy
-|prochain(e)|next
-|dernier / dernière|last
-|verbes|verbs
+ocupado(a)|occupé(e)|busy
+próximo(a)|prochain(e)|next
+ultimo / ultima|dernier / dernière|last
+verbos|verbes|verbs
 |s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
 |régler (les frais d’inscription)|to pay (one’s tuition/fees)
 |En quelle matiére est-ce que tu te spécialises?|What's your major?

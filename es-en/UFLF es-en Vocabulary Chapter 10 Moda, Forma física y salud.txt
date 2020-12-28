@@ -91,7 +91,7 @@
 |sportif / sportive|athletic
 |stressé(e)|stressed
 |malade|sick
-|verbes|verbs
+verbos|verbes|verbs
 |s'habiller|to get dressed
 |mettre|to put (on)
 |porter|to wear
@@ -107,7 +107,7 @@
 |(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
 |se reposer|to rest
 |se détendre|to relax
-|fumer|to smoke
+fumar|fumer|to smoke
 |être en bonne santé|to be in good health
 |expressions interrogatives|interrogative expressions
 |Qu'est-ce qui se passe?|What is going on?

@@ -12,7 +12,7 @@
 |un curriculum vitae (un CV)|résumé
 |un entretien|interview
 |les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
-|un salaire|salary
+uno salario|un salaire|salary
 |les congés|vacation days
 |une promotion|promotion
 |la retraite|retirement
@@ -25,7 +25,7 @@
 |un pompier|firefighter
 |un enseignant / une enseignante|teacher
 |une assistante sociale|social worker
-|un médecin|doctor, physician
+uno medico|un médecin|doctor, physician
 |un/une dentiste|dentist
 |un infirmier / une infirmière|nurse
 |un kinésithérapeute / un kiné|chiropractor, physical therapist
@@ -59,22 +59,22 @@
 |un couturier / une couturière|fashion designer, seamstress
 |un coiffeur / une coiffeuse|hairdresser
 |un critique (de films, d'art, etc.)|critic (film, art, etc.)
-|un écrivain|writer
+uno ecrivador|un écrivain|writer
 |un journaliste|reporter, journalist
 |un peintre / une peintre|painter
 |un musicien / une musicienne|musician
 |un voyagiste / un agent de voyage|travel agent
 |une femme au foyer|housewife
-|adjectifs|adjectives
-|dur(e) / difficile|hard, tough, difficult
-|dynamique|dynamic
-|honnête|honest
-|passionnant(e)|enthralling, fascinating
-|utile|useful
-|inutile|useless
+adjetivos|adjectifs|adjectives
+duro(a) /  difícil|dur(e) / difficile|hard, tough, difficult
+dynamico|dynamique|dynamic
+honesto|honnête|honest
+apasionado(a)|passionnant(e)|enthralling, fascinating
+útil|utile|useful
+inútil|inutile|useless
 |d'occasion (une voiture d'occasion)|second-hand, used
-|verbes|verbs
-|chercher une situation|to look for a job
+verbos|verbes|verbs
+buscar un trabajo|chercher une situation|to look for a job
 |faire une demande d'emploi|to apply for a job
 |prendre un rendez-vous|to make an appointment
 |remplir un formulaire|to fill out a form

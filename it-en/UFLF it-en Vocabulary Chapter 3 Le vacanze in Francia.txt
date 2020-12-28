@@ -98,7 +98,7 @@ un museo|un musée|a museum
 |à moto / une moto|by motorcycle / motorcycle
 |à vélo / un vélo|by bicycle / bicycle
 |à pied|on foot
-|verbes|verbs
+verbi|verbes|verbs
 comprare|acheter|to buy
 |amener|to bring somebody (along)
 cambiare|changer|to change

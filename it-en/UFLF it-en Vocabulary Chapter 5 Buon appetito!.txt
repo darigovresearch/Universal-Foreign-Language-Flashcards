@@ -1,9 +1,9 @@
-|à table|at the table
+a tavola|à table|at the table
 |un verre|glass
-|une tasse|cup
+una tassa|une tasse|cup
 |un bol|bowl
 |une assiette|plate
-|un couteau|knife
+uno coltello|un couteau|knife
 |une fourchette|fork
 |une cuillère|spoon
 |la cuisine|kitchen, cooking
@@ -12,7 +12,7 @@
 |le déjeuner|lunch
 |le goûter|snack
 |le dîner|dinner, supper
-|au marché, au supermarché|at the market, at the supermarket
+al mercato, al supermercato|au marché, au supermarché|at the market, at the supermarket
 |des fruits (m)|fruits
 |des bananes (f)|bananas
 |des cerises (f)|cherries
@@ -61,8 +61,8 @@
 |du saucisson|hard sausage
 |à la poissonnerie|at the seafood shop
 |Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
-|du poisson|fish
-|du saumon|salmon
+di pesche|du poisson|fish
+di salmone|du saumon|salmon
 |de la sole|sole
 |du thon|tuna
 |à l'épicerie|at the grocery store
@@ -72,12 +72,12 @@
 |des noix (f)|walnuts
 |des produits laitiers|dairy products
 |du beurre|butter
-|du lait|milk
-|du fromage|cheese
+di latte|du lait|milk
+di formaggio|du fromage|cheese
 |du yaourt|yogurt
 |de la glace|ice cream
 |des épices (f)|spices
-|du sel|salt
+di sale|du sel|salt
 |du poivre|pepper
 |de l'huile (f)|oil
 |du vinaigre|vinegar
@@ -101,16 +101,16 @@
 |au café|at the café
 |Au café, on commande ...|At the café, you order ...
 |des boissons non-alcoolisées|non-alcoholic beverages
-|du café|coffee
+di caffè|du café|coffee
 |du thé|tea
 |du coca-cola|cola
-|de l'eau (f)|water
-|de l'eau minérale|mineral water
+d'acqua|de l'eau (f)|water
+d'acqua minerale|de l'eau minérale|mineral water
 |du jus de fruit|fruit juice
 |des boissons alcoolisées|alcoholic beverages
-|de la bière|beer
+di birra|de la bière|beer
 |du champagne|champagne
-|du vin|wine
+di vino|du vin|wine
 |du vin blanc (du blanc)|white wine
 |du vin rosé (du rosé)|rosé wine
 |du vin rouge (du rouge)|red wine
@@ -121,9 +121,9 @@
 |une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
 |au restaurant|at the restaurant
 |Au restaurant, on commande ...|At the restaurant, you order ...
-|un apéritif (m)|before dinner drink
+un'aperitivo (m)|un apéritif (m)|before dinner drink
 |une entrée (f)|appetizer / first course
-|un plat principal|main course
+una piatta principale|un plat principal|main course
 |un dessert|dessert
 |une boisson|drink, beverage
 |des plats typiquement français|typical French dishes
@@ -142,13 +142,13 @@
 |du fondant au chocolat|rich chocolate flourless cake
 |expressions de quantité|expressions of quantity
 |un peu de|a little
-|assez de|enough
-|beaucoup de|a lot
-|trop de|too much (too many)
+basta di|assez de|enough
+tanto di|beaucoup de|a lot
+troppo di|trop de|too much (too many)
 |une cuillère de|a spoonful of
-|une bouteille de|a bottle of
+una bottiglia di|une bouteille de|a bottle of
 |un pichet de|a pitcher of
-|un litre de|a liter of
+un litro di|un litre de|a liter of
 |50 grammes de|50 grams of
 |un kilo de|a kilo of
 |un morceau de|a piece of
@@ -164,28 +164,28 @@
 |grillé(e)|grilled
 |hâché(e)|chopped
 |salé(e)|salty
-|sucré(e)|sweet
-|verbes|verbs
-|avoir faim / avoir soif|to be hungry / to be thirsty
-|boire|to drink
+dolce|sucré(e)|sweet
+verbi|verbes|verbs
+avete fame / avete sete|avoir faim / avoir soif|to be hungry / to be thirsty
+bere|boire|to drink
 |déjeuner|to have lunch
 |dîner|to have dinner
 |faire le marché|to go grocery shopping
 |faire la cuisine|to cook
 |prendre un repas|to have a meal
 |faire la vaisselle|to do the dishes
-|grossir|to gain weight
+ingrassare|grossir|to gain weight
 |faire un régime|to be on a diet
-|maigrir|to lose weight
-|choisir|to choose
-|finir|to finish
+perdere peso|maigrir|to lose weight
+scegliere|choisir|to choose
+finire|finir|to finish
 |grandir|to grow up
 |obéir à|to obey
 |réfléchir à|to reflect (on)
 |réussir à|to succeed
 |croire|to believe
-|prendre|to take
+prendere|prendre|to take
 |(apprendre à quelqu'un)|to learn
 |apprendre|(to teach someone)
-|comprendre|to understand
-|surprendre|to surprise
+comprendere|comprendre|to understand
+sorpprendere|surprendre|to surprise

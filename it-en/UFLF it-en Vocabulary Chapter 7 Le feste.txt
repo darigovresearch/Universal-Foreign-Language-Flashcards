@@ -1,11 +1,11 @@
-|les fêtes|holidays
+le feste|les fêtes|holidays
 |les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
 |le Jour de l'An, le premier janvier *|New Year's Day
 |la Chandeleur, le 2 février|Candlemas
 |la Saint-Valentin, le 14 février|Valentine's Day
 |le Carnaval (Mardi Gras)|Mardi Gras, Carnival
 |La pâque juive / Pessach|Passover
-|Pâques *|Easter
+Pasqua|Pâques *|Easter
 |le premier avril|April Fool's Day
 |la fête du Travail, le 1er mai *|Labor Day
 |le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
@@ -25,18 +25,18 @@
 |Noël (m), le 25 décembre *|Christmas
 |la Saint-Sylvestre, le 31 décembre|New Year's Eve
 |expressions|expressions
-|Bonne Année!|Happy New Year!
+Felice Anno Nuovo!|Bonne Année!|Happy New Year!
 |Bonne fête!|Happy Saint's Day!
 |Bon (Joyeux) anniversaire!|Happy Birthday!
 |Meilleurs Voeux!|Best wishes!
 |Poisson d'avril!|April Fool!
-|Joyeuses Pâques!|Happy Easter!
+Buona Pasqua!|Joyeuses Pâques!|Happy Easter!
 |Joyeux Noël!|Merry Christmas!
 |rites et coutumes|rituals and customs
 |le réveillon|Christmas Eve or New Year's Eve party
 |des feux d'artifice (m)|fireworks
 |un défilé (militaire)|(military) parade
-|une fête|saint's day, celebration, party
+una festa|une fête|saint's day, celebration, party
 |un anniversaire|birthday, anniversary
 |un gâteau|cake
 |une bougie|candle
@@ -58,17 +58,17 @@
 |la crèche|nativity
 |la messe|mass
 |le sabbat / le shabbat|sabbath
-|verbes|verbs
+verbi|verbes|verbs
 |célébrer|to celebrate
-|faire la fête|to party
-|fêter|to celebrate
+fare la festa|faire la fête|to party
+festeggiare|fêter|to celebrate
 |réveillonner|to celebrate Christmas Eve or New Year's Eve
-|inviter|to invite
-|offrir|to give
-|donner|to give
-|recevoir|to receive
-|ouvrir|to open
+invitare|inviter|to invite
+offrire|offrir|to give
+dare|donner|to give
+ricevere|recevoir|to receive
+aprire|ouvrir|to open
 |souffler|to blow out (candles)
-|plaisanter|to joke
+scherzare|plaisanter|to joke
 |faire un poisson d'avril|to play a joke (on someone)
 |faire le pont|literally 'to make a bridge'

@@ -1,4 +1,4 @@
-|le monde du travail|the working world
+il mondo di lavoro|le monde du travail|the working world
 |les affaires (f pl)|business
 |une entreprise / une boîte [slang]|firm, business
 |un bureau|office
@@ -66,15 +66,15 @@
 |un voyagiste / un agent de voyage|travel agent
 |une femme au foyer|housewife
 |adjectifs|adjectives
-|dur(e) / difficile|hard, tough, difficult
-|dynamique|dynamic
+duro / difficile|dur(e) / difficile|hard, tough, difficult
+dynamico|dynamique|dynamic
 |honnête|honest
 |passionnant(e)|enthralling, fascinating
-|utile|useful
-|inutile|useless
+utile|utile|useful
+inutile|inutile|useless
 |d'occasion (une voiture d'occasion)|second-hand, used
-|verbes|verbs
-|chercher une situation|to look for a job
+verbi|verbes|verbs
+cercare un posto|chercher une situation|to look for a job
 |faire une demande d'emploi|to apply for a job
 |prendre un rendez-vous|to make an appointment
 |remplir un formulaire|to fill out a form

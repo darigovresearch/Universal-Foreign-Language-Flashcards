@@ -1,21 +1,21 @@
-|à la maison|at home
-|une maison|house
-|un appartement|apartment
+a casa|à la maison|at home
+una casa|une maison|house
+un appartamento|un appartement|apartment
 |une résidence universitaire|university dorm
 |une pièce|a room (general term)
-|une fenêtre|window
+una finestra|une fenêtre|window
 |un meuble / des meubles|a piece of furniture / furniture
 |le rez-de-chaussée|ground floor, first floor
 |un escalier|staircase, stairs
-|un balcon|balcony
+un balcone|un balcon|balcony
 |une terrasse|terrace
-|un jardin|garden, yard
+un giardino|un jardin|garden, yard
 |les pièces|rooms
-|une entrée|entranceway
+una entrata|une entrée|entranceway
 |un hall d'entrée|foyer
 |un séjour / un living / un salon / une salle de séjour|living room
 |une salle à manger|dining room
-|une cuisine|kitchen
+una cucina|une cuisine|kitchen
 |un couloir|hallway
 |une chambre|bedroom
 |une salle de bains|bathroom
@@ -23,41 +23,41 @@
 |une buanderie|laundry room
 |un grenier|attic
 |une cave|cellar, wine cellar
-|un garage|garage
+un garagio|un garage|garage
 |dans la chambre il y a...|In the bedroom there is/are...
-|un lit|bed
+un letto|un lit|bed
 |une table de nuit|nightstand
 |une armoire|armoire
 |une commode|chest of drawers
 |un bureau|desk
 |une étagère|bookcase
-|une lampe|lamp
+una lampada|une lampe|lamp
 |un placard|closet
 |de la moquette|carpet (wall to wall)
 |un lecteur DVD / MP3|DVD / MP3 player
-|un ordinateur|computer
-|un téléphone|telephone
+un ordinatore|un ordinateur|computer
+un telefono|un téléphone|telephone
 |dans la salle de bains il y a ...|in the bathroom there is/are ...
 |une baignoire|bathtub
-|une douche|shower
+una doccia|une douche|shower
 |un lavabo|sink
 |un miroir|mirror
 |dans la salle de séjour il y a ...|in the living room there is/are ...
 |un canapé / un sofa|couch
 |un fauteuil|armchair
 |une table basse|coffee table
-|une télévision|television
+una televisione|une télévision|television
 |un tableau / des tableaux|painting / paintings
 |un tapis|area rug or carpet
 |dans la salle à manger il y a ...|in the dining room there is/are ...
-|une table|table
+un tavolo|une table|table
 |une chaise|chair
 |un buffet|hutch, buffet
-|dans la cuisine il y a ...|in the kitchen there is/are ...
-|un réfrigérateur / un frigo|refrigerator / fridge
+nella cuccina c'è ...|dans la cuisine il y a ...|in the kitchen there is/are ...
+un frigo|un réfrigérateur / un frigo|refrigerator / fridge
 |un congélateur|freezer
 |une cuisinière|stove
-|un four|oven
+un forno|un four|oven
 |un four à micro-ondes|microwave
 |un lave-vaisselle|dishwasher
 |un évier|sink
@@ -67,11 +67,11 @@
 |un lave-linge|washing machine
 |un sèche-linge|dryer
 |les tâches domestiques|household chores
-|faire des achats|to go shopping
+fare le spese|faire des achats|to go shopping
 |faire le marché|to do the grocery shopping
 |faire des courses (f pl)|to do errands
 |faire le ménage|to do housework
-|faire la cuisine|to cook
+cucinare|faire la cuisine|to cook
 |faire la vaisselle|to do the dishes
 |ranger|to straighten up
 |faire le lit|to make the bed
@@ -80,15 +80,15 @@
 |repasser|to iron
 |bricoler|to make home repairs or improvements
 |adjectifs|adjectives
-|ancien(ne)|old
-|moderne|modern
+vecchio(ia)|ancien(ne)|old
+moderno|moderne|modern
 |sombre|dark
 |clair(e)|bright, full of light
 |en désordre|messy
 |en ordre|straightened up
 |propre|clean
 |sale|dirty
-|pratique|practical
+pratico|pratique|practical
 |confortable|comfortable
 |verbes|verbs
 |déménager|to move (change residences)

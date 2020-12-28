@@ -9,7 +9,7 @@
 |le baccalauréat / le bac|baccalaureate exam
 |un bachelier / une bachelière|student who has passed the bac
 |un concours (d'entrée)|competitive entrance exam
-|la fac|college, university
+l’universita|la fac|college, university
 |la Faculté des Beaux-Arts|school of fine arts
 |la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
 |la Faculté de Médecine|school of medicine
@@ -46,18 +46,18 @@
 |la peinture|painting
 |la communication|communications
 |la comptabilité|accounting
-|le droit|law
+il diritto|le droit|law
 |l'économie (f)|economics
 |la géographie|geography
 |l'histoire (f)|history
 |l'informatique (f)|computer science
 |les langues (f)|languages
-|le chinois|Chinese
+il chinese|le chinois|Chinese
 |l'allemand (m)|German
-|l'anglais (m)|English
-|l'espagnol (m)|Spanish
-|le français|French
-|l'italien (m)|Italian
+l'inglese (m)|l'anglais (m)|English
+l'espagnolo|l'espagnol (m)|Spanish
+il franchese|le français|French
+l'italiano (m)|l'italien (m)|Italian
 |le latin|Latin
 |la linguistique|linguistics
 |la littérature|literature
@@ -74,8 +74,8 @@
 |adjectifs|adjectives
 |chargé(e)|full, busy (referring to schedule)
 |occupé(e)|busy
-|prochain(e)|next
-|dernier / dernière|last
+prossimo(a)|prochain(e)|next
+ultimo(a)|dernier / dernière|last
 |verbes|verbs
 |s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
 |régler (les frais d’inscription)|to pay (one’s tuition/fees)
@@ -86,8 +86,8 @@
 |faire un effort|to make an effort
 |faire des progrès|to improve
 |se renseigner|to find out about, to get information
-|apprendre|to learn
-|comprendre|to understand
+imparare|apprendre|to learn
+comprendere|comprendre|to understand
 |passer un examen|to take an exam
 |réussir (à) un examen|to pass (an exam), to succeed (in)
 |réussir à + infinitif|to succeed at ...

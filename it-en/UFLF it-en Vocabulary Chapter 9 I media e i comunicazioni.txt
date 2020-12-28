@@ -1,4 +1,4 @@
-|la télévision, le cinéma|television, cinema
+la televisione, la cinema|la télévision, le cinéma|television, cinema
 |la télé|TV
 |la télécommande|remote control
 |une chaîne|channel
@@ -18,8 +18,8 @@
 |un reporter / un journaliste|reporter / journalist
 |une interview|interview
 |une publicité / une pub|commercial
-|un concert|concert
-|un film|movie
+un concerto|un concert|concert
+un film|un film|movie
 |un film d'amour|romantic movie
 |un film de science-fiction|science-fiction movie
 |un film d'horreur|horror movie
@@ -43,15 +43,15 @@
 |une bande-dessinée|comic strip
 |une petite annonce|classified ad
 |un magazine|magazine
-|un livre|book
+un libro|un livre|book
 |un roman|novel
-|la radio|the radio
-|une station|radio station
-|une chanson|song
+la radio|la radio|the radio
+una stazione|une station|radio station
+una canzone|une chanson|song
 |un chanteur / une chanteuse|singer
 |un groupe|a band
 |l'internet|the internet
-|un ordinateur|computer
+un ordinatore|un ordinateur|computer
 |un portable|laptop
 |le web|the web
 |un site|website
@@ -67,9 +67,9 @@
 |un répondeur / une boîte vocale|voicemail
 |un texto|text message
 |au téléphone|on the phone
-|Allô...|Hello...
+Ciao ...|Allô...|Hello...
 |T'es où?|Where are you at / what are you doing?
-|Est-ce que je peux parler à...|May I speak to...
+Posso parlare con ...|Est-ce que je peux parler à...|May I speak to...
 |Je voudrais un renseignement.|I would like some information.
 |Un instant s'il vous plaît.|Please hold. / One moment please.
 |Ne quittez pas.|Stay on the line.
@@ -83,24 +83,24 @@
 |amusant(e) / comique / marrant(e) / drôle|funny
 |doublé(e)|dubbed
 |effrayant(e)|frightening
-|ennuyeux / ennuyeuse|boring
+noioso / noiosa|ennuyeux / ennuyeuse|boring
 |étranger / étrangère|foreign
-|gratuit(e)|free
+gratis|gratuit(e)|free
 |optimiste|optimistic / hopeful
 |pessimiste|pessimistic
 |réaliste|realistic
 |satirique|satirical
-|tragique|tragic
-|triste|sad
+tragico|tragique|tragic
+triste|triste|sad
 |violent(e)|violent
-|verbes|verbs
+verbi|verbes|verbs
 |surfer / aller (sur internet)|to surf (the web)
 |cliquer|to click
 |télécharger|to download
 |décrire|to describe
-|dire|to say
-|écrire|to write
-|durer|to last
-|lire|to read
-|montrer|to show
+dire|dire|to say
+scrivere|écrire|to write
+durare|durer|to last
+leggere|lire|to read
+mostrare|montrer|to show
 |passer (du temps)|to spend (time)

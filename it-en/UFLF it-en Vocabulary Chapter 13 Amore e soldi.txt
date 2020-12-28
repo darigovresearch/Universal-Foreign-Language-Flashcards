@@ -1,5 +1,5 @@
 |les finances|finances
-|une banque|bank
+un banco|une banque|bank
 |une caisse d'épargne|savings and loan association
 |un compte (bancaire)|(bank) account
 |un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
@@ -18,24 +18,24 @@
 |l'essence (f)|gas
 |les charges|utilities
 |les impôts (m pl)|taxes
-|les dettes (f pl)|debts
+gli debiti|les dettes (f pl)|debts
 |la bourse|the stock market
 |des actions (f pl)|stocks
 |un portefeuille|portfolio (also, wallet)
 |adjectifs|adjectives
-|généreux / généreuse|generous
+generoso / generosa|généreux / généreuse|generous
 |dépensier / dépensière|spendthrift
 |radin / radine [slang]|miserly, stingy
-|économe|economical, frugal
+economico|économe|economical, frugal
 |bon marché / pas cher|inexpensive
 |être en solde|to be on sale
 |un prix intéressant|a good price
-|cher / chère|expensive
+caro / cara|cher / chère|expensive
 |être fauché(e) [slang]|to be broke
 |être aisé(e)|to be well off
 |satisfait(e)|satisfied, fulfilled
 |verbes - les finances|verbs - finances
-|coûter|to cost
+costare|coûter|to cost
 |dépenser|to spend
 |rembourser|to reimburse
 |emprunter|borrow
@@ -46,7 +46,7 @@
 |avoir des dettes|to have debts
 |gaspiller|to waste
 |faire des économies|to save money
-|offrir|to give, to offer
+offrire|offrir|to give, to offer
 |les amours|love life
 |un couple|couple
 |le coup de foudre|love at first sight

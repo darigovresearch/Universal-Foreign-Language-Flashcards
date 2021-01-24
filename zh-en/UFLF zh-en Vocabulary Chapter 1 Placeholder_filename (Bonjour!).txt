@@ -8,14 +8,14 @@
 |Salut!|Hi!
 |À tout à l'heure!|See you in a little while.
 |À ce soir.|See you this evening.
-|À demain.|See you tomorrow.
+明天见。|À demain.|See you tomorrow.
 |À bientôt.|See you soon.
 |Comment vous appelez-vous?|What's your name? (formal)
 |Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-|Je m'appelle ...|My name is ...
-|Comment allez-vous?|How are you? (formal)
-|Comment vas-tu?|How are you? (informal)
-|Je vais très bien, merci.|I am very well, thank you.
+我叫 ...|Je m'appelle ...|My name is ...
+您好吗|Comment allez-vous?|How are you? (formal)
+你好吗|Comment vas-tu?|How are you? (informal)
+我很好，谢谢。|Je vais très bien, merci.|I am very well, thank you.
 |Je vais bien, merci.|I am fine, thank you.
 |Pas mal, merci.|Not bad, thank you.
 |Comment ça va?|How are things going?
@@ -95,66 +95,66 @@
 |Il y a ...|There is, there are ...
 |Il y a combien de ...?|There are how many ...?
 |les nombres cardinaux 1-69|Cardinal Numbers 1-69
-|un, une|1
-|deux|2
-|trois|3
-|quatre|4
-|cinq|5
-|six|6
-|sept|7
-|huit|8
-|neuf|9
-|dix|10
-|onze|11
-|douze|12
-|treize|13
-|quatorze|14
-|quinze|15
-|seize|16
-|dix-sept|17
-|dix-huit|18
-|dix-neuf|19
-|vingt|20
-|vingt et un|21
-|vingt-deux|22
-|vingt-trois|23
-|vingt-quatre|24
-|vingt-cinq|25
-|vingt-six|26
-|vingt-sept|27
-|vingt-huit|28
-|vingt-neuf|29
-|trente|30
-|trente et un|31
-|trente-deux|32
-|trente-neuf|39
-|quarante|40
-|quarante et un|41
-|quarante-deux|42
-|quarante-neuf|49
-|cinquante|50
-|cinquante et un|51
-|cinquante-deux|52
-|cinquante-neuf|59
-|soixante|60
-|soixante et un|61
-|soixante-deux|62
-|soixante-neuf|69
+一|un, une|1
+二|deux|2
+三|trois|3
+四|quatre|4
+五|cinq|5
+六|six|6
+七|sept|7
+八|huit|8
+九|neuf|9
+十|dix|10
+十一|onze|11
+十二|douze|12
+十三|treize|13
+十四|quatorze|14
+十五|quinze|15
+十六|seize|16
+十七|dix-sept|17
+十八|dix-huit|18
+十九|dix-neuf|19
+二十|vingt|20
+二十一|vingt et un|21
+二十二|vingt-deux|22
+二十三|vingt-trois|23
+二十四|vingt-quatre|24
+二十五|vingt-cinq|25
+二十六|vingt-six|26
+二十七|vingt-sept|27
+八|vingt-huit|28
+二十九|vingt-neuf|29
+三十|trente|30
+三十一|trente et un|31
+三十二|trente-deux|32
+三十九|trente-neuf|39
+四十|quarante|40
+四十一|quarante et un|41
+四十二|quarante-deux|42
+四十九|quarante-neuf|49
+五十|cinquante|50
+五十一|cinquante et un|51
+五十二|cinquante-deux|52
+五十九|cinquante-neuf|59
+六十|soixante|60
+六十一|soixante et un|61
+六十二|soixante-deux|62
+六十九|soixante-neuf|69
 |la date|the date
 |le calendrier|calendar
 |le jour|day
 |Quels sont les jours de la semaine?|What are the days of the week?
-|lundi|Monday
-|mardi|Tuesday
-|mercredi|Wednesday
-|jeudi|Thursday
-|vendredi|Friday
-|samedi|Saturday
-|dimanche|Sunday
+星期一|lundi|Monday
+星期二|mardi|Tuesday
+星期三|mercredi|Wednesday
+星期四|jeudi|Thursday
+星期五|vendredi|Friday
+星期六|samedi|Saturday
+星期日|dimanche|Sunday
 |C'est quel jour?|What day is it?
 |C'est lundi.|It's Monday.
-|aujourd'hui|today
-|demain|tomorrow
+今天|aujourd'hui|today
+明天|demain|tomorrow
 |la semaine|week
 |la semaine prochaine|next week
 |la semaine dernière|last week
@@ -162,17 +162,17 @@
 |C'est le premier septembre.|It's September 1st.
 |C'est le deux octobre.|It's October 2nd.
 |C'est le 30 août.|It's August 30th.
-|le mois|month
+月|le mois|month
 |Quels sont les mois de l'année?|What are the months of the year?
-|janvier|January
-|février|February
-|mars|March
-|avril|April
-|mai|May
-|juin|June
-|juillet|July
-|août|August
-|septembre|September
-|octobre|October
-|novembre|November
-|décembre|December
+一月|janvier|January
+二月|février|February
+三月|mars|March
+四月|avril|April
+五月|mai|May
+六月|juin|June
+七月|juillet|July
+八月|août|August
+九月|septembre|September
+十月|octobre|October
+十一月|novembre|November
+月十二|décembre|December

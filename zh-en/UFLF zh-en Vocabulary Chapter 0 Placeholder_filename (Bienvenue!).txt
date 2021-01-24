@@ -16,21 +16,21 @@
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
 |je me présente|let me introduce myself
-|Je m'appelle ...|My name is ...
-|Je suis de ...|I am from ...
+我叫 ...|Je m'appelle ...|My name is ...
+我从 ... 来|Je suis de ...|I am from ...
 |Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
 |Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-|Il/Elle s'appelle ...|His/Her name is ...
-|Il/Elle est de ...|He/She is from ...
+他/她叫 ...|Il/Elle s'appelle ...|His/Her name is ...
+他/她从 ... 来|Il/Elle est de ...|He/She is from ...
 |Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
 |Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
 |les matières|subjects
 |le commerce|business
 |la comptabilité|accounting
-|les langues (f)|languages
-|l'anglais (m)|English
-|le français|French
-|l'espagnol (m)|Spanish
+语|les langues (f)|languages
+英语|l'anglais (m)|English
+法语|le français|French
+西班牙语|l'espagnol (m)|Spanish
 |la littérature|literature
 |l'histoire (f)|history
 |la géographie|geography

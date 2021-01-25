@@ -83,28 +83,28 @@
 |tout droit|straight ahead
 |tout près|nearby
 |les nombres ordinaux|ordinal numbers
-|premier, première|first
-|deuxième|second
-|troisième|third
-|quatrième|fourth
-|cinquième|fifth
-|sixième|sixth
-|septième|seventh
-|huitième|eighth
-|neuvième|ninth
-|dixième|tenth
-|onzième|eleventh
-|douzième|twelfth
-|treizième|thirteenth
-|quatorzième|fourteenth
-|quinzième|fifteenth
-|seizième|sixteenth
-|dix-septième|seventeenth
-|dix-huitième|eighteenth
-|dix-neuvième|nineteenth
-|vingtième|twentieth
+第一|premier, première|first
+第二|deuxième|second
+第三|troisième|third
+第四|quatrième|fourth
+第五|cinquième|fifth
+第六|sixième|sixth
+第七|septième|seventh
+第八|huitième|eighth
+第九|neuvième|ninth
+第十|dixième|tenth
+第十一|onzième|eleventh
+第十二|douzième|twelfth
+第十三|treizième|thirteenth
+第十四|quatorzième|fourteenth
+第十五|quinzième|fifteenth
+第十六|seizième|sixteenth
+第十七|dix-septième|seventeenth
+第十八|dix-huitième|eighteenth
+第十九|dix-neuvième|nineteenth
+第二十|vingtième|twentieth
 |verbes qui prennent être au passé composé|verbs which use être in the compound past
-|aller|to go
+去|aller|to go
 |sortir|to go out
 |partir|to leave
 |rentrer|to go home, to go back

@@ -96,7 +96,7 @@
 |Il y a combien de ...?|There are how many ...?
 |les nombres cardinaux 1-69|Cardinal Numbers 1-69
 一|un, une|1
-二|deux|2
+二/两|deux|2
 三|trois|3
 四|quatre|4
 五|cinq|5

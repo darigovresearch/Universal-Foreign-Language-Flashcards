@@ -7,7 +7,7 @@
 |Profession|profession
 |Passe-temps préférés|pastimes
 |questions personnelles|personal questions
-|Comment vous appelez-vous?|What is your name?
+什么是您的名字|Comment vous appelez-vous?|What is your name?
 |Quel âge avez-vous?|How old are you?
 |Quelle est votre nationalité?|What is your nationality?
 |Vous êtes d'où?|Where are you from?
@@ -20,11 +20,11 @@
 |un mari|husband
 |un fiancé / une fiancée|fiancé / fiancée
 |des parents|parents, relatives
-|un père|father
-|une mère|mother
+父亲|un père|father
+母亲|une mère|mother
 |un/une enfant|child
-|un fils|son
-|une fille|daughter
+儿子|un fils|son
+女儿|une fille|daughter
 |un fils unique|only child (male)
 |une fille unique|only child (female)
 |un frère|brother
@@ -75,7 +75,7 @@
 |Il est 18h45.|It's 6:45 p.m.
 |Il est 22h59.|It's 10:59 p.m.
 |passe-temps et activités|pastimes and activities
-|avoir|to have
+有|avoir|to have
 |avoir besoin de...|to need
 |avoir envie de...|to feel like (to want to)
 |avoir l'intention de...|to intend (to)

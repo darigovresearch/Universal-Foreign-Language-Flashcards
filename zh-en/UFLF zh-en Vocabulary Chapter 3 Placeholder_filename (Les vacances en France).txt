@@ -112,39 +112,39 @@
 |partir|to leave
 |sortir|to go out
 |les nombres cardinaux 70-100|Cardinal Numbers 70-100
-|soixante-dix|70
-|soixante et onze|71
-|soixante-douze|72
-|soixante-treize|73
-|soixante-quatorze|74
-|soixante-quinze|75
-|soixante-seize|76
-|soixante-dix-sept|77
-|soixante-dix-huit|78
-|soixante-dix-neuf|79
-|quatre-vingts|80
-|quatre-vingt-un|81
-|quatre-vingt-deux|82
-|quatre-vingt-trois|83
-|quatre-vingt-quatre|84
-|quatre-vingt-cinq|85
-|quatre-vingt-six|86
-|quatre-vingt-sept|87
-|quatre-vingt-huit|88
-|quatre-vingt-neuf|89
-|quatre-vingt-dix|90
-|quatre-vingt-onze|91
-|quatre-vingt-douze|92
-|quatre-vingt-treize|93
-|quatre-vingt-quatorze|94
-|quatre-vingt-quinze|95
-|quatre-vingt-seize|96
-|quatre-vingt-dix-sept|97
-|quatre-vingt-dix-huit|98
-|quatre-vingt-dix-neuf|99
-|cent|100
+七十|soixante-dix|70
+七十一|soixante et onze|71
+七十二|soixante-douze|72
+七十三|soixante-treize|73
+七十四|soixante-quatorze|74
+七十五|soixante-quinze|75
+七十六|soixante-seize|76
+七十七|soixante-dix-sept|77
+七十八|soixante-dix-huit|78
+七十九|soixante-dix-neuf|79
+八十|quatre-vingts|80
+八十一|quatre-vingt-un|81
+八十二|quatre-vingt-deux|82
+八十三|quatre-vingt-trois|83
+八十四|quatre-vingt-quatre|84
+八十五|quatre-vingt-cinq|85
+八十六|quatre-vingt-six|86
+八十七|quatre-vingt-sept|87
+八十八|quatre-vingt-huit|88
+八十九|quatre-vingt-neuf|89
+九十|quatre-vingt-dix|90
+九十一|quatre-vingt-onze|91
+九十二|quatre-vingt-douze|92
+九十三|quatre-vingt-treize|93
+九十四|quatre-vingt-quatorze|94
+九十五|quatre-vingt-quinze|95
+九十六|quatre-vingt-seize|96
+九十七|quatre-vingt-dix-sept|97
+九十八|quatre-vingt-dix-huit|98
+九十九|quatre-vingt-dix-neuf|99
+一百|cent|100
 |cent deux|102
-|deux cents|200
+二百|deux cents|200
 |mille|1.000
 |deux mille|2.000
 |un million|1.000.000

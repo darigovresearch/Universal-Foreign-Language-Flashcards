@@ -51,13 +51,13 @@
 |la géographie|geography
 |l'histoire (f)|history
 |l'informatique (f)|computer science
-|les langues (f)|languages
+语|les langues (f)|languages
 |le chinois|Chinese
-|l'allemand (m)|German
-|l'anglais (m)|English
-|l'espagnol (m)|Spanish
-|le français|French
-|l'italien (m)|Italian
+德语|l'allemand (m)|German
+英语|l'anglais (m)|English
+西班牙语|l'espagnol (m)|Spanish
+法语|le français|French
+意大利语|l'italien (m)|Italian
 |le latin|Latin
 |la linguistique|linguistics
 |la littérature|literature

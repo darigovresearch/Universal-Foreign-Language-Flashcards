@@ -22,7 +22,7 @@ Come va?|Comment ça va?|How are things going?
 Bene, grazie!|Bien, merci!|Great, thanks!
 |Ça va (bien)?|Are things going (well)?
 Va bene.|Ça va bien.|Things are going (well).
-|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
+E lei? Da dove viene lei?|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
 |Et toi? Tu es d'où?|And you? Where are you from? (informal)
 |présentations|introductions
 |Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
@@ -37,7 +37,7 @@ Lui/Lei viene di ...|Il/Elle est de ...|He/She is from ...
 Come se chiamano?|Comment s'appellent-ils/elles?|What are their names?
 Se chiamano ...|Ils/Elles s'appellent ...|Their names are ...
 |Qu'est-ce qu'il/elle fait?|What does he/she do?
-|Qu'est-ce qu'ils/elles font?|What do they do?
+Cosa fanno?|Qu'est-ce qu'ils/elles font?|What do they do?
 Lui e ... Lei e ...|Il est ... Elle est ...|He/She is a/an ...
 attore / attrice|acteur / actrice|actor / actress
 |architecte|architect

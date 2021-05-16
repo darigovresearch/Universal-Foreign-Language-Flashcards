@@ -1,0 +1,106 @@
+|la télévision, le cinéma|television, cinema
+|la télé|TV
+|la télécommande|remote control
+|une chaîne|channel
+|un programme|television schedule
+|un feuilleton|series / soap opera
+|une série|series
+|une émission|show
+|un dessin animé|cartoon
+|un documentaire|documentary
+|une émission de variétés|variety show
+|un jeu télévisé|game show
+|la télé-réalité|reality television
+|un magazine d'actualités (à la télévision)|news show
+|les informations (f pl) / les infos (f pl) / le journal|news
+|l'actualité (f)|current events
+|la météo|weather report
+|un reporter / un journaliste|reporter / journalist
+|une interview|interview
+|une publicité / une pub|commercial
+|un concert|concert
+|un film|movie
+|un film d'amour|romantic movie
+|un film de science-fiction|science-fiction movie
+|un film d'horreur|horror movie
+|un film d'action / un film d'aventures|action film / adventure film
+|un film policier|detective/police movie
+|un drame|drama
+|une comédie|comedy (movie, play)
+|un (film) musical|musical
+|une comédie musicale|musical comedy
+|un western|western
+|en VO / en VF|original version / French version
+|avec / sans sous-titres|with / without subtitles
+|un acteur / une actrice|actor / actress
+|une célébrité|celebrity
+|une star / une vedette|star (refers to men or women)
+|une personnalité (de la télévision, du cinéma, de la radio...)|celebrity
+|le méchant|the bad guy
+|la presse|the press
+|un kiosque (à journaux)|news stand
+|un journal (national, régional)|newspaper (national, regional)
+|une bande-dessinée|comic strip
+|une petite annonce|classified ad
+|un magazine|magazine
+|un livre|book
+|un roman|novel
+|la radio|the radio
+|une station|radio station
+|une chanson|song
+|un chanteur / une chanteuse|singer
+|un groupe|a band
+|l'internet|the internet
+|un ordinateur|computer
+|un portable|laptop
+|le web|the web
+|un site|website
+|une page d'accueil|homepage
+|un forum|bulletin board, newsgroup
+|un moteur de recherche|search engine
+|un mot de passe|password
+|un email / un courriel|e-mail
+|en ligne|online
+|un lien|link
+|le téléphone|the telephone
+|un (téléphone) portable|cell phone
+|un répondeur / une boîte vocale|voicemail
+|un texto|text message
+|au téléphone|on the phone
+|Allô...|Hello...
+|T'es où?|Where are you at / what are you doing?
+|Est-ce que je peux parler à...|May I speak to...
+|Je voudrais un renseignement.|I would like some information.
+|Un instant s'il vous plaît.|Please hold. / One moment please.
+|Ne quittez pas.|Stay on the line.
+|Je vous le / la passe.|I'm putting you through to him / her. / I'm connecting you to him / her.
+|Quel est votre numéro de téléphone?|What is your phone number?
+|Est-ce que vous voulez laisser un message?|Do you want to leave a message?
+|Pouvez-vous rappeler à 15h?|Could you call back at 3 p.m.?
+|Qui est à l'appareil?|Who's on the phone?
+|adjectifs|adjectives
+|célèbre|famous
+|amusant(e) / comique / marrant(e) / drôle|funny
+|doublé(e)|dubbed
+|effrayant(e)|frightening
+|ennuyeux / ennuyeuse|boring
+|étranger / étrangère|foreign
+|gratuit(e)|free
+|optimiste|optimistic / hopeful
+|pessimiste|pessimistic
+|réaliste|realistic
+|satirique|satirical
+|tragique|tragic
+|triste|sad
+|violent(e)|violent
+|verbes|verbs
+|surfer / aller (sur internet)|to surf (the web)
+|cliquer|to click
+|télécharger|to download
+|décrire|to describe
+|dire|to say
+|écrire|to write
+|durer|to last
+|lire|to read
+|montrer|to show
+|passer (du temps)|to spend (time)

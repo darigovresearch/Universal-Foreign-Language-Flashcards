@@ -15,17 +15,13 @@ Como te chamas?|What's your name? (informal)
 Chamo-me ...|My name is ...
 Como estás?|How are you? (formal)
 Que tal?|How are you? (informal)
-Estou muito bem, obrigado.|I am very well, thank you. (male)
-Estou muito bem, obrigada.|I am very well, thank you. (female)
-Esto bem, obrigado.|I am fine, thank you. (male)
-Esto bem, obrigada.|I am fine, thank you. (female)
-Nada mal, obrigado.|Not bad, thank you. (male)
-Nada mal, obrigada.|Not bad, thank you. (female)
+Estou muito bem, obrigado / obrigada.|I am very well, thank you.
+Esto bem, obrigado / obrigada.|I am fine, thank you.
+Nada mal, obrigado / obrigada.|Not bad, thank you.
 Como vão as coisas?|How are things going?
-Óptimo, obrigado!|Great, thanks! (male)
-Óptimo, obrigada!|Great, thanks! (female)
-As coisas vão bem.|Things are going (well).
+Óptimo, obrigado / obrigada!|Great, thanks!/ obrigada
 Como vão as coisas?|Are things going (well)?
+As coisas vão bem.|Things are going (well).
 E você? de onde é?|And you? Where are you from? (formal)
 E tu? de onde és?|And you? Where are you from? (informal)
 introduções|introductions

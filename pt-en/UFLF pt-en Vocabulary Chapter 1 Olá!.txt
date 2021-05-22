@@ -1,178 +1,178 @@
-|salutations|greetings
-|Monsieur|Sir
-|Madame|Ma'am (Mrs.)
-|Mademoiselle|Miss
-|Bonjour, Monsieur|Good day (Hello), Sir
-|Bonsoir|Good evening
-|Au revoir|Goodbye
-|Salut!|Hi!
-|À tout à l'heure!|See you in a little while.
-|À ce soir.|See you this evening.
-|À demain.|See you tomorrow.
-|À bientôt.|See you soon.
-|Comment vous appelez-vous?|What's your name? (formal)
-|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-|Je m'appelle ...|My name is ...
-|Comment allez-vous?|How are you? (formal)
-|Comment vas-tu?|How are you? (informal)
-|Je vais très bien, merci.|I am very well, thank you.
-|Je vais bien, merci.|I am fine, thank you.
-|Pas mal, merci.|Not bad, thank you.
-|Comment ça va?|How are things going?
-|Bien, merci!|Great, thanks!
-|Ça va (bien)?|Are things going (well)?
-|Ça va bien.|Things are going (well).
-|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-|présentations|introductions
-|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-|Je te présente ...|This is ... (informal)
-|Voici ...|This is ...
-|Qui est-ce?|Who is it?
-|C'est ...|It's ...
-|Ce sont ...|They are ...
-|Comment s'appelle-t-il/elle?|What's his/her name?
-|Il/Elle s'appelle ...|His/Her name is ...
-|Il/Elle est de ...|He/She is from ...
-|Comment s'appellent-ils/elles?|What are their names?
-|Ils/Elles s'appellent ...|Their names are ...
-|Qu'est-ce qu'il/elle fait?|What does he/she do?
-|Qu'est-ce qu'ils/elles font?|What do they do?
-|Il est ... Elle est ...|He/She is a/an ...
-|acteur / actrice|actor / actress
-|architecte|architect
-|chanteur / chanteuse|singer
-|coiffeur / coiffeuse|hair dresser
-|dentiste|dentist
-|ingénieur|engineer
-|journaliste|journalist
-|médecin|doctor
-|professeur|teacher, professor
-|retraité / retraitée|retired man/woman
-|stagiaire|intern
-|la salle de classe|the classroom
-|Qu'est-ce que c'est?|What is it?
-|C'est ...|It's ...
-|C'est une salle de classe.|It's a classroom.
-|Dans la salle de classe, il y a ...|In the classroom, there is ...
-|une porte|door
-|une fenêtre|window
-|un tableau (noir)|blackboard
-|une télévision|television
-|une carte (du monde)|map (of the world)
-|une affiche|poster
-|une chaise|chair
-|un bureau|desk
-|Sur le bureau, il y a ...|On the desk, there is ...
-|une craie|chalk
-|un crayon|pencil
-|un stylo|pen
-|un cahier|notebook
-|un livre|book
-|un dictionnaire|dictionary
-|un sac à dos|backpack
-|Au labo, il y a ...|In the lab, there are ...
-|des ordinateurs (m)|computers
-|Les étudiants travaillent!|The students work!
-|des devoirs (m)|homework
-|un exercice|exercise
-|un examen|test
-|en classe|in class
-|Écoutez.|Listen.
-|Écrivez.|Write.
-|Levez le doigt.|Raise your finger (hand).
-|Répétez.|Repeat.
-|Ouvrez vos livres.|Open your books.
-|Ouvrez le livre à la page ...|Turn to page ...
-|s'il vous plaît|please
-|Vous comprenez?|Do you understand?
-|Oui, je comprends.|Yes, I understand.
-|Non, je ne comprends pas.|No, I don't understand.
-|Que veut dire ...?|What does ... mean?
-|Comment dit-on ...?|How do you say ...?
-|Voici ...|Here is ... (here are ...)
-|Voilà ...|There is ... (there are ...)
-|Il y a ...|There is, there are ...
-|Il y a combien de ...?|There are how many ...?
-|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-|un, une|1
-|deux|2
-|trois|3
-|quatre|4
-|cinq|5
-|six|6
-|sept|7
-|huit|8
-|neuf|9
-|dix|10
-|onze|11
-|douze|12
-|treize|13
-|quatorze|14
-|quinze|15
-|seize|16
-|dix-sept|17
-|dix-huit|18
-|dix-neuf|19
-|vingt|20
-|vingt et un|21
-|vingt-deux|22
-|vingt-trois|23
-|vingt-quatre|24
-|vingt-cinq|25
-|vingt-six|26
-|vingt-sept|27
-|vingt-huit|28
-|vingt-neuf|29
-|trente|30
-|trente et un|31
-|trente-deux|32
-|trente-neuf|39
-|quarante|40
-|quarante et un|41
-|quarante-deux|42
-|quarante-neuf|49
-|cinquante|50
-|cinquante et un|51
-|cinquante-deux|52
-|cinquante-neuf|59
-|soixante|60
-|soixante et un|61
-|soixante-deux|62
-|soixante-neuf|69
-|la date|the date
-|le calendrier|calendar
-|le jour|day
-|Quels sont les jours de la semaine?|What are the days of the week?
-|lundi|Monday
-|mardi|Tuesday
-|mercredi|Wednesday
-|jeudi|Thursday
-|vendredi|Friday
-|samedi|Saturday
-|dimanche|Sunday
-|C'est quel jour?|What day is it?
-|C'est lundi.|It's Monday.
-|aujourd'hui|today
-|demain|tomorrow
-|la semaine|week
-|la semaine prochaine|next week
-|la semaine dernière|last week
-|Quelle est la date?|What's the date?
-|C'est le premier septembre.|It's September 1st.
-|C'est le deux octobre.|It's October 2nd.
-|C'est le 30 août.|It's August 30th.
-|le mois|month
-|Quels sont les mois de l'année?|What are the months of the year?
-|janvier|January
-|février|February
-|mars|March
-|avril|April
-|mai|May
-|juin|June
-|juillet|July
-|août|August
-|septembre|September
-|octobre|October
-|novembre|November
-|décembre|December
+cumprimentos|greetings
+Senhor|Sir
+Senhora|Ma'am (Mrs.)
+Menina|Miss
+Bons dias (olá), senhor|Good day (Hello), Sir
+Boas tardes|Good evening
+Adeus|Goodbye
+Olá!|Hi!
+Vejo-te daqui a pouco.|See you in a little while.
+Vejo-te esta tarde.|See you this evening.
+Até amanhã.|See you tomorrow.
+Até logo.|See you soon.
+Qual é o teu nome?|What's your name? (formal)
+Como te chamas?|What's your name? (informal)
+Chamo-me ...|My name is ...
+Como estás?|How are you? (formal)
+Que tal?|How are you? (informal)
+Estou muito bem, obrigado / obrigada.|I am very well, thank you.
+Esto bem, obrigado / obrigada.|I am fine, thank you.
+Nada mal, obrigado / obrigada.|Not bad, thank you.
+Como vão as coisas?|How are things going?
+Óptimo, obrigado / obrigada!|Great, thanks!/ obrigada
+Como vão as coisas?|Are things going (well)?
+As coisas vão bem.|Things are going (well).
+E você? de onde é?|And you? Where are you from? (formal)
+E tu? de onde és?|And you? Where are you from? (informal)
+introduções|introductions
+Senhor, gostaria de lhe apresentar ...|Sir, I would like to introduce to you ... (formal)
+Este é ...|This is ... (informal)
+Este é ...|This is ...
+Quem é?|Who is it?
+É ...|It's ...
+(Eles) são|They are ...
+Como se chama?|What's his/her name?
+O seu nome é ...|His/Her name is ...
+(Ele/Ela) é de ...|He/She is from ...
+Como se chamam?|What are their names?
+Os seus nomes são ...|Their names are ...
+O que faz (ele/ela)?|What does he/she do?
+O que fazem (eles)?|What do they do?
+(Ele/Ela) é um/uma ... |He/She is a/an ...
+actor / actriz|actor / actress
+arquitecto / arquitecta|architect
+cantor / cantora|singer
+cabeleireiro / cabeleireira|hair dresser
+dentista|dentist
+engenheiro / engenheira|engineer
+jornalista|journalist
+doutor / doutora|doctor
+professor / professora|teacher, professor
+reformado / reformada|retired man/woman
+estagiário / estagiária|intern
+a sala de aula|the classroom
+O que é isso?|What is it?
+Isto é ...|It's ...
+É uma sala de aula.|It's a classroom.
+Na sala de aula, há ...|In the classroom, there is ...
+uma porta|door
+uma janela|window
+um quadro|blackboard
+uma televisão|television
+um mapa (do mundo)|map (of the world)
+um poster|poster
+uma cadeira|chair
+uma secret]aria|desk
+Na secretária, há ...|On the desk, there is ...
+um giz|chalk
+um lápis|pencil
+uma caneta|pen
+um caderno|notebook
+um livro|book
+um dicionário|dictionary
+uma mochila|backpack
+No laboratório, há ...|In the lab, there are ...
+computadores|computers
+Os estudantes trabalham!|The students work!
+o trabalho de casa|homework
+o exercício|exercise
+o exame|test
+em aula|in class
+Escuta.|Listen.
+Escreve.|Write.
+Levanta o dedo (a mão).|Raise your finger (hand).
+Repete.|Repeat.
+Abre os livros.|Open your books.
+Pasa para a página ...|Turn to page ...
+por favor|please
+Entendes?|Do you understand?
+Sim, entendo.|Yes, I understand.
+Não, não entendo.|No, I don't understand.
+O que significa ...?|What does ... mean?
+Como se diz ...?|How do you say ...?
+Aqui está ... (Aqui estão ...)|Here is ... (here are ...)
+Há ...|There is ... (there are ...)
+Há ...|There is, there are ...
+Quantos ... há?|There are how many ...?
+Os números cardinais 1-69|Cardinal Numbers 1-69
+um|1
+dois|2
+três|3
+quatro|4
+cinco|5
+seis|6
+sete|7
+oito|8
+nove|9
+dez|10
+onze|11
+doze|12
+treze|13
+catorze|14
+quinze|15
+dezasseis|16
+dezassete|17
+dezoito|18
+dezanove|19
+vinte|20
+vinte e um|21
+vinte e dois|22
+vinte e três|23
+vinte e quatro|24
+vinte e cinco|25
+vinte e seis|26
+vinte e sete|27
+vinte e oito|28
+vinte e nove|29
+trinta|30
+trinta e um|31
+trinta e dois|32
+trinta e nove|39
+quarenta|40
+quarenta e um|41
+quarenta e dois|42
+quarenta e nove|49
+cinquenta|50
+cinquenta e um|51
+cinquenta e dois|52
+cinquenta e nove|59
+sessenta|60
+sessenta e um|61
+sessenta e dois|62
+sessenta e nove|69
+a data|the date
+o calendário|calendar
+o dia|day
+Quais são os dias da semana?|What are the days of the week?
+Segunda-feira|Monday
+Terça-feira|Tuesday
+Quarta-feira|Wednesday
+Quinta-feira|Thursday
+Sexta-feira|Friday
+Sábado|Saturday
+Domingo|Sunday
+Que dia é hoje?|What day is it?
+Hoje é segunda-feira.|It's Monday.
+hoje|today
+amanhã|tomorrow
+a semana|week
+a próxima semana|next week
+a semana passada|last week
+Qual é a data?|What's the date?
+É 1 de setembro.|It's September 1st.
+É 2 de outubro.|It's October 2nd.
+É 30 de agosto.|It's August 30th.
+o mês|month
+Quais são os meses do ano?|What are the months of the year?
+Janeiro|January
+Fevereiro|February
+Março|March
+Abril|April
+Maio|May
+Junho|June
+Julho|July
+Agosto|August
+Setembro|September
+Outubro|October
+Novembro|November
+Dezembro|December

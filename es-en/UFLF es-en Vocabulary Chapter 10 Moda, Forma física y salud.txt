@@ -82,7 +82,7 @@
 |la cheville|ankle
 |le pied|foot
 |les orteils (m)|toes
-|adjectifs|adjectives
+adjetivos|adjectifs|adjectives
 |à la mode / branché(e)|in fashion
 |démodé(e)|out of style
 |décontracté(e)|casual

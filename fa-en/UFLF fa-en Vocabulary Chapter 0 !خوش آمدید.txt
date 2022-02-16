@@ -28,9 +28,9 @@ Introduction (UFLF fa-en)|"
 |تجارت|business
 |حسابداری|accounting
 |زبان ها |languages
-|(زبان) انگلیسی|English
-|(زبان) فرانسوی|French
-|(زبان) اسپانیایی|Spanish
+|زبان) انگلیسی)|English
+|زبان) فرانسوی)|French
+|زبان) اسپانیایی)|Spanish
 |ادبیات|literature
 |تاریخ|history
 |جغرافی|geography

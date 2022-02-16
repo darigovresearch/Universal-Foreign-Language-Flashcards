@@ -15,7 +15,7 @@ Introduction (UFLF fa-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-|بگذار خودم را معرفی کنم|let me introduce myself
+|بذار خودم را معرفی کنم|let me introduce myself
 |اسم من ... است|My name is ...
 |من از ... هستم|I am from ...
 |من دانشجوی ... هستم (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)

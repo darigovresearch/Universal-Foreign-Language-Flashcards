@@ -15,39 +15,39 @@ Introduction (UFLF fa-en)|"
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-|بذار خودم را معرفی کنم|let me introduce myself
-|اسم من ... است|My name is ...
-|من از ... هستم|I am from ...
-|من دانشجوی ... هستم (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-|من دانشجوی ... هستم(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-|نام او ... است / اسمش ... است|His/Her name is ...
-|نام او ... است / اسمش ... است|He/She is from ...
-|او دانشجوی ... است (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-|او دانشجوی ... است (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-|درس ها / رشته ها|subjects
-|تجارت|business
-|حسابداری|accounting
-|زبان ها |languages
-|زبان) انگلیسی)|English
-|زبان) فرانسوی)|French
-|زبان) اسپانیایی)|Spanish
-|ادبیات|literature
-|تاریخ|history
-|جغرافی|geography
-|علوم سیاسی|political science
-|ریاضیات/ریاضی|math
-|علوم|sciences
-|زیست شناسی|biology
-|شیمی|chemistry
-|علم رایانه / علم کامپیوتر|computer science
-|موسیقی|music
-|فلسفه|philosophy
-|روانشناسی|psychology
-|الفبا|the alphabet
-|حیوانات|animals
-|سوسک|cockroach
-|پشی / گربه / گربه|cat / female cat / kitty
-|سنجاب|squirrel
-|حلزون|snail
-|مورچه|ant
-|آرمادیلو|armadillo
+بذار خودم را معرفی کنم|let me introduce myself
+اسم من ... است|My name is ...
+من از ... هستم|I am from ...
+من دانشجوی ... هستم|I am a student (male) in ... (French, math, etc.)
+من دانشجوی ... هستم|I am a student (female) in ... (French, math, etc.)
+نام او ... است / اسمش ... است|His/Her name is ...
+نام او ... است / اسمش ... است|He/She is from ...
+او دانشجوی ... است|He is a student (male) in ... (French, math, etc.)
+او دانشجوی ... است|She is a student (female) in ... (French, math, etc.)
+درس ها / رشته ها|subjects
+تجارت|business
+حسابداری|accounting
+زبان ها |languages
+زبان) انگلیسی)|English
+زبان) فرانسوی)|French
+زبان) اسپانیایی)|Spanish
+ادبیات|literature
+تاریخ|history
+جغرافی|geography
+علوم سیاسی|political science
+ریاضیات / ریاضی|math
+علوم|sciences
+زیست شناسی|biology
+شیمی|chemistry
+علم رایانه / علم کامپیوتر|computer science
+موسیقی|music
+فلسفه|philosophy
+روانشناسی|psychology
+الفبا|the alphabet
+حیوانات|animals
+سوسک|cockroach
+پشی / گربه / گربه|cat / female cat / kitty
+سنجاب|squirrel
+حلزون|snail
+مورچه|ant
+آرمادیلو|armadillo

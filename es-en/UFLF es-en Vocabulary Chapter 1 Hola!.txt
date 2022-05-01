@@ -110,7 +110,7 @@ doze|12
 trece|13
 catorce|14
 quinze|15
-diesis|16
+dieciseis|16
 diecisiete|17
 dieciocho|18
 diecinueve|19

@@ -133,7 +133,7 @@ escuchar|to hear
 perder|to lose
 entregar, devolver|to hand in, give back
 visitar a alguien|to visit someone
-preguntar|to answer
+responder|to answer
 vender|to sell
 participios irregulares|irregular past participles
 tener: (yo) tuve ...|to have: I had ...

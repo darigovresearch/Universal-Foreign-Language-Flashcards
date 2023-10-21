@@ -19,7 +19,7 @@ Estou muito bem, obrigado / obrigada.|I am very well, thank you.
 Esto bem, obrigado / obrigada.|I am fine, thank you.
 Nada mal, obrigado / obrigada.|Not bad, thank you.
 Como vão as coisas?|How are things going?
-Óptimo, obrigado / obrigada!|Great, thanks!/ obrigada
+Óptimo, obrigado / obrigada!|Great, thanks!
 Como vão as coisas?|Are things going (well)?
 As coisas vão bem.|Things are going (well).
 E você? de onde é?|And you? Where are you from? (formal)
@@ -62,7 +62,7 @@ uma televisão|television
 um mapa (do mundo)|map (of the world)
 um poster|poster
 uma cadeira|chair
-uma secret]aria|desk
+uma secretária|desk
 Na secretária, há ...|On the desk, there is ...
 um giz|chalk
 um lápis|pencil

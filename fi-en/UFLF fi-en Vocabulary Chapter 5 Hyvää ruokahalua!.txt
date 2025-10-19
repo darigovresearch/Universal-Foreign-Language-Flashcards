@@ -1,191 +1,191 @@
-|à table|at the table
-|un verre|glass
-|une tasse|cup
-|un bol|bowl
-|une assiette|plate
-|un couteau|knife
-|une fourchette|fork
-|une cuillère|spoon
-|la cuisine|kitchen, cooking
-|un repas|meal
-|le petit déjeuner|breakfast
-|le déjeuner|lunch
-|le goûter|snack
-|le dîner|dinner, supper
-|au marché, au supermarché|at the market, at the supermarket
-|des fruits (m)|fruits
-|des bananes (f)|bananas
-|des cerises (f)|cherries
-|des citrons (m)|lemons
-|des fraises (f)|strawberries
-|des framboises (f)|raspberries
-|des oranges (f)|oranges
-|des pamplemousses (m)|grapefruit
-|des pêches (f)|peaches
-|des poires (f)|pears
-|des pommes (f)|apples
-|du raisin|grapes
-|des légumes (m)|vegetables
-|de l'ail (m)|garlic
-|des asperges (f)|asparagus
-|des aubergines (f)|eggplants
-|des carottes (f)|carrots
-|des champignons (m)|mushrooms
-|des choux (m)|cabbage
-|des concombres (m)|cucumbers
-|des courgettes (f)|zucchini
-|des épinards (m)|spinach
-|des haricots verts (m)|green beans
-|une/de la laitue|lettuce
-|des oignons (m)|onions
-|des petits pois (m)|peas
-|des poireaux (m)|leeks
-|des poivrons verts (m)|green peppers
-|des pommes de terre (f)|potatoes
-|de la salade|salad, lettuce
-|des tomates (f)|tomatoes
-|à la boucherie|at the butcher shop
-|Chez le boucher, on achète ...|At the butcher's, you buy ...
-|de la viande|meat
-|du boeuf|beef
-|du porc|pork
-|du veau|veal
-|du canard|duck
-|de la dinde|turkey
-|du poulet|chicken
-|à la charcuterie|at the pork butcher shop, delicatessen
-|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
-|du jambon|ham
-|du pâté|pâté
-|des saucisses (f)|sausages
-|du saucisson|hard sausage
-|à la poissonnerie|at the seafood shop
-|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
-|du poisson|fish
-|du saumon|salmon
-|de la sole|sole
-|du thon|tuna
-|à l'épicerie|at the grocery store
-|Chez l'épicier, on trouve ...|At the grocer's, you find ...
-|des céréales (m)|cereal
-|un oeuf, des oeufs|eggs
-|des noix (f)|walnuts
-|des produits laitiers|dairy products
-|du beurre|butter
-|du lait|milk
-|du fromage|cheese
-|du yaourt|yogurt
-|de la glace|ice cream
-|des épices (f)|spices
-|du sel|salt
-|du poivre|pepper
-|de l'huile (f)|oil
-|du vinaigre|vinegar
-|de la mayonnaise|mayonnaise
-|de la moutarde|mustard
-|à la boulangerie-pâtisserie|at the bakery-pastry shop
-|Chez le boulanger, on trouve ...|At the baker's, you find ...
-|du pain|bread
-|une baguette|baguette
-|une brioche|brioche
-|un croissant|croissant
-|un petit pain|roll
-|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
-|des pâtisseries (f)|pastries
-|un gâteau|cake
-|un gâteau au chocolat|chocolate cake
-|une tarte|tart
-|une tarte aux pommes|apple tart
-|une tarte au citron|lemon tart
-|une tarte à la fraise|strawberry tart
-|au café|at the café
-|Au café, on commande ...|At the café, you order ...
-|des boissons non-alcoolisées|non-alcoholic beverages
-|du café|coffee
-|du thé|tea
-|du coca-cola|cola
-|de l'eau (f)|water
-|de l'eau minérale|mineral water
-|du jus de fruit|fruit juice
-|des boissons alcoolisées|alcoholic beverages
-|de la bière|beer
-|du champagne|champagne
-|du vin|wine
-|du vin blanc (du blanc)|white wine
-|du vin rosé (du rosé)|rosé wine
-|du vin rouge (du rouge)|red wine
-|un sandwich jambon beurre|sandwich with ham and butter
-|un croque-monsieur|toasted cheese sandwich with ham
-|un croque-madame|croque-monsieur with a fried egg
-|une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
-|une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
-|au restaurant|at the restaurant
-|Au restaurant, on commande ...|At the restaurant, you order ...
-|un apéritif (m)|before dinner drink
-|une entrée (f)|appetizer / first course
-|un plat principal|main course
-|un dessert|dessert
-|une boisson|drink, beverage
-|des plats typiquement français|typical French dishes
-|des entrées|appetizers
-|des crudités (f)|raw vegetables plus vinaigrette
-|une salade (avec des lardons, des noix, etc.)|salad (with bacon, nuts, etc.)
-|de la soupe à l'oignon|onion soup
-|des plats principaux|main courses
-|du boeuf bourguignon|beef stewed in red wine
-|du coq au vin|chicken (rooster) stewed in red wine
-|un steak-frites|steak and French fries
-|des desserts|desserts
-|de la mousse au chocolat|chocolate mousse
-|de la crème caramel|caramel custard
-|de la crème brûlée|crème brûlée
-|du fondant au chocolat|rich chocolate flourless cake
-|expressions de quantité|expressions of quantity
-|un peu de|a little
-|assez de|enough
-|beaucoup de|a lot
-|trop de|too much (too many)
-|une cuillère de|a spoonful of
-|une bouteille de|a bottle of
-|un pichet de|a pitcher of
-|un litre de|a liter of
-|50 grammes de|50 grams of
-|un kilo de|a kilo of
-|un morceau de|a piece of
-|une tranche de|a slice of
-|une boîte de|a can of
-|un rôti de boeuf|a beef roast
-|une côtelette de porc|a pork chop
-|une douzaine d'oeufs|a dozen eggs
-|adjectifs|adjectives
-|délicieux / délicieuse|delicious
-|frais / fraîche|fresh
-|épicé(e)|spicy
-|grillé(e)|grilled
-|hâché(e)|chopped
-|salé(e)|salty
-|sucré(e)|sweet
-|verbes|verbs
-|avoir faim / avoir soif|to be hungry / to be thirsty
-|boire|to drink
-|déjeuner|to have lunch
-|dîner|to have dinner
-|faire le marché|to go grocery shopping
-|faire la cuisine|to cook
-|prendre un repas|to have a meal
-|faire la vaisselle|to do the dishes
-|grossir|to gain weight
-|faire un régime|to be on a diet
-|maigrir|to lose weight
-|choisir|to choose
-|finir|to finish
-|grandir|to grow up
-|obéir à|to obey
-|réfléchir à|to reflect (on)
-|réussir à|to succeed
-|croire|to believe
-|prendre|to take
-|(apprendre à quelqu'un)|to learn
-|apprendre|(to teach someone)
-|comprendre|to understand
-|surprendre|to surprise
+pöydässä|à table|at the table
+lasi|un verre|glass
+muki, kuppi|une tasse|cup
+kulho|un bol|bowl
+lautanen|une assiette|plate
+veitsi|un couteau|knife
+haarukka|une fourchette|fork
+lusikka|une cuillère|spoon
+keittiö, ruoanlaitto|la cuisine|kitchen, cooking
+ateria|un repas|meal
+aamupala|le petit déjeuner|breakfast
+lounas|le déjeuner|lunch
+välipala|le goûter|snack
+päivällinen, illallinen|le dîner|dinner, supper
+torilla, kaupassa|au marché, au supermarché|at the market, at the supermarket
+hedelmät|des fruits (m)|fruits
+banaanit|des bananes (f)|bananas
+kirsikat|des cerises (f)|cherries
+sitruunat|des citrons (m)|lemons
+mansikat|des fraises (f)|strawberries
+vadelmat|des framboises (f)|raspberries
+appelsiinit|des oranges (f)|oranges
+greipit|des pamplemousses (m)|grapefruit
+persikat|des pêches (f)|peaches
+päärynät|des poires (f)|pears
+omenat|des pommes (f)|apples
+viinirypäleet|du raisin|grapes
+vihannekset|des légumes (m)|vegetables
+valkosipuli|de l'ail (m)|garlic
+parsa|des asperges (f)|asparagus
+munakoisot|des aubergines (f)|eggplants
+porkkanat|des carottes (f)|carrots
+sienet|des champignons (m)|mushrooms
+kaali|des choux (m)|cabbage
+kurkut|des concombres (m)|cucumbers
+kesäkurpitsa|des courgettes (f)|zucchini
+pinaatti|des épinards (m)|spinach
+vihreät pavut|des haricots verts (m)|green beans
+salaatti|une/de la laitue|lettuce
+sipulit|des oignons (m)|onions
+herneet|des petits pois (m)|peas
+purjot|des poireaux (m)|leeks
+vihreät paprikat|des poivrons verts (m)|green peppers
+perunat|des pommes de terre (f)|potatoes
+salaatti|de la salade|salad, lettuce
+tomaatit|des tomates (f)|tomatoes
+teurastajalla|à la boucherie|at the butcher shop
+Teurastajalta voi ostaa ...|Chez le boucher, on achète ...|At the butcher's, you buy ...
+lihaa|de la viande|meat
+nautaa|du boeuf|beef
+porsasta|du porc|pork
+vasikkaa|du veau|veal
+ankkaa|du canard|duck
+kalkkunaa|de la dinde|turkey
+kanaa|du poulet|chicken
+leikkelemyymälässä, herkkukaupassa|à la charcuterie|at the pork butcher shop, delicatessen
+Leikkelemyymälästä voi ostaa ...|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
+kinkkua|du jambon|ham
+pateeta|du pâté|pâté
+makkaroita|des saucisses (f)|sausages
+(kuivattua) makkaraa|du saucisson|hard sausage
+kalakaupassa|à la poissonnerie|at the seafood shop
+Kalakauppiaalta voi ostaa ...|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
+kalaa|du poisson|fish
+lohta|du saumon|salmon
+merianturaa|de la sole|sole
+tonnikalaa|du thon|tuna
+ruokakaupassa|à l'épicerie|at the grocery store
+Ruokakaupasta voi löytää ...|Chez l'épicier, on trouve ...|At the grocer's, you find ...
+muroja|des céréales (m)|cereal
+kananmunia|un oeuf, des oeufs|eggs
+saksanpähkinöitä|des noix (f)|walnuts
+maitotuotteita, meijerituotteita|des produits laitiers|dairy products
+voita|du beurre|butter
+maitoa|du lait|milk
+juustoa|du fromage|cheese
+jogurttia, jugurttia|du yaourt|yogurt
+jäätelöä|de la glace|ice cream
+mausteita|des épices (f)|spices
+suolaa|du sel|salt
+pippuria|du poivre|pepper
+öljyä|de l'huile (f)|oil
+etikkaa|du vinaigre|vinegar
+majoneesi|de la mayonnaise|mayonnaise
+sinappi|de la moutarde|mustard
+leipomossa|à la boulangerie-pâtisserie|at the bakery-pastry shop
+Leipomosta voi löytää ...|Chez le boulanger, on trouve ...|At the baker's, you find ...
+leipää|du pain|bread
+patongin|une baguette|baguette
+briossin|une brioche|brioche
+kroisantin|un croissant|croissant
+sämpylän|un petit pain|roll
+Konditoriasta voi löytää ...|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
+leivonnaisia|des pâtisseries (f)|pastries
+kakun|un gâteau|cake
+suklaakakun|un gâteau au chocolat|chocolate cake
+piirakan, tortun|une tarte|tart
+omenapiirakan|une tarte aux pommes|apple tart
+sitruunapiirakan|une tarte au citron|lemon tart
+mansikkatortun|une tarte à la fraise|strawberry tart
+kahvilassa|au café|at the café
+Kahvilasta voi tilata ...|Au café, on commande ...|At the café, you order ...
+alkoholittomia juomia|des boissons non-alcoolisées|non-alcoholic beverages
+kahvia|du café|coffee
+teetä|du thé|tea
+Coca-Colaa, cokista (informal)|du coca-cola|cola
+vettä|de l'eau (f)|water
+kivennäisvettä|de l'eau minérale|mineral water
+tuoremehua|du jus de fruit|fruit juice
+alkoholijuomia|des boissons alcoolisées|alcoholic beverages
+olutta|de la bière|beer
+samppanjaa|du champagne|champagne
+viiniä|du vin|wine
+valkoviiniä|du vin blanc (du blanc)|white wine
+roséviiniä|du vin rosé (du rosé)|rosé wine
+punaviiniä|du vin rouge (du rouge)|red wine
+kinkkuvoileivän|un sandwich jambon beurre|sandwich with ham and butter
+paahdetun kinkku-juustoleivän|un croque-monsieur|toasted cheese sandwich with ham
+kananmunalla kuorrutetun kinkku-juustoleivän|un croque-madame|croque-monsieur with a fried egg
+piirakan (quiche lorraine, lohipiirakka, jne.)|une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
+omeletin, munakkaan (yrttien, juuston kanssa)|une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
+ravintolassa|au restaurant|at the restaurant
+Ravintolasta voi tilata ...|Au restaurant, on commande ...|At the restaurant, you order ...
+aperitiivin, alkujuoman|un apéritif (m)|before dinner drink
+alkuruoan|une entrée (f)|appetizer / first course
+pääruoan|un plat principal|main course
+jälkiruoan|un dessert|dessert
+juoman|une boisson|drink, beverage
+perinteisiä ranskalaisia ruokia|des plats typiquement français|typical French dishes
+alkupaloja|des entrées|appetizers
+dipattavia vihanneksia|des crudités (f)|raw vegetables plus vinaigrette
+salaatti (pekonilla, pähkinöillä, jne.)|une salade (avec des lardons, des noix, etc.)|salad (with bacon, nuts, etc.)
+sipulikeitto|de la soupe à l'oignon|onion soup
+pääruokia|des plats principaux|main courses
+burgundinpata|du boeuf bourguignon|beef stewed in red wine
+kukkoa viinissä|du coq au vin|chicken (rooster) stewed in red wine
+pihvi ja ranskalaiset|un steak-frites|steak and French fries
+jälkiruokia|des desserts|desserts
+suklaamousse|de la mousse au chocolat|chocolate mousse
+karamellivanukas|de la crème caramel|caramel custard
+crème brûlée, paahtovanukas|de la crème brûlée|crème brûlée
+suklaafondant|du fondant au chocolat|rich chocolate flourless cake
+määräsanoja|expressions de quantité|expressions of quantity
+vähän|un peu de|a little
+riittävästi|assez de|enough
+paljon|beaucoup de|a lot
+liikaa, liian paljon, liian monta|trop de|too much (too many)
+lusikallinen|une cuillère de|a spoonful of
+pullollinen|une bouteille de|a bottle of
+kannullinen|un pichet de|a pitcher of
+litra|un litre de|a liter of
+50 grammaa|50 grammes de|50 grams of
+kilo|un kilo de|a kilo of
+pala|un morceau de|a piece of
+viipale|une tranche de|a slice of
+purkillinen|une boîte de|a can of
+naudanpaisti, paahtopaisti|un rôti de boeuf|a beef roast
+porsaan kyljys|une côtelette de porc|a pork chop
+tusina kananmunia|une douzaine d'oeufs|a dozen eggs
+adjektiivit|adjectifs|adjectives
+herkullinen|délicieux / délicieuse|delicious
+tuore|frais / fraîche|fresh
+mausteinen|épicé(e)|spicy
+grillattu|grillé(e)|grilled
+pilkottu|hâché(e)|chopped
+suolainen|salé(e)|salty
+makea|sucré(e)|sweet
+verbit|verbes|verbs
+olla nälkäinen / olla janoinen|avoir faim / avoir soif|to be hungry / to be thirsty
+juoda|boire|to drink
+syödä lounasta, lounastaa|déjeuner|to have lunch
+syödä päivällistä|dîner|to have dinner
+mennä ruokaostoksille|faire le marché|to go grocery shopping
+laittaa ruokaa, kokata (informal)|faire la cuisine|to cook
+ruokailla|prendre un repas|to have a meal
+pestä astiat|faire la vaisselle|to do the dishes
+lihoa|grossir|to gain weight
+laihduttaa, olla dieetillä|faire un régime|to be on a diet
+laihtua|maigrir|to lose weight
+valita|choisir|to choose
+lopettaa|finir|to finish
+kasvaa, varttua|grandir|to grow up
+totella|obéir à|to obey
+pohtia (jotakin)|réfléchir à|to reflect (on)
+onnistua (jossakin)|réussir à|to succeed
+uskoa|croire|to believe
+ottaa|prendre|to take
+oppia|(apprendre à quelqu'un)|to learn
+opettaa|apprendre|(to teach someone)
+ymmärtää|comprendre|to understand
+yllättää|surprendre|to surprise

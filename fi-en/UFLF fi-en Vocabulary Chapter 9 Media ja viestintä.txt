@@ -1,106 +1,106 @@
-|la télévision, le cinéma|television, cinema
-|la télé|TV
-|la télécommande|remote control
-|une chaîne|channel
-|un programme|television schedule
-|un feuilleton|series / soap opera
-|une série|series
-|une émission|show
-|un dessin animé|cartoon
-|un documentaire|documentary
-|une émission de variétés|variety show
-|un jeu télévisé|game show
-|la télé-réalité|reality television
-|un magazine d'actualités (à la télévision)|news show
-|les informations (f pl) / les infos (f pl) / le journal|news
-|l'actualité (f)|current events
-|la météo|weather report
-|un reporter / un journaliste|reporter / journalist
-|une interview|interview
-|une publicité / une pub|commercial
-|un concert|concert
-|un film|movie
-|un film d'amour|romantic movie
-|un film de science-fiction|science-fiction movie
-|un film d'horreur|horror movie
-|un film d'action / un film d'aventures|action film / adventure film
-|un film policier|detective/police movie
-|un drame|drama
-|une comédie|comedy (movie, play)
-|un (film) musical|musical
-|une comédie musicale|musical comedy
-|un western|western
-|en VO / en VF|original version / French version
-|avec / sans sous-titres|with / without subtitles
-|un acteur / une actrice|actor / actress
-|une célébrité|celebrity
-|une star / une vedette|star (refers to men or women)
-|une personnalité (de la télévision, du cinéma, de la radio...)|celebrity
-|le méchant|the bad guy
-|la presse|the press
-|un kiosque (à journaux)|news stand
-|un journal (national, régional)|newspaper (national, regional)
-|une bande-dessinée|comic strip
-|une petite annonce|classified ad
-|un magazine|magazine
-|un livre|book
-|un roman|novel
-|la radio|the radio
-|une station|radio station
-|une chanson|song
-|un chanteur / une chanteuse|singer
-|un groupe|a band
-|l'internet|the internet
-|un ordinateur|computer
-|un portable|laptop
-|le web|the web
-|un site|website
-|une page d'accueil|homepage
-|un forum|bulletin board, newsgroup
-|un moteur de recherche|search engine
-|un mot de passe|password
-|un email / un courriel|e-mail
-|en ligne|online
-|un lien|link
-|le téléphone|the telephone
-|un (téléphone) portable|cell phone
-|un répondeur / une boîte vocale|voicemail
-|un texto|text message
-|au téléphone|on the phone
-|Allô...|Hello...
-|T'es où?|Where are you at / what are you doing?
-|Est-ce que je peux parler à...|May I speak to...
-|Je voudrais un renseignement.|I would like some information.
-|Un instant s'il vous plaît.|Please hold. / One moment please.
-|Ne quittez pas.|Stay on the line.
-|Je vous le / la passe.|I'm putting you through to him / her. / I'm connecting you to him / her.
-|Quel est votre numéro de téléphone?|What is your phone number?
-|Est-ce que vous voulez laisser un message?|Do you want to leave a message?
-|Pouvez-vous rappeler à 15h?|Could you call back at 3 p.m.?
-|Qui est à l'appareil?|Who's on the phone?
-|adjectifs|adjectives
-|célèbre|famous
-|amusant(e) / comique / marrant(e) / drôle|funny
-|doublé(e)|dubbed
-|effrayant(e)|frightening
-|ennuyeux / ennuyeuse|boring
-|étranger / étrangère|foreign
-|gratuit(e)|free
-|optimiste|optimistic / hopeful
-|pessimiste|pessimistic
-|réaliste|realistic
-|satirique|satirical
-|tragique|tragic
-|triste|sad
-|violent(e)|violent
-|verbes|verbs
-|surfer / aller (sur internet)|to surf (the web)
-|cliquer|to click
-|télécharger|to download
-|décrire|to describe
-|dire|to say
-|écrire|to write
-|durer|to last
-|lire|to read
-|montrer|to show
-|passer (du temps)|to spend (time)
+televisio, elokuvat|la télévision, le cinéma|television, cinema
+tv|la télé|TV
+kaukosäädin|la télécommande|remote control
+kanava|une chaîne|channel
+ohjelmisto, ohjelma-aikataulu|un programme|television schedule
+sarja, saippuaooppera|un feuilleton|series / soap opera
+sarja|une série|series
+ohjelma|une émission|show
+animaatio|un dessin animé|cartoon
+dokumentti|un documentaire|documentary
+viihdeohjelma|une émission de variétés|variety show
+visailu, kilpailuohjelma|un jeu télévisé|game show
+tosi-TV|la télé-réalité|reality television
+uutisohjelma|un magazine d'actualités (à la télévision)|news show
+uutiset|les informations (f pl) / les infos (f pl) / le journal|news
+ajankohtaisohjelma|l'actualité (f)|current events
+säätiedotus|la météo|weather report
+toimittaja / reportteri / journalisti|un reporter / un journaliste|reporter / journalist
+haastattelu|une interview|interview
+mainos|une publicité / une pub|commercial
+konsertti|un concert|concert
+elokuva|un film|movie
+romanttinen elokuva|un film d'amour|romantic movie
+scifi-elokuva, tieteiselokuva|un film de science-fiction|science-fiction movie
+kauhuelokuva|un film d'horreur|horror movie
+toimintaelokuva / seikkailuelokuva|un film d'action / un film d'aventures|action film / adventure film
+rikoselokuva, dekkarielokuva|un film policier|detective/police movie
+draama|un drame|drama
+komedia|une comédie|comedy (movie, play)
+musikaali|un (film) musical|musical
+musikaalikomedia|une comédie musicale|musical comedy
+lännenelokuva, länkkäri (informal)|un western|western
+alkuperäinen versio / ranskankielinen versio|en VO / en VF|original version / French version
+tekstitetty / ei tekstitystä|avec / sans sous-titres|with / without subtitles
+näyttelijä (m, f) / näyttelijätär (f)|un acteur / une actrice|actor / actress
+julkisuuden henkilö, julkkis (informal)|une célébrité|celebrity
+tähti|une star / une vedette|star (refers to men or women)
+julkisuuden henkilö|une personnalité (de la télévision, du cinéma, de la radio...)|celebrity
+roisto, konna, pahis (informal)|le méchant|the bad guy
+lehdistö|la presse|the press
+lehtikioski|un kiosque (à journaux)|news stand
+sanomalehti|un journal (national, régional)|newspaper (national, regional)
+sarjakuva|une bande-dessinée|comic strip
+lehti-ilmoitus|une petite annonce|classified ad
+aikakauslehti|un magazine|magazine
+kirja|un livre|book
+romaani|un roman|novel
+radio|la radio|the radio
+radioasema|une station|radio station
+laulu|une chanson|song
+laulaja (m, f) / laulajatar (f)|un chanteur / une chanteuse|singer
+yhtye, bändi|un groupe|a band
+internet|l'internet|the internet
+tietokone|un ordinateur|computer
+kannettava tietokone, läppäri (informal)|un portable|laptop
+web|le web|the web
+kotisivu, nettisivu|un site|website
+kotisivu, etusivu|une page d'accueil|homepage
+keskustelufoorumi, uutisryhmä|un forum|bulletin board, newsgroup
+hakukone|un moteur de recherche|search engine
+salasana|un mot de passe|password
+sähköpostiosoite|un email / un courriel|e-mail
+online, internetissä, verkossa, netissä (informal)|en ligne|online
+linkki|un lien|link
+puhelin|le téléphone|the telephone
+matkapuhelin, kännykkä|un (téléphone) portable|cell phone
+ääniviesti|un répondeur / une boîte vocale|voicemail
+tekstiviesti|un texto|text message
+puhelimessa|au téléphone|on the phone
+Haloo...|Allô...|Hello...
+Missä olet? / Mitä teet?|T'es où?|Where are you at / what are you doing?
+Voinko puhua ... kanssa? / Voiko ... tulla puhelimeen?|Est-ce que je peux parler à...|May I speak to...
+Haluaisin lisätietoja.|Je voudrais un renseignement.|I would like some information.
+Odottakaa (formal) / Odota hetki.|Un instant s'il vous plaît.|Please hold. / One moment please.
+Älä sulje puhelinta.|Ne quittez pas.|Stay on the line.
+Yhdistän sinut hänelle.|Je vous le / la passe.|I'm putting you through to him / her. / I'm connecting you to him / her.
+Mikä puhelinnumerosi on?|Quel est votre numéro de téléphone?|What is your phone number?
+Haluatko jättää viestin?|Est-ce que vous voulez laisser un message?|Do you want to leave a message?
+Voisitko soittaa uudelleen kello 15?|Pouvez-vous rappeler à 15h?|Could you call back at 3 p.m.?
+Kuka on puhelimessa?|Qui est à l'appareil?|Who's on the phone?
+adjektiivit|adjectifs|adjectives
+kuuluisa|célèbre|famous
+hauska, huumorintajuinen|amusant(e) / comique / marrant(e) / drôle|funny
+dubattu, ääninäytelty|doublé(e)|dubbed
+pelottava|effrayant(e)|frightening
+tylsä|ennuyeux / ennuyeuse|boring
+ulkomaalainen|étranger / étrangère|foreign
+ilmainen|gratuit(e)|free
+optimistinen / toiveikas|optimiste|optimistic / hopeful
+pessimistinen|pessimiste|pessimistic
+realistinen|réaliste|realistic
+satiirinen|satirique|satirical
+traaginen|tragique|tragic
+surullinen|triste|sad
+väkivaltainen|violent(e)|violent
+verbit|verbes|verbs
+surffata (internetissä), selata (internetiä)|surfer / aller (sur internet)|to surf (the web)
+napsauttaa, klikata|cliquer|to click
+ladata|télécharger|to download
+kuvailla|décrire|to describe
+sanoa|dire|to say
+kirjoittaa|écrire|to write
+kestää|durer|to last
+lukea|lire|to read
+näyttää|montrer|to show
+viettää/kuluttaa aikaa|passer (du temps)|to spend (time)

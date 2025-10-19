@@ -1,154 +1,154 @@
-|fiche d'identité|identification form
-|Nom (de famille)|last name
-|Prénom(s)|first (and middle) name(s)
-|Age|age
-|Nationalité|nationality
-|Résidence actuelle|current address
-|Profession|profession
-|Passe-temps préférés|pastimes
-|questions personnelles|personal questions
-|Comment vous appelez-vous?|What is your name?
-|Quel âge avez-vous?|How old are you?
-|Quelle est votre nationalité?|What is your nationality?
-|Vous êtes d'où?|Where are you from?
-|Où habitez-vous?|Where do you live?
-|Que faites-vous dans la vie?|What do you do for a living?
-|Quels sont vos passe-temps préférés?|What are your favorite pastimes?
-|la famille|the family
-|un homme|man
-|une femme|woman, wife
-|un mari|husband
-|un fiancé / une fiancée|fiancé / fiancée
-|des parents|parents, relatives
-|un père|father
-|une mère|mother
-|un/une enfant|child
-|un fils|son
-|une fille|daughter
-|un fils unique|only child (male)
-|une fille unique|only child (female)
-|un frère|brother
-|une soeur|sister
-|des grands-parents (m)|grandparents
-|un grand-père|grandfather
-|une grand-mère|grandmother
-|un petit-enfant|grandchild
-|un oncle|uncle
-|une tante|aunt
-|un neveu|nephew
-|une nièce|niece
-|les amis|friends
-|un ami / une amie|friend
-|un/une camarade|friend
-|un copain / une copine|friend; boyfriend / girlfriend
-|mots interrogatifs|interrogative words
-|où?|where?
-|quand?|when?
-|qui?|who?
-|comment?|how?
-|quel / quelle / quels / quelles|which?
-|pourquoi?|why?
-|parce que|because
-|l'heure|time
-|l'heure (f)|the time
-|Quelle heure est-il?|What time is it?
-|Il est huit heures.|It's 8 o'clock.
-|Il est huit heures dix.|It's ten after 8.
-|Il est huit heures et quart.|It's quarter after 8.
-|Il est huit heures vingt-cinq.|It's twenty-five after 8.
-|Il est huit heures et demie.|It's eight-thirty.
-|Il est neuf heures moins vingt.|It's twenty to nine.
-|Il est neuf heures moins le quart.|It's quarter to nine.
-|Il est midi.|It's noon.
-|Il est midi et demi.|It's twelve-thirty.
-|Il est minuit.|It's midnight.
-|Il est trois heures...|It's three o'clock...
-|du matin|in the morning (3 a.m.)
-|de l'après-midi|in the afternoon (3 p.m.)
-|Il est sept heures...|It's seven o'clock...
-|du soir|in the evening (7 p.m.)
-|l'heure officielle|official time
-|Il est 10h.|It's 10 a.m.
-|Il est 12h05.|It's 12:05 p.m.
-|Il est 13h15.|It's 1:15 p.m.
-|Il est 15h35.|It's 3:35 p.m.
-|Il est 18h45.|It's 6:45 p.m.
-|Il est 22h59.|It's 10:59 p.m.
-|passe-temps et activités|pastimes and activities
-|avoir|to have
-|avoir besoin de...|to need
-|avoir envie de...|to feel like (to want to)
-|avoir l'intention de...|to intend (to)
-|chercher|to look for
-|trouver|to find
-|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
-|tomber amoureux (de) /amoureuse (de)|to fall in love
-|embrasser|to kiss
-|écouter...|to listen to...
-|de la musique|music
-|chanter|to sing
-|danser|to dance
-|aimer|to like, to love
-|la musique classique / le jazz|classical music / jazz
-|le hip-hop / la techno|hip-hop / techno
-|le sport / le tennis / le football|sports / tennis / soccer
-|le basket / le golf / le footing|basketball / golf / running
-|préférer|to prefer
-|adorer|to adore
-|détester|to detest
-|habiter|to live
-|rester à la maison|to stay at home
-|étudier|to study
-|lire|to read
-|oublier|to forget
-|regarder la télévision|to watch television
-|téléphoner à|to telephone
-|parler|to speak
-|jouer...|to play...
-|au foot / au tennis / aux cartes|soccer / tennis / cards
-|de la guitare / du piano|guitar / piano
-|nager|to swim
-|rencontrer|to meet
-|rêver|to dream
-|travailler|to work
-|voyager|to travel
-|adverbes|adverbs
-|aussi|also
-|maintenant|now
-|plus tard|later
-|beaucoup|a lot
-|peu / un peu|little / a little
-|rarement|rarely
-|parfois|at times
-|quelquefois|sometimes
-|souvent|often
-|toujours|always
-|ne ... jamais|never
-|continents, pays, nationalités|continents, Countries, Nationalities
-|un continent|continent
-|un pays|country
-|l'Afrique (f) / africain (e)|Africa / African
-|l'Algérie (f) / algérien(ne)|Algeria / Algerian
-|le Maroc / marocain(e)|Morocco / Moroccan
-|le Sénégal / sénégalais(e)|Senegal / Senegalese
-|la Tunisie / tunisien(ne)|Tunisia / Tunisian
-|l'Amérique du Nord|North America
-|le Canada / canadien(ne)|Canada / Canadian
-|les Etats-Unis / américain(e)|United States / American
-|le Mexique / mexicain(e)|Mexico / Mexican
-|l'Amérique du Sud|South American
-|la Guyane française / guyanais(e)|French Guyana / Guyanese
-|l'Asie (f) / asiatique|Asia / Asian
-|la Chine / chinois(e)|China / Chinese
-|le Japon / japonais(e)|Japan / Japanese
-|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
-|l'Océanie|Oceania (the South Sea Islands)
-|l'Australie (f) / australien(ne)|Australia / Australian
-|l'Europe (f) / européen(ne)|Europe / European
-|l'Allemagne (f) / allemand(e)|Germany / German
-|l'Angleterre (f) / anglais(e)|England / English
-|la Belgique / belge|Belgium / Belgian
-|l'Espagne (f) / espagnol(e)|Spain / Spanish
-|la France / français(e)|France / French
-|l'Italie (f) / italien(ne)|Italy / Italian
-|la Suisse / suisse|Switzerland / Swiss
+henkilöllisyystodistus|fiche d'identité|identification form
+sukunimi|Nom (de famille)|last name
+etunimi / etunimet|Prénom(s)|first (and middle) name(s)
+ikä|Age|age
+kansallisuus|Nationalité|nationality
+nykyinen osoite|Résidence actuelle|current address
+ammatti|Profession|profession
+harrastukset|Passe-temps préférés|pastimes
+henkilökohtaiset kysymykset|questions personnelles|personal questions
+Mikä on nimesi?|Comment vous appelez-vous?|What is your name?
+Kuinka vanha olet?|Quel âge avez-vous?|How old are you?
+Mikä on kansallisuutesi?|Quelle est votre nationalité?|What is your nationality?
+Mistä olet kotoisin?|Vous êtes d'où?|Where are you from?
+Missä asut?|Où habitez-vous?|Where do you live?
+Mitä teet työksesi?|Que faites-vous dans la vie?|What do you do for a living?
+Mitä harrastat?|Quels sont vos passe-temps préférés?|What are your favorite pastimes?
+perhe|la famille|the family
+mies|un homme|man
+nainen, vaimo|une femme|woman, wife
+aviomies|un mari|husband
+kihlattu|un fiancé / une fiancée|fiancé / fiancée
+vanhemmat, sukulaiset|des parents|parents, relatives
+isä|un père|father
+äiti|une mère|mother
+lapsi|un/une enfant|child
+poika|un fils|son
+tytär|une fille|daughter
+ainoa lapsi|un fils unique|only child (male)
+ainoa lapsi|une fille unique|only child (female)
+veli|un frère|brother
+sisar, sisko|une soeur|sister
+isovanhemmat|des grands-parents (m)|grandparents
+isoisä, ukki|un grand-père|grandfather
+isoäiti, mummi, mummo|une grand-mère|grandmother
+lapsenlapsi|un petit-enfant|grandchild
+eno, setä|un oncle|uncle
+täti|une tante|aunt
+veljenpoika, siskonpoika|un neveu|nephew
+veljentyttö, siskontyttö|une nièce|niece
+ystävät|les amis|friends
+ystävä|un ami / une amie|friend
+kaveri|un/une camarade|friend
+ystävä; poikaystävä / tyttöystävä|un copain / une copine|friend; boyfriend / girlfriend
+kysymyssanat|mots interrogatifs|interrogative words
+missä?|où?|where?
+milloin?|quand?|when?
+kuka?|qui?|who?
+kuinka?|comment?|how?
+mikä, mitkä?|quel / quelle / quels / quelles|which?
+miksi?|pourquoi?|why?
+koska|parce que|because
+aika|l'heure|time
+kellonaika|l'heure (f)|the time
+Mitä kello on? / Kuinka paljon kello on?|Quelle heure est-il?|What time is it?
+Kello on kahdeksan.|Il est huit heures.|It's 8 o'clock.
+Kello on kymmentä yli kahdeksan.|Il est huit heures dix.|It's ten after 8.
+Kello on vartin/varttia yli kahdeksan.|Il est huit heures et quart.|It's quarter after 8.
+Kello on kaksikymmentäviisi yli kahdeksan.|Il est huit heures vingt-cinq.|It's twenty-five after 8.
+Kello on puoli yhdeksän.|Il est huit heures et demie.|It's eight-thirty.
+Kello on kaksikymmentä vaille yhdeksän.|Il est neuf heures moins vingt.|It's twenty to nine.
+Kello on vartin/varttia vaille yhdeksän.|Il est neuf heures moins le quart.|It's quarter to nine.
+On keskipäivä.|Il est midi.|It's noon.
+Kello on puoli yksi.|Il est midi et demi.|It's twelve-thirty.
+On keskiyö.|Il est minuit.|It's midnight.
+Kello on kolme...|Il est trois heures...|It's three o'clock...
+aamulla|du matin|in the morning (3 a.m.)
+iltapäivällä|de l'après-midi|in the afternoon (3 p.m.)
+Kello on seitsemän...|Il est sept heures...|It's seven o'clock...
+illalla|du soir|in the evening (7 p.m.)
+tarkka aika|l'heure officielle|official time
+Kello on 10.00.|Il est 10h.|It's 10 a.m.
+Kello on 12.05.|Il est 12h05.|It's 12:05 p.m.
+Kello on 13.15.|Il est 13h15.|It's 1:15 p.m.
+Kello on 15.35.|Il est 15h35.|It's 3:35 p.m.
+Kello on 18.45.|Il est 18h45.|It's 6:45 p.m.
+Kello on 22.59.|Il est 22h59.|It's 10:59 p.m.
+harrastukset ja aktiviteetit|passe-temps et activités|pastimes and activities
+omistaa, olla|avoir|to have
+tarvita...|avoir besoin de...|to need
+haluta...|avoir envie de...|to feel like (to want to)
+aikoa...|avoir l'intention de...|to intend (to)
+etsiä|chercher|to look for
+löytää|trouver|to find
+(Etsivä löytää!)|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
+rakastua|tomber amoureux (de) /amoureuse (de)|to fall in love
+suudella|embrasser|to kiss
+kuunnella...|écouter...|to listen to...
+musiikki|de la musique|music
+laulaa|chanter|to sing
+tanssia|danser|to dance
+pitää, rakastaa|aimer|to like, to love
+klassinen musiikki / jazz|la musique classique / le jazz|classical music / jazz
+hiphop / tekno|le hip-hop / la techno|hip-hop / techno
+urheilu / tennis / jalkapallo|le sport / le tennis / le football|sports / tennis / soccer
+koripallo / golf / juoksu|le basket / le golf / le footing|basketball / golf / running
+pitää|préférer|to prefer
+rakastaa|adorer|to adore
+inhota|détester|to detest
+asua|habiter|to live
+pysyä kotona|rester à la maison|to stay at home
+opiskella|étudier|to study
+lukea|lire|to read
+unohtaa|oublier|to forget
+katsoa televisiota|regarder la télévision|to watch television
+soittaa puhelimella|téléphoner à|to telephone
+puhua|parler|to speak
+pelata... (sport, game) / soittaa... (instrument)|jouer...|to play...
+jalkapalloa / tennistä / korttia|au foot / au tennis / aux cartes|soccer / tennis / cards
+kitaraa / pianoa|de la guitare / du piano|guitar / piano
+uida|nager|to swim
+tavata|rencontrer|to meet
+uneksia|rêver|to dream
+työskennellä|travailler|to work
+matkustaa|voyager|to travel
+adverbit|adverbes|adverbs
+myös|aussi|also
+nyt|maintenant|now
+myöhemmin|plus tard|later
+paljon|beaucoup|a lot
+vähän|peu / un peu|little / a little
+harvoin|rarement|rarely
+toisinaan|parfois|at times
+joskus|quelquefois|sometimes
+usein|souvent|often
+aina|toujours|always
+ei koskaan|ne ... jamais|never
+mantereet, valtiot, kansallisuudet|continents, pays, nationalités|continents, Countries, Nationalities
+manner|un continent|continent
+valtio, maa|un pays|country
+Afrikka / afrikkalainen|l'Afrique (f) / africain (e)|Africa / African
+Algeria / algerialainen|l'Algérie (f) / algérien(ne)|Algeria / Algerian
+Marokko / marokkolainen|le Maroc / marocain(e)|Morocco / Moroccan
+Senegal / senegalilainen|le Sénégal / sénégalais(e)|Senegal / Senegalese
+Tunisia / tunisialainen|la Tunisie / tunisien(ne)|Tunisia / Tunisian
+Pohjois-Amerikka|l'Amérique du Nord|North America
+Kanada / kanadalainen|le Canada / canadien(ne)|Canada / Canadian
+Yhdysvallat / yhdysvaltalainen|les Etats-Unis / américain(e)|United States / American
+Meksiko / meksikolainen|le Mexique / mexicain(e)|Mexico / Mexican
+Etelä-Amerikka|l'Amérique du Sud|South American
+Ranskan Guayana / ranskan guayanalainen|la Guyane française / guyanais(e)|French Guyana / Guyanese
+Aasia / aasialainen|l'Asie (f) / asiatique|Asia / Asian
+Kiina / kiinalainen|la Chine / chinois(e)|China / Chinese
+Japani / japanilainen|le Japon / japonais(e)|Japan / Japanese
+Vietnam / vietnamilainen|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
+Oseania|l'Océanie|Oceania (the South Sea Islands)
+Australia / australialainen|l'Australie (f) / australien(ne)|Australia / Australian
+Eurooppa / eurooppalainen|l'Europe (f) / européen(ne)|Europe / European
+Saksa / saksalainen|l'Allemagne (f) / allemand(e)|Germany / German
+Englanti / englantilainen|l'Angleterre (f) / anglais(e)|England / English
+Belgia / belgialainen|la Belgique / belge|Belgium / Belgian
+Espanja / espanjalainen|l'Espagne (f) / espagnol(e)|Spain / Spanish
+Ranska / ranskalainen|la France / français(e)|France / French
+Italia / italialainen|l'Italie (f) / italien(ne)|Italy / Italian
+Sveitsi / sveitsiläinen|la Suisse / suisse|Switzerland / Swiss

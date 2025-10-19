@@ -1,148 +1,148 @@
-|la ville|the city
-|une place|public square
-|une rue|street
-|un boulevard|boulevard
-|une avenue|avenue
-|un quartier|neighborhood
-|l'arrondissement (m)|administrative district in a large city (e.g. Paris)
-|le centre-ville|downtown
-|la banlieue|suburbs
-|un bâtiment|building
-|un bureau|office
-|un immeuble|apartment building
-|une maison|house
-|un hôtel|hotel
-|une boutique|boutique
-|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
-|un centre commercial|shopping center, mall
-|un supermarché|supermarket
-|un café|café
-|un restaurant|restaurant
-|un musée|museum
-|un cinéma|movie theater
-|une boîte de nuit / une discothèque|a nightclub, dance club
-|un théâtre|theater
-|un stade|stadium
-|un parking|parking lot
-|un parc|park
-|un jardin public|park, large garden
-|un fleuve|river
-|un pont|bridge
-|une banque|bank
-|un bureau de poste|post office
-|une boîte aux lettres|mailbox
-|une cabine téléphonique|phone booth
-|une laverie|launderette
-|l'hôtel de ville (m), la mairie|city hall, mayor's office
-|l'office du tourisme (m)|chamber of commerce
-|un hôpital|hospital
-|un aéroport|airport
-|une gare|train station
-|une école (6 ans à 11 ans)|school
-|un collège (11 ans à 15 ans)|junior high, middle school
-|un lycée (15 ans à 18 ans)|high school
-|une université|university
-|une bibliothèque|library
-|une église|church
-|une cathédrale|cathedral
-|une mosquée|mosque
-|une synagogue|synagogue
-|un temple|temple
-|les petits commerces|small businesses
-|une épicerie|grocery store
-|une boucherie|butcher shop
-|une charcuterie|pork butchers shop, deli
-|un traiteur|deli, catering shop
-|une boulangerie|bakery
-|une pâtisserie|pastry shop
-|un bureau de tabac|tobacco shop
-|une librairie|bookstore
-|une papeterie|paper/stationery store
-|une pharmacie|pharmacy
-|s'orienter|getting your bearings
-|Où se trouve... ?|Where is... ?
-|(Où se trouve la poste?)|(Where is the post office?)
-|à côté (de)|beside, next to
-|à deux pas (de)|just a step from
-|à droite (de)|on the right
-|à gauche (de)|on the left
-|au bout (de)|at the far end of
-|au carrefour (de)|at the intersection of
-|au centre|in the center
-|au coin (de)|at the corner of
-|chez|at someones house
-|derrière|behind
-|devant|in front of
-|en face (de)|facing, opposite
-|en ville|in the city
-|loin (de)|far
-|près (de)|near, close
-|sous|under
-|sur|on
-|sur votre droite/gauche|on your right/left
-|tout droit|straight ahead
-|tout près|nearby
-|les nombres ordinaux|ordinal numbers
-|premier, première|first
-|deuxième|second
-|troisième|third
-|quatrième|fourth
-|cinquième|fifth
-|sixième|sixth
-|septième|seventh
-|huitième|eighth
-|neuvième|ninth
-|dixième|tenth
-|onzième|eleventh
-|douzième|twelfth
-|treizième|thirteenth
-|quatorzième|fourteenth
-|quinzième|fifteenth
-|seizième|sixteenth
-|dix-septième|seventeenth
-|dix-huitième|eighteenth
-|dix-neuvième|nineteenth
-|vingtième|twentieth
-|verbes qui prennent être au passé composé|verbs which use être in the compound past
-|aller|to go
-|sortir|to go out
-|partir|to leave
-|rentrer|to go home, to go back
-|retourner|to return
-|arriver|to arrive
-|entrer|to enter
-|rester|to stay
-|monter|to go up, to go upstairs, to climb
-|descendre|to go down, to go downstairs
-|tomber|to fall
-|passer|to pass, to go by (intransitive)
-|naître|to be born
-|mourir|to die
-|autres verbes|other verbs
-|se déplacer (en ville)|to get around (town)
-|prendre le métro, un taxi, etc.|to take the metro, a taxi, etc.
-|aller à pied|to go on foot
-|marcher|to walk
-|tourner|to turn
-|traverser|to cross
-|continuer|to continue
-|demander|to ask (for)
-|se trouver|to be found, to be located
-|attendre|to wait for
-|entendre|to hear
-|perdre|to lose
-|rendre|to hand in, give back
-|rendre visite à quelqu'un|to visit someone
-|répondre|to answer
-|vendre|to sell
-|participes passés irréguliers|irregular past participles
-|avoir: j'ai eu ...|to have: I had ...
-|boire: j'ai bu ...|to drink: I drank ...
-|être: j'ai été ...|to be: I was ...
-|croire: j'ai cru ...|to believe: I believed ...
-|faire: j'ai fait ...|to do: I did ...
-|voir: j'ai vu ...|to see: I saw ...
-|prendre: j'ai pris ...|to take: I took ...
-|mourir: il est mort / elle est mort(e) ...|to die: he/she died ...
-|mettre: j'ai mis ...|to put: I put ...
-|naître: il est né / elle est né(e) ...|to be born: he/she was born ...
+kaupunki|la ville|the city
+aukio|une place|public square
+tie, katu|une rue|street
+puistokatu, bulevardi|un boulevard|boulevard
+puistokatu|une avenue|avenue
+naapurusto|un quartier|neighborhood
+kaupunginosa, arrondissementti (Ranskan kaupungeissa)|l'arrondissement (m)|administrative district in a large city (e.g. Paris)
+keskusta, ydinkeskusta|le centre-ville|downtown
+lähiö, esikaupunkialue|la banlieue|suburbs
+rakennus|un bâtiment|building
+toimisto, virasto|un bureau|office
+kerrostalo|un immeuble|apartment building
+omakotitalo|une maison|house
+hotelli|un hôtel|hotel
+putiikki|une boutique|boutique
+(musiikki-, video- jne.)kauppa|un magasin (de musique, de vidéo, etc.)|store (music, video, etc.)
+kauppakeskus|un centre commercial|shopping center, mall
+ruokakauppa, supermarketti|un supermarché|supermarket
+kahvila|un café|café
+ravintola|un restaurant|restaurant
+museo|un musée|museum
+elokuvateatteri|un cinéma|movie theater
+yökerho, disko|une boîte de nuit / une discothèque|a nightclub, dance club
+teatteri|un théâtre|theater
+stadion|un stade|stadium
+pysäköintialue, parkkipaikka|un parking|parking lot
+puisto|un parc|park
+puisto, puutarha|un jardin public|park, large garden
+joki|un fleuve|river
+silta|un pont|bridge
+pankki|une banque|bank
+posti, postitoimisto|un bureau de poste|post office
+postilaatikko|une boîte aux lettres|mailbox
+puhelinkoppi|une cabine téléphonique|phone booth
+pesula|une laverie|launderette
+kaupungintalo|l'hôtel de ville (m), la mairie|city hall, mayor's office
+kauppakamari|l'office du tourisme (m)|chamber of commerce
+sairaala|un hôpital|hospital
+lentokenttä|un aéroport|airport
+rautatieasema|une gare|train station
+alakoulu, ala-aste (7-12-vuotiaille)|une école (6 ans à 11 ans)|school
+yläkoulu, yläaste (13-15-vuotiaille)|un collège (11 ans à 15 ans)|junior high, middle school
+lukio (16-18-vuotiaille)|un lycée (15 ans à 18 ans)|high school
+yliopisto|une université|university
+kirjasto|une bibliothèque|library
+kirkko|une église|church
+suurkirkko, katedraali|une cathédrale|cathedral
+moskeija|une mosquée|mosque
+synagoga|une synagogue|synagogue
+temppeli|un temple|temple
+pienyritykset|les petits commerces|small businesses
+lähikauppa|une épicerie|grocery store
+lihakauppa|une boucherie|butcher shop
+herkkupuoti, delikauppa|une charcuterie|pork butchers shop, deli
+lounasmyymälä|un traiteur|deli, catering shop
+leipomo|une boulangerie|bakery
+konditoria|une pâtisserie|pastry shop
+tupakkakauppa|un bureau de tabac|tobacco shop
+kirjakauppa|une librairie|bookstore
+paperitarvikekauppa|une papeterie|paper/stationery store
+apteekki|une pharmacie|pharmacy
+suunnistaa, paikallistaa, selvittää sijainti|s'orienter|getting your bearings
+Missä ... on?|Où se trouve... ?|Where is... ?
+(Missä postitoimisto on?)|(Où se trouve la poste?)|(Where is the post office?)
+vieressä|à côté (de)|beside, next to
+lyhyen matkan päässä (jostakin)|à deux pas (de)|just a step from
+oikealla|à droite (de)|on the right
+vasemmalla|à gauche (de)|on the left
+(jonkin) päässä/perällä|au bout (de)|at the far end of
+risteyksessä|au carrefour (de)|at the intersection of
+keskustassa|au centre|in the center
+kulmalla|au coin (de)|at the corner of
+(jonkun) kotona|chez|at someones house
+takana|derrière|behind
+edessä|devant|in front of
+vastapäätä|en face (de)|facing, opposite
+kaupungissa|en ville|in the city
+kaukana|loin (de)|far
+lähellä|près (de)|near, close
+alla|sous|under
+päällä|sur|on
+oikealla/vasemmalla puolellasi|sur votre droite/gauche|on your right/left
+suoraan edessä|tout droit|straight ahead
+lähellä|tout près|nearby
+järjestysluvut|les nombres ordinaux|ordinal numbers
+ensimmäinen|premier, première|first
+toinen|deuxième|second
+kolmas|troisième|third
+neljäs|quatrième|fourth
+viides|cinquième|fifth
+kuudes|sixième|sixth
+seitsemäs|septième|seventh
+kahdeksas|huitième|eighth
+yhdeksäs|neuvième|ninth
+kymmenes|dixième|tenth
+yhdestoista|onzième|eleventh
+kahdestoista|douzième|twelfth
+kolmastoista|treizième|thirteenth
+neljästoista|quatorzième|fourteenth
+viidestoista|quinzième|fifteenth
+kuudestoista|seizième|sixteenth
+seitsemästoista|dix-septième|seventeenth
+kahdeksastoista|dix-huitième|eighteenth
+yhdeksästoista|dix-neuvième|nineteenth
+kahdeskymmenes|vingtième|twentieth
+liike- ja tilanmuutosverbit|verbes qui prennent être au passé composé|verbs which use être in the compound past
+mennä|aller|to go
+mennä ulos|sortir|to go out
+lähteä|partir|to leave
+mennä kotiin, palata|rentrer|to go home, to go back
+palata|retourner|to return
+saapua|arriver|to arrive
+mennä sisään|entrer|to enter
+jäädä|rester|to stay
+kiivetä, mennä yläkertaan|monter|to go up, to go upstairs, to climb
+laskeutua, mennä alakertaan|descendre|to go down, to go downstairs
+kaatua|tomber|to fall
+ohittaa|passer|to pass, to go by (intransitive)
+syntyä|naître|to be born
+kuolla|mourir|to die
+muita verbejä|autres verbes|other verbs
+liikkua (kaupungilla)|se déplacer (en ville)|to get around (town)
+kulkea metrolla, taksilla jne.|prendre le métro, un taxi, etc.|to take the metro, a taxi, etc.
+kulkea jalan|aller à pied|to go on foot
+kävellä|marcher|to walk
+kääntyä|tourner|to turn
+ylittää, kulkea läpi|traverser|to cross
+jatkaa|continuer|to continue
+pyytää (jotakin)|demander|to ask (for)
+olla (jossakin)|se trouver|to be found, to be located
+odottaa (jotakin)|attendre|to wait for
+kuulla|entendre|to hear
+menettää|perdre|to lose
+palauttaa, antaa takaisin|rendre|to hand in, give back
+kyläillä, käydä (jollakulla) kylässä|rendre visite à quelqu'un|to visit someone
+vastata|répondre|to answer
+myydä|vendre|to sell
+epäsäännölliset imperfektimuodot|participes passés irréguliers|irregular past participles
+olla, omistaa: minulla oli ...|avoir: j'ai eu ...|to have: I had ...
+juoda: minä join ...|boire: j'ai bu ...|to drink: I drank ...
+olla: minä olin ...|être: j'ai été ...|to be: I was ...
+uskoa: minä uskoin ...|croire: j'ai cru ...|to believe: I believed ...
+tehdä: minä tein ...|faire: j'ai fait ...|to do: I did ...
+nähdä: minä näin ...|voir: j'ai vu ...|to see: I saw ...
+ottaa: minä otin ...|prendre: j'ai pris ...|to take: I took ...
+kuolla: hän kuoli ...|mourir: il est mort / elle est mort(e) ...|to die: he/she died ...
+laittaa: minä laitoin ...|mettre: j'ai mis ...|to put: I put ...
+syntyä: hän syntyi ...|naître: il est né / elle est né(e) ...|to be born: he/she was born ...

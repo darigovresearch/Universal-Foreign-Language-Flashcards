@@ -1,129 +1,129 @@
-|la mode|fashion
-|un défilé de mode|fashion show
-|une marque|brand
-|un chapeau|hat
-|une casquette|cap
-|des vêtements (m)|clothes
-|un survêtement / un jogging|tracksuit
-|des sous-vêtements|underwear
-|un soutien-gorge|bra
-|un slip|briefs
-|une culotte|panties
-|un caleçon / boxer|boxers
-|une chemise|man's shirt
-|un chemisier|blouse
-|un polo|polo shirt
-|un tee-shirt|T-shirt
-|un pull|sweater
-|un pantalon|(a pair of) pants
-|un jean (sing.)|jeans
-|un short (sing.)|(shorter) shorts
-|un bermuda|(longer) shorts
-|une ceinture|belt
-|des chaussettes (f pl)|socks
-|des chaussures (f pl)|shoes
-|des baskets (f pl)|basketball shoes
-|des bottes (f pl)|boots
-|des sandales (f pl)|sandals
-|des tennis (f pl)|tennis shoes
-|des tongs|flip-flops
-|des talons (m) / des chaussures á talons|high-heels
-|une robe|dress
-|une jupe|skirt
-|un tailleur|woman's suit
-|un costume|man's suit
-|une cravate|tie
-|des lunettes (f) de soleil|sunglasses
-|un maillot de bain|swimsuit
-|un blouson|short jacket, leather jacket
-|une veste|jacket
-|un manteau|coat
-|un anorak|parka
-|un imperméable|raincoat
-|une écharpe|scarf
-|des gants (m)|gloves
-|les passe-temps|pastimes
-|la course à pied / faire de la course à pied|running / to go running
-|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
-|le roller / faire du roller|roller blading / to go roller blading
-|le cyclisme / faire du cyclisme|cycling / to go cycling
-|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
-|la musculation / faire de la musculation|weight training / to train with weights
-|la natation / faire de la natation|swimming / to go swimming
-|le canoë / faire du canoë|canoeing / to go canoeing
-|le kayak / faire du kayak|kayaking / to go kayaking
-|la peinture / faire de la peinture|painting / to paint (art)
-|les échecs (m) / jouer aux échecs|chess / to play chess
-|le yoga / faire du yoga|yoga
-|le surf / faire du surf|surfing
-|le cheval / faire du cheval|horseback riding
-|la forme et la santé|fitness and health
-|une allergie|allergy
-|la grippe|the flu
-|une migraine|migraine headache
-|un rhume|a cold
-|des médicaments (m)|medicine
-|des vitamines (f)|vitamins
-|un somnifère|sleeping pill
-|le corps|the body
-|la gorge|throat
-|le bras|arm
-|le coude|elbow
-|le poignet|wrist
-|la main|hand
-|le doigt|finger
-|la poitrine|chest
-|le ventre|stomach
-|le dos|back
-|le derrière|rear, behind
-|les fesses (f)|buttocks
-|la jambe|leg
-|le genou / les genoux|knee / knees
-|la cheville|ankle
-|le pied|foot
-|les orteils (m)|toes
-|adjectifs|adjectives
-|à la mode / branché(e)|in fashion
-|démodé(e)|out of style
-|décontracté(e)|casual
-|habillé(e)|dressy
-|discipliné(e)|disciplined
-|sportif / sportive|athletic
-|stressé(e)|stressed
-|malade|sick
-|verbes|verbs
-|s'habiller|to get dressed
-|mettre|to put (on)
-|porter|to wear
-|aller bien / aller mal|to fit well/poorly
-|grossir|to gain weight
-|être au régime / faire un régime|to be on a diet
-|faire du sport|to exercise
-|mincir|to lose weight
-|être en forme|to be in shape
-|tomber malade|to get sick
-|tousser|to cough
-|avoir mal à...|to hurt (body part)
-|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
-|se reposer|to rest
-|se détendre|to relax
-|fumer|to smoke
-|être en bonne santé|to be in good health
-|expressions interrogatives|interrogative expressions
-|Qu'est-ce qui se passe?|What is going on?
-|Qu'est-ce qui t'intéresse?|What interests you?
-|Qu'est-ce qui t'énerve?|What bothers you?
-|Qu'est-ce qui te fait peur?|What scares you?
-|Qu'est-ce qui te fait plaisir?|What pleases you?
-|Qu'est-ce qui t'amuse?|What amuses you?
-|expressions impersonnelles|impersonal questions
-|Il faut + infinitif|It is necessary (to)
-|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
-|Il est important de + infinitif|It is important (to)
-|Il est nécessaire de + infinitif|It is necessary (to)
-|Il est essentiel de + infinitif|It is essential (to)
-|Il est indispensable de + infinitif|It is essential (to)
-|Il est amusant de ...|It is fun (to) ...
-|Il est difficile de ...|It is difficult (to) ...
-|Il est facile de ...|It is easy (to) ...
-|Il est fatigant de ...|It is tiring/annoying (to) ...
+muoti|la mode|fashion
+muotinäytös|un défilé de mode|fashion show
+brändi, tavaramerkki|une marque|brand
+hattu|un chapeau|hat
+lakki|une casquette|cap
+vaatteet|des vêtements (m)|clothes
+verryttelypuku|un survêtement / un jogging|tracksuit
+alusvaatteet|des sous-vêtements|underwear
+rintaliivit|un soutien-gorge|bra
+alushousut|un slip|briefs
+pikkuhousut|une culotte|panties
+bokserit|un caleçon / boxer|boxers
+paita|une chemise|man's shirt
+pusero|un chemisier|blouse
+poolopaita|un polo|polo shirt
+t-paita|un tee-shirt|T-shirt
+villapaita, villapusero, villatakki|un pull|sweater
+housut|un pantalon|(a pair of) pants
+farkut|un jean (sing.)|jeans
+shortsit|un short (sing.)|(shorter) shorts
+bermudashortsit|un bermuda|(longer) shorts
+vyö|une ceinture|belt
+sukat|des chaussettes (f pl)|socks
+kengät|des chaussures (f pl)|shoes
+koripallokengät|des baskets (f pl)|basketball shoes
+saappaat|des bottes (f pl)|boots
+sandaalit|des sandales (f pl)|sandals
+tenniskengät, tennarit (informal)|des tennis (f pl)|tennis shoes
+varvassandaalit|des tongs|flip-flops
+korkokengät|des talons (m) / des chaussures á talons|high-heels
+mekko / leninki|une robe|dress
+hame|une jupe|skirt
+housupuku|un tailleur|woman's suit
+puku|un costume|man's suit
+kravatti / solmio|une cravate|tie
+aurinkolasit|des lunettes (f) de soleil|sunglasses
+uimapuku|un maillot de bain|swimsuit
+pusakka, nahkatakki, takki|un blouson|short jacket, leather jacket
+pikkutakki|une veste|jacket
+päällystakki, takki|un manteau|coat
+anorakki|un anorak|parka
+sadetakki|un imperméable|raincoat
+kaulahuivi, huivi|une écharpe|scarf
+hansikkaat, käsineet, hanskat (informal)|des gants (m)|gloves
+harrastukset|les passe-temps|pastimes
+juoksu / mennä juoksemaan|la course à pied / faire de la course à pied|running / to go running
+hölkkä / mennä hölkkäämään, mennä lenkille (informal)|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
+rullaluistelu / mennä rullaluistelemaan|le roller / faire du roller|roller blading / to go roller blading
+pyöräily / mennä pyöräilemään|le cyclisme / faire du cyclisme|cycling / to go cycling
+kiipeily / mennä kiipeilemään|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
+voimaharjoittelu / voimaharjoitella, käydä salilla (informal but common)|la musculation / faire de la musculation|weight training / to train with weights
+uinti / mennä uimaan|la natation / faire de la natation|swimming / to go swimming
+melonta / mennä melomaan|le canoë / faire du canoë|canoeing / to go canoeing
+kajakkimelonta / mennä melomaan kajakilla|le kayak / faire du kayak|kayaking / to go kayaking
+maalaus / maalata (taidetta)|la peinture / faire de la peinture|painting / to paint (art)
+shakki / pelata shakkia|les échecs (m) / jouer aux échecs|chess / to play chess
+jooga / joogata |le yoga / faire du yoga|yoga
+surffaus / surffata|le surf / faire du surf|surfing
+ratsastus / ratsastaa|le cheval / faire du cheval|horseback riding
+kunto ja terveys|la forme et la santé|fitness and health
+allergia|une allergie|allergy
+flunssa|la grippe|the flu
+migreeni|une migraine|migraine headache
+vilustuminen|un rhume|a cold
+lääke|des médicaments (m)|medicine
+vitamiinit|des vitamines (f)|vitamins
+unilääke|un somnifère|sleeping pill
+keho|le corps|the body
+kurkku|la gorge|throat
+käsivarsi|le bras|arm
+kyynärpää|le coude|elbow
+ranne|le poignet|wrist
+käsi|la main|hand
+sormi|le doigt|finger
+rinta|la poitrine|chest
+vatsa|le ventre|stomach
+selkä|le dos|back
+takapuoli|le derrière|rear, behind
+pakarat|les fesses (f)|buttocks
+jalka|la jambe|leg
+polvi / polvet|le genou / les genoux|knee / knees
+nilkka|la cheville|ankle
+jalkaterä|le pied|foot
+varpaat|les orteils (m)|toes
+adjektiivit|adjectifs|adjectives
+muodissa, muodikas|à la mode / branché(e)|in fashion
+poissa muodista, vanhanaikainen|démodé(e)|out of style
+rento|décontracté(e)|casual
+siisti, tyylikäs|habillé(e)|dressy
+hillitty|discipliné(e)|disciplined
+urheilullinen, sporttinen|sportif / sportive|athletic
+stressaantunut, rasittunut|stressé(e)|stressed
+sairas|malade|sick
+verbit|verbes|verbs
+pukeutua|s'habiller|to get dressed
+pukea|mettre|to put (on)
+pitää (päällään)|porter|to wear
+istua hyvin/huonosti|aller bien / aller mal|to fit well/poorly
+lihoa|grossir|to gain weight
+olla dieetillä / laihduttaa|être au régime / faire un régime|to be on a diet
+kuntoilla|faire du sport|to exercise
+laihtua|mincir|to lose weight
+olla hyvässä kunnossa|être en forme|to be in shape
+sairastua|tomber malade|to get sick
+yskiä|tousser|to cough
+sattua (ruumiinosaan)|avoir mal à...|to hurt (body part)
+(sattua päähän, päänsärky, selkäsärky, kipeät jalat, jne.)|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
+levätä|se reposer|to rest
+rentoutua|se détendre|to relax
+tupakoida|fumer|to smoke
+olla terve|être en bonne santé|to be in good health
+kysymyslauseita|expressions interrogatives|interrogative expressions
+Mitä tapahtuu?|Qu'est-ce qui se passe?|What is going on?
+Mistä olet kiinnostunut?|Qu'est-ce qui t'intéresse?|What interests you?
+Mikä vaivaa?|Qu'est-ce qui t'énerve?|What bothers you?
+Mitä pelkäät?|Qu'est-ce qui te fait peur?|What scares you?
+Mistä nautit?|Qu'est-ce qui te fait plaisir?|What pleases you?
+Mistä saat hupia?|Qu'est-ce qui t'amuse?|What amuses you?
+yleiskysymykset|expressions impersonnelles|impersonal questions
+Täytyy (tehdä jotakin)|Il faut + infinitif|It is necessary (to)
+On parempi (tehdä jotakin)|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
+On tärkeää (tehdä jotakin)|Il est important de + infinitif|It is important (to)
+On pakollista (tehdä jotakin)|Il est nécessaire de + infinitif|It is necessary (to)
+On välttämätöntä (tehdä jotakin)|Il est essentiel de + infinitif|It is essential (to)
+Ehdottomasti täytyy (tehdä jotakin)|Il est indispensable de + infinitif|It is essential (to)
+On hauskaa (tehdä jotakin)|Il est amusant de ...|It is fun (to) ...
+On vaikeaa (tehdä jotakin)|Il est difficile de ...|It is difficult (to) ...
+On helppoa (tehdä jotakin)|Il est facile de ...|It is easy (to) ...
+On väsyttävää/ärsyttävää (tehdä jotakin)|Il est fatigant de ...|It is tiring/annoying (to) ...

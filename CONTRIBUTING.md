@@ -111,5 +111,5 @@ Please ensure that there are exactly as many words and phrases in your new trans
 - Do ensure that you are using the correct delimiter on each row
 - Do not delete or combine multiple translations into one line
 - Refrain from adding additional context to a translation as it may not be relevant if your language gets paired with a different language in the future
-- Do not use any online translation tools or dictionaries to help with the translation
+- Do not use any online translation tools, dictionaries or AI to help with the translation
     - We want this project to be a human-led endeavour as people tend to understand the context of translation better than computer generated tools

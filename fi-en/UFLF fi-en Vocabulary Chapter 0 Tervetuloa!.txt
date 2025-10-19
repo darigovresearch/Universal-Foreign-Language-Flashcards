@@ -46,7 +46,7 @@ psykologia|la psychologie|psychology
 aakkoset|l'alphabet|the alphabet
 eläimet|les animaux|animals
 torakka|le cafard|cockroach
-kissa / kolli (m) / kissanpentule chat / la chatte / la minette|cat / female cat / kitty
+kissa / kolli (m) / kissanpentu|le chat / la chatte / la minette|cat / female cat / kitty
 orava|l'écureuil|squirrel
 etana|l'escargot|snail
 muurahainen|la fourmi|ant

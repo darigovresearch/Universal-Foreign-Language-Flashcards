@@ -88,7 +88,7 @@ Leipomosta voi löytää ...|Chez le boulanger, on trouve ...|At the baker's, yo
 leipää|du pain|bread
 patongin|une baguette|baguette
 briossin|une brioche|brioche
-kroisantin|un croissant|croissant
+kroissantin|un croissant|croissant
 sämpylän|un petit pain|roll
 Konditoriasta voi löytää ...|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
 leivonnaisia|des pâtisseries (f)|pastries

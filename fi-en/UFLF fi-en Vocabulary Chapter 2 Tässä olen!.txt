@@ -9,7 +9,7 @@ harrastukset|Passe-temps préférés|pastimes
 henkilökohtaiset kysymykset|questions personnelles|personal questions
 Mikä on nimesi?|Comment vous appelez-vous?|What is your name?
 Kuinka vanha olet?|Quel âge avez-vous?|How old are you?
-Mikä on kansallisuutesi?|Quelle est votre nationalité?|What is your nationality?
+Mikä on kansalaisuutesi?|Quelle est votre nationalité?|What is your nationality?
 Mistä olet kotoisin?|Vous êtes d'où?|Where are you from?
 Missä asut?|Où habitez-vous?|Where do you live?
 Mitä teet työksesi?|Que faites-vous dans la vie?|What do you do for a living?

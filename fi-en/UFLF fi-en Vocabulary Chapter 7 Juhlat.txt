@@ -1,7 +1,7 @@
 juhlapäivät|les fêtes|holidays
 yleiset vapaapäivät|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
 uudenvuodenpäivä *|le Jour de l'An, le premier janvier *|New Year's Day
-kynttiläpäivä, 2. helmikuuta|la Chandeleur, le 2 février|Candlemas
+kynttilänpäivä, 2. helmikuuta|la Chandeleur, le 2 février|Candlemas
 ystävänpäivä, 14. helmikuuta|la Saint-Valentin, le 14 février|Valentine's Day
 mardi gras, laskiaistiistai|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
 juutalainen pääsiäinen|La pâque juive / Pessach|Passover

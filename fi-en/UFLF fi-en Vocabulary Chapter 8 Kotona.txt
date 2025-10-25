@@ -1,104 +1,104 @@
-|à la maison|at home
-|une maison|house
-|un appartement|apartment
-|une résidence universitaire|university dorm
-|une pièce|a room (general term)
-|une fenêtre|window
-|un meuble / des meubles|a piece of furniture / furniture
-|le rez-de-chaussée|ground floor, first floor
-|un escalier|staircase, stairs
-|un balcon|balcony
-|une terrasse|terrace
-|un jardin|garden, yard
-|les pièces|rooms
-|une entrée|entranceway
-|un hall d'entrée|foyer
-|un séjour / un living / un salon / une salle de séjour|living room
-|une salle à manger|dining room
-|une cuisine|kitchen
-|un couloir|hallway
-|une chambre|bedroom
-|une salle de bains|bathroom
-|des toilettes (f pl) / des W.C. (m pl)|toilet
-|une buanderie|laundry room
-|un grenier|attic
-|une cave|cellar, wine cellar
-|un garage|garage
-|dans la chambre il y a...|In the bedroom there is/are...
-|un lit|bed
-|une table de nuit|nightstand
-|une armoire|armoire
-|une commode|chest of drawers
-|un bureau|desk
-|une étagère|bookcase
-|une lampe|lamp
-|un placard|closet
-|de la moquette|carpet (wall to wall)
-|un lecteur DVD / MP3|DVD / MP3 player
-|un ordinateur|computer
-|un téléphone|telephone
-|dans la salle de bains il y a ...|in the bathroom there is/are ...
-|une baignoire|bathtub
-|une douche|shower
-|un lavabo|sink
-|un miroir|mirror
-|dans la salle de séjour il y a ...|in the living room there is/are ...
-|un canapé / un sofa|couch
-|un fauteuil|armchair
-|une table basse|coffee table
-|une télévision|television
-|un tableau / des tableaux|painting / paintings
-|un tapis|area rug or carpet
-|dans la salle à manger il y a ...|in the dining room there is/are ...
-|une table|table
-|une chaise|chair
-|un buffet|hutch, buffet
-|dans la cuisine il y a ...|in the kitchen there is/are ...
-|un réfrigérateur / un frigo|refrigerator / fridge
-|un congélateur|freezer
-|une cuisinière|stove
-|un four|oven
-|un four à micro-ondes|microwave
-|un lave-vaisselle|dishwasher
-|un évier|sink
-|un placard|cabinet
-|une poubelle|trash can
-|dans la buanderie il y a ...|in the laundry room there is/are ...
-|un lave-linge|washing machine
-|un sèche-linge|dryer
-|les tâches domestiques|household chores
-|faire des achats|to go shopping
-|faire le marché|to do the grocery shopping
-|faire des courses (f pl)|to do errands
-|faire le ménage|to do housework
-|faire la cuisine|to cook
-|faire la vaisselle|to do the dishes
-|ranger|to straighten up
-|faire le lit|to make the bed
-|passer l'aspirateur (m)|to pass the vacuum cleaner
-|faire la lessive|to do laundry
-|repasser|to iron
-|bricoler|to make home repairs or improvements
-|adjectifs|adjectives
-|ancien(ne)|old
-|moderne|modern
-|sombre|dark
-|clair(e)|bright, full of light
-|en désordre|messy
-|en ordre|straightened up
-|propre|clean
-|sale|dirty
-|pratique|practical
-|confortable|comfortable
-|verbes|verbs
-|déménager|to move (change residences)
-|verbes réfléchis|reflexive verbs
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|s'inquiéter|to worry
-|se fâcher|to get angry
-|verbes réciproques|reciprocal verbs
-|se disputer|to argue (with one another)
-|s'entendre|to get along (with one another)
-|se parler|to talk to (one another)
+kotona|à la maison|at home
+talo, omakotitalo|une maison|house
+asunto|un appartement|apartment
+yliopiston asuntola|une résidence universitaire|university dorm
+huone|une pièce|a room (general term)
+ikkuna|une fenêtre|window
+huonekalu / huonekalut, kalusteet|un meuble / des meubles|a piece of furniture / furniture
+alakerta, ensimmäinen kerros|le rez-de-chaussée|ground floor, first floor
+portaikko|un escalier|staircase, stairs
+parveke|un balcon|balcony
+terassi|une terrasse|terrace
+puutarha, piha|un jardin|garden, yard
+huoneet|les pièces|rooms
+sisäänkäynti|une entrée|entranceway
+eteinen|un hall d'entrée|foyer
+olohuone|un séjour / un living / un salon / une salle de séjour|living room
+ruokailuhuone, ruokasali|une salle à manger|dining room
+keittiö|une cuisine|kitchen
+käytävä, halli|un couloir|hallway
+makuuhuone|une chambre|bedroom
+kylpyhuone|une salle de bains|bathroom
+WC, vessa|des toilettes (f pl) / des W.C. (m pl)|toilet
+kodinhoitohuone|une buanderie|laundry room
+ullakko|un grenier|attic
+kellari, viinikellari|une cave|cellar, wine cellar
+autotalli|un garage|garage
+Makuuhuoneessa on...|dans la chambre il y a...|In the bedroom there is/are...
+sänky|un lit|bed
+yöpöytä|une table de nuit|nightstand
+vaatekaappi|une armoire|armoire
+lipasto, laatikosto|une commode|chest of drawers
+työpöytä|un bureau|desk
+kirjahylly|une étagère|bookcase
+lamppu, valaisin|une lampe|lamp
+kaappi, komero|un placard|closet
+kokolattiamatto|de la moquette|carpet (wall to wall)
+DVD-/MP3-soitin|un lecteur DVD / MP3|DVD / MP3 player
+tietokone|un ordinateur|computer
+puhelin|un téléphone|telephone
+Kylpyhuoneessa on ...|dans la salle de bains il y a ...|in the bathroom there is/are ...
+kylpyamme|une baignoire|bathtub
+suihku|une douche|shower
+lavuaari, pesuallas|un lavabo|sink
+peili|un miroir|mirror
+Olohuoneessa on ...|dans la salle de séjour il y a ...|in the living room there is/are ...
+sohva|un canapé / un sofa|couch
+nojatuoli|un fauteuil|armchair
+sohvapöytä, kahvipöytä|une table basse|coffee table
+televisio|une télévision|television
+maalaus / maalaukset|un tableau / des tableaux|painting / paintings
+matto|un tapis|area rug or carpet
+Ruokailuhuoneessa on ...|dans la salle à manger il y a ...|in the dining room there is/are ...
+pöytä|une table|table
+tuoli|une chaise|chair
+astiakaappi, sivupöytä|un buffet|hutch, buffet
+Keittiössä on ...|dans la cuisine il y a ...|in the kitchen there is/are ...
+jääkaappi|un réfrigérateur / un frigo|refrigerator / fridge
+pakastin|un congélateur|freezer
+hella|une cuisinière|stove
+uuni|un four|oven
+mikroaaltouuni|un four à micro-ondes|microwave
+astianpesukone|un lave-vaisselle|dishwasher
+pesuallas|un évier|sink
+astiakaappi|un placard|cabinet
+roskakori|une poubelle|trash can
+Kodinhoitohuoneessa on ...|dans la buanderie il y a ...|in the laundry room there is/are ...
+pyykinpesukone, pyykkikone|un lave-linge|washing machine
+kuivausrumpu|un sèche-linge|dryer
+kotityöt|les tâches domestiques|household chores
+mennä ostoksille|faire des achats|to go shopping
+tehdä ruokaostokset|faire le marché|to do the grocery shopping
+käydä asioilla|faire des courses (f pl)|to do errands
+tehdä kotitöitä|faire le ménage|to do housework
+tehdä ruokaa|faire la cuisine|to cook
+pestä astiat|faire la vaisselle|to do the dishes
+järjestellä, siistiä|ranger|to straighten up
+pedata sänky|faire le lit|to make the bed
+imuroida|passer l'aspirateur (m)|to pass the vacuum cleaner
+pestä pyykkiä|faire la lessive|to do laundry
+silittää|repasser|to iron
+remontoida|bricoler|to make home repairs or improvements
+adjektiivit|adjectifs|adjectives
+vanha, vanhanaikainen|ancien(ne)|old
+moderni|moderne|modern
+tumma, pimeä, hämärä|sombre|dark
+kirkas, valoisa|clair(e)|bright, full of light
+sotkuinen|en désordre|messy
+siisti|en ordre|straightened up
+puhdas|propre|clean
+likainen|sale|dirty
+käytännöllinen|pratique|practical
+viihtyisä|confortable|comfortable
+verbit|verbes|verbs
+muuttaa|déménager|to move (change residences)
+refleksiiviverbit|verbes réfléchis|reflexive verbs
+viihtyä|s'amuser|to have fun
+tylsistyä|s'ennuyer|to be bored
+kiirehtiä|se dépêcher|to hurry
+huolestua|s'inquiéter|to worry
+suuttua|se fâcher|to get angry
+resiprookkinen (vastavuoroinen) verbi|verbes réciproques|reciprocal verbs
+tapella, kinastella (jonkun kanssa)|se disputer|to argue (with one another)
+tulla toimeen (jonkun kanssa)|s'entendre|to get along (with one another)
+keskustella|se parler|to talk to (one another)

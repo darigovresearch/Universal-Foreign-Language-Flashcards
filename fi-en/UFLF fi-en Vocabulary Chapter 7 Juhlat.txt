@@ -1,74 +1,74 @@
-|les fêtes|holidays
-|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
-|le Jour de l'An, le premier janvier *|New Year's Day
-|la Chandeleur, le 2 février|Candlemas
-|la Saint-Valentin, le 14 février|Valentine's Day
-|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
-|La pâque juive / Pessach|Passover
-|Pâques *|Easter
-|le premier avril|April Fool's Day
-|la fête du Travail, le 1er mai *|Labor Day
-|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
-|l'Ascension (f) *|Ascension Day
-|la fête des mères|Mother's Day
-|la fête des pères|Father's Day
-|la Pentecôte|Pentecost
-|la fête nationale, le 14 juillet *|Bastille Day, French National Day
-|le 15 août, l'Assomption (f) *|the feast of the Assumption
-|Halloween|Halloween
-|Yom Kippour|Yom Kippur
-|Rosh Hashana|Rosh Hashana
-|la Toussaint, le 1er novembre *|All Saints' Day
-|l'Armistice (m), le 11 novembre *|Armistice Day
-|le Ramadan|Ramadan
-|Hanouka|Hannukah
-|Noël (m), le 25 décembre *|Christmas
-|la Saint-Sylvestre, le 31 décembre|New Year's Eve
-|expressions|expressions
-|Bonne Année!|Happy New Year!
-|Bonne fête!|Happy Saint's Day!
-|Bon (Joyeux) anniversaire!|Happy Birthday!
-|Meilleurs Voeux!|Best wishes!
-|Poisson d'avril!|April Fool!
-|Joyeuses Pâques!|Happy Easter!
-|Joyeux Noël!|Merry Christmas!
-|rites et coutumes|rituals and customs
-|le réveillon|Christmas Eve or New Year's Eve party
-|des feux d'artifice (m)|fireworks
-|un défilé (militaire)|(military) parade
-|une fête|saint's day, celebration, party
-|un anniversaire|birthday, anniversary
-|un gâteau|cake
-|une bougie|candle
-|un cadeau|gift
-|les noces (f pl)|wedding
-|un anniversaire de mariage|wedding anniversary
-|une cérémonie|ceremony
-|le champagne|champagne
-|le muguet|lily of the valley
-|des blagues (f)|jokes
-|des costumes (m)|costumes
-|des crêpes (f)|crepes
-|un pique-nique|picnic
-|la bûche de Noël|Yule log (also a cake in the shape of a Yule log)
-|une carte de voeux|greeting card
-|le gui|mistletoe
-|le Père Noël|Santa Claus
-|le sapin de Noël|Christmas tree
-|la crèche|nativity
-|la messe|mass
-|le sabbat / le shabbat|sabbath
-|verbes|verbs
-|célébrer|to celebrate
-|faire la fête|to party
-|fêter|to celebrate
-|réveillonner|to celebrate Christmas Eve or New Year's Eve
-|inviter|to invite
-|offrir|to give
-|donner|to give
-|recevoir|to receive
-|ouvrir|to open
-|souffler|to blow out (candles)
-|plaisanter|to joke
-|faire un poisson d'avril|to play a joke (on someone)
-|faire le pont|literally 'to make a bridge'
+juhlapäivät|les fêtes|holidays
+yleiset vapaapäivät|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
+uudenvuodenpäivä *|le Jour de l'An, le premier janvier *|New Year's Day
+kynttilänpäivä, 2. helmikuuta|la Chandeleur, le 2 février|Candlemas
+ystävänpäivä, 14. helmikuuta|la Saint-Valentin, le 14 février|Valentine's Day
+mardi gras, laskiaistiistai|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
+juutalainen pääsiäinen|La pâque juive / Pessach|Passover
+pääsiäinen *|Pâques *|Easter
+aprillipäivä|le premier avril|April Fool's Day
+vappu *|la fête du Travail, le 1er mai *|Labor Day
+voitonpäivä, 8. toukokuuta|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
+helatorstai *|l'Ascension (f) *|Ascension Day
+äitienpäivä|la fête des mères|Mother's Day
+isänpäivä|la fête des pères|Father's Day
+helluntai|la Pentecôte|Pentecost
+Ranskan kansallispäivä, 14. heinäkuuta|la fête nationale, le 14 juillet *|Bastille Day, French National Day
+Neitsyt Marian taivaaseenottamisen päivä, 15. elokuuta|le 15 août, l'Assomption (f) *|the feast of the Assumption
+halloween|Halloween|Halloween
+jom kippur|Yom Kippour|Yom Kippur
+rosh hashana, juutalainen uusivuosi|Rosh Hashana|Rosh Hashana
+pyhäinpäivä|la Toussaint, le 1er novembre *|All Saints' Day
+Armistice-päivä, 11. marraskuuta|l'Armistice (m), le 11 novembre *|Armistice Day
+ramadan|le Ramadan|Ramadan
+hanukka|Hanouka|Hannukah
+joulupäivä, 25. joulukuuta *|Noël (m), le 25 décembre *|Christmas
+uudenvuodenaatto, 31. joulukuuta|la Saint-Sylvestre, le 31 décembre|New Year's Eve
+toivotuksia|expressions|expressions
+Hyvää uutta vuotta!|Bonne Année!|Happy New Year!
+Hyvää pyhimyksen päivää!|Bonne fête!|Happy Saint's Day!
+Hyvää syntymäpäivää!|Bon (Joyeux) anniversaire!|Happy Birthday!
+Parhaimmat onnentoivotukset!|Meilleurs Voeux!|Best wishes!
+Aprillia!|Poisson d'avril!|April Fool!
+Iloista pääsiäistä!|Joyeuses Pâques!|Happy Easter!
+Hyvää joulua!|Joyeux Noël!|Merry Christmas!
+rituaalit ja tavat|rites et coutumes|rituals and customs
+joulujuhla, uudenvuodenjuhla|le réveillon|Christmas Eve or New Year's Eve party
+ilotulitukset|des feux d'artifice (m)|fireworks
+(sotilas)paraati|un défilé (militaire)|(military) parade
+pyhimyksenpäivä, juhla, juhlinta|une fête|saint's day, celebration, party
+syntymäpäivä, vuosipäivä|un anniversaire|birthday, anniversary
+kakku|un gâteau|cake
+kynttilä|une bougie|candle
+lahja|un cadeau|gift
+hääjuhla|les noces (f pl)|wedding
+vuosipäivä|un anniversaire de mariage|wedding anniversary
+seremonia|une cérémonie|ceremony
+samppanja|le champagne|champagne
+kielo|le muguet|lily of the valley
+vitsit|des blagues (f)|jokes
+naamiaisasut|des costumes (m)|costumes
+ohukaiset, letut|des crêpes (f)|crepes
+piknik|un pique-nique|picnic
+jouluhalko, kääretorttu|la bûche de Noël|Yule log (also a cake in the shape of a Yule log)
+onnittelukortti|une carte de voeux|greeting card
+mistelinoksa|le gui|mistletoe
+Joulupukki|le Père Noël|Santa Claus
+joulukuusi|le sapin de Noël|Christmas tree
+seimiasetelma|la crèche|nativity
+messu|la messe|mass
+sapatti|le sabbat / le shabbat|sabbath
+verbit|verbes|verbs
+juhlistaa|célébrer|to celebrate
+juhlia, bilettää (informal)|faire la fête|to party
+viettää juhlia|fêter|to celebrate
+juhlia jouluaattoa tai uudenvuodenaattoa|réveillonner|to celebrate Christmas Eve or New Year's Eve
+kutsua|inviter|to invite
+antaa|offrir|to give
+lahjoittaa|donner|to give
+saada|recevoir|to receive
+avata|ouvrir|to open
+puhaltaa|souffler|to blow out (candles)
+vitsailla|plaisanter|to joke
+jekuttaa, pilailla, huijata, tehdä aprillipila|faire un poisson d'avril|to play a joke (on someone)
+kirjaimellisesti 'rakentaa silta', pitää pitkä viikonloppu|faire le pont|literally 'to make a bridge'

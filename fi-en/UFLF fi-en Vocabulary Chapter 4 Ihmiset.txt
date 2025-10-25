@@ -1,130 +1,130 @@
-|le visage|the face
-|la tête|head
-|les cheveux (m)|hair
-|le front|forehead
-|les sourcils (m)|eyebrows
-|les yeux (m)|eyes
-|le nez|nose
-|les joues (f)|cheeks
-|les oreilles (f)|ears
-|la bouche|mouth
-|les dents (f)|teeth
-|le menton|chin
-|le cou|neck
-|les couleurs(f)|colors
-|blanc / blanche|white
-|bleu / bleue|blue
-|gris / grise|gray
-|jaune|yellow
-|marron (invariable)|brown
-|noir / noire|black
-|orange (invariable)|orange
-|rouge|red
-|vert / verte|green
-|violet / violette|purple
-|le portrait physique|physical description
-|Quelle est votre taille (f)?|What's your height?
-|Je fais 1 m. 60.|I'm one meter 60.
-|de taille moyenne|of medium height
-|Combien pesez-vous?|How much do you weigh?
-|Je fais 55 kilos.|I weigh 55 kilos.
-|maigre|thin, skinny
-|mince|thin, slender
-|De quelle couleur sont vos cheveux?|What color is your hair?
-|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
-|Il est... Elle est...|He is... She is...
-|blond. blonde.|a blond.
-|brun. brune.|a brunette.
-|roux. rousse.|a red-head.
-|Comment est-il coiffé?|What is his hair like?
-|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
-|De quelle couleur sont vos yeux?|What color are your eyes?
-|J'ai les yeux marron.|I have brown eyes.
-|Quelle est la forme de son visage?|What's the shape of his face?
-|Il a le visage carré / long / rond.|He has a square / long / round face.
-|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
-|Il a de grandes oreilles.|He has big ears.
-|Il/Elle a...|He/She has...
-|des lunettes (f)|glasses
-|une cicatrice|scar
-|un piercing|body piercing
-|un tatouage|tattoo
-|le portrait moral (adjectifs)|psychological description
-|actif / active|active
-|agréable|pleasant
-|ambitieux / ambitieuse|ambitious
-|amusant / amusante|funny
-|arrogant / arrogante|arrogant
-|calme|calm
-|compétitif / compétitive|competitive
-|créatif / créative|creative
-|curieux / curieuse|curious
-|débrouillard / débrouillarde|resourceful
-|désagréable|unpleasant
-|drôle|funny
-|égoïste|selfish
-|ennuyeux / ennuyeuse|boring
-|enthousiaste|enthusiastic
-|être de bonne humeur|to be in a good mood
-|être de mauvaise humeur|to be in a bad mood
-|fou / folle|crazy
-|franc / franche|frank
-|généreux / généreuse|generous
-|gentil / gentille|kind, nice
-|heureux / heureuse|happy
-|honnête|honest
-|hypocrite|hypocritical
-|idéaliste|idealistic
-|incapable|incapable, incompetent
-|indifférent / indifférente|indifferent
-|intelligent / intelligente|intelligent
-|intéressant / intéressante|interesting
-|malhonnête|dishonest
-|mignon / mignonne|cute
-|naïf / naïve|naive
-|nerveux / nerveuse|nervous
-|optimiste|optimistic
-|paresseux / paresseuse|lazy
-|patient / patiente|patient
-|pessimiste|pessimistic
-|prétentieux / prétentieuse|pretentious
-|réaliste|realistic
-|réservé / réservée|reserved
-|sensible|sensitive
-|sérieux / sérieuse|serious
-|sincère|sincere
-|sociable|sociable
-|sportif / sportive|athletic
-|têtu / têtue|stubborn
-|timide|shy, timid
-|tolérant / tolérante|tolerant
-|travailleur / travailleuse|hard-working
-|adjectifs qui précèdent le nom|adjectives preceding the noun
-|autre|other
-|beau / bel / belle|beautiful
-|bon / bonne|good
-|grand / grande|tall, big
-|gros / grosse|big, fat
-|jeune|young
-|joli / jolie|pretty
-|long / longue|long
-|mauvais / mauvaise|bad
-|nouveau / nouvel / nouvelle|new
-|petit / petite|little
-|vieux / vieil / vieille|old
-|verbes pronominaux|pronominal verbs
-|se réveiller|to wake up
-|se lever|to get up
-|se laver|to wash (oneself)
-|s'habiller|to dress (oneself)
-|se brosser les dents|to brush your teeth
-|se brosser les cheveux|to brush your hair
-|se maquiller|to put on make-up
-|se raser|to shave
-|se coucher|to go to bed
-|s'amuser|to have fun
-|s'ennuyer|to be bored
-|se dépêcher|to hurry
-|se promener|to take a walk
-|se reposer|to rest
-|se fâcher|to get angry
+kasvot|le visage|the face
+pää|la tête|head
+hiukset|les cheveux (m)|hair
+otsa|le front|forehead
+kulmakarvat|les sourcils (m)|eyebrows
+silmät|les yeux (m)|eyes
+nenä|le nez|nose
+posket|les joues (f)|cheeks
+korvat|les oreilles (f)|ears
+suu|la bouche|mouth
+hampaat|les dents (f)|teeth
+leuka|le menton|chin
+kaula|le cou|neck
+värit|les couleurs(f)|colors
+valkoinen|blanc / blanche|white
+sininen|bleu / bleue|blue
+harmaa|gris / grise|gray
+keltainen|jaune|yellow
+ruskea|marron (invariable)|brown
+musta|noir / noire|black
+oranssi|orange (invariable)|orange
+punainen|rouge|red
+vihreä|vert / verte|green
+violetti|violet / violette|purple
+ulkonäön kuvaus|le portrait physique|physical description
+Kuinka pitkä olet?|Quelle est votre taille (f)?|What's your height?
+Olen 160 cm. / Olen 160-senttinen. / Olen 160 senttiä.|Je fais 1 m. 60.|I'm one meter 60.
+keskipituinen|de taille moyenne|of medium height
+Kuinka painava olet? / Paljonko painat?|Combien pesez-vous?|How much do you weigh?
+Painan 55 kiloa.|Je fais 55 kilos.|I weigh 55 kilos.
+laiha|maigre|thin, skinny
+hoikka, solakka|mince|thin, slender
+Minkäväriset hiukset sinulla on?|De quelle couleur sont vos cheveux?|What color is your hair?
+Minulla on vaaleat / ruskeat / vaaleanruskeat / punaiset hiukset.|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
+Hän on ...|Il est... Elle est...|He is... She is...
+blondi.|blond. blonde.|a blond.
+brunette.|brun. brune.|a brunette.
+punapää, punatukkainen.|roux. rousse.|a red-head.
+Millaiset hiukset hänellä on?|Comment est-il coiffé?|What is his hair like?
+Hänellä on pitkät/lyhyet/kiharat/suorat hiukset.|Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
+Minkäväriset silmät sinulla on?|De quelle couleur sont vos yeux?|What color are your eyes?
+Minulla on ruskeat silmät.|J'ai les yeux marron.|I have brown eyes.
+Minkämuotoiset kasvot hänellä on?|Quelle est la forme de son visage?|What's the shape of his face?
+Hänellä on kulmikkaat / pitkät / pyöreät kasvot.|Il a le visage carré / long / rond.|He has a square / long / round face.
+Hänellä on pyöreä / terävä nenä.|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
+Hänellä on isot korvat.|Il a de grandes oreilles.|He has big ears.
+Hänellä on...|Il/Elle a...|He/She has...
+silmälasit|des lunettes (f)|glasses
+arpi|une cicatrice|scar
+lävistys|un piercing|body piercing
+tatuointi|un tatouage|tattoo
+luonnekuvaus|le portrait moral (adjectifs)|psychological description
+aktiivinen|actif / active|active
+mukava|agréable|pleasant
+kunnianhimoinen|ambitieux / ambitieuse|ambitious
+hauska|amusant / amusante|funny
+ylimielinen|arrogant / arrogante|arrogant
+rauhallinen|calme|calm
+kilpailunhaluinen|compétitif / compétitive|competitive
+luova|créatif / créative|creative
+utelias|curieux / curieuse|curious
+kekseliäs, neuvokas|débrouillard / débrouillarde|resourceful
+epämukava, ikävä|désagréable|unpleasant
+hassu|drôle|funny
+itsekäs|égoïste|selfish
+tylsä|ennuyeux / ennuyeuse|boring
+innokas|enthousiaste|enthusiastic
+olla hyvällä tuulella|être de bonne humeur|to be in a good mood
+olla huonolla tuulella|être de mauvaise humeur|to be in a bad mood
+hullu / häiriintynyt|fou / folle|crazy
+suorasanainen, suora, suorapuheinen|franc / franche|frank
+antelias|généreux / généreuse|generous
+ystävällinen, kiltti|gentil / gentille|kind, nice
+iloinen|heureux / heureuse|happy
+rehellinen|honnête|honest
+tekopyhä|hypocrite|hypocritical
+idealisti|idéaliste|idealistic
+epäpätevä|incapable|incapable, incompetent
+välinpitämätön|indifférent / indifférente|indifferent
+älykäs|intelligent / intelligente|intelligent
+mielenkiintoinen, kiehtova|intéressant / intéressante|interesting
+epärehellinen|malhonnête|dishonest
+söpö|mignon / mignonne|cute
+hyväuskoinen, naiivi|naïf / naïve|naive
+hermostunut|nerveux / nerveuse|nervous
+optimisti|optimiste|optimistic
+laiska|paresseux / paresseuse|lazy
+kärsivällinen|patient / patiente|patient
+pessimisti|pessimiste|pessimistic
+teennäinen, turhamainen|prétentieux / prétentieuse|pretentious
+realisti|réaliste|realistic
+varautunut|réservé / réservée|reserved
+herkkä|sensible|sensitive
+vakava|sérieux / sérieuse|serious
+vilpitön, rehellinen|sincère|sincere
+seurallinen|sociable|sociable
+urheilullinen|sportif / sportive|athletic
+jääräpäinen, itsepäinen|têtu / têtue|stubborn
+ujo, arka|timide|shy, timid
+suvaitsevainen|tolérant / tolérante|tolerant
+ahkera, uuttera, työteliäs|travailleur / travailleuse|hard-working
+adjektiivit ennen substantiivia|adjectifs qui précèdent le nom|adjectives preceding the noun
+toinen|autre|other
+kaunis|beau / bel / belle|beautiful
+hyvä|bon / bonne|good
+pitkä, suuri|grand / grande|tall, big
+iso, lihava|gros / grosse|big, fat
+nuori|jeune|young
+nätti|joli / jolie|pretty
+pitkä|long / longue|long
+paha, huono|mauvais / mauvaise|bad
+uusi|nouveau / nouvel / nouvelle|new
+pieni|petit / petite|little
+vanha|vieux / vieil / vieille|old
+refleksiiviverbit|verbes pronominaux|pronominal verbs
+herätä|se réveiller|to wake up
+nousta|se lever|to get up
+peseytyä|se laver|to wash (oneself)
+pukeutua|s'habiller|to dress (oneself)
+pestä hampaansa|se brosser les dents|to brush your teeth
+harjata hiuksensa|se brosser les cheveux|to brush your hair
+meikata|se maquiller|to put on make-up
+ajaa partansa|se raser|to shave
+mennä nukkumaan|se coucher|to go to bed
+pitää hauskaa|s'amuser|to have fun
+olla tylsistynyt|s'ennuyer|to be bored
+kiirehtiä|se dépêcher|to hurry
+kävellä|se promener|to take a walk
+levätä|se reposer|to rest
+suuttua|se fâcher|to get angry

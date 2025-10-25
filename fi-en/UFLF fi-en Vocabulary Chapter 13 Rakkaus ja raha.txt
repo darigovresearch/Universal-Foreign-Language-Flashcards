@@ -1,94 +1,94 @@
-|les finances|finances
-|une banque|bank
-|une caisse d'épargne|savings and loan association
-|un compte (bancaire)|(bank) account
-|un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
-|l'euro|euro (currency)
-|un héritage|inheritance
-|les dépenses|expenses
-|les factures (f pl)|bills
-|le logement|housing
-|le loyer|rent
-|l'alimentation|food
-|le divertissement / les loisirs|entertainment
-|la facture de téléphone|telephone bill
-|les frais (m) de scolarité|tuition, education expenses
-|l'emprunt-étudiant|student loan
-|l'assurance|insurance
-|l'essence (f)|gas
-|les charges|utilities
-|les impôts (m pl)|taxes
-|les dettes (f pl)|debts
-|la bourse|the stock market
-|des actions (f pl)|stocks
-|un portefeuille|portfolio (also, wallet)
-|adjectifs|adjectives
-|généreux / généreuse|generous
-|dépensier / dépensière|spendthrift
-|radin / radine [slang]|miserly, stingy
-|économe|economical, frugal
-|bon marché / pas cher|inexpensive
-|être en solde|to be on sale
-|un prix intéressant|a good price
-|cher / chère|expensive
-|être fauché(e) [slang]|to be broke
-|être aisé(e)|to be well off
-|satisfait(e)|satisfied, fulfilled
-|verbes - les finances|verbs - finances
-|coûter|to cost
-|dépenser|to spend
-|rembourser|to reimburse
-|emprunter|borrow
-|avoir les moyens de|to have the means to
-|louer|to rent
-|faire un budget|to establish a budget
-|dépasser son budget|to go beyond one's budget
-|avoir des dettes|to have debts
-|gaspiller|to waste
-|faire des économies|to save money
-|offrir|to give, to offer
-|les amours|love life
-|un couple|couple
-|le coup de foudre|love at first sight
-|l'amour passion (m)|passionate love
-|le grand amour|the love of one's life
-|un rendez-vous|date (also an appointment)
-|une relation|relationship
-|les fiançailles (f pl)|engagement
-|un fiancé / une fiancée|fiancé / fiancée
-|le mariage|marriage, wedding
-|la compatibilité|compatibility / matching
-|l'apparence physique|physical appearance
-|le bonheur|happiness
-|la communication|interaction / communication
-|le sens de l'humour|sense of humor
-|le respect|respect
-|l'honnêteté (f)|honesty
-|le romantisme|romanticism
-|verbes - les amours|verbs - love life
-|draguer|to try to pick up, to hit on someone, to flirt
-|être amis|to be friends
-|vivre ensemble|to live together
-|s'embrasser|to kiss each other
-|s'aimer|to love each other
-|se pacser|to enter a PACS contract
-|se fiancer|to get engaged
-|se marier|to get married
-|rompre|to break up
-|divorcer|to get divorced
-|tromper|to cheat on
-|l'horoscope (m)|horoscope
-|Quel est ton signe?|What's your sign?
-|le signe|sign
-|le Capricorne|Capricorn
-|le Verseau|Aquarius
-|les Poissons (m)|Pisces
-|le Bélier|Aries
-|le Taureau|Taurus
-|les Gémeaux (m)|Gemini
-|le Cancer|Cancer
-|le Lion|Leo
-|la Vierge|Virgo
-|la Balance|Libra
-|le Scorpion|Scorpio
-|le Sagittaire|Sagittarius
+raha-asiat|les finances|finances
+pankki|une banque|bank
+säästöpankki|une caisse d'épargne|savings and loan association
+(pankki)tili|un compte (bancaire)|(bank) account
+pankkiautomaatti|un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
+euro|l'euro|euro (currency)
+perintö|un héritage|inheritance
+menot, kulut|les dépenses|expenses
+setelit|les factures (f pl)|bills
+asunto, kiinteistö|le logement|housing
+vuokra|le loyer|rent
+ruoka, ravinto|l'alimentation|food
+viihde|le divertissement / les loisirs|entertainment
+puhelinlasku|la facture de téléphone|telephone bill
+lukukausimaksu|les frais (m) de scolarité|tuition, education expenses
+opintolaina|l'emprunt-étudiant|student loan
+vakuutus|l'assurance|insurance
+kaasu|l'essence (f)|gas
+asumiskustannukset (sähkö, vesi, lämmitys, jätemaksu)|les charges|utilities
+verot|les impôts (m pl)|taxes
+lainat|les dettes (f pl)|debts
+pörssi|la bourse|the stock market
+osakkeet|des actions (f pl)|stocks
+portfolio, salkku|un portefeuille|portfolio (also, wallet)
+adjektiivit|adjectifs|adjectives
+antelias, avokätinen|généreux / généreuse|generous
+tuhlaavainen, tuhlari|dépensier / dépensière|spendthrift
+itara, saita|radin / radine [slang]|miserly, stingy
+niukka, kitsas|économe|economical, frugal
+edullinen, halpa|bon marché / pas cher|inexpensive
+olla tarjouksessa|être en solde|to be on sale
+hyvä/houkutteleva hinta|un prix intéressant|a good price
+kallis|cher / chère|expensive
+olla rahaton, olla P.A. [slang]|être fauché(e) [slang]|to be broke
+olla varakas, elää leveästi|être aisé(e)|to be well off
+tyytyväinen|satisfait(e)|satisfied, fulfilled
+verbit - raha-asiat|verbes - les finances|verbs - finances
+maksaa|coûter|to cost
+kuluttaa|dépenser|to spend
+korvata, hyvittää|rembourser|to reimburse
+lainata|emprunter|borrow
+olla varaa (johonkin)|avoir les moyens de|to have the means to
+vuokrata|louer|to rent
+tehdä budjetti, budjetoida|faire un budget|to establish a budget
+ylittää budjetti|dépasser son budget|to go beyond one's budget
+olla velkaa|avoir des dettes|to have debts
+tuhlata|gaspiller|to waste
+säästää|faire des économies|to save money
+antaa, tarjota|offrir|to give, to offer
+rakkauselämä|les amours|love life
+pariskunta|un couple|couple
+rakkautta ensisilmäyksellä|le coup de foudre|love at first sight
+intohimoinen rakkaus|l'amour passion (m)|passionate love
+elämänsä rakkaus|le grand amour|the love of one's life
+treffit|un rendez-vous|date (also an appointment)
+suhde|une relation|relationship
+kihlaus|les fiançailles (f pl)|engagement
+kihlattu, morsian (woman), sulhanen (man)|un fiancé / une fiancée|fiancé / fiancée
+avioliitto, häät|le mariage|marriage, wedding
+yhteensopivuus|la compatibilité|compatibility / matching
+ulkonäkö|l'apparence physique|physical appearance
+onnellisuus|le bonheur|happiness
+yhteys, kommunikointi|la communication|interaction / communication
+huumorintaju|le sens de l'humour|sense of humor
+kunnioitus|le respect|respect
+rehellisyys|l'honnêteté (f)|honesty
+romantiikka|le romantisme|romanticism
+verbit - rakkauselämä|verbes - les amours|verbs - love life
+iskeä, flirttailla|draguer|to try to pick up, to hit on someone, to flirt
+olla ystäviä|être amis|to be friends
+asua yhdessä|vivre ensemble|to live together
+suudella, pussata|s'embrasser|to kiss each other
+rakastaa toisiaan|s'aimer|to love each other
+solmia PACS-sopimus (siviililiitto, avoliitto)|se pacser|to enter a PACS contract
+kihlautua|se fiancer|to get engaged
+mennä naimisiin|se marier|to get married
+erota, dumpata (break up with someone)|rompre|to break up
+erota|divorcer|to get divorced
+pettää|tromper|to cheat on
+horoskooppi|l'horoscope (m)|horoscope
+Mikä on horoskooppimerkkisi?|Quel est ton signe?|What's your sign?
+merkki|le signe|sign
+kauris|le Capricorne|Capricorn
+vesimies|le Verseau|Aquarius
+kalat|les Poissons (m)|Pisces
+oinas|le Bélier|Aries
+härkä|le Taureau|Taurus
+kaksoset|les Gémeaux (m)|Gemini
+rapu|le Cancer|Cancer
+leijona|le Lion|Leo
+neitsyt|la Vierge|Virgo
+vaaka|la Balance|Libra
+skorpioni|le Scorpion|Scorpio
+jousimies|le Sagittaire|Sagittarius

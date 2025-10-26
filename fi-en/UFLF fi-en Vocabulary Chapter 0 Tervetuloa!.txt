@@ -1,4 +1,4 @@
-|Introduction (UFLF fr-en)|"
+Introduction (UFLF fi-en)|"
 <h2>Introduction</h2>
 <p>This deck has taken words outlined in the vocabulary section of each chapter of the <a href=""http://www.laits.utexas.edu/fi/"">Francais Interactif</a> language program and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
@@ -15,39 +15,39 @@
 <p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
 <p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-esittelen itseni|je me présente|let me introduce myself
-Nimeni on ...|Je m'appelle ...|My name is ...
-Olen kotoisin ...|Je suis de ...|I am from ...
-Opiskelen ... (ranskaa, matematiikkaa, jne.)|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-Opiskelen ... (ranskaa, matematiikkaa, jne.)|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-Hänen nimensä on ...|Il/Elle s'appelle ...|His/Her name is ...
-Hän on kotoisin ...|Il/Elle est de ...|He/She is from ...
-Hän opiskelee ... (ranskaa, matematiikkaa, jne.)|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-Hän opiskelee ... (ranskaa, matematiikkaa, jne.)|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-oppiaineet|les matières|subjects
-liiketoiminta|le commerce|business
-kirjanpito|la comptabilité|accounting
-kielet|les langues (f)|languages
-englanti|l'anglais (m)|English
-ranska|le français|French
-espanja|l'espagnol (m)|Spanish
-kirjallisuus|la littérature|literature
-historia|l'histoire (f)|history
-maantiede|la géographie|geography
-valtiotiede|les sciences politiques|political science
-matematiikka|les mathématiques/les maths (f)|math
-tieteet|les sciences (f)|sciences
-biologia|la biologie|biology
-kemia|la chimie|chemistry
-tietotekniikka|l'informatique (f)|computer science
-musiikki|la musique|music
-filosofia|la philosophie|philosophy
-psykologia|la psychologie|psychology
-aakkoset|l'alphabet|the alphabet
-eläimet|les animaux|animals
-torakka|le cafard|cockroach
-kissa / kolli (m) / kissanpentu|le chat / la chatte / la minette|cat / female cat / kitty
-orava|l'écureuil|squirrel
-etana|l'escargot|snail
-muurahainen|la fourmi|ant
-vyötiäinen|le tatou|armadillo
+esittelen itseni|let me introduce myself
+Nimeni on ...|My name is ...
+Olen kotoisin ...|I am from ...
+Opiskelen ... (ranskaa, matematiikkaa, jne.)|I am a student (male) in ... (French, math, etc.)
+Opiskelen ... (ranskaa, matematiikkaa, jne.)|I am a student (female) in ... (French, math, etc.)
+Hänen nimensä on ...|His/Her name is ...
+Hän on kotoisin ...|He/She is from ...
+Hän opiskelee ... (ranskaa, matematiikkaa, jne.)|He is a student (male) in ... (French, math, etc.)
+Hän opiskelee ... (ranskaa, matematiikkaa, jne.)|She is a student (female) in ... (French, math, etc.)
+oppiaineet|subjects
+liiketoiminta|business
+kirjanpito|accounting
+kielet|languages
+englanti|English
+ranska|French
+espanja|Spanish
+kirjallisuus|literature
+historia|history
+maantiede|geography
+valtiotiede|political science
+matematiikka|math
+tieteet|sciences
+biologia|biology
+kemia|chemistry
+tietotekniikka|computer science
+musiikki|music
+filosofia|philosophy
+psykologia|psychology
+aakkoset|the alphabet
+eläimet|animals
+torakka|cockroach
+kissa / kolli (m) / kissanpentu|cat / female cat / kitty
+orava|squirrel
+etana|snail
+muurahainen|ant
+vyötiäinen|armadillo

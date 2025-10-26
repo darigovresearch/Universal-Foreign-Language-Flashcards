@@ -1,103 +1,103 @@
-lukio- ja yliopisto-opinnot|les études secondaires et supérieures|high school and university studies
-lukuvuoden alku|la rentrée|beginning of school year
-yläaste, yläkoulu (grades 7-9)|le collège|junior high, middle school
-lukio|le lycée|high school
-lukiolainen|un lycéen / une lycéenne|high school student
-lukion ensimmäinen luokka|la seconde|first year of high school
-lukion toinen luokka|la première|second year of high school
-lukion kolmas luokka|la terminale|final year of high school
-ylioppilaskoe|le baccalauréat / le bac|baccalaureate exam
-ylioppilas|un bachelier / une bachelière|student who has passed the bac
-sisäänpääsykoe|un concours (d'entrée)|competitive entrance exam
-ammattikoulu, ammattikorkeakoulu, yliopisto|la fac|college, university
-taideyliopisto, kuvataideakatemia|la Faculté des Beaux-Arts|school of fine arts
-humanistinen tiedekunta|la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
-lääketieteellinen tiedekunta|la Faculté de Médecine|school of medicine
-farmasian laitos|la Faculté de Pharmacie|school of pharmacy
-luonnontieteellinen tiedekunta|la Faculté des Sciences|school of sciences
-oikeustieteellinen tiedekunta|la Faculté de Droit|law school
-kauppakorkeakoulu|L'Ecole de Commerce (f)|business school
-huippuyliopistot|les Grandes Écoles (f)|elite professional schools
-asuntola|une résidence universitaire|dormitory
-yliopiston kahvila|un restaurant universitaire (un restau-U)|university cafeteria
-kahvila|une cafétéria|cafeteria
-auditorio|un amphithéâtre / un amphi|amphitheater
-luokkahuone, luokka|une salle de classe|classroom
-(matematiikan jne.) tunti|un cours (de maths...)|a class (math class...)
-luento|un cours magistral (des cours magistraux)|large lecture class
-laboratorio / labra|un laboratoire / un labo|laboratory / lab
-kirjasto|une bibliothèque|library
-läksy|les devoirs (m)|homework
-essee|une copie|student paper
-suullinen esitelmä|un exposé oral|oral presentation
-koe|un examen|test, exam
-arvosana|une note|grade
-tulokset|les résultats|results, grades
-todistus|un bulletin de notes|grade report
-lukujärjestys|un emploi du temps|schedule
-opiskelijakortti|une carte d'étudiant|student ID card
-harjoittelu|un stage|internship
-tutkinto|un diplôme|a diploma, degree
-oppiaineet ja tunnit|les matières et les cours|subjects and classes
-arkkitehtuuri|l'architecture (f)|architecture
-taide|l'art (m)|art
-piirustus, suunnittelu|le dessin|drawing, design
-musiikki|la musique|music
-maalaus|la peinture|painting
-viestintä|la communication|communications
-kirjanpito|la comptabilité|accounting
-laki, oikeustiede|le droit|law
-taloustiede|l'économie (f)|economics
-maantiede|la géographie|geography
-historia|l'histoire (f)|history
-tietojenkäsittelytiede|l'informatique (f)|computer science
-kielet|les langues (f)|languages
-kiina|le chinois|Chinese
-saksa|l'allemand (m)|German
-englanti|l'anglais (m)|English
-espanja|l'espagnol (m)|Spanish
-ranska|le français|French
-italia|l'italien (m)|Italian
-latina|le latin|Latin
-kielitiede|la linguistique|linguistics
-kirjallisuus|la littérature|literature
-matematiikka / matikka (informal)|les mathématiques (f) / les maths|math
-lääketiede|la médecine|medicine
-farmasia|la pharmacie|pharmacy
-filosofia|la philosophie|philosophy
-psykologia|la psychologie|psychology
-biologia|la biologie|biology
-kemia|la chimie|chemistry
-fysiikka|la physique|physics
-valtiotiede|les sciences politiques (f)|political science
-sosiologia|la sociologie|sociology
-adjektiivit|adjectifs|adjectives
-täysi, kiireinen|chargé(e)|full, busy (referring to schedule)
-kiireinen|occupé(e)|busy
-seuraava|prochain(e)|next
-edellinen|dernier / dernière|last
-verbit|verbes|verbs
-rekisteröityä, ilmoittautua (yliopistoon, filmikerhoon ...)|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
-maksaa (lukukausimaksu)|régler (les frais d’inscription)|to pay (one’s tuition/fees)
-Mikä on pääaineesi?|En quelle matiére est-ce que tu te spécialises?|What's your major?
-käydä (kurssia)|suivre|to take (a course), to follow
-mennä luennolle|aller en cours|to attend class
-tehdä läksyt|faire ses devoirs|to do one’s homework
-ponnistella, nähdä vaivaa|faire un effort|to make an effort
-parantaa, kehittyä|faire des progrès|to improve
-oppia, ottaa selvää, saada tietoa|se renseigner|to find out about, to get information
-oppia|apprendre|to learn
-ymmärtää|comprendre|to understand
-tehdä koe|passer un examen|to take an exam
-läpäistä koe, päästä läpi kokeesta|réussir (à) un examen|to pass (an exam), to succeed (in)
-onnistua (jossakin)|réussir à + infinitif|to succeed at ...
-saada hyväksytty arvosana, päästä läpi|avoir la moyenne|to receive a passing grade
-valmistua|recevoir son diplôme|to graduate, to complete one’s studies
-olla hyvä (jossakin)|être bonne / bon en ...|to be good in/at ...
-olla huono (jossakin)|être mauvais(e) en ...|to be bad in/at ...
-olla surkea (jossakin)|être nul(le) en ... [slang]|to suck in/at ...
-lannistua|se décourager|to be discouraged
-olla poissa tunnilta, lintsata/pinnata (informal)|sécher un cours|to skip a class
-epäonnistua, reputtaa (informal)|rater|to fail
-jäädä luokalle, uusia kurssi|redoubler|to repeat a grade/course
-lopettaa (jokin), lähteä (jostakin)|quitter|to leave (something, someone or some place)
+lukio- ja yliopisto-opinnot|high school and university studies
+lukuvuoden alku|beginning of school year
+yläaste, yläkoulu (grades 7-9)|junior high, middle school
+lukio|high school
+lukiolainen|high school student
+lukion ensimmäinen luokka|first year of high school
+lukion toinen luokka|second year of high school
+lukion kolmas luokka|final year of high school
+ylioppilaskoe|baccalaureate exam
+ylioppilas|student who has passed the bac
+sisäänpääsykoe|competitive entrance exam
+ammattikoulu, ammattikorkeakoulu, yliopisto|college, university
+taideyliopisto, kuvataideakatemia|school of fine arts
+humanistinen tiedekunta|school of humanities/liberal arts
+lääketieteellinen tiedekunta|school of medicine
+farmasian laitos|school of pharmacy
+luonnontieteellinen tiedekunta|school of sciences
+oikeustieteellinen tiedekunta|law school
+kauppakorkeakoulu|business school
+huippuyliopistot|elite professional schools
+asuntola|dormitory
+yliopiston kahvila|university cafeteria
+kahvila|cafeteria
+auditorio|amphitheater
+luokkahuone, luokka|classroom
+(matematiikan jne.) tunti|a class (math class...)
+luento|large lecture class
+laboratorio / labra|laboratory / lab
+kirjasto|library
+läksy|homework
+essee|student paper
+suullinen esitelmä|oral presentation
+koe|test, exam
+arvosana|grade
+tulokset|results, grades
+todistus|grade report
+lukujärjestys|schedule
+opiskelijakortti|student ID card
+harjoittelu|internship
+tutkinto|a diploma, degree
+oppiaineet ja tunnit|subjects and classes
+arkkitehtuuri|architecture
+taide|art
+piirustus, suunnittelu|drawing, design
+musiikki|music
+maalaus|painting
+viestintä|communications
+kirjanpito|accounting
+laki, oikeustiede|law
+taloustiede|economics
+maantiede|geography
+historia|history
+tietojenkäsittelytiede|computer science
+kielet|languages
+kiina|Chinese
+saksa|German
+englanti|English
+espanja|Spanish
+ranska|French
+italia|Italian
+latina|Latin
+kielitiede|linguistics
+kirjallisuus|literature
+matematiikka / matikka (informal)|math
+lääketiede|medicine
+farmasia|pharmacy
+filosofia|philosophy
+psykologia|psychology
+biologia|biology
+kemia|chemistry
+fysiikka|physics
+valtiotiede|political science
+sosiologia|sociology
+adjektiivit|adjectives
+täysi, kiireinen|full, busy (referring to schedule)
+kiireinen|busy
+seuraava|next
+edellinen|last
+verbit|verbs
+rekisteröityä, ilmoittautua (yliopistoon, filmikerhoon ...)|to register, enroll (in university, film club ...)
+maksaa (lukukausimaksu)|to pay (one’s tuition/fees)
+Mikä on pääaineesi?|What's your major?
+käydä (kurssia)|to take (a course), to follow
+mennä luennolle|to attend class
+tehdä läksyt|to do one’s homework
+ponnistella, nähdä vaivaa|to make an effort
+parantaa, kehittyä|to improve
+oppia, ottaa selvää, saada tietoa|to find out about, to get information
+oppia|to learn
+ymmärtää|to understand
+tehdä koe|to take an exam
+läpäistä koe, päästä läpi kokeesta|to pass (an exam), to succeed (in)
+onnistua (jossakin)|to succeed at ...
+saada hyväksytty arvosana, päästä läpi|to receive a passing grade
+valmistua|to graduate, to complete one’s studies
+olla hyvä (jossakin)|to be good in/at ...
+olla huono (jossakin)|to be bad in/at ...
+olla surkea (jossakin)|to suck in/at ...
+lannistua|to be discouraged
+olla poissa tunnilta, lintsata/pinnata (informal)|to skip a class
+epäonnistua, reputtaa (informal)|to fail
+jäädä luokalle, uusia kurssi|to repeat a grade/course
+lopettaa (jokin), lähteä (jostakin)|to leave (something, someone or some place)

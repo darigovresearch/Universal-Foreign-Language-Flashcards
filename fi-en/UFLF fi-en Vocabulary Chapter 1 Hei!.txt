@@ -1,178 +1,178 @@
-tervehdys|salutations|greetings
-Herra|Monsieur|Sir
-Rouva|Madame|Ma'am (Mrs.)
-Neiti|Mademoiselle|Miss
-Hyvää päivää|Bonjour, Monsieur|Good day (Hello), Sir
-Hyvää iltaa|Bonsoir|Good evening
-Näkemiin|Au revoir|Goodbye
-Hei!|Salut!|Hi!
-Nähdään kohta.|À tout à l'heure!|See you in a little while.
-Nähdään illalla.|À ce soir.|See you this evening.
-Nähdään huomenna.|À demain.|See you tomorrow.
-Nähdään pian.|À bientôt.|See you soon.
-Mikä teidän nimenne on?|Comment vous appelez-vous?|What's your name? (formal)
-Mikä sinun nimesi on?|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-Nimeni on ...|Je m'appelle ...|My name is ...
-Kuinka voitte?|Comment allez-vous?|How are you? (formal)
-Mitä kuuluu?|Comment vas-tu?|How are you? (informal)
-Minulle kuuluu oikein hyvää, kiitos.|Je vais très bien, merci.|I am very well, thank you.
-Minulle kuuluu hyvää, kiitos.|Je vais bien, merci.|I am fine, thank you.
-Ei hassumpaa, kiitos.|Pas mal, merci.|Not bad, thank you.
-Miten menee?|Comment ça va?|How are things going?
-Hyvin, kiitos!|Bien, merci!|Great, thanks!
-Miten voit?|Ça va (bien)?|Are things going (well)?
-Ihan hyvin.|Ça va bien.|Things are going (well).
-Entä te? Mistä olette kotoisin?|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-Entä sinä? Mistä olet kotoisin?|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-esittelyt|présentations|introductions
-Haluaisin esitellä teille ...|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-Hän on ...|Je te présente ...|This is ... (informal)
-Tässä on ...|Voici ...|This is ...
-Kuka hän on?|Qui est-ce?|Who is it?
-Hän on ...|C'est ...|It's ...
-He ovat ...|Ce sont ...|They are ...
-Mikä hänen nimensä on?|Comment s'appelle-t-il/elle?|What's his/her name?
-Hänen nimensä on ...|Il/Elle s'appelle ...|His/Her name is ...
-Hän on kotoisin ...|Il/Elle est de ...|He/She is from ...
-Mitkä heidän nimensä ovat? / Minkä nimisiä he ovat?|Comment s'appellent-ils/elles?|What are their names?
-Heidän nimensä ovat ...|Ils/Elles s'appellent ...|Their names are ...
-Mitä hän tekee työkseen?|Qu'est-ce qu'il/elle fait?|What does he/she do?
-Mitä he tekevät työkseen?|Qu'est-ce qu'ils/elles font?|What do they do?
-Hän on ...|Il est ... Elle est ...|He/She is a/an ...
-näyttelijä (m, f) / näyttelijätär (f)|acteur / actrice|actor / actress
-arkkitehti|architecte|architect
-laulaja (m, f) / laulajatar (f)|chanteur / chanteuse|singer
-kampaaja|coiffeur / coiffeuse|hair dresser
-hammaslääkäri|dentiste|dentist
-insinööri|ingénieur|engineer
-journalisti|journaliste|journalist
-lääkäri|médecin|doctor
-opettaja, professori|professeur|teacher, professor
-eläkeläinen|retraité / retraitée|retired man/woman
-harjoittelija|stagiaire|intern
-luokkahuone|la salle de classe|the classroom
-Mikä se on?|Qu'est-ce que c'est?|What is it?
-Se on ...|C'est ...|It's ...
-Se on luokkahuone.|C'est une salle de classe.|It's a classroom.
-Luokkahuoneessa on ...|Dans la salle de classe, il y a ...|In the classroom, there is ...
-ovi|une porte|door
-ikkuna|une fenêtre|window
-liitutaulu|un tableau (noir)|blackboard
-televisio|une télévision|television
-(maailman)kartta|une carte (du monde)|map (of the world)
-juliste|une affiche|poster
-tuoli|une chaise|chair
-pöytä, työpöytä|un bureau|desk
-Pöydällä on ...|Sur le bureau, il y a ...|On the desk, there is ...
-liitu|une craie|chalk
-lyijykynä|un crayon|pencil
-kynä|un stylo|pen
-vihko|un cahier|notebook
-kirja|un livre|book
-sanakirja|un dictionnaire|dictionary
-reppu|un sac à dos|backpack
-Laboratoriossa on ...|Au labo, il y a ...|In the lab, there are ...
-tietokoneita|des ordinateurs (m)|computers
-Opiskelijat ovat työn touhussa!|Les étudiants travaillent!|The students work!
-kotiläksy|des devoirs (m)|homework
-harjoitus|un exercice|exercise
-koe|un examen|test
-luokassa|en classe|in class
-Kuuntele.|Écoutez.|Listen.
-Kirjoita.|Écrivez.|Write.
-Nosta kätesi.|Levez le doigt.|Raise your finger (hand).
-Toista.|Répétez.|Repeat.
-Avatkaa kirjanne.|Ouvrez vos livres.|Open your books.
-Kääntäkää sivulle ...|Ouvrez le livre à la page ...|Turn to page ...
-olkaa hyvät|s'il vous plaît|please
-Ymmärrätkö?|Vous comprenez?|Do you understand?
-Kyllä, ymmärrän.|Oui, je comprends.|Yes, I understand.
-Ei, en ymmärrä.|Non, je ne comprends pas.|No, I don't understand.
-Mitä ... tarkoittaa?|Que veut dire ...?|What does ... mean?
-Kuinka sanotaan ...?|Comment dit-on ...?|How do you say ...?
-Tässä on (tässä ovat) ...|Voici ...|Here is ... (here are ...)
-Tuossa on (tuossa ovat) ...|Voilà ...|There is ... (there are ...)
-Tässä on ...|Il y a ...|There is, there are ...
-Kuinka monta ... on?|Il y a combien de ...?|There are how many ...?
-Perusluvut 1-69|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-yksi|un, une|1
-kaksi|deux|2
-kolme|trois|3
-neljä|quatre|4
-viisi|cinq|5
-kuusi|six|6
-seitsemän|sept|7
-kahdeksan|huit|8
-yhdeksän|neuf|9
-kymmenen|dix|10
-yksitoista|onze|11
-kaksitoista|douze|12
-kolmetoista|treize|13
-neljätoista|quatorze|14
-viisitoista|quinze|15
-kuusitoista|seize|16
-seitsemäntoista|dix-sept|17
-kahdeksantoista|dix-huit|18
-yhdeksäntoista|dix-neuf|19
-kaksikymmentä|vingt|20
-kaksikymmentäyksi|vingt et un|21
-kaksikymmentäkaksi|vingt-deux|22
-kaksikymmentäkolme|vingt-trois|23
-kaksikymmentäneljä|vingt-quatre|24
-kaksikymmentäviisi|vingt-cinq|25
-kaksikymmentäkuusi|vingt-six|26
-kaksikymmentäseitsemän|vingt-sept|27
-kaksikymmentäkahdeksan|vingt-huit|28
-kaksikymmentäyhdeksän|vingt-neuf|29
-kolmekymmentä|trente|30
-kolmekymmentäyksi|trente et un|31
-kolmekymmentäkaksi|trente-deux|32
-kolmekymmentäyhdeksän|trente-neuf|39
-neljäkymmentä|quarante|40
-neljäkymmentäyksi|quarante et un|41
-neljäkymmentäkaksi|quarante-deux|42
-neljäkymmentäyhdeksän|quarante-neuf|49
-viisikymmentä|cinquante|50
-viisikymmentäyksi|cinquante et un|51
-viisikymmentäkaksi|cinquante-deux|52
-viisikymmentäyhdeksän|cinquante-neuf|59
-kuusikymmentä|soixante|60
-kuusikymmentäyksi|soixante et un|61
-kuusikymmentäkaksi|soixante-deux|62
-kuusikymmentäyhdeksän|soixante-neuf|69
-päivämäärä|la date|the date
-kalenteri|le calendrier|calendar
-päivä|le jour|day
-Mitkä ovat viikonpäivät?|Quels sont les jours de la semaine?|What are the days of the week?
-maanantai|lundi|Monday
-tiistai|mardi|Tuesday
-keskiviikko|mercredi|Wednesday
-torstai|jeudi|Thursday
-perjantai|vendredi|Friday
-lauantai|samedi|Saturday
-sunnuntai|dimanche|Sunday
-Mikä viikonpäivä on?|C'est quel jour?|What day is it?
-On maanantai.|C'est lundi.|It's Monday.
-tänään|aujourd'hui|today
-huomenna|demain|tomorrow
-viikko|la semaine|week
-seuraava viikko|la semaine prochaine|next week
-viime viikko|la semaine dernière|last week
-Mikä päivä on?|Quelle est la date?|What's the date?
-On 1. syyskuuta. / On syyskuun ensimmäinen.|C'est le premier septembre.|It's September 1st.
-On 2. lokakuuta. / On lokakuun toinen.|C'est le deux octobre.|It's October 2nd.
-On 30. elokuuta.|C'est le 30 août.|It's August 30th.
-kuukausi|le mois|month
-Mitkä ovat kuukaudet?|Quels sont les mois de l'année?|What are the months of the year?
-tammikuu|janvier|January
-helmikuu|février|February
-maaliskuu|mars|March
-huhtikuu|avril|April
-toukokuu|mai|May
-kesäkuu|juin|June
-heinäkuu|juillet|July
-elokuu|août|August
-syyskuu|septembre|September
-lokakuu|octobre|October
-marraskuu|novembre|November
-joulukuu|décembre|December
+tervehdys|greetings
+Herra|Sir
+Rouva|Ma'am (Mrs.)
+Neiti|Miss
+Hyvää päivää|Good day (Hello), Sir
+Hyvää iltaa|Good evening
+Näkemiin|Goodbye
+Hei!|Hi!
+Nähdään kohta.|See you in a little while.
+Nähdään illalla.|See you this evening.
+Nähdään huomenna.|See you tomorrow.
+Nähdään pian.|See you soon.
+Mikä teidän nimenne on?|What's your name? (formal)
+Mikä sinun nimesi on?|What's your name? (informal)
+Nimeni on ...|My name is ...
+Kuinka voitte?|How are you? (formal)
+Mitä kuuluu?|How are you? (informal)
+Minulle kuuluu oikein hyvää, kiitos.|I am very well, thank you.
+Minulle kuuluu hyvää, kiitos.|I am fine, thank you.
+Ei hassumpaa, kiitos.|Not bad, thank you.
+Miten menee?|How are things going?
+Hyvin, kiitos!|Great, thanks!
+Miten voit?|Are things going (well)?
+Ihan hyvin.|Things are going (well).
+Entä te? Mistä olette kotoisin?|And you? Where are you from? (formal)
+Entä sinä? Mistä olet kotoisin?|And you? Where are you from? (informal)
+esittelyt|introductions
+Haluaisin esitellä teille ...|Sir, I would like to introduce to you ... (formal)
+Hän on ...|This is ... (informal)
+Tässä on ...|This is ...
+Kuka hän on?|Who is it?
+Hän on ...|It's ...
+He ovat ...|They are ...
+Mikä hänen nimensä on?|What's his/her name?
+Hänen nimensä on ...|His/Her name is ...
+Hän on kotoisin ...|He/She is from ...
+Mitkä heidän nimensä ovat? / Minkä nimisiä he ovat?|What are their names?
+Heidän nimensä ovat ...|Their names are ...
+Mitä hän tekee työkseen?|What does he/she do?
+Mitä he tekevät työkseen?|What do they do?
+Hän on ...|He/She is a/an ...
+näyttelijä (m, f) / näyttelijätär (f)|actor / actress
+arkkitehti|architect
+laulaja (m, f) / laulajatar (f)|singer
+kampaaja|hair dresser
+hammaslääkäri|dentist
+insinööri|engineer
+journalisti|journalist
+lääkäri|doctor
+opettaja, professori|teacher, professor
+eläkeläinen|retired man/woman
+harjoittelija|intern
+luokkahuone|the classroom
+Mikä se on?|What is it?
+Se on ...|It's ...
+Se on luokkahuone.|It's a classroom.
+Luokkahuoneessa on ...|In the classroom, there is ...
+ovi|door
+ikkuna|window
+liitutaulu|blackboard
+televisio|television
+(maailman)kartta|map (of the world)
+juliste|poster
+tuoli|chair
+pöytä, työpöytä|desk
+Pöydällä on ...|On the desk, there is ...
+liitu|chalk
+lyijykynä|pencil
+kynä|pen
+vihko|notebook
+kirja|book
+sanakirja|dictionary
+reppu|backpack
+Laboratoriossa on ...|In the lab, there are ...
+tietokoneita|computers
+Opiskelijat ovat työn touhussa!|The students work!
+kotiläksy|homework
+harjoitus|exercise
+koe|test
+luokassa|in class
+Kuuntele.|Listen.
+Kirjoita.|Write.
+Nosta kätesi.|Raise your finger (hand).
+Toista.|Repeat.
+Avatkaa kirjanne.|Open your books.
+Kääntäkää sivulle ...|Turn to page ...
+olkaa hyvät|please
+Ymmärrätkö?|Do you understand?
+Kyllä, ymmärrän.|Yes, I understand.
+Ei, en ymmärrä.|No, I don't understand.
+Mitä ... tarkoittaa?|What does ... mean?
+Kuinka sanotaan ...?|How do you say ...?
+Tässä on (tässä ovat) ...|Here is ... (here are ...)
+Tuossa on (tuossa ovat) ...|There is ... (there are ...)
+Tässä on ...|There is, there are ...
+Kuinka monta ... on?|There are how many ...?
+Perusluvut 1-69|Cardinal Numbers 1-69
+yksi|1
+kaksi|2
+kolme|3
+neljä|4
+viisi|5
+kuusi|6
+seitsemän|7
+kahdeksan|8
+yhdeksän|9
+kymmenen|10
+yksitoista|11
+kaksitoista|12
+kolmetoista|13
+neljätoista|14
+viisitoista|15
+kuusitoista|16
+seitsemäntoista|17
+kahdeksantoista|18
+yhdeksäntoista|19
+kaksikymmentä|20
+kaksikymmentäyksi|21
+kaksikymmentäkaksi|22
+kaksikymmentäkolme|23
+kaksikymmentäneljä|24
+kaksikymmentäviisi|25
+kaksikymmentäkuusi|26
+kaksikymmentäseitsemän|27
+kaksikymmentäkahdeksan|28
+kaksikymmentäyhdeksän|29
+kolmekymmentä|30
+kolmekymmentäyksi|31
+kolmekymmentäkaksi|32
+kolmekymmentäyhdeksän|39
+neljäkymmentä|40
+neljäkymmentäyksi|41
+neljäkymmentäkaksi|42
+neljäkymmentäyhdeksän|49
+viisikymmentä|50
+viisikymmentäyksi|51
+viisikymmentäkaksi|52
+viisikymmentäyhdeksän|59
+kuusikymmentä|60
+kuusikymmentäyksi|61
+kuusikymmentäkaksi|62
+kuusikymmentäyhdeksän|69
+päivämäärä|the date
+kalenteri|calendar
+päivä|day
+Mitkä ovat viikonpäivät?|What are the days of the week?
+maanantai|Monday
+tiistai|Tuesday
+keskiviikko|Wednesday
+torstai|Thursday
+perjantai|Friday
+lauantai|Saturday
+sunnuntai|Sunday
+Mikä viikonpäivä on?|What day is it?
+On maanantai.|It's Monday.
+tänään|today
+huomenna|tomorrow
+viikko|week
+seuraava viikko|next week
+viime viikko|last week
+Mikä päivä on?|What's the date?
+On 1. syyskuuta. / On syyskuun ensimmäinen.|It's September 1st.
+On 2. lokakuuta. / On lokakuun toinen.|It's October 2nd.
+On 30. elokuuta.|It's August 30th.
+kuukausi|month
+Mitkä ovat kuukaudet?|What are the months of the year?
+tammikuu|January
+helmikuu|February
+maaliskuu|March
+huhtikuu|April
+toukokuu|May
+kesäkuu|June
+heinäkuu|July
+elokuu|August
+syyskuu|September
+lokakuu|October
+marraskuu|November
+joulukuu|December

@@ -1,150 +1,150 @@
-sää|le temps|weather
-Millainen sää on?|Quel temps fait-il?|What's the weather?
-On kaunis sää.|Il fait beau.|It's nice.
-On kuuma.|Il fait chaud.|It's hot.
-On aurinkoista. / Aurinko paistaa.|Il fait du soleil. / Il y a du soleil.|It's sunny.
-On viileää.|Il fait frais.|It's cool.
-On huono sää.|Il fait mauvais.|It's bad.
-On kylmä.|Il fait froid.|It's cold.
-On sumuista. / On sumua.|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
-On tuulista.|Il fait du vent. / Il y a du vent.|It's windy.
-On pilvistä.|Il y a des nuages.|It's cloudy.
-On myrskyinen sää. / Myrskyää.|Il y a des orages.|There are storms.
-Sataa. / Sataa vettä.|Il pleut.|It's raining.
-Sataa lunta.|Il neige.|It's snowing.
-vuodenajat|les saisons|seasons
-kevät / keväällä|le printemps / au printemps|spring / in the spring
-kesä / kesällä|l'été (m) / en été|summer / in the summer
-syksy / syksyllä|l'automne (m) / en automne|fall / in the fall
-talvi / talvella|l'hiver (m) / en hiver|winter / in the winter
-maantiede|la géographie|geography
-maaseutu|la campagne|countryside
-kylä, kaupunki|la ville|town, city
-provinssi|une province|province
-alue|une région|region
-järvi|un lac|lake
-joki|un fleuve|major river (that flows to the sea)
-Loire|la Loire|the Loire (river)
-Garonne|la Garonne|the Garonne (river)
-Rhône|le Rhône|the Rhône (river)
-Seine|la Seine|the Seine (river)
-meri|la mer|sea
-Välimeri|la mer Méditerranée|the Mediterranean Sea
-valtameri|l'océan (m)|ocean
-Atlantin valtameri / Atlantti|l'océan Atlantique|the Atlantic Ocean
-Englannin kanaali|la Manche|the English Channel
-ranta|la plage|beach
-metsä|une forêt|forest
-vuori|la montagne|mountain
-Alpit|les Alpes (f)|the Alps
-Jura|le Jura|the Jura (mountains)
-Pyreneet|les Pyrénées (f)|the Pyrenees
-Ranskan keskiylänkö|le Massif Central|the Massif Central
-Vogeesit|les Vosges (f)|the Vosges
-ilmansuunnat|les points cardinaux|points of the compass
-pohjoisessa|dans le nord / au nord|in the north
-etelässä|dans le sud / au sud|in the south
-idässä|dans l'est / à l'est|in the east
-lännessä|dans l'ouest / à l'ouest|in the west
-keskellä|au centre|in the center
-rannikolla|sur la côte|on the coast
-Ranska|L'Hexagone|France
-Alsace|l'Alsace (f)|Alsace
-Burgundi|la Bourgogne|Burgundy
-Bretagne|la Bretagne|Brittany
-Ranskan Riviera|la Côte d'Azur|the Riviera
-Korsika |la Corse|Corsica
-Île-de-France|l'Ile de France (f)|Ile de France
-(Pariisin seutu)|(la région parisienne)|(Parisian region)
-Lorraine|la Lorraine|Lorraine
-Normandia|la Normandie|Normandy
-Provence|la Provence|Provence
-Loiren laakso|la Vallée de la Loire|the Loire Valley
-aktiviteetit|les activités|activities
-mennä|aller|to go
-mennä elokuviin|aller au cinéma|to go to the movies
-mennä yökerhoon|aller en boîte|to go clubbing
-mennä konserttiin|aller au concert|to go to a concert
-mennä yliopistoon|aller à l'université|to go to the university
-mennä puistoon|aller au parc|to go to the park
-mennä polkupyöräilemään|faire de la bicyclette|to go bicycle riding
-mennä veneilemään|faire du bateau|to go boating
-mennä surffaamaan|faire de la planche à voile|to go windsurfing
-mennä vaeltamaan|faire des randonnées|to go hiking
-mennä hiihtämään|faire du ski|to go skiing
-mennä pyöräilemään|faire du vélo|to go cycling
-mennä purjehtimaan|faire de la voile|to go sailing
-mennä kävelylle|faire une promenade|to take a walk
-lomailla|passer les vacances (f pl)|spend a vacation
-vierailla ... (paikassa, ei henkilön luona)|visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
-katedraali, kirkko|une cathédrale|a cathedral
-linna|un château|a castle
-näyttely, esitys|une exposition|an exhibition, show
-muistomerkki, monumentti, maamerkki|un monument|a monument
-museo|un musée|a museum
-liikennevälineet|les transports|means of transport
-Kuinka matkustat?|Comment voyagez-vous?|How do you travel?
-Matkustan...|Je voyage...|I travel...
-lentokoneella / lentokone|en avion / un avion|by plane / plane
-laivalla / laiva|en bateau / un bateau|by boat / boat
-junalla / juna|en train / un train|by train / train
-bussilla, linja-autolla / bussi|en car / un car|by tour bus (from city to city) / tour bus
-autolla / auto|en voiture / une voiture|by car / car
-Kuinka matkustat... (yliopistolle, vanhemmille, töihin, jne.)?|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
-Menen...|Je vais...|I go...
-metrolla / metro|en métro / le métro|by subway / subway
-bussilla / bussi|en bus / un bus|by bus / bus
-taksilla / taksi|en taxi / un taxi|by taxi / taxi
-moottoripyörällä, mopolla / moottoripyörä, mopo|à moto / une moto|by motorcycle / motorcycle
-polkupyörällä, pyörällä / polkupyörä|à vélo / un vélo|by bicycle / bicycle
-jalan, kävellen|à pied|on foot
-verbit|verbes|verbs
-ostaa|acheter|to buy
-ottaa mukaan|amener|to bring somebody (along)
-vaihtaa|changer|to change
-nukkua|dormir|to sleep
-viedä mukana|emmener|to take somebody (along)
-toivoa|espérer|to hope
-yrittää|essayer|to try
-syödä|manger|to eat
-uida|nager|to swim
-jakaa|partager|to share
-lähteä|partir|to leave
-mennä ulos|sortir|to go out
-Perusluvut 70-100|les nombres cardinaux 70-100|Cardinal Numbers 70-100
-seitsemänkymmentä|soixante-dix|70
-seitsemänkymmentäyksi|soixante et onze|71
-seitsemänkymmentäkaksi|soixante-douze|72
-seitsemänkymmentäkolme|soixante-treize|73
-seitsemänkymmentäneljä|soixante-quatorze|74
-seitsemänkymmentäviisi|soixante-quinze|75
-seitsemänkymmentäkuusi|soixante-seize|76
-seitsemänkymmentäseitsemän|soixante-dix-sept|77
-seitsemänkymmentäkahdeksan|soixante-dix-huit|78
-seitsemänkymmentäyhdeksän|soixante-dix-neuf|79
-kahdeksankymmentä|quatre-vingts|80
-kahdeksankymmentäyksi|quatre-vingt-un|81
-kahdeksankymmentäkaksi|quatre-vingt-deux|82
-kahdeksankymmentäkolme|quatre-vingt-trois|83
-kahdeksankymmentäneljä|quatre-vingt-quatre|84
-kahdeksankymmentäviisi|quatre-vingt-cinq|85
-kahdeksankymmentäkuusi|quatre-vingt-six|86
-kahdeksankymmentäseitsemän|quatre-vingt-sept|87
-kahdeksankymmentäkahdeksan|quatre-vingt-huit|88
-kahdeksankymmentäyhdeksän|quatre-vingt-neuf|89
-yhdeksänkymmentä|quatre-vingt-dix|90
-yhdeksänkymmentäyksi|quatre-vingt-onze|91
-yhdeksänkymmentäkaksi|quatre-vingt-douze|92
-yhdeksänkymmentäkolme|quatre-vingt-treize|93
-yhdeksänkymmentäneljä|quatre-vingt-quatorze|94
-yhdeksänkymmentäviisi|quatre-vingt-quinze|95
-yhdeksänkymmentäkuusi|quatre-vingt-seize|96
-yhdeksänkymmentäseitsemän|quatre-vingt-dix-sept|97
-yhdeksänkymmentäkahdeksan|quatre-vingt-dix-huit|98
-yhdeksänkymmentäyhdeksän|quatre-vingt-dix-neuf|99
-sata|cent|100
-satakaksi|cent deux|102
-kaksisataa|deux cents|200
-tuhat|mille|1.000
-kaksituhatta|deux mille|2.000
-miljoona|un million|1.000.000
+sää|weather
+Millainen sää on?|What's the weather?
+On kaunis sää.|It's nice.
+On kuuma.|It's hot.
+On aurinkoista. / Aurinko paistaa.|It's sunny.
+On viileää.|It's cool.
+On huono sää.|It's bad.
+On kylmä.|It's cold.
+On sumuista. / On sumua.|It's foggy.
+On tuulista.|It's windy.
+On pilvistä.|It's cloudy.
+On myrskyinen sää. / Myrskyää.|There are storms.
+Sataa. / Sataa vettä.|It's raining.
+Sataa lunta.|It's snowing.
+vuodenajat|seasons
+kevät / keväällä|spring / in the spring
+kesä / kesällä|summer / in the summer
+syksy / syksyllä|fall / in the fall
+talvi / talvella|winter / in the winter
+maantiede|geography
+maaseutu|countryside
+kylä, kaupunki|town, city
+provinssi|province
+alue|region
+järvi|lake
+joki|major river (that flows to the sea)
+Loire|the Loire (river)
+Garonne|the Garonne (river)
+Rhône|the Rhône (river)
+Seine|the Seine (river)
+meri|sea
+Välimeri|the Mediterranean Sea
+valtameri|ocean
+Atlantin valtameri / Atlantti|the Atlantic Ocean
+Englannin kanaali|the English Channel
+ranta|beach
+metsä|forest
+vuori|mountain
+Alpit|the Alps
+Jura|the Jura (mountains)
+Pyreneet|the Pyrenees
+Ranskan keskiylänkö|the Massif Central
+Vogeesit|the Vosges
+ilmansuunnat|points of the compass
+pohjoisessa|in the north
+etelässä|in the south
+idässä|in the east
+lännessä|in the west
+keskellä|in the center
+rannikolla|on the coast
+Ranska|France
+Alsace|Alsace
+Burgundi|Burgundy
+Bretagne|Brittany
+Ranskan Riviera|the Riviera
+Korsika |Corsica
+Île-de-France|Ile de France
+(Pariisin seutu)|(Parisian region)
+Lorraine|Lorraine
+Normandia|Normandy
+Provence|Provence
+Loiren laakso|the Loire Valley
+aktiviteetit|activities
+mennä|to go
+mennä elokuviin|to go to the movies
+mennä yökerhoon|to go clubbing
+mennä konserttiin|to go to a concert
+mennä yliopistoon|to go to the university
+mennä puistoon|to go to the park
+mennä polkupyöräilemään|to go bicycle riding
+mennä veneilemään|to go boating
+mennä surffaamaan|to go windsurfing
+mennä vaeltamaan|to go hiking
+mennä hiihtämään|to go skiing
+mennä pyöräilemään|to go cycling
+mennä purjehtimaan|to go sailing
+mennä kävelylle|to take a walk
+lomailla|spend a vacation
+vierailla ... (paikassa, ei henkilön luona)|to visit... (a place, not a person)
+katedraali, kirkko|a cathedral
+linna|a castle
+näyttely, esitys|an exhibition, show
+muistomerkki, monumentti, maamerkki|a monument
+museo|a museum
+liikennevälineet|means of transport
+Kuinka matkustat?|How do you travel?
+Matkustan...|I travel...
+lentokoneella / lentokone|by plane / plane
+laivalla / laiva|by boat / boat
+junalla / juna|by train / train
+bussilla, linja-autolla / bussi|by tour bus (from city to city) / tour bus
+autolla / auto|by car / car
+Kuinka matkustat... (yliopistolle, vanhemmille, töihin, jne.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+Menen...|I go...
+metrolla / metro|by subway / subway
+bussilla / bussi|by bus / bus
+taksilla / taksi|by taxi / taxi
+moottoripyörällä, mopolla / moottoripyörä, mopo|by motorcycle / motorcycle
+polkupyörällä, pyörällä / polkupyörä|by bicycle / bicycle
+jalan, kävellen|on foot
+verbit|verbs
+ostaa|to buy
+ottaa mukaan|to bring somebody (along)
+vaihtaa|to change
+nukkua|to sleep
+viedä mukana|to take somebody (along)
+toivoa|to hope
+yrittää|to try
+syödä|to eat
+uida|to swim
+jakaa|to share
+lähteä|to leave
+mennä ulos|to go out
+Perusluvut 70-100|Cardinal Numbers 70-100
+seitsemänkymmentä|70
+seitsemänkymmentäyksi|71
+seitsemänkymmentäkaksi|72
+seitsemänkymmentäkolme|73
+seitsemänkymmentäneljä|74
+seitsemänkymmentäviisi|75
+seitsemänkymmentäkuusi|76
+seitsemänkymmentäseitsemän|77
+seitsemänkymmentäkahdeksan|78
+seitsemänkymmentäyhdeksän|79
+kahdeksankymmentä|80
+kahdeksankymmentäyksi|81
+kahdeksankymmentäkaksi|82
+kahdeksankymmentäkolme|83
+kahdeksankymmentäneljä|84
+kahdeksankymmentäviisi|85
+kahdeksankymmentäkuusi|86
+kahdeksankymmentäseitsemän|87
+kahdeksankymmentäkahdeksan|88
+kahdeksankymmentäyhdeksän|89
+yhdeksänkymmentä|90
+yhdeksänkymmentäyksi|91
+yhdeksänkymmentäkaksi|92
+yhdeksänkymmentäkolme|93
+yhdeksänkymmentäneljä|94
+yhdeksänkymmentäviisi|95
+yhdeksänkymmentäkuusi|96
+yhdeksänkymmentäseitsemän|97
+yhdeksänkymmentäkahdeksan|98
+yhdeksänkymmentäyhdeksän|99
+sata|100
+satakaksi|102
+kaksisataa|200
+tuhat|1.000
+kaksituhatta|2.000
+miljoona|1.000.000

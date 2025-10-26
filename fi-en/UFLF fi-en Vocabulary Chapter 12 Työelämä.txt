@@ -1,86 +1,86 @@
-työelämä|le monde du travail|the working world
-liiketoiminta, bisnes|les affaires (f pl)|business
-yritys, firma|une entreprise / une boîte [slang]|firm, business
-toimisto|un bureau|office
-asiakas|un client / une cliente|client, customer
-ammatti|un métier|profession
-työ|un emploi / un travail / un job / un boulot [slang]|job
-osa-aikainen/kokoaikainen työ/tehtävä|un poste à mi-temps/à plein temps|half-time/full-time position
-työtön henkilö|un chômeur / une chômeuse|unemployed person
-työmarkkinat|le marché du travail|job market
-avoimet työpaikat, ilmoitukset|les petites annonces (f pl)|classified ads
-ansioluettelo, CV|un curriculum vitae (un CV)|résumé
-haastattelu|un entretien|interview
-työsuhde-edut|les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
-palkka|un salaire|salary
-lomapäivät|les congés|vacation days
-ylennys|une promotion|promotion
-eläke|la retraite|retirement
-eläkeläinen|un retraité / une retraitée|retired person
-ammatit|les métiers|professions
-virkamies, virkailija|un/une fonctionnaire|civil servant, government worker
-postinjakaja|un facteur|mail carrier
-sotilas, varusmies, reserviläinen|un militaire|person in the armed services
-poliisi|un policier|police officer
-palomies, pelastaja|un pompier|firefighter
-opettaja|un enseignant / une enseignante|teacher
-sosiaalityöntekijä|une assistante sociale|social worker
-lääkäri, tohtori|un médecin|doctor, physician
-hammaslääkäri|un/une dentiste|dentist
-sairaanhoitaja|un infirmier / une infirmière|nurse
-kiropraktikko, fysioterapeutti|un kinésithérapeute / un kiné|chiropractor, physical therapist
-psykologi|un/une psychologue|psychologist
-optikko|un opticien / une opticienne|optician
-farmaseutti|un pharmacien / une pharmacienne|pharmacist
-lakimies, juristi|un avocat / une avocate|lawyer
-pankkiiri|un banquier / une banquière|banker
-toimitusjohtaja, yrittäjä|un chef d'entreprise|company head, business owner
-pomo|un patron / une patronne|boss
-toimitusjohtaja|un P.D.G. (Président Directeur Général)|CEO
-esimies, johtaja|un cadre|executive
-kirjanpitäjä|un/une comptable|accountant
-mainonnan ammattilainen|un publicitaire|advertising agent
-sihteeri|un/une secrétaire|secretary
-työntekijä, toimihenkilö (konttorityöntekijä)|un employé / une employée (de bureau)|employee (office employee)
-työläinen, duunari (informal)|un ouvrier / une ouvrière|blue collar worker
-tehdas|une usine|factory
-IT-asiantuntija, ohjelmistokehittäjä|un informaticien / une informaticienne|computer scientist
-insinööri|un ingénieur|engineer
-tutkija|un chercheur|researcher
-teknikko|un technicien / une technicienne|technician
-omistaja|un/une propriétaire|owner
-kauppias|un commerçant / une commerçante|shopkeeper, store owner
-myyjä|un vendeur / une vendeuse|salesperson
-kassanhoitaja|un caissier / une caissière|cashier
-ravintoloitsija|un restaurateur|restaurant owner
-kokki|un cuisinier / une cuisinière|cook
-tarjoilija|un serveur / une serveuse|wait person
-leipuri|un boulanger / une boulangère|a baker
-muotisuunnittelija, ompelija|un couturier / une couturière|fashion designer, seamstress
-kampaaja (for women), parturi (for men)|un coiffeur / une coiffeuse|hairdresser
-(elokuva-, taide- jne.)kriitikko|un critique (de films, d'art, etc.)|critic (film, art, etc.)
-kirjailija|un écrivain|writer
-toimittaja, reportteri, journalisti|un journaliste|reporter, journalist
-maalari|un peintre / une peintre|painter
-muusikko|un musicien / une musicienne|musician
-matkatoimistovirkailija, matkamyyjä|un voyagiste / un agent de voyage|travel agent
-kotirouva|une femme au foyer|housewife
-adjektiivit|adjectifs|adjectives
-hankala, rankka, vaikea|dur(e) / difficile|hard, tough, difficult
-dynaaminen|dynamique|dynamic
-rehellinen, rehti|honnête|honest
-mukaansatempaava, kiehtova|passionnant(e)|enthralling, fascinating
-hyödyllinen|utile|useful
-hyödytön|inutile|useless
-käytetty|d'occasion (une voiture d'occasion)|second-hand, used
-verbit|verbes|verbs
-etsiä työtä|chercher une situation|to look for a job
-hakea työtä|faire une demande d'emploi|to apply for a job
-varata/sopia tapaaminen|prendre un rendez-vous|to make an appointment
-täyttää lomake|remplir un formulaire|to fill out a form
-palkata / saada työpaikka / päästä töihin|embaucher / être embauché(e)|to hire / to be hired
-johtaa|gérer|to manage, direct, organize
-tienata elantonsa / ansaita rahaa|gagner sa vie / gagner de l'argent|to earn a living / to earn money
-maksaa veroja|payer des impôts|to pay taxes
-olla työtön|être au chômage|to be unemployed
-olla eläkkeellä|être à la retraite|to be retired
+työelämä|the working world
+liiketoiminta, bisnes|business
+yritys, firma|firm, business
+toimisto|office
+asiakas|client, customer
+ammatti|profession
+työ|job
+osa-aikainen/kokoaikainen työ/tehtävä|half-time/full-time position
+työtön henkilö|unemployed person
+työmarkkinat|job market
+avoimet työpaikat, ilmoitukset|classified ads
+ansioluettelo, CV|résumé
+haastattelu|interview
+työsuhde-edut|benefits (health insurance, retirement plan, etc.)
+palkka|salary
+lomapäivät|vacation days
+ylennys|promotion
+eläke|retirement
+eläkeläinen|retired person
+ammatit|professions
+virkamies, virkailija|civil servant, government worker
+postinjakaja|mail carrier
+sotilas, varusmies, reserviläinen|person in the armed services
+poliisi|police officer
+palomies, pelastaja|firefighter
+opettaja|teacher
+sosiaalityöntekijä|social worker
+lääkäri, tohtori|doctor, physician
+hammaslääkäri|dentist
+sairaanhoitaja|nurse
+kiropraktikko, fysioterapeutti|chiropractor, physical therapist
+psykologi|psychologist
+optikko|optician
+farmaseutti|pharmacist
+lakimies, juristi|lawyer
+pankkiiri|banker
+toimitusjohtaja, yrittäjä|company head, business owner
+pomo|boss
+toimitusjohtaja|CEO
+esimies, johtaja|executive
+kirjanpitäjä|accountant
+mainonnan ammattilainen|advertising agent
+sihteeri|secretary
+työntekijä, toimihenkilö (konttorityöntekijä)|employee (office employee)
+työläinen, duunari (informal)|blue collar worker
+tehdas|factory
+IT-asiantuntija, ohjelmistokehittäjä|computer scientist
+insinööri|engineer
+tutkija|researcher
+teknikko|technician
+omistaja|owner
+kauppias|shopkeeper, store owner
+myyjä|salesperson
+kassanhoitaja|cashier
+ravintoloitsija|restaurant owner
+kokki|cook
+tarjoilija|wait person
+leipuri|a baker
+muotisuunnittelija, ompelija|fashion designer, seamstress
+kampaaja (for women), parturi (for men)|hairdresser
+(elokuva-, taide- jne.)kriitikko|critic (film, art, etc.)
+kirjailija|writer
+toimittaja, reportteri, journalisti|reporter, journalist
+maalari|painter
+muusikko|musician
+matkatoimistovirkailija, matkamyyjä|travel agent
+kotirouva|housewife
+adjektiivit|adjectives
+hankala, rankka, vaikea|hard, tough, difficult
+dynaaminen|dynamic
+rehellinen, rehti|honest
+mukaansatempaava, kiehtova|enthralling, fascinating
+hyödyllinen|useful
+hyödytön|useless
+käytetty|second-hand, used
+verbit|verbs
+etsiä työtä|to look for a job
+hakea työtä|to apply for a job
+varata/sopia tapaaminen|to make an appointment
+täyttää lomake|to fill out a form
+palkata / saada työpaikka / päästä töihin|to hire / to be hired
+johtaa|to manage, direct, organize
+tienata elantonsa / ansaita rahaa|to earn a living / to earn money
+maksaa veroja|to pay taxes
+olla työtön|to be unemployed
+olla eläkkeellä|to be retired

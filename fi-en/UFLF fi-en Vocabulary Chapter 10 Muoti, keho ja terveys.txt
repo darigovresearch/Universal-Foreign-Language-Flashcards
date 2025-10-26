@@ -1,129 +1,129 @@
-muoti|la mode|fashion
-muotinäytös|un défilé de mode|fashion show
-brändi, tavaramerkki|une marque|brand
-hattu|un chapeau|hat
-lakki|une casquette|cap
-vaatteet|des vêtements (m)|clothes
-verryttelypuku|un survêtement / un jogging|tracksuit
-alusvaatteet|des sous-vêtements|underwear
-rintaliivit|un soutien-gorge|bra
-alushousut|un slip|briefs
-pikkuhousut|une culotte|panties
-bokserit|un caleçon / boxer|boxers
-paita|une chemise|man's shirt
-pusero|un chemisier|blouse
-poolopaita|un polo|polo shirt
-t-paita|un tee-shirt|T-shirt
-villapaita, villapusero, villatakki|un pull|sweater
-housut|un pantalon|(a pair of) pants
-farkut|un jean (sing.)|jeans
-shortsit|un short (sing.)|(shorter) shorts
-bermudashortsit|un bermuda|(longer) shorts
-vyö|une ceinture|belt
-sukat|des chaussettes (f pl)|socks
-kengät|des chaussures (f pl)|shoes
-koripallokengät|des baskets (f pl)|basketball shoes
-saappaat|des bottes (f pl)|boots
-sandaalit|des sandales (f pl)|sandals
-tenniskengät, tennarit (informal)|des tennis (f pl)|tennis shoes
-varvassandaalit|des tongs|flip-flops
-korkokengät|des talons (m) / des chaussures á talons|high-heels
-mekko / leninki|une robe|dress
-hame|une jupe|skirt
-housupuku|un tailleur|woman's suit
-puku|un costume|man's suit
-kravatti / solmio|une cravate|tie
-aurinkolasit|des lunettes (f) de soleil|sunglasses
-uimapuku|un maillot de bain|swimsuit
-pusakka, nahkatakki, takki|un blouson|short jacket, leather jacket
-pikkutakki|une veste|jacket
-päällystakki, takki|un manteau|coat
-anorakki|un anorak|parka
-sadetakki|un imperméable|raincoat
-kaulahuivi, huivi|une écharpe|scarf
-hansikkaat, käsineet, hanskat (informal)|des gants (m)|gloves
-harrastukset|les passe-temps|pastimes
-juoksu / mennä juoksemaan|la course à pied / faire de la course à pied|running / to go running
-hölkkä / mennä hölkkäämään, mennä lenkille (informal)|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
-rullaluistelu / mennä rullaluistelemaan|le roller / faire du roller|roller blading / to go roller blading
-pyöräily / mennä pyöräilemään|le cyclisme / faire du cyclisme|cycling / to go cycling
-kiipeily / mennä kiipeilemään|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
-voimaharjoittelu / voimaharjoitella, käydä salilla (informal but common)|la musculation / faire de la musculation|weight training / to train with weights
-uinti / mennä uimaan|la natation / faire de la natation|swimming / to go swimming
-melonta / mennä melomaan|le canoë / faire du canoë|canoeing / to go canoeing
-kajakkimelonta / mennä melomaan kajakilla|le kayak / faire du kayak|kayaking / to go kayaking
-maalaus / maalata (taidetta)|la peinture / faire de la peinture|painting / to paint (art)
-shakki / pelata shakkia|les échecs (m) / jouer aux échecs|chess / to play chess
-jooga / joogata |le yoga / faire du yoga|yoga
-surffaus / surffata|le surf / faire du surf|surfing
-ratsastus / ratsastaa|le cheval / faire du cheval|horseback riding
-kunto ja terveys|la forme et la santé|fitness and health
-allergia|une allergie|allergy
-flunssa|la grippe|the flu
-migreeni|une migraine|migraine headache
-vilustuminen|un rhume|a cold
-lääke|des médicaments (m)|medicine
-vitamiinit|des vitamines (f)|vitamins
-unilääke|un somnifère|sleeping pill
-keho|le corps|the body
-kurkku|la gorge|throat
-käsivarsi|le bras|arm
-kyynärpää|le coude|elbow
-ranne|le poignet|wrist
-käsi|la main|hand
-sormi|le doigt|finger
-rinta|la poitrine|chest
-vatsa|le ventre|stomach
-selkä|le dos|back
-takapuoli|le derrière|rear, behind
-pakarat|les fesses (f)|buttocks
-jalka|la jambe|leg
-polvi / polvet|le genou / les genoux|knee / knees
-nilkka|la cheville|ankle
-jalkaterä|le pied|foot
-varpaat|les orteils (m)|toes
-adjektiivit|adjectifs|adjectives
-muodissa, muodikas|à la mode / branché(e)|in fashion
-poissa muodista, vanhanaikainen|démodé(e)|out of style
-rento|décontracté(e)|casual
-siisti, tyylikäs|habillé(e)|dressy
-hillitty|discipliné(e)|disciplined
-urheilullinen, sporttinen|sportif / sportive|athletic
-stressaantunut, rasittunut|stressé(e)|stressed
-sairas|malade|sick
-verbit|verbes|verbs
-pukeutua|s'habiller|to get dressed
-pukea|mettre|to put (on)
-pitää (päällään)|porter|to wear
-istua hyvin/huonosti|aller bien / aller mal|to fit well/poorly
-lihoa|grossir|to gain weight
-olla dieetillä / laihduttaa|être au régime / faire un régime|to be on a diet
-kuntoilla|faire du sport|to exercise
-laihtua|mincir|to lose weight
-olla hyvässä kunnossa|être en forme|to be in shape
-sairastua|tomber malade|to get sick
-yskiä|tousser|to cough
-sattua (ruumiinosaan)|avoir mal à...|to hurt (body part)
-(sattua päähän, päänsärky, selkäsärky, kipeät jalat, jne.)|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
-levätä|se reposer|to rest
-rentoutua|se détendre|to relax
-tupakoida|fumer|to smoke
-olla terve|être en bonne santé|to be in good health
-kysymyslauseita|expressions interrogatives|interrogative expressions
-Mitä tapahtuu?|Qu'est-ce qui se passe?|What is going on?
-Mistä olet kiinnostunut?|Qu'est-ce qui t'intéresse?|What interests you?
-Mikä vaivaa?|Qu'est-ce qui t'énerve?|What bothers you?
-Mitä pelkäät?|Qu'est-ce qui te fait peur?|What scares you?
-Mistä nautit?|Qu'est-ce qui te fait plaisir?|What pleases you?
-Mistä saat hupia?|Qu'est-ce qui t'amuse?|What amuses you?
-yleiskysymykset|expressions impersonnelles|impersonal questions
-Täytyy (tehdä jotakin)|Il faut + infinitif|It is necessary (to)
-On parempi (tehdä jotakin)|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
-On tärkeää (tehdä jotakin)|Il est important de + infinitif|It is important (to)
-On pakollista (tehdä jotakin)|Il est nécessaire de + infinitif|It is necessary (to)
-On välttämätöntä (tehdä jotakin)|Il est essentiel de + infinitif|It is essential (to)
-Ehdottomasti täytyy (tehdä jotakin)|Il est indispensable de + infinitif|It is essential (to)
-On hauskaa (tehdä jotakin)|Il est amusant de ...|It is fun (to) ...
-On vaikeaa (tehdä jotakin)|Il est difficile de ...|It is difficult (to) ...
-On helppoa (tehdä jotakin)|Il est facile de ...|It is easy (to) ...
-On väsyttävää/ärsyttävää (tehdä jotakin)|Il est fatigant de ...|It is tiring/annoying (to) ...
+muoti|fashion
+muotinäytös|fashion show
+brändi, tavaramerkki|brand
+hattu|hat
+lakki|cap
+vaatteet|clothes
+verryttelypuku|tracksuit
+alusvaatteet|underwear
+rintaliivit|bra
+alushousut|briefs
+pikkuhousut|panties
+bokserit|boxers
+paita|man's shirt
+pusero|blouse
+poolopaita|polo shirt
+t-paita|T-shirt
+villapaita, villapusero, villatakki|sweater
+housut|(a pair of) pants
+farkut|jeans
+shortsit|(shorter) shorts
+bermudashortsit|(longer) shorts
+vyö|belt
+sukat|socks
+kengät|shoes
+koripallokengät|basketball shoes
+saappaat|boots
+sandaalit|sandals
+tenniskengät, tennarit (informal)|tennis shoes
+varvassandaalit|flip-flops
+korkokengät|high-heels
+mekko / leninki|dress
+hame|skirt
+housupuku|woman's suit
+puku|man's suit
+kravatti / solmio|tie
+aurinkolasit|sunglasses
+uimapuku|swimsuit
+pusakka, nahkatakki, takki|short jacket, leather jacket
+pikkutakki|jacket
+päällystakki, takki|coat
+anorakki|parka
+sadetakki|raincoat
+kaulahuivi, huivi|scarf
+hansikkaat, käsineet, hanskat (informal)|gloves
+harrastukset|pastimes
+juoksu / mennä juoksemaan|running / to go running
+hölkkä / mennä hölkkäämään, mennä lenkille (informal)|jogging / to go jogging
+rullaluistelu / mennä rullaluistelemaan|roller blading / to go roller blading
+pyöräily / mennä pyöräilemään|cycling / to go cycling
+kiipeily / mennä kiipeilemään|rock-climbing / to go rock-climbing
+voimaharjoittelu / voimaharjoitella, käydä salilla (informal but common)|weight training / to train with weights
+uinti / mennä uimaan|swimming / to go swimming
+melonta / mennä melomaan|canoeing / to go canoeing
+kajakkimelonta / mennä melomaan kajakilla|kayaking / to go kayaking
+maalaus / maalata (taidetta)|painting / to paint (art)
+shakki / pelata shakkia|chess / to play chess
+jooga / joogata |yoga
+surffaus / surffata|surfing
+ratsastus / ratsastaa|horseback riding
+kunto ja terveys|fitness and health
+allergia|allergy
+flunssa|the flu
+migreeni|migraine headache
+vilustuminen|a cold
+lääke|medicine
+vitamiinit|vitamins
+unilääke|sleeping pill
+keho|the body
+kurkku|throat
+käsivarsi|arm
+kyynärpää|elbow
+ranne|wrist
+käsi|hand
+sormi|finger
+rinta|chest
+vatsa|stomach
+selkä|back
+takapuoli|rear, behind
+pakarat|buttocks
+jalka|leg
+polvi / polvet|knee / knees
+nilkka|ankle
+jalkaterä|foot
+varpaat|toes
+adjektiivit|adjectives
+muodissa, muodikas|in fashion
+poissa muodista, vanhanaikainen|out of style
+rento|casual
+siisti, tyylikäs|dressy
+hillitty|disciplined
+urheilullinen, sporttinen|athletic
+stressaantunut, rasittunut|stressed
+sairas|sick
+verbit|verbs
+pukeutua|to get dressed
+pukea|to put (on)
+pitää (päällään)|to wear
+istua hyvin/huonosti|to fit well/poorly
+lihoa|to gain weight
+olla dieetillä / laihduttaa|to be on a diet
+kuntoilla|to exercise
+laihtua|to lose weight
+olla hyvässä kunnossa|to be in shape
+sairastua|to get sick
+yskiä|to cough
+sattua (ruumiinosaan)|to hurt (body part)
+(sattua päähän, päänsärky, selkäsärky, kipeät jalat, jne.)|(to have a headache, a backache, sore feet, etc)
+levätä|to rest
+rentoutua|to relax
+tupakoida|to smoke
+olla terve|to be in good health
+kysymyslauseita|interrogative expressions
+Mitä tapahtuu?|What is going on?
+Mistä olet kiinnostunut?|What interests you?
+Mikä vaivaa?|What bothers you?
+Mitä pelkäät?|What scares you?
+Mistä nautit?|What pleases you?
+Mistä saat hupia?|What amuses you?
+yleiskysymykset|impersonal questions
+Täytyy (tehdä jotakin)|It is necessary (to)
+On parempi (tehdä jotakin)|It is advisable (to), It is better (to)
+On tärkeää (tehdä jotakin)|It is important (to)
+On pakollista (tehdä jotakin)|It is necessary (to)
+On välttämätöntä (tehdä jotakin)|It is essential (to)
+Ehdottomasti täytyy (tehdä jotakin)|It is essential (to)
+On hauskaa (tehdä jotakin)|It is fun (to) ...
+On vaikeaa (tehdä jotakin)|It is difficult (to) ...
+On helppoa (tehdä jotakin)|It is easy (to) ...
+On väsyttävää/ärsyttävää (tehdä jotakin)|It is tiring/annoying (to) ...

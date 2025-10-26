@@ -1,94 +1,94 @@
-raha-asiat|les finances|finances
-pankki|une banque|bank
-säästöpankki|une caisse d'épargne|savings and loan association
-(pankki)tili|un compte (bancaire)|(bank) account
-pankkiautomaatti|un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
-euro|l'euro|euro (currency)
-perintö|un héritage|inheritance
-menot, kulut|les dépenses|expenses
-setelit|les factures (f pl)|bills
-asunto, kiinteistö|le logement|housing
-vuokra|le loyer|rent
-ruoka, ravinto|l'alimentation|food
-viihde|le divertissement / les loisirs|entertainment
-puhelinlasku|la facture de téléphone|telephone bill
-lukukausimaksu|les frais (m) de scolarité|tuition, education expenses
-opintolaina|l'emprunt-étudiant|student loan
-vakuutus|l'assurance|insurance
-kaasu|l'essence (f)|gas
-asumiskustannukset (sähkö, vesi, lämmitys, jätemaksu)|les charges|utilities
-verot|les impôts (m pl)|taxes
-lainat|les dettes (f pl)|debts
-pörssi|la bourse|the stock market
-osakkeet|des actions (f pl)|stocks
-portfolio, salkku|un portefeuille|portfolio (also, wallet)
-adjektiivit|adjectifs|adjectives
-antelias, avokätinen|généreux / généreuse|generous
-tuhlaavainen, tuhlari|dépensier / dépensière|spendthrift
-itara, saita|radin / radine [slang]|miserly, stingy
-niukka, kitsas|économe|economical, frugal
-edullinen, halpa|bon marché / pas cher|inexpensive
-olla tarjouksessa|être en solde|to be on sale
-hyvä/houkutteleva hinta|un prix intéressant|a good price
-kallis|cher / chère|expensive
-olla rahaton, olla P.A. [slang]|être fauché(e) [slang]|to be broke
-olla varakas, elää leveästi|être aisé(e)|to be well off
-tyytyväinen|satisfait(e)|satisfied, fulfilled
-verbit - raha-asiat|verbes - les finances|verbs - finances
-maksaa|coûter|to cost
-kuluttaa|dépenser|to spend
-korvata, hyvittää|rembourser|to reimburse
-lainata|emprunter|borrow
-olla varaa (johonkin)|avoir les moyens de|to have the means to
-vuokrata|louer|to rent
-tehdä budjetti, budjetoida|faire un budget|to establish a budget
-ylittää budjetti|dépasser son budget|to go beyond one's budget
-olla velkaa|avoir des dettes|to have debts
-tuhlata|gaspiller|to waste
-säästää|faire des économies|to save money
-antaa, tarjota|offrir|to give, to offer
-rakkauselämä|les amours|love life
-pariskunta|un couple|couple
-rakkautta ensisilmäyksellä|le coup de foudre|love at first sight
-intohimoinen rakkaus|l'amour passion (m)|passionate love
-elämänsä rakkaus|le grand amour|the love of one's life
-treffit|un rendez-vous|date (also an appointment)
-suhde|une relation|relationship
-kihlaus|les fiançailles (f pl)|engagement
-kihlattu, morsian (woman), sulhanen (man)|un fiancé / une fiancée|fiancé / fiancée
-avioliitto, häät|le mariage|marriage, wedding
-yhteensopivuus|la compatibilité|compatibility / matching
-ulkonäkö|l'apparence physique|physical appearance
-onnellisuus|le bonheur|happiness
-yhteys, kommunikointi|la communication|interaction / communication
-huumorintaju|le sens de l'humour|sense of humor
-kunnioitus|le respect|respect
-rehellisyys|l'honnêteté (f)|honesty
-romantiikka|le romantisme|romanticism
-verbit - rakkauselämä|verbes - les amours|verbs - love life
-iskeä, flirttailla|draguer|to try to pick up, to hit on someone, to flirt
-olla ystäviä|être amis|to be friends
-asua yhdessä|vivre ensemble|to live together
-suudella, pussata|s'embrasser|to kiss each other
-rakastaa toisiaan|s'aimer|to love each other
-solmia PACS-sopimus (siviililiitto, avoliitto)|se pacser|to enter a PACS contract
-kihlautua|se fiancer|to get engaged
-mennä naimisiin|se marier|to get married
-erota, dumpata (break up with someone)|rompre|to break up
-erota|divorcer|to get divorced
-pettää|tromper|to cheat on
-horoskooppi|l'horoscope (m)|horoscope
-Mikä on horoskooppimerkkisi?|Quel est ton signe?|What's your sign?
-merkki|le signe|sign
-kauris|le Capricorne|Capricorn
-vesimies|le Verseau|Aquarius
-kalat|les Poissons (m)|Pisces
-oinas|le Bélier|Aries
-härkä|le Taureau|Taurus
-kaksoset|les Gémeaux (m)|Gemini
-rapu|le Cancer|Cancer
-leijona|le Lion|Leo
-neitsyt|la Vierge|Virgo
-vaaka|la Balance|Libra
-skorpioni|le Scorpion|Scorpio
-jousimies|le Sagittaire|Sagittarius
+raha-asiat|finances
+pankki|bank
+säästöpankki|savings and loan association
+(pankki)tili|(bank) account
+pankkiautomaatti|ATM (automatic teller machine)
+euro|euro (currency)
+perintö|inheritance
+menot, kulut|expenses
+setelit|bills
+asunto, kiinteistö|housing
+vuokra|rent
+ruoka, ravinto|food
+viihde|entertainment
+puhelinlasku|telephone bill
+lukukausimaksu|tuition, education expenses
+opintolaina|student loan
+vakuutus|insurance
+kaasu|gas
+asumiskustannukset (sähkö, vesi, lämmitys, jätemaksu)|utilities
+verot|taxes
+lainat|debts
+pörssi|the stock market
+osakkeet|stocks
+portfolio, salkku|portfolio (also, wallet)
+adjektiivit|adjectives
+antelias, avokätinen|generous
+tuhlaavainen, tuhlari|spendthrift
+itara, saita|miserly, stingy
+niukka, kitsas|economical, frugal
+edullinen, halpa|inexpensive
+olla tarjouksessa|to be on sale
+hyvä/houkutteleva hinta|a good price
+kallis|expensive
+olla rahaton, olla P.A. [slang]|to be broke
+olla varakas, elää leveästi|to be well off
+tyytyväinen|satisfied, fulfilled
+verbit - raha-asiat|verbs - finances
+maksaa|to cost
+kuluttaa|to spend
+korvata, hyvittää|to reimburse
+lainata|borrow
+olla varaa (johonkin)|to have the means to
+vuokrata|to rent
+tehdä budjetti, budjetoida|to establish a budget
+ylittää budjetti|to go beyond one's budget
+olla velkaa|to have debts
+tuhlata|to waste
+säästää|to save money
+antaa, tarjota|to give, to offer
+rakkauselämä|love life
+pariskunta|couple
+rakkautta ensisilmäyksellä|love at first sight
+intohimoinen rakkaus|passionate love
+elämänsä rakkaus|the love of one's life
+treffit|date (also an appointment)
+suhde|relationship
+kihlaus|engagement
+kihlattu, morsian (woman), sulhanen (man)|fiancé / fiancée
+avioliitto, häät|marriage, wedding
+yhteensopivuus|compatibility / matching
+ulkonäkö|physical appearance
+onnellisuus|happiness
+yhteys, kommunikointi|interaction / communication
+huumorintaju|sense of humor
+kunnioitus|respect
+rehellisyys|honesty
+romantiikka|romanticism
+verbit - rakkauselämä|verbs - love life
+iskeä, flirttailla|to try to pick up, to hit on someone, to flirt
+olla ystäviä|to be friends
+asua yhdessä|to live together
+suudella, pussata|to kiss each other
+rakastaa toisiaan|to love each other
+solmia PACS-sopimus (siviililiitto, avoliitto)|to enter a PACS contract
+kihlautua|to get engaged
+mennä naimisiin|to get married
+erota, dumpata (break up with someone)|to break up
+erota|to get divorced
+pettää|to cheat on
+horoskooppi|horoscope
+Mikä on horoskooppimerkkisi?|What's your sign?
+merkki|sign
+kauris|Capricorn
+vesimies|Aquarius
+kalat|Pisces
+oinas|Aries
+härkä|Taurus
+kaksoset|Gemini
+rapu|Cancer
+leijona|Leo
+neitsyt|Virgo
+vaaka|Libra
+skorpioni|Scorpio
+jousimies|Sagittarius

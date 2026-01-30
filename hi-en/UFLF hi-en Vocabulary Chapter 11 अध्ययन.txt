@@ -1,0 +1,103 @@
+|les études secondaires et supérieures|high school and university studies
+|la rentrée|beginning of school year
+|le collège|junior high, middle school
+|le lycée|high school
+|un lycéen / une lycéenne|high school student
+|la seconde|first year of high school
+|la première|second year of high school
+|la terminale|final year of high school
+|le baccalauréat / le bac|baccalaureate exam
+|un bachelier / une bachelière|student who has passed the bac
+|un concours (d'entrée)|competitive entrance exam
+|la fac|college, university
+|la Faculté des Beaux-Arts|school of fine arts
+|la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
+|la Faculté de Médecine|school of medicine
+|la Faculté de Pharmacie|school of pharmacy
+|la Faculté des Sciences|school of sciences
+|la Faculté de Droit|law school
+|L'Ecole de Commerce (f)|business school
+|les Grandes Écoles (f)|elite professional schools
+|une résidence universitaire|dormitory
+|un restaurant universitaire (un restau-U)|university cafeteria
+|une cafétéria|cafeteria
+|un amphithéâtre / un amphi|amphitheater
+|une salle de classe|classroom
+|un cours (de maths...)|a class (math class...)
+|un cours magistral (des cours magistraux)|large lecture class
+|un laboratoire / un labo|laboratory / lab
+|une bibliothèque|library
+|les devoirs (m)|homework
+|une copie|student paper
+|un exposé oral|oral presentation
+|un examen|test, exam
+|une note|grade
+|les résultats|results, grades
+|un bulletin de notes|grade report
+|un emploi du temps|schedule
+|une carte d'étudiant|student ID card
+|un stage|internship
+|un diplôme|a diploma, degree
+|les matières et les cours|subjects and classes
+|l'architecture (f)|architecture
+|l'art (m)|art
+|le dessin|drawing, design
+|la musique|music
+|la peinture|painting
+|la communication|communications
+|la comptabilité|accounting
+|le droit|law
+|l'économie (f)|economics
+|la géographie|geography
+|l'histoire (f)|history
+|l'informatique (f)|computer science
+|les langues (f)|languages
+|le chinois|Chinese
+|l'allemand (m)|German
+|l'anglais (m)|English
+|l'espagnol (m)|Spanish
+|le français|French
+|l'italien (m)|Italian
+|le latin|Latin
+|la linguistique|linguistics
+|la littérature|literature
+|les mathématiques (f) / les maths|math
+|la médecine|medicine
+|la pharmacie|pharmacy
+|la philosophie|philosophy
+|la psychologie|psychology
+|la biologie|biology
+|la chimie|chemistry
+|la physique|physics
+|les sciences politiques (f)|political science
+|la sociologie|sociology
+|adjectifs|adjectives
+|chargé(e)|full, busy (referring to schedule)
+|occupé(e)|busy
+|prochain(e)|next
+|dernier / dernière|last
+|verbes|verbs
+|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
+|régler (les frais d’inscription)|to pay (one’s tuition/fees)
+|En quelle matiére est-ce que tu te spécialises?|What's your major?
+|suivre|to take (a course), to follow
+|aller en cours|to attend class
+|faire ses devoirs|to do one’s homework
+|faire un effort|to make an effort
+|faire des progrès|to improve
+|se renseigner|to find out about, to get information
+|apprendre|to learn
+|comprendre|to understand
+|passer un examen|to take an exam
+|réussir (à) un examen|to pass (an exam), to succeed (in)
+|réussir à + infinitif|to succeed at ...
+|avoir la moyenne|to receive a passing grade
+|recevoir son diplôme|to graduate, to complete one’s studies
+|être bonne / bon en ...|to be good in/at ...
+|être mauvais(e) en ...|to be bad in/at ...
+|être nul(le) en ... [slang]|to suck in/at ...
+|se décourager|to be discouraged
+|sécher un cours|to skip a class
+|rater|to fail
+|redoubler|to repeat a grade/course
+|quitter|to leave (something, someone or some place)

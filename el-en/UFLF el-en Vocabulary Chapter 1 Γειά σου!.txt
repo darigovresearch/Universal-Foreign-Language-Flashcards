@@ -9,16 +9,16 @@
 Τα λέμε λίγο!|See you in a little while.
 Τα λέμε απόψε.|See you this evening.
 Τα λέμε αύριο.|See you tomorrow.
-|See you soon.
-|What's your name? (formal)
+_.|See you soon.
+_;|What's your name? (formal)
 Πως σε λένε;|What's your name? (informal)
 Με λένε ...|My name is ...
 Τι κάνεις;|How are you? (formal)
-|How are you? (informal)
+_;|How are you? (informal)
 Είμαι πολύ καλά, ευχαριστώ.|I am very well, thank you.
 Είμαι καλά, ευχαριστώ.|I am fine, thank you.
-|Not bad, thank you.
-|How are things going?
+Oxi _, ευχαριστώ.|Not bad, thank you.
+_;|How are things going?
 Υπέροχα, ευχαριστώ!|Great, thanks!
 Τα πράγματα πάνε καλά;|Are things going (well)?
 Τα πράγματα πάνε καλά.|Things are going (well).
@@ -81,9 +81,9 @@
 Άκου.|Listen.
 Γράφε.|Write.
 Σήκωσε το χέρι σου.|Raise your finger (hand).
-|Repeat.
+_.|Repeat.
 Ανοίξτε τα βιβλία σας.|Open your books.
-|Turn to page ...
+_ ...|Turn to page ...
 Σε παρακαλώ|please
 Καταλαβαίνεις;|Do you understand?
 Ναί, καταλαβαίνω.|Yes, I understand.

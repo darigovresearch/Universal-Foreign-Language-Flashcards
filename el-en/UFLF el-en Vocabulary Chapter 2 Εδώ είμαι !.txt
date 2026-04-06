@@ -9,11 +9,11 @@
 Προσωπικές ερωτήσεις|personal questions
 Πως σε λένε;|What is your name?
 Πόσο χρονών είσαι;|How old are you?
-|What is your nationality?
+_;|What is your nationality?
 Από που είσαι;|Where are you from?
 Που μένεις;|Where do you live?
-|What do you do for a living?
-|What are your favorite pastimes?
+_;|What do you do for a living?
+_;|What are your favorite pastimes?
 Η οικογένεια|the family
 Άνδρας|man
 Γυναίκα|woman, wife
@@ -46,7 +46,7 @@
 Πότε;|when?
 Ποιος;|who?
 Πως;|how?
-|which?
+_;|which?
 Γιατί;|why?
 Επειδή|because
 Ωρα'|time

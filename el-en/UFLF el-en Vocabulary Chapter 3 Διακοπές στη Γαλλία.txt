@@ -1,22 +1,22 @@
 |le temps|weather
-|Quel temps fait-il?|What's the weather?
-|Il fait beau.|It's nice.
-|Il fait chaud.|It's hot.
-|Il fait du soleil. / Il y a du soleil.|It's sunny.
-|Il fait frais.|It's cool.
-|Il fait mauvais.|It's bad.
-|Il fait froid.|It's cold.
-|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
-|Il fait du vent. / Il y a du vent.|It's windy.
-|Il y a des nuages.|It's cloudy.
-|Il y a des orages.|There are storms.
-|Il pleut.|It's raining.
-|Il neige.|It's snowing.
+_;|Quel temps fait-il?|What's the weather?
+_.|Il fait beau.|It's nice.
+_.|Il fait chaud.|It's hot.
+_ / _|Il fait du soleil. / Il y a du soleil.|It's sunny.
+_.|Il fait frais.|It's cool.
+_.|Il fait mauvais.|It's bad.
+_.|Il fait froid.|It's cold.
+_ / _|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
+_ / _|Il fait du vent. / Il y a du vent.|It's windy.
+_.|Il y a des nuages.|It's cloudy.
+_.|Il y a des orages.|There are storms.
+_.|Il pleut.|It's raining.
+_.|Il neige.|It's snowing.
 |les saisons|seasons
-|le printemps / au printemps|spring / in the spring
-|l'été (m) / en été|summer / in the summer
-|l'automne (m) / en automne|fall / in the fall
-|l'hiver (m) / en hiver|winter / in the winter
+_ / _|le printemps / au printemps|spring / in the spring
+_ / _|l'été (m) / en été|summer / in the summer
+_ / _|l'automne (m) / en automne|fall / in the fall
+_ / _|l'hiver (m) / en hiver|winter / in the winter
 |la géographie|geography
 |la campagne|countryside
 |la ville|town, city
@@ -42,10 +42,10 @@
 |le Massif Central|the Massif Central
 |les Vosges (f)|the Vosges
 |les points cardinaux|points of the compass
-|dans le nord / au nord|in the north
-|dans le sud / au sud|in the south
-|dans l'est / à l'est|in the east
-|dans l'ouest / à l'ouest|in the west
+_ / _|dans le nord / au nord|in the north
+_ / _|dans le sud / au sud|in the south
+_ / _|dans l'est / à l'est|in the east
+_ / _|dans l'ouest / à l'ouest|in the west
 |au centre|in the center
 |sur la côte|on the coast
 |L'Hexagone|France
@@ -83,20 +83,20 @@
 |un monument|a monument
 |un musée|a museum
 |les transports|means of transport
-|Comment voyagez-vous?|How do you travel?
-|Je voyage...|I travel...
-|en avion / un avion|by plane / plane
-|en bateau / un bateau|by boat / boat
-|en train / un train|by train / train
-|en car / un car|by tour bus (from city to city) / tour bus
-|en voiture / une voiture|by car / car
-|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
-|Je vais...|I go...
-|en métro / le métro|by subway / subway
-|en bus / un bus|by bus / bus
-|en taxi / un taxi|by taxi / taxi
-|à moto / une moto|by motorcycle / motorcycle
-|à vélo / un vélo|by bicycle / bicycle
+_;|Comment voyagez-vous?|How do you travel?
+_...|Je voyage...|I travel...
+_ / _|en avion / un avion|by plane / plane
+_ / _|en bateau / un bateau|by boat / boat
+_ / _|en train / un train|by train / train
+_ / _|en car / un car|by tour bus (from city to city) / tour bus
+_ / _|en voiture / une voiture|by car / car
+_;|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+_...|Je vais...|I go...
+_ / _|en métro / le métro|by subway / subway
+_ / _|en bus / un bus|by bus / bus
+_ / _|en taxi / un taxi|by taxi / taxi
+_ / _|à moto / une moto|by motorcycle / motorcycle
+_ / _|à vélo / un vélo|by bicycle / bicycle
 |à pied|on foot
 |verbes|verbs
 |acheter|to buy

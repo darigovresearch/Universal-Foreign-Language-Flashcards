@@ -23,28 +23,28 @@
 |vert / verte|green
 |violet / violette|purple
 |le portrait physique|physical description
-|Quelle est votre taille (f)?|What's your height?
-|Je fais 1 m. 60.|I'm one meter 60.
+_;|Quelle est votre taille (f)?|What's your height?
+_.|Je fais 1 m. 60.|I'm one meter 60.
 |de taille moyenne|of medium height
-|Combien pesez-vous?|How much do you weigh?
-|Je fais 55 kilos.|I weigh 55 kilos.
+_;|Combien pesez-vous?|How much do you weigh?
+_.|Je fais 55 kilos.|I weigh 55 kilos.
 |maigre|thin, skinny
 |mince|thin, slender
-|De quelle couleur sont vos cheveux?|What color is your hair?
-|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
-|Il est... Elle est...|He is... She is...
-|blond. blonde.|a blond.
-|brun. brune.|a brunette.
+_;|De quelle couleur sont vos cheveux?|What color is your hair?
+_.|J'ai les cheveux blonds / bruns / châtain (invariable) / roux.|I have blond / brown / light brown, chestnut / red hair.
+_.|Il est... Elle est...|He is... She is...
+_.|blond. blonde.|a blond.
+_.|brun. brune.|a brunette.
 |roux. rousse.|a red-head.
-|Comment est-il coiffé?|What is his hair like?
+_;|Comment est-il coiffé?|What is his hair like?
 |Il a les cheveux longs / courts / bouclés / raides.|He has long / short / curly / straight hair.
-|De quelle couleur sont vos yeux?|What color are your eyes?
+_;|De quelle couleur sont vos yeux?|What color are your eyes?
 |J'ai les yeux marron.|I have brown eyes.
-|Quelle est la forme de son visage?|What's the shape of his face?
-|Il a le visage carré / long / rond.|He has a square / long / round face.
-|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
-|Il a de grandes oreilles.|He has big ears.
-|Il/Elle a...|He/She has...
+_;|Quelle est la forme de son visage?|What's the shape of his face?
+_.|Il a le visage carré / long / rond.|He has a square / long / round face.
+_.|Il a le nez retroussé / pointu.|He has a snub / pointed nose.
+_.|Il a de grandes oreilles.|He has big ears.
+_...|Il/Elle a...|He/She has...
 |des lunettes (f)|glasses
 |une cicatrice|scar
 |un piercing|body piercing

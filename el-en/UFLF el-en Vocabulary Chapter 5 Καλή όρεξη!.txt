@@ -45,7 +45,7 @@
 |de la salade|salad, lettuce
 |des tomates (f)|tomatoes
 |à la boucherie|at the butcher shop
-|Chez le boucher, on achète ...|At the butcher's, you buy ...
+_, _ ...|Chez le boucher, on achète ...|At the butcher's, you buy ...
 |de la viande|meat
 |du boeuf|beef
 |du porc|pork
@@ -54,19 +54,19 @@
 |de la dinde|turkey
 |du poulet|chicken
 |à la charcuterie|at the pork butcher shop, delicatessen
-|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
+_, _ ...|Chez le charcutier, on achète ...|At the pork butcher's, you buy ...
 |du jambon|ham
 |du pâté|pâté
 |des saucisses (f)|sausages
 |du saucisson|hard sausage
 |à la poissonnerie|at the seafood shop
-|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
+_, _ ...|Chez le poissonnier, on achète ...|At the fish merchant's, you buy ...
 |du poisson|fish
 |du saumon|salmon
 |de la sole|sole
 |du thon|tuna
 |à l'épicerie|at the grocery store
-|Chez l'épicier, on trouve ...|At the grocer's, you find ...
+_, _ ...|Chez l'épicier, on trouve ...|At the grocer's, you find ...
 |des céréales (m)|cereal
 |un oeuf, des oeufs|eggs
 |des noix (f)|walnuts
@@ -84,13 +84,13 @@
 |de la mayonnaise|mayonnaise
 |de la moutarde|mustard
 |à la boulangerie-pâtisserie|at the bakery-pastry shop
-|Chez le boulanger, on trouve ...|At the baker's, you find ...
+_, _ ...|Chez le boulanger, on trouve ...|At the baker's, you find ...
 |du pain|bread
 |une baguette|baguette
 |une brioche|brioche
 |un croissant|croissant
 |un petit pain|roll
-|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
+_, _ ...|Chez le patissier, on trouve ...|At the pastry chef's, you find ...
 |des pâtisseries (f)|pastries
 |un gâteau|cake
 |un gâteau au chocolat|chocolate cake
@@ -99,7 +99,7 @@
 |une tarte au citron|lemon tart
 |une tarte à la fraise|strawberry tart
 |au café|at the café
-|Au café, on commande ...|At the café, you order ...
+_, _ ...|Au café, on commande ...|At the café, you order ...
 |des boissons non-alcoolisées|non-alcoholic beverages
 |du café|coffee
 |du thé|tea
@@ -120,7 +120,7 @@
 |une quiche (lorraine, au saumon, etc.)|quiche (lorraine, salmon, etc.)
 |une omelette (aux fines herbes, au fromage)|omelette (with herbs, cheese)
 |au restaurant|at the restaurant
-|Au restaurant, on commande ...|At the restaurant, you order ...
+_, _ ...|Au restaurant, on commande ...|At the restaurant, you order ...
 |un apéritif (m)|before dinner drink
 |une entrée (f)|appetizer / first course
 |un plat principal|main course
@@ -166,7 +166,7 @@
 |salé(e)|salty
 |sucré(e)|sweet
 |verbes|verbs
-|avoir faim / avoir soif|to be hungry / to be thirsty
+_ / _|avoir faim / avoir soif|to be hungry / to be thirsty
 |boire|to drink
 |déjeuner|to have lunch
 |dîner|to have dinner

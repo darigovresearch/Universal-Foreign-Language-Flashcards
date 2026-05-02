@@ -25,13 +25,13 @@
 |Noël (m), le 25 décembre *|Christmas
 |la Saint-Sylvestre, le 31 décembre|New Year's Eve
 |expressions|expressions
-|Bonne Année!|Happy New Year!
-|Bonne fête!|Happy Saint's Day!
-|Bon (Joyeux) anniversaire!|Happy Birthday!
-|Meilleurs Voeux!|Best wishes!
-|Poisson d'avril!|April Fool!
-|Joyeuses Pâques!|Happy Easter!
-|Joyeux Noël!|Merry Christmas!
+_!|Bonne Année!|Happy New Year!
+_!|Bonne fête!|Happy Saint's Day!
+_!|Bon (Joyeux) anniversaire!|Happy Birthday!
+_!|Meilleurs Voeux!|Best wishes!
+_!|Poisson d'avril!|April Fool!
+_!|Joyeuses Pâques!|Happy Easter!
+_!|Joyeux Noël!|Merry Christmas!
 |rites et coutumes|rituals and customs
 |le réveillon|Christmas Eve or New Year's Eve party
 |des feux d'artifice (m)|fireworks

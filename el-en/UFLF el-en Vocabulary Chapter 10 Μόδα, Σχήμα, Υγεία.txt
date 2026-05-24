@@ -43,17 +43,17 @@
 |une écharpe|scarf
 |des gants (m)|gloves
 |les passe-temps|pastimes
-|la course à pied / faire de la course à pied|running / to go running
-|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
-|le roller / faire du roller|roller blading / to go roller blading
-|le cyclisme / faire du cyclisme|cycling / to go cycling
-|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
-|la musculation / faire de la musculation|weight training / to train with weights
-|la natation / faire de la natation|swimming / to go swimming
-|le canoë / faire du canoë|canoeing / to go canoeing
-|le kayak / faire du kayak|kayaking / to go kayaking
-|la peinture / faire de la peinture|painting / to paint (art)
-|les échecs (m) / jouer aux échecs|chess / to play chess
+_ / _|la course à pied / faire de la course à pied|running / to go running
+_ / _|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
+_ / _|le roller / faire du roller|roller blading / to go roller blading
+_ / _|le cyclisme / faire du cyclisme|cycling / to go cycling
+_ / _|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
+_ / _|la musculation / faire de la musculation|weight training / to train with weights
+_ / _|la natation / faire de la natation|swimming / to go swimming
+_ / _|le canoë / faire du canoë|canoeing / to go canoeing
+_ / _|le kayak / faire du kayak|kayaking / to go kayaking
+_ / _|la peinture / faire de la peinture|painting / to paint (art)
+_ / _|les échecs (m) / jouer aux échecs|chess / to play chess
 |le yoga / faire du yoga|yoga
 |le surf / faire du surf|surfing
 |le cheval / faire du cheval|horseback riding
@@ -78,7 +78,7 @@
 |le derrière|rear, behind
 |les fesses (f)|buttocks
 |la jambe|leg
-|le genou / les genoux|knee / knees
+_ / _|le genou / les genoux|knee / knees
 |la cheville|ankle
 |le pied|foot
 |les orteils (m)|toes
@@ -95,7 +95,7 @@
 |s'habiller|to get dressed
 |mettre|to put (on)
 |porter|to wear
-|aller bien / aller mal|to fit well/poorly
+_ / _|aller bien / aller mal|to fit well/poorly
 |grossir|to gain weight
 |être au régime / faire un régime|to be on a diet
 |faire du sport|to exercise
@@ -110,12 +110,12 @@
 |fumer|to smoke
 |être en bonne santé|to be in good health
 |expressions interrogatives|interrogative expressions
-|Qu'est-ce qui se passe?|What is going on?
-|Qu'est-ce qui t'intéresse?|What interests you?
-|Qu'est-ce qui t'énerve?|What bothers you?
-|Qu'est-ce qui te fait peur?|What scares you?
-|Qu'est-ce qui te fait plaisir?|What pleases you?
-|Qu'est-ce qui t'amuse?|What amuses you?
+_;|Qu'est-ce qui se passe?|What is going on?
+_;|Qu'est-ce qui t'intéresse?|What interests you?
+_;|Qu'est-ce qui t'énerve?|What bothers you?
+_;|Qu'est-ce qui te fait peur?|What scares you?
+_;|Qu'est-ce qui te fait plaisir?|What pleases you?
+_;|Qu'est-ce qui t'amuse?|What amuses you?
 |expressions impersonnelles|impersonal questions
 |Il faut + infinitif|It is necessary (to)
 |Il vaut mieux + infinitif|It is advisable (to), It is better (to)
@@ -123,7 +123,7 @@
 |Il est nécessaire de + infinitif|It is necessary (to)
 |Il est essentiel de + infinitif|It is essential (to)
 |Il est indispensable de + infinitif|It is essential (to)
-|Il est amusant de ...|It is fun (to) ...
-|Il est difficile de ...|It is difficult (to) ...
-|Il est facile de ...|It is easy (to) ...
-|Il est fatigant de ...|It is tiring/annoying (to) ...
+_...|Il est amusant de ...|It is fun (to) ...
+_...|Il est difficile de ...|It is difficult (to) ...
+_...|Il est facile de ...|It is easy (to) ...
+_...|Il est fatigant de ...|It is tiring/annoying (to) ...

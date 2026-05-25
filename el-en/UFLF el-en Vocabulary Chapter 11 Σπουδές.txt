@@ -23,9 +23,9 @@
 |une cafétéria|cafeteria
 |un amphithéâtre / un amphi|amphitheater
 |une salle de classe|classroom
-|un cours (de maths...)|a class (math class...)
+_ (_...)|un cours (de maths...)|a class (math class...)
 |un cours magistral (des cours magistraux)|large lecture class
-|un laboratoire / un labo|laboratory / lab
+_ / _|un laboratoire / un labo|laboratory / lab
 |une bibliothèque|library
 |les devoirs (m)|homework
 |une copie|student paper
@@ -77,9 +77,9 @@
 |prochain(e)|next
 |dernier / dernière|last
 |verbes|verbs
-|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
+_ (_ ...)|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
 |régler (les frais d’inscription)|to pay (one’s tuition/fees)
-|En quelle matiére est-ce que tu te spécialises?|What's your major?
+_;|En quelle matiére est-ce que tu te spécialises?|What's your major?
 |suivre|to take (a course), to follow
 |aller en cours|to attend class
 |faire ses devoirs|to do one’s homework
@@ -90,12 +90,12 @@
 |comprendre|to understand
 |passer un examen|to take an exam
 |réussir (à) un examen|to pass (an exam), to succeed (in)
-|réussir à + infinitif|to succeed at ...
+_ ...|réussir à + infinitif|to succeed at ...
 |avoir la moyenne|to receive a passing grade
 |recevoir son diplôme|to graduate, to complete one’s studies
-|être bonne / bon en ...|to be good in/at ...
-|être mauvais(e) en ...|to be bad in/at ...
-|être nul(le) en ... [slang]|to suck in/at ...
+_ ...|être bonne / bon en ...|to be good in/at ...
+_ ...|être mauvais(e) en ...|to be bad in/at ...
+_ ...|être nul(le) en ... [slang]|to suck in/at ...
 |se décourager|to be discouraged
 |sécher un cours|to skip a class
 |rater|to fail

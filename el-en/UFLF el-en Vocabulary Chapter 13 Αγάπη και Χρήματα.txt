@@ -78,7 +78,7 @@
 |divorcer|to get divorced
 |tromper|to cheat on
 |l'horoscope (m)|horoscope
-|Quel est ton signe?|What's your sign?
+_;|Quel est ton signe?|What's your sign?
 |le signe|sign
 |le Capricorne|Capricorn
 |le Verseau|Aquarius

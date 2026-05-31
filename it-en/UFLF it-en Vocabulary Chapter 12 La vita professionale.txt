@@ -11,7 +11,7 @@ il mondo di lavoro|le monde du travail|the working world
 |les petites annonces (f pl)|classified ads
 |un curriculum vitae (un CV)|résumé
 |un entretien|interview
-|les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
+_ (_)|les avantages sociaux (m)|benefits (health insurance, retirement plan, etc.)
 |un salaire|salary
 |les congés|vacation days
 |une promotion|promotion
@@ -41,7 +41,7 @@ il mondo di lavoro|le monde du travail|the working world
 |un/une comptable|accountant
 |un publicitaire|advertising agent
 |un/une secrétaire|secretary
-|un employé / une employée (de bureau)|employee (office employee)
+_ (_)|un employé / une employée (de bureau)|employee (office employee)
 |un ouvrier / une ouvrière|blue collar worker
 |une usine|factory
 |un informaticien / une informaticienne|computer scientist
@@ -58,7 +58,7 @@ il mondo di lavoro|le monde du travail|the working world
 |un boulanger / une boulangère|a baker
 |un couturier / une couturière|fashion designer, seamstress
 |un coiffeur / une coiffeuse|hairdresser
-|un critique (de films, d'art, etc.)|critic (film, art, etc.)
+_ (_)|un critique (de films, d'art, etc.)|critic (film, art, etc.)
 |un écrivain|writer
 |un journaliste|reporter, journalist
 |un peintre / une peintre|painter
@@ -80,7 +80,7 @@ cercare un posto|chercher une situation|to look for a job
 |remplir un formulaire|to fill out a form
 |embaucher / être embauché(e)|to hire / to be hired
 |gérer|to manage, direct, organize
-|gagner sa vie / gagner de l'argent|to earn a living / to earn money
+_ / _|gagner sa vie / gagner de l'argent|to earn a living / to earn money
 |payer des impôts|to pay taxes
 |être au chômage|to be unemployed
 |être à la retraite|to be retired

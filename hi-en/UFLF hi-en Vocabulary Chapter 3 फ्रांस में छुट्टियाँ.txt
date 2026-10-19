@@ -1,117 +1,117 @@
-|le temps|weather
-|Quel temps fait-il?|What's the weather?
-|Il fait beau.|It's nice.
-|Il fait chaud.|It's hot.
-|Il fait du soleil. / Il y a du soleil.|It's sunny.
-|Il fait frais.|It's cool.
-|Il fait mauvais.|It's bad.
-|Il fait froid.|It's cold.
-|Il fait du brouillard. / Il y a du brouillard.|It's foggy.
-|Il fait du vent. / Il y a du vent.|It's windy.
-|Il y a des nuages.|It's cloudy.
-|Il y a des orages.|There are storms.
-|Il pleut.|It's raining.
-|Il neige.|It's snowing.
-|les saisons|seasons
-|le printemps / au printemps|spring / in the spring
-|l'été (m) / en été|summer / in the summer
-|l'automne (m) / en automne|fall / in the fall
-|l'hiver (m) / en hiver|winter / in the winter
-|la géographie|geography
-|la campagne|countryside
-|la ville|town, city
-|une province|province
-|une région|region
-|un lac|lake
-|un fleuve|major river (that flows to the sea)
-|la Loire|the Loire (river)
-|la Garonne|the Garonne (river)
-|le Rhône|the Rhône (river)
-|la Seine|the Seine (river)
-|la mer|sea
-|la mer Méditerranée|the Mediterranean Sea
-|l'océan (m)|ocean
-|l'océan Atlantique|the Atlantic Ocean
-|la Manche|the English Channel
-|la plage|beach
-|une forêt|forest
-|la montagne|mountain
-|les Alpes (f)|the Alps
-|le Jura|the Jura (mountains)
-|les Pyrénées (f)|the Pyrenees
-|le Massif Central|the Massif Central
-|les Vosges (f)|the Vosges
-|les points cardinaux|points of the compass
-|dans le nord / au nord|in the north
-|dans le sud / au sud|in the south
-|dans l'est / à l'est|in the east
-|dans l'ouest / à l'ouest|in the west
-|au centre|in the center
-|sur la côte|on the coast
-|L'Hexagone|France
-|l'Alsace (f)|Alsace
-|la Bourgogne|Burgundy
-|la Bretagne|Brittany
-|la Côte d'Azur|the Riviera
-|la Corse|Corsica
-|l'Ile de France (f)|Ile de France
-|(la région parisienne)|(Parisian region)
-|la Lorraine|Lorraine
-|la Normandie|Normandy
-|la Provence|Provence
-|la Vallée de la Loire|the Loire Valley
-|les activités|activities
-|aller|to go
-|aller au cinéma|to go to the movies
-|aller en boîte|to go clubbing
-|aller au concert|to go to a concert
-|aller à l'université|to go to the university
-|aller au parc|to go to the park
-|faire de la bicyclette|to go bicycle riding
-|faire du bateau|to go boating
-|faire de la planche à voile|to go windsurfing
-|faire des randonnées|to go hiking
-|faire du ski|to go skiing
-|faire du vélo|to go cycling
-|faire de la voile|to go sailing
-|faire une promenade|to take a walk
-|passer les vacances (f pl)|spend a vacation
-|visiter... (un lieu, pas une personne)|to visit... (a place, not a person)
-|une cathédrale|a cathedral
-|un château|a castle
-|une exposition|an exhibition, show
-|un monument|a monument
-|un musée|a museum
-|les transports|means of transport
-|Comment voyagez-vous?|How do you travel?
-|Je voyage...|I travel...
-|en avion / un avion|by plane / plane
-|en bateau / un bateau|by boat / boat
-|en train / un train|by train / train
-|en car / un car|by tour bus (from city to city) / tour bus
-|en voiture / une voiture|by car / car
-|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
-|Je vais...|I go...
-|en métro / le métro|by subway / subway
-|en bus / un bus|by bus / bus
-|en taxi / un taxi|by taxi / taxi
-|à moto / une moto|by motorcycle / motorcycle
-|à vélo / un vélo|by bicycle / bicycle
-|à pied|on foot
-|verbes|verbs
-|acheter|to buy
-|amener|to bring somebody (along)
-|changer|to change
-|dormir|to sleep
-|emmener|to take somebody (along)
-|espérer|to hope
-|essayer|to try
-|manger|to eat
-|nager|to swim
-|partager|to share
-|partir|to leave
-|sortir|to go out
-|les nombres cardinaux 70-100|Cardinal Numbers 70-100
+|le temps|मौसम
+|Quel temps fait-il?|मौसम कैसा है?
+|Il fait beau.|मौसम अच्छा है।
+|Il fait chaud.|गर्मी है।
+|Il fait du soleil. / Il y a du soleil.|धूप है।
+|Il fait frais.|मौसम ठंडा-ठंडा है।
+|Il fait mauvais.|मौसम खराब है।
+|Il fait froid.|ठंड है।
+|Il fait du brouillard. / Il y a du brouillard.|कोहरा है।
+|Il fait du vent. / Il y a du vent.|हवा चल रही है।
+|Il y a des nuages.|बादल छाए हुए हैं।
+|Il y a des orages.|तूफ़ान आ रहे हैं।
+|Il pleut.|बारिश हो रही है।
+|Il neige.|बर्फ़बारी हो रही है।
+|les saisons|ऋतुएँ
+|le printemps / au printemps|वसंत ऋतु / वसंत ऋतु में
+|l'été (m) / en été|गर्मी का मौसम / गर्मियों में
+|l'automne (m) / en automne|पतझड़ / पतझड़ में
+|l'hiver (m) / en hiver|सर्दी का मौसम / सर्दियों में
+|la géographie|भूगोल
+|la campagne|देहात / ग्रामीण क्षेत्र
+|la ville|कस्बा, शहर
+|une province|प्रांत
+|une région|क्षेत्र
+|un lac|झील
+|un fleuve|बड़ी नदी (जो समुद्र में मिलती है)
+|la Loire|ल्वार नदी
+|la Garonne|गारोन नदी
+|le Rhône|रोन नदी
+|la Seine|सीन नदी
+|la mer|समुद्र
+|la mer Méditerranée|भूमध्य सागर
+|l'océan (m)|महासागर
+|l'océan Atlantique|अटलांटिक महासागर
+|la Manche|इंग्लिश चैनल
+|la plage|समुद्र तट
+|une forêt|जंगल
+|la montagne|पहाड़
+|les Alpes (f)|आल्प्स पर्वत
+|le Jura|जुरा पर्वत
+|les Pyrénées (f)|पिरेनीज़ पर्वत
+|le Massif Central|मासिफ सेंट्रल पर्वत क्षेत्र
+|les Vosges (f)|वोज पर्वत
+|les points cardinaux|दिशाएँ
+|dans le nord / au nord|उत्तर में
+|dans le sud / au sud|दक्षिण में
+|dans l'est / à l'est|पूर्व में
+|dans l'ouest / à l'ouest|पश्चिम में
+|au centre|केंद्र में
+|sur la côte|तट पर
+|L'Hexagone|फ्रांस
+|l'Alsace (f)|अल्सास
+|la Bourgogne|बर्गंडी
+|la Bretagne|ब्रिटनी
+|la Côte d'Azur|फ्रेंच रिवेरा
+|la Corse|कोर्सिका
+|l'Ile de France (f)|इले-दे-फ्रांस
+|(la région parisienne)|(पेरिस क्षेत्र)
+|la Lorraine|लोरेन
+|la Normandie|नॉर्मंडी
+|la Provence|प्रोवांस
+|la Vallée de la Loire|ल्वार घाटी
+|les activités|गतिविधियाँ
+|aller|जाना
+|aller au cinéma|सिनेमा देखने जाना
+|aller en boîte|नाइटक्लब जाना
+|aller au concert|संगीत कार्यक्रम में जाना
+|aller à l'université|विश्वविद्यालय जाना
+|aller au parc|पार्क जाना
+|faire de la bicyclette|साइकिल चलाना
+|faire du bateau|नाव की सवारी करना
+|faire de la planche à voile|विंडसर्फिंग करना
+|faire des randonnées|लंबी पैदल यात्रा करना
+|faire du ski|स्कीइंग करना
+|faire du vélo|साइकिल चलाना
+|faire de la voile|पाल वाली नाव चलाना
+|faire une promenade|टहलने जाना
+|passer les vacances (f pl)|छुट्टियाँ बिताना
+|visiter... (un lieu, pas une personne)|घूमने जाना... (किसी जगह पर, किसी व्यक्ति से मिलने नहीं)
+|une cathédrale|एक बड़ा गिरजाघर
+|un château|एक महल / किला
+|une exposition|एक प्रदर्शनी
+|un monument|एक स्मारक
+|un musée|एक संग्रहालय
+|les transports|यातायात के साधन
+|Comment voyagez-vous?|आप यात्रा कैसे करते हैं?
+|Je voyage...|मैं यात्रा करता/करती हूँ...
+|en avion / un avion|हवाई जहाज़ से / हवाई जहाज़
+|en bateau / un bateau|नाव से / नाव
+|en train / un train|ट्रेन से / ट्रेन
+|en car / un car|लंबी दूरी की बस से / लंबी दूरी की बस
+|en voiture / une voiture|कार से / कार
+|Comment allez-vous... (à l'université, chez vos parents, au travail, etc.)?|आप ... कैसे जाते हैं (विश्वविद्यालय, माता-पिता के घर, काम पर आदि)?
+|Je vais...|मैं ... जाता/जाती हूँ
+|en métro / le métro|मेट्रो से / मेट्रो
+|en bus / un bus|बस से / बस
+|en taxi / un taxi|टैक्सी से / टैक्सी
+|à moto / une moto|मोटरसाइकिल से / मोटरसाइकिल
+|à vélo / un vélo|साइकिल से / साइकिल
+|à pied|पैदल
+|verbes|क्रियाएँ
+|acheter|खरीदना
+|amener|किसी को साथ लाना
+|changer|बदलना
+|dormir|सोना
+|emmener|किसी को साथ ले जाना
+|espérer|आशा करना
+|essayer|कोशिश करना
+|manger|खाना
+|nager|तैरना
+|partager|साझा करना
+|partir|रवाना होना
+|sortir|बाहर जाना
+|les nombres cardinaux 70-100|मूल संख्याएँ 70-100
 |soixante-dix|70
 |soixante et onze|71
 |soixante-douze|72

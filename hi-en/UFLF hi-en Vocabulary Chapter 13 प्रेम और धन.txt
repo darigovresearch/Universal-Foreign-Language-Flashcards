@@ -1,94 +1,95 @@
-|les finances|finances
-|une banque|bank
-|une caisse d'épargne|savings and loan association
-|un compte (bancaire)|(bank) account
-|un distributeur (automatique de billets), un guichet automatique|ATM (automatic teller machine)
-|l'euro|euro (currency)
-|un héritage|inheritance
-|les dépenses|expenses
-|les factures (f pl)|bills
-|le logement|housing
-|le loyer|rent
-|l'alimentation|food
-|le divertissement / les loisirs|entertainment
-|la facture de téléphone|telephone bill
-|les frais (m) de scolarité|tuition, education expenses
-|l'emprunt-étudiant|student loan
-|l'assurance|insurance
-|l'essence (f)|gas
-|les charges|utilities
-|les impôts (m pl)|taxes
-|les dettes (f pl)|debts
-|la bourse|the stock market
-|des actions (f pl)|stocks
-|un portefeuille|portfolio (also, wallet)
-|adjectifs|adjectives
-|généreux / généreuse|generous
-|dépensier / dépensière|spendthrift
-|radin / radine [slang]|miserly, stingy
-|économe|economical, frugal
-|bon marché / pas cher|inexpensive
-|être en solde|to be on sale
-|un prix intéressant|a good price
-|cher / chère|expensive
-|être fauché(e) [slang]|to be broke
-|être aisé(e)|to be well off
-|satisfait(e)|satisfied, fulfilled
-|verbes - les finances|verbs - finances
-|coûter|to cost
-|dépenser|to spend
-|rembourser|to reimburse
-|emprunter|borrow
-|avoir les moyens de|to have the means to
-|louer|to rent
-|faire un budget|to establish a budget
-|dépasser son budget|to go beyond one's budget
-|avoir des dettes|to have debts
-|gaspiller|to waste
-|faire des économies|to save money
-|offrir|to give, to offer
-|les amours|love life
-|un couple|couple
-|le coup de foudre|love at first sight
-|l'amour passion (m)|passionate love
-|le grand amour|the love of one's life
-|un rendez-vous|date (also an appointment)
-|une relation|relationship
-|les fiançailles (f pl)|engagement
-|un fiancé / une fiancée|fiancé / fiancée
-|le mariage|marriage, wedding
-|la compatibilité|compatibility / matching
-|l'apparence physique|physical appearance
-|le bonheur|happiness
-|la communication|interaction / communication
-|le sens de l'humour|sense of humor
-|le respect|respect
-|l'honnêteté (f)|honesty
-|le romantisme|romanticism
-|verbes - les amours|verbs - love life
-|draguer|to try to pick up, to hit on someone, to flirt
-|être amis|to be friends
-|vivre ensemble|to live together
-|s'embrasser|to kiss each other
-|s'aimer|to love each other
-|se pacser|to enter a PACS contract
-|se fiancer|to get engaged
-|se marier|to get married
-|rompre|to break up
-|divorcer|to get divorced
-|tromper|to cheat on
-|l'horoscope (m)|horoscope
-|Quel est ton signe?|What's your sign?
-|le signe|sign
-|le Capricorne|Capricorn
-|le Verseau|Aquarius
-|les Poissons (m)|Pisces
-|le Bélier|Aries
-|le Taureau|Taurus
-|les Gémeaux (m)|Gemini
-|le Cancer|Cancer
-|le Lion|Leo
-|la Vierge|Virgo
-|la Balance|Libra
-|le Scorpion|Scorpio
-|le Sagittaire|Sagittarius
+
+|les finances|वित्त
+|une banque|बैंक
+|une caisse d'épargne|बचत बैंक
+|un compte (bancaire)|बैंक खाता
+|un distributeur (automatique de billets), un guichet automatique|एटीएम (स्वचालित नकद निकासी मशीन)
+|l'euro|यूरो (मुद्रा)
+|un héritage|विरासत
+|les dépenses|खर्चे
+|les factures (f pl)|बिल
+|le logement|आवास
+|le loyer|किराया
+|l'alimentation|भोजन
+|le divertissement / les loisirs|मनोरंजन / खाली समय की गतिविधियाँ
+|la facture de téléphone|टेलीफोन का बिल
+|les frais (m) de scolarité|ट्यूशन फीस / शिक्षा का खर्च
+|l'emprunt-étudiant|छात्र ऋण
+|l'assurance|बीमा
+|l'essence (f)|पेट्रोल
+|les charges|बिजली, पानी और अन्य उपयोगिता खर्च
+|les impôts (m pl)|कर
+|les dettes (f pl)|कर्ज़
+|la bourse|शेयर बाज़ार
+|des actions (f pl)|शेयर
+|un portefeuille|निवेश पोर्टफोलियो / बटुआ
+|adjectifs|विशेषण
+|généreux / généreuse|उदार
+|dépensier / dépensière|फिजूलखर्च
+|radin / radine [slang]|कंजूस [बोलचाल]
+|économe|मितव्ययी
+|bon marché / pas cher|सस्ता
+|être en solde|छूट पर होना
+|un prix intéressant|अच्छी कीमत
+|cher / chère|महँगा
+|être fauché(e) [slang]|पैसे की तंगी में होना [बोलचाल]
+|être aisé(e)|धनवान होना
+|satisfait(e)|संतुष्ट
+|verbes - les finances|क्रियाएँ - वित्त
+|coûter|कीमत होना
+|dépenser|खर्च करना
+|rembourser|पैसे वापस करना
+|emprunter|उधार लेना
+|avoir les moyens de|... करने के साधन होना / खर्च उठा पाना
+|louer|किराए पर लेना / देना
+|faire un budget|बजट बनाना
+|dépasser son budget|बजट से अधिक खर्च करना
+|avoir des dettes|कर्ज़ में होना
+|gaspiller|बर्बाद करना
+|faire des économies|पैसे बचाना
+|offrir|देना / भेंट करना
+|les amours|प्रेम जीवन
+|un couple|जोड़ा
+|le coup de foudre|पहली नज़र का प्यार
+|l'amour passion (m)|जुनूनी प्रेम
+|le grand amour|जीवन का सच्चा प्यार
+|un rendez-vous|मुलाकात / डेट
+|une relation|रिश्ता
+|les fiançailles (f pl)|सगाई
+|un fiancé / une fiancée|मंगेतर (पुरुष) / मंगेतर (महिला)
+|le mariage|विवाह / शादी
+|la compatibilité|अनुकूलता / आपसी मेल
+|l'apparence physique|शारीरिक रूप-रंग
+|le bonheur|खुशी
+|la communication|बातचीत / संचार
+|le sens de l'humour|हास्यबोध
+|le respect|सम्मान
+|l'honnêteté (f)|ईमानदारी
+|le romantisme|रोमांस
+|verbes - les amours|क्रियाएँ - प्रेम जीवन
+|draguer|फ्लर्ट करना / किसी को रिझाने की कोशिश करना
+|être amis|दोस्त होना
+|vivre ensemble|साथ रहना
+|s'embrasser|एक-दूसरे को चूमना
+|s'aimer|एक-दूसरे से प्यार करना
+|se pacser|PACS समझौते के तहत कानूनी साझेदारी करना
+|se fiancer|सगाई करना
+|se marier|शादी करना
+|rompre|रिश्ता तोड़ना
+|divorcer|तलाक लेना
+|tromper|धोखा देना / बेवफ़ाई करना
+|l'horoscope (m)|राशिफल
+|Quel est ton signe?|तुम्हारी राशि क्या है?
+|le signe|राशि / चिह्न
+|le Capricorne|मकर राशि
+|le Verseau|कुंभ राशि
+|les Poissons (m)|मीन राशि
+|le Bélier|मेष राशि
+|le Taureau|वृषभ राशि
+|les Gémeaux (m)|मिथुन राशि
+|le Cancer|कर्क राशि
+|le Lion|सिंह राशि
+|la Vierge|कन्या राशि
+|la Balance|तुला राशि
+|le Scorpion|वृश्चिक राशि
+|le Sagittaire|धनु राशि

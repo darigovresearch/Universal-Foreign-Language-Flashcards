@@ -1,103 +1,104 @@
-|les études secondaires et supérieures|high school and university studies
-|la rentrée|beginning of school year
-|le collège|junior high, middle school
-|le lycée|high school
-|un lycéen / une lycéenne|high school student
-|la seconde|first year of high school
-|la première|second year of high school
-|la terminale|final year of high school
-|le baccalauréat / le bac|baccalaureate exam
-|un bachelier / une bachelière|student who has passed the bac
-|un concours (d'entrée)|competitive entrance exam
-|la fac|college, university
-|la Faculté des Beaux-Arts|school of fine arts
-|la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
-|la Faculté de Médecine|school of medicine
-|la Faculté de Pharmacie|school of pharmacy
-|la Faculté des Sciences|school of sciences
-|la Faculté de Droit|law school
-|L'Ecole de Commerce (f)|business school
-|les Grandes Écoles (f)|elite professional schools
-|une résidence universitaire|dormitory
-|un restaurant universitaire (un restau-U)|university cafeteria
-|une cafétéria|cafeteria
-|un amphithéâtre / un amphi|amphitheater
-|une salle de classe|classroom
-|un cours (de maths...)|a class (math class...)
-|un cours magistral (des cours magistraux)|large lecture class
-|un laboratoire / un labo|laboratory / lab
-|une bibliothèque|library
-|les devoirs (m)|homework
-|une copie|student paper
-|un exposé oral|oral presentation
-|un examen|test, exam
-|une note|grade
-|les résultats|results, grades
-|un bulletin de notes|grade report
-|un emploi du temps|schedule
-|une carte d'étudiant|student ID card
-|un stage|internship
-|un diplôme|a diploma, degree
-|les matières et les cours|subjects and classes
-|l'architecture (f)|architecture
-|l'art (m)|art
-|le dessin|drawing, design
-|la musique|music
-|la peinture|painting
-|la communication|communications
-|la comptabilité|accounting
-|le droit|law
-|l'économie (f)|economics
-|la géographie|geography
-|l'histoire (f)|history
-|l'informatique (f)|computer science
-|les langues (f)|languages
-|le chinois|Chinese
-|l'allemand (m)|German
-|l'anglais (m)|English
-|l'espagnol (m)|Spanish
-|le français|French
-|l'italien (m)|Italian
-|le latin|Latin
-|la linguistique|linguistics
-|la littérature|literature
-|les mathématiques (f) / les maths|math
-|la médecine|medicine
-|la pharmacie|pharmacy
-|la philosophie|philosophy
-|la psychologie|psychology
-|la biologie|biology
-|la chimie|chemistry
-|la physique|physics
-|les sciences politiques (f)|political science
-|la sociologie|sociology
-|adjectifs|adjectives
-|chargé(e)|full, busy (referring to schedule)
-|occupé(e)|busy
-|prochain(e)|next
-|dernier / dernière|last
-|verbes|verbs
-|s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
-|régler (les frais d’inscription)|to pay (one’s tuition/fees)
-|En quelle matiére est-ce que tu te spécialises?|What's your major?
-|suivre|to take (a course), to follow
-|aller en cours|to attend class
-|faire ses devoirs|to do one’s homework
-|faire un effort|to make an effort
-|faire des progrès|to improve
-|se renseigner|to find out about, to get information
-|apprendre|to learn
-|comprendre|to understand
-|passer un examen|to take an exam
-|réussir (à) un examen|to pass (an exam), to succeed (in)
-|réussir à + infinitif|to succeed at ...
-|avoir la moyenne|to receive a passing grade
-|recevoir son diplôme|to graduate, to complete one’s studies
-|être bonne / bon en ...|to be good in/at ...
-|être mauvais(e) en ...|to be bad in/at ...
-|être nul(le) en ... [slang]|to suck in/at ...
-|se décourager|to be discouraged
-|sécher un cours|to skip a class
-|rater|to fail
-|redoubler|to repeat a grade/course
-|quitter|to leave (something, someone or some place)
+
+|les études secondaires et supérieures|माध्यमिक और उच्च शिक्षा
+|la rentrée|नए शैक्षणिक वर्ष की शुरुआत
+|le collège|मिडिल स्कूल
+|le lycée|हाई स्कूल
+|un lycéen / une lycéenne|हाई स्कूल का छात्र / छात्रा
+|la seconde|हाई स्कूल का पहला वर्ष
+|la première|हाई स्कूल का दूसरा वर्ष
+|la terminale|हाई स्कूल का अंतिम वर्ष
+|le baccalauréat / le bac|बैकलॉरिएट परीक्षा
+|un bachelier / une bachelière|बैकलॉरिएट परीक्षा उत्तीर्ण छात्र / छात्रा
+|un concours (d'entrée)|प्रवेश के लिए प्रतियोगी परीक्षा
+|la fac|कॉलेज / विश्वविद्यालय
+|la Faculté des Beaux-Arts|ललित कला संकाय
+|la Faculté de Lettres et des Sciences Humaines|मानविकी और उदार कला संकाय
+|la Faculté de Médecine|चिकित्सा संकाय
+|la Faculté de Pharmacie|फार्मेसी संकाय
+|la Faculté des Sciences|विज्ञान संकाय
+|la Faculté de Droit|विधि संकाय
+|L'Ecole de Commerce (f)|बिज़नेस स्कूल
+|les Grandes Écoles (f)|प्रतिष्ठित व्यावसायिक उच्च शिक्षण संस्थान
+|une résidence universitaire|विश्वविद्यालय का छात्रावास
+|un restaurant universitaire (un restau-U)|विश्वविद्यालय की कैंटीन
+|une cafétéria|कैफेटेरिया
+|un amphithéâtre / un amphi|व्याख्यान कक्ष
+|une salle de classe|कक्षा
+|un cours (de maths...)|कक्षा / पाठ (गणित का पाठ...)
+|un cours magistral (des cours magistraux)|बड़े समूह के लिए व्याख्यान कक्षा
+|un laboratoire / un labo|प्रयोगशाला / लैब
+|une bibliothèque|पुस्तकालय
+|les devoirs (m)|गृहकार्य
+|une copie|छात्र द्वारा लिखी गई उत्तर-पुस्तिका
+|un exposé oral|मौखिक प्रस्तुति
+|un examen|परीक्षा
+|une note|अंक
+|les résultats|परिणाम / अंक
+|un bulletin de notes|अंकपत्र
+|un emploi du temps|समय-सारणी
+|une carte d'étudiant|छात्र पहचान-पत्र
+|un stage|इंटर्नशिप / प्रशिक्षण
+|un diplôme|डिप्लोमा / डिग्री
+|les matières et les cours|विषय और कक्षाएँ
+|l'architecture (f)|वास्तुकला
+|l'art (m)|कला
+|le dessin|चित्रकारी / डिज़ाइन
+|la musique|संगीत
+|la peinture|चित्रकला
+|la communication|संचार
+|la comptabilité|लेखांकन
+|le droit|कानून
+|l'économie (f)|अर्थशास्त्र
+|la géographie|भूगोल
+|l'histoire (f)|इतिहास
+|l'informatique (f)|कंप्यूटर विज्ञान
+|les langues (f)|भाषाएँ
+|le chinois|चीनी भाषा
+|l'allemand (m)|जर्मन भाषा
+|l'anglais (m)|अंग्रेज़ी भाषा
+|l'espagnol (m)|स्पेनिश भाषा
+|le français|फ्रेंच भाषा
+|l'italien (m)|इतालवी भाषा
+|le latin|लैटिन भाषा
+|la linguistique|भाषाविज्ञान
+|la littérature|साहित्य
+|les mathématiques (f) / les maths|गणित
+|la médecine|चिकित्सा विज्ञान
+|la pharmacie|फार्मेसी
+|la philosophie|दर्शनशास्त्र
+|la psychologie|मनोविज्ञान
+|la biologie|जीवविज्ञान
+|la chimie|रसायन विज्ञान
+|la physique|भौतिक विज्ञान
+|les sciences politiques (f)|राजनीति विज्ञान
+|la sociologie|समाजशास्त्र
+|adjectifs|विशेषण
+|chargé(e)|व्यस्त (समय-सारणी के संदर्भ में)
+|occupé(e)|व्यस्त
+|prochain(e)|अगला / अगली
+|dernier / dernière|पिछला / पिछली
+|verbes|क्रियाएँ
+|s’inscrire (à la fac, au ciné-club ...)|नाम लिखवाना / पंजीकरण करना (विश्वविद्यालय, फिल्म क्लब आदि में)
+|régler (les frais d’inscription)|पंजीकरण शुल्क / फीस भरना
+|En quelle matiére est-ce que tu te spécialises?|तुम किस विषय में विशेषज्ञता प्राप्त कर रहे/रही हो?
+|suivre|कोर्स करना / अनुसरण करना
+|aller en cours|कक्षा में जाना
+|faire ses devoirs|अपना गृहकार्य करना
+|faire un effort|प्रयास करना
+|faire des progrès|प्रगति करना / सुधार करना
+|se renseigner|जानकारी प्राप्त करना
+|apprendre|सीखना
+|comprendre|समझना
+|passer un examen|परीक्षा देना
+|réussir (à) un examen|परीक्षा में उत्तीर्ण होना / सफल होना
+|réussir à + infinitif|... करने में सफल होना
+|avoir la moyenne|उत्तीर्ण होने लायक अंक प्राप्त करना
+|recevoir son diplôme|डिग्री प्राप्त करना / पढ़ाई पूरी करना
+|être bonne / bon en ...|... में अच्छा होना
+|être mauvais(e) en ...|... में कमज़ोर होना
+|être nul(le) en ... [slang]|... में बहुत कमज़ोर होना [बोलचाल]
+|se décourager|हिम्मत हारना / निराश होना
+|sécher un cours|कक्षा छोड़ना / बिना बताए अनुपस्थित रहना
+|rater|असफल होना / चूक जाना
+|redoubler|कक्षा / वर्ष दोबारा करना
+|quitter|छोड़ना

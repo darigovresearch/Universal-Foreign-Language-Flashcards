@@ -1,178 +1,179 @@
-|salutations|greetings
-|Monsieur|Sir
-|Madame|Ma'am (Mrs.)
-|Mademoiselle|Miss
-|Bonjour, Monsieur|Good day (Hello), Sir
-|Bonsoir|Good evening
-|Au revoir|Goodbye
-|Salut!|Hi!
-|À tout à l'heure!|See you in a little while.
-|À ce soir.|See you this evening.
-|À demain.|See you tomorrow.
-|À bientôt.|See you soon.
-|Comment vous appelez-vous?|What's your name? (formal)
-|Comment tu t'appelles? (Comment t'appelles-tu?)|What's your name? (informal)
-|Je m'appelle ...|My name is ...
-|Comment allez-vous?|How are you? (formal)
-|Comment vas-tu?|How are you? (informal)
-|Je vais très bien, merci.|I am very well, thank you.
-|Je vais bien, merci.|I am fine, thank you.
-|Pas mal, merci.|Not bad, thank you.
-|Comment ça va?|How are things going?
-|Bien, merci!|Great, thanks!
-|Ça va (bien)?|Are things going (well)?
-|Ça va bien.|Things are going (well).
-|Et vous? Vous êtes d'où?|And you? Where are you from? (formal)
-|Et toi? Tu es d'où?|And you? Where are you from? (informal)
-|présentations|introductions
-|Monsieur, je vous présente ...|Sir, I would like to introduce to you ... (formal)
-|Je te présente ...|This is ... (informal)
-|Voici ...|This is ...
-|Qui est-ce?|Who is it?
-|C'est ...|It's ...
-|Ce sont ...|They are ...
-|Comment s'appelle-t-il/elle?|What's his/her name?
-|Il/Elle s'appelle ...|His/Her name is ...
-|Il/Elle est de ...|He/She is from ...
-|Comment s'appellent-ils/elles?|What are their names?
-|Ils/Elles s'appellent ...|Their names are ...
-|Qu'est-ce qu'il/elle fait?|What does he/she do?
-|Qu'est-ce qu'ils/elles font?|What do they do?
-|Il est ... Elle est ...|He/She is a/an ...
-|acteur / actrice|actor / actress
-|architecte|architect
-|chanteur / chanteuse|singer
-|coiffeur / coiffeuse|hair dresser
-|dentiste|dentist
-|ingénieur|engineer
-|journaliste|journalist
-|médecin|doctor
-|professeur|teacher, professor
-|retraité / retraitée|retired man/woman
-|stagiaire|intern
-|la salle de classe|the classroom
-|Qu'est-ce que c'est?|What is it?
-|C'est ...|It's ...
-|C'est une salle de classe.|It's a classroom.
-|Dans la salle de classe, il y a ...|In the classroom, there is ...
-|une porte|door
-|une fenêtre|window
-|un tableau (noir)|blackboard
-|une télévision|television
-|une carte (du monde)|map (of the world)
-|une affiche|poster
-|une chaise|chair
-|un bureau|desk
-|Sur le bureau, il y a ...|On the desk, there is ...
-|une craie|chalk
-|un crayon|pencil
-|un stylo|pen
-|un cahier|notebook
-|un livre|book
-|un dictionnaire|dictionary
-|un sac à dos|backpack
-|Au labo, il y a ...|In the lab, there are ...
-|des ordinateurs (m)|computers
-|Les étudiants travaillent!|The students work!
-|des devoirs (m)|homework
-|un exercice|exercise
-|un examen|test
-|en classe|in class
-|Écoutez.|Listen.
-|Écrivez.|Write.
-|Levez le doigt.|Raise your finger (hand).
-|Répétez.|Repeat.
-|Ouvrez vos livres.|Open your books.
-|Ouvrez le livre à la page ...|Turn to page ...
-|s'il vous plaît|please
-|Vous comprenez?|Do you understand?
-|Oui, je comprends.|Yes, I understand.
-|Non, je ne comprends pas.|No, I don't understand.
-|Que veut dire ...?|What does ... mean?
-|Comment dit-on ...?|How do you say ...?
-|Voici ...|Here is ... (here are ...)
-|Voilà ...|There is ... (there are ...)
-|Il y a ...|There is, there are ...
-|Il y a combien de ...?|There are how many ...?
-|les nombres cardinaux 1-69|Cardinal Numbers 1-69
-|un, une|1
-|deux|2
-|trois|3
-|quatre|4
-|cinq|5
-|six|6
-|sept|7
-|huit|8
-|neuf|9
-|dix|10
-|onze|11
-|douze|12
-|treize|13
-|quatorze|14
-|quinze|15
-|seize|16
-|dix-sept|17
-|dix-huit|18
-|dix-neuf|19
-|vingt|20
-|vingt et un|21
-|vingt-deux|22
-|vingt-trois|23
-|vingt-quatre|24
-|vingt-cinq|25
-|vingt-six|26
-|vingt-sept|27
-|vingt-huit|28
-|vingt-neuf|29
-|trente|30
-|trente et un|31
-|trente-deux|32
-|trente-neuf|39
-|quarante|40
-|quarante et un|41
-|quarante-deux|42
-|quarante-neuf|49
-|cinquante|50
-|cinquante et un|51
-|cinquante-deux|52
-|cinquante-neuf|59
-|soixante|60
-|soixante et un|61
-|soixante-deux|62
-|soixante-neuf|69
-|la date|the date
-|le calendrier|calendar
-|le jour|day
-|Quels sont les jours de la semaine?|What are the days of the week?
-|lundi|Monday
-|mardi|Tuesday
-|mercredi|Wednesday
-|jeudi|Thursday
-|vendredi|Friday
-|samedi|Saturday
-|dimanche|Sunday
-|C'est quel jour?|What day is it?
-|C'est lundi.|It's Monday.
-|aujourd'hui|today
-|demain|tomorrow
-|la semaine|week
-|la semaine prochaine|next week
-|la semaine dernière|last week
-|Quelle est la date?|What's the date?
-|C'est le premier septembre.|It's September 1st.
-|C'est le deux octobre.|It's October 2nd.
-|C'est le 30 août.|It's August 30th.
-|le mois|month
-|Quels sont les mois de l'année?|What are the months of the year?
-|janvier|January
-|février|February
-|mars|March
-|avril|April
-|mai|May
-|juin|June
-|juillet|July
-|août|August
-|septembre|September
-|octobre|October
-|novembre|November
-|décembre|December
+
+|salutations|अभिवादन
+|Monsieur|श्रीमान
+|Madame|श्रीमती
+|Mademoiselle|कुमारी
+|Bonjour, Monsieur|नमस्कार, श्रीमान
+|Bonsoir|शुभ संध्या
+|Au revoir|अलविदा
+|Salut!|नमस्ते!
+|À tout à l'heure!|थोड़ी देर में मिलते हैं!
+|À ce soir.|आज शाम मिलते हैं।
+|À demain.|कल मिलते हैं।
+|À bientôt.|जल्द मिलते हैं।
+|Comment vous appelez-vous?|आपका नाम क्या है? (औपचारिक)
+|Comment tu t'appelles? (Comment t'appelles-tu?)|तुम्हारा नाम क्या है? (अनौपचारिक)
+|Je m'appelle ...|मेरा नाम ... है।
+|Comment allez-vous?|आप कैसे हैं? (औपचारिक)
+|Comment vas-tu?|तुम कैसे हो? (अनौपचारिक)
+|Je vais très bien, merci.|मैं बहुत अच्छा हूँ, धन्यवाद।
+|Je vais bien, merci.|मैं ठीक हूँ, धन्यवाद।
+|Pas mal, merci.|बुरा नहीं हूँ, धन्यवाद।
+|Comment ça va?|सब कैसा चल रहा है?
+|Bien, merci!|अच्छा, धन्यवाद!
+|Ça va (bien)?|सब ठीक चल रहा है?
+|Ça va bien.|सब ठीक चल रहा है।
+|Et vous? Vous êtes d'où?|और आप? आप कहाँ से हैं? (औपचारिक)
+|Et toi? Tu es d'où?|और तुम? तुम कहाँ से हो? (अनौपचारिक)
+|présentations|परिचय
+|Monsieur, je vous présente ...|श्रीमान, मैं आपका परिचय ... से कराना चाहता/चाहती हूँ। (औपचारिक)
+|Je te présente ...|मैं तुम्हारा परिचय ... से कराता/कराती हूँ। (अनौपचारिक)
+|Voici ...|ये हैं ... / यह है ...
+|Qui est-ce?|यह कौन है?
+|C'est ...|यह ... है।
+|Ce sont ...|ये ... हैं।
+|Comment s'appelle-t-il/elle?|उसका नाम क्या है?
+|Il/Elle s'appelle ...|उसका नाम ... है।
+|Il/Elle est de ...|वह ... से है।
+|Comment s'appellent-ils/elles?|उनके नाम क्या हैं?
+|Ils/Elles s'appellent ...|उनके नाम ... हैं।
+|Qu'est-ce qu'il/elle fait?|वह क्या काम करता/करती है?
+|Qu'est-ce qu'ils/elles font?|वे क्या काम करते/करती हैं?
+|Il est ... Elle est ...|वह ... है।
+|acteur / actrice|अभिनेता / अभिनेत्री
+|architecte|वास्तुकार
+|chanteur / chanteuse|गायक / गायिका
+|coiffeur / coiffeuse|नाई / हेयरड्रेसर
+|dentiste|दंत चिकित्सक
+|ingénieur|इंजीनियर
+|journaliste|पत्रकार
+|médecin|डॉक्टर
+|professeur|शिक्षक / प्राध्यापक
+|retraité / retraitée|सेवानिवृत्त पुरुष / सेवानिवृत्त महिला
+|stagiaire|प्रशिक्षु
+|la salle de classe|कक्षा
+|Qu'est-ce que c'est?|यह क्या है?
+|C'est ...|यह ... है।
+|C'est une salle de classe.|यह एक कक्षा है।
+|Dans la salle de classe, il y a ...|कक्षा में ... है।
+|une porte|एक दरवाज़ा
+|une fenêtre|एक खिड़की
+|un tableau (noir)|एक ब्लैकबोर्ड
+|une télévision|एक टेलीविज़न
+|une carte (du monde)|एक नक्शा (दुनिया का)
+|une affiche|एक पोस्टर
+|une chaise|एक कुर्सी
+|un bureau|एक मेज़
+|Sur le bureau, il y a ...|मेज़ पर ... है।
+|une craie|एक चॉक
+|un crayon|एक पेंसिल
+|un stylo|एक पेन
+|un cahier|एक कॉपी
+|un livre|एक किताब
+|un dictionnaire|एक शब्दकोश
+|un sac à dos|एक बैकपैक
+|Au labo, il y a ...|प्रयोगशाला में ... हैं।
+|des ordinateurs (m)|कंप्यूटर
+|Les étudiants travaillent!|विद्यार्थी काम कर रहे हैं!
+|des devoirs (m)|गृहकार्य
+|un exercice|एक अभ्यास
+|un examen|एक परीक्षा
+|en classe|कक्षा में
+|Écoutez.|सुनिए।
+|Écrivez.|लिखिए।
+|Levez le doigt.|अपनी उँगली उठाइए।
+|Répétez.|दोहराइए।
+|Ouvrez vos livres.|अपनी किताबें खोलिए।
+|Ouvrez le livre à la page ...|किताब का ... पृष्ठ खोलिए।
+|s'il vous plaît|कृपया
+|Vous comprenez?|क्या आप समझते हैं?
+|Oui, je comprends.|हाँ, मैं समझता/समझती हूँ।
+|Non, je ne comprends pas.|नहीं, मैं नहीं समझता/समझती हूँ।
+|Que veut dire ...?|... का क्या अर्थ है?
+|Comment dit-on ...?|... को कैसे कहते हैं?
+|Voici ...|यहाँ है ... / ये हैं ...
+|Voilà ...|वहाँ है ... / वहाँ हैं ...
+|Il y a ...|है / हैं ...
+|Il y a combien de ...?|कितने ... हैं?
+|les nombres cardinaux 1-69|मूल संख्याएँ 1–69
+|un, une|1 (एक)
+|deux|2 (दो)
+|trois|3 (तीन)
+|quatre|4 (चार)
+|cinq|5 (पाँच)
+|six|6 (छह)
+|sept|7 (सात)
+|huit|8 (आठ)
+|neuf|9 (नौ)
+|dix|10 (दस)
+|onze|11 (ग्यारह)
+|douze|12 (बारह)
+|treize|13 (तेरह)
+|quatorze|14 (चौदह)
+|quinze|15 (पंद्रह)
+|seize|16 (सोलह)
+|dix-sept|17 (सत्रह)
+|dix-huit|18 (अठारह)
+|dix-neuf|19 (उन्नीस)
+|vingt|20 (बीस)
+|vingt et un|21 (इक्कीस)
+|vingt-deux|22 (बाईस)
+|vingt-trois|23 (तेईस)
+|vingt-quatre|24 (चौबीस)
+|vingt-cinq|25 (पच्चीस)
+|vingt-six|26 (छब्बीस)
+|vingt-sept|27 (सत्ताईस)
+|vingt-huit|28 (अट्ठाईस)
+|vingt-neuf|29 (उनतीस)
+|trente|30 (तीस)
+|trente et un|31 (इकतीस)
+|trente-deux|32 (बत्तीस)
+|trente-neuf|39 (उनतालीस)
+|quarante|40 (चालीस)
+|quarante et un|41 (इकतालीस)
+|quarante-deux|42 (बयालीस)
+|quarante-neuf|49 (उनचास)
+|cinquante|50 (पचास)
+|cinquante et un|51 (इक्यावन)
+|cinquante-deux|52 (बावन)
+|cinquante-neuf|59 (उनसठ)
+|soixante|60 (साठ)
+|soixante et un|61 (इकसठ)
+|soixante-deux|62 (बासठ)
+|soixante-neuf|69 (उनहत्तर)
+|la date|तारीख
+|le calendrier|कैलेंडर
+|le jour|दिन
+|Quels sont les jours de la semaine?|सप्ताह के दिन कौन-कौन से हैं?
+|lundi|सोमवार
+|mardi|मंगलवार
+|mercredi|बुधवार
+|jeudi|गुरुवार
+|vendredi|शुक्रवार
+|samedi|शनिवार
+|dimanche|रविवार
+|C'est quel jour?|आज कौन-सा दिन है?
+|C'est lundi.|आज सोमवार है।
+|aujourd'hui|आज
+|demain|कल (आने वाला)
+|la semaine|सप्ताह
+|la semaine prochaine|अगले सप्ताह
+|la semaine dernière|पिछले सप्ताह
+|Quelle est la date?|आज तारीख क्या है?
+|C'est le premier septembre.|आज 1 सितंबर है।
+|C'est le deux octobre.|आज 2 अक्टूबर है।
+|C'est le 30 août.|आज 30 अगस्त है।
+|le mois|महीना
+|Quels sont les mois de l'année?|साल के महीने कौन-कौन से हैं?
+|janvier|जनवरी
+|février|फरवरी
+|mars|मार्च
+|avril|अप्रैल
+|mai|मई
+|juin|जून
+|juillet|जुलाई
+|août|अगस्त
+|septembre|सितंबर
+|octobre|अक्टूबर
+|novembre|नवंबर
+|décembre|दिसंबर

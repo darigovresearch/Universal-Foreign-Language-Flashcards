@@ -1,74 +1,74 @@
-|les fêtes|holidays
-|les jours fériés|national holidays (indicated below by *). The French often take an extra day off from work when a holiday falls on Tuesday or Thursday. If the holiday falls on Tuesday, they take Monday off, and if the holiday falls on Thursday, they take Friday off ...
-|le Jour de l'An, le premier janvier *|New Year's Day
-|la Chandeleur, le 2 février|Candlemas
-|la Saint-Valentin, le 14 février|Valentine's Day
-|le Carnaval (Mardi Gras)|Mardi Gras, Carnival
-|La pâque juive / Pessach|Passover
-|Pâques *|Easter
-|le premier avril|April Fool's Day
-|la fête du Travail, le 1er mai *|Labor Day
-|le 8 mai, la fête de la Victoire *|VE Day (Victory in Europe)
-|l'Ascension (f) *|Ascension Day
-|la fête des mères|Mother's Day
-|la fête des pères|Father's Day
-|la Pentecôte|Pentecost
-|la fête nationale, le 14 juillet *|Bastille Day, French National Day
-|le 15 août, l'Assomption (f) *|the feast of the Assumption
-|Halloween|Halloween
-|Yom Kippour|Yom Kippur
-|Rosh Hashana|Rosh Hashana
-|la Toussaint, le 1er novembre *|All Saints' Day
-|l'Armistice (m), le 11 novembre *|Armistice Day
-|le Ramadan|Ramadan
-|Hanouka|Hannukah
-|Noël (m), le 25 décembre *|Christmas
-|la Saint-Sylvestre, le 31 décembre|New Year's Eve
-|expressions|expressions
-|Bonne Année!|Happy New Year!
-|Bonne fête!|Happy Saint's Day!
-|Bon (Joyeux) anniversaire!|Happy Birthday!
-|Meilleurs Voeux!|Best wishes!
-|Poisson d'avril!|April Fool!
-|Joyeuses Pâques!|Happy Easter!
-|Joyeux Noël!|Merry Christmas!
-|rites et coutumes|rituals and customs
-|le réveillon|Christmas Eve or New Year's Eve party
-|des feux d'artifice (m)|fireworks
-|un défilé (militaire)|(military) parade
-|une fête|saint's day, celebration, party
-|un anniversaire|birthday, anniversary
-|un gâteau|cake
-|une bougie|candle
-|un cadeau|gift
-|les noces (f pl)|wedding
-|un anniversaire de mariage|wedding anniversary
-|une cérémonie|ceremony
-|le champagne|champagne
-|le muguet|lily of the valley
-|des blagues (f)|jokes
-|des costumes (m)|costumes
-|des crêpes (f)|crepes
-|un pique-nique|picnic
-|la bûche de Noël|Yule log (also a cake in the shape of a Yule log)
-|une carte de voeux|greeting card
-|le gui|mistletoe
-|le Père Noël|Santa Claus
-|le sapin de Noël|Christmas tree
-|la crèche|nativity
-|la messe|mass
-|le sabbat / le shabbat|sabbath
-|verbes|verbs
-|célébrer|to celebrate
-|faire la fête|to party
-|fêter|to celebrate
-|réveillonner|to celebrate Christmas Eve or New Year's Eve
-|inviter|to invite
-|offrir|to give
-|donner|to give
-|recevoir|to receive
-|ouvrir|to open
-|souffler|to blow out (candles)
-|plaisanter|to joke
-|faire un poisson d'avril|to play a joke (on someone)
-|faire le pont|literally 'to make a bridge'
+|les fêtes|त्योहार और उत्सव
+|les jours fériés|सार्वजनिक छुट्टियाँ (नीचे * से चिह्नित)। फ्रांस में यदि कोई छुट्टी मंगलवार या गुरुवार को पड़ती है, तो लोग अक्सर काम से एक अतिरिक्त दिन की छुट्टी लेते हैं। मंगलवार को छुट्टी होने पर वे सोमवार की छुट्टी लेते हैं और गुरुवार को छुट्टी होने पर शुक्रवार की...
+|le Jour de l'An, le premier janvier *|नववर्ष दिवस
+|la Chandeleur, le 2 février|कैंडलमास (मोमबत्ती का त्योहार)
+|la Saint-Valentin, le 14 février|वैलेंटाइन डे
+|le Carnaval (Mardi Gras)|मार्डी ग्रा, कार्निवल
+|La pâque juive / Pessach|यहूदी फसह का त्योहार
+|Pâques *|ईस्टर
+|le premier avril|अप्रैल फूल्स डे
+|la fête du Travail, le 1er mai *|मज़दूर दिवस
+|le 8 mai, la fête de la Victoire *|विजय दिवस (यूरोप में द्वितीय विश्व युद्ध में विजय)
+|l'Ascension (f) *|ईसा मसीह के स्वर्गारोहण का पर्व
+|la fête des mères|मातृ दिवस
+|la fête des pères|पितृ दिवस
+|la Pentecôte|पेंटेकोस्ट (ईसाई पर्व)
+|la fête nationale, le 14 juillet *|बैस्टिल दिवस, फ्रांस का राष्ट्रीय दिवस
+|le 15 août, l'Assomption (f) *|मरियम के स्वर्गारोहण का पर्व
+|Halloween|हैलोवीन
+|Yom Kippour|योम किप्पुर
+|Rosh Hashana|रोश हशाना
+|la Toussaint, le 1er novembre *|सभी संतों का दिवस
+|l'Armistice (m), le 11 novembre *|युद्धविराम दिवस
+|le Ramadan|रमज़ान
+|Hanouka|हनुक्का
+|Noël (m), le 25 décembre *|क्रिसमस
+|la Saint-Sylvestre, le 31 décembre|नववर्ष की पूर्व संध्या
+|expressions|अभिव्यक्तियाँ
+|Bonne Année!|नववर्ष की शुभकामनाएँ!
+|Bonne fête!|आपके पर्व दिवस की शुभकामनाएँ!
+|Bon (Joyeux) anniversaire!|जन्मदिन की शुभकामनाएँ!
+|Meilleurs Voeux!|हार्दिक शुभकामनाएँ!
+|Poisson d'avril!|अप्रैल फूल!
+|Joyeuses Pâques!|ईस्टर की शुभकामनाएँ!
+|Joyeux Noël!|क्रिसमस की शुभकामनाएँ!
+|rites et coutumes|रीति-रिवाज़ और परंपराएँ
+|le réveillon|क्रिसमस या नववर्ष की पूर्व संध्या पर होने वाली पार्टी
+|des feux d'artifice (m)|आतिशबाज़ी
+|un défilé (militaire)|(सैन्य) परेड
+|une fête|पर्व दिवस, उत्सव, पार्टी
+|un anniversaire|जन्मदिन, वर्षगाँठ
+|un gâteau|केक
+|une bougie|मोमबत्ती
+|un cadeau|उपहार
+|les noces (f pl)|शादी
+|un anniversaire de mariage|शादी की सालगिरह
+|une cérémonie|समारोह
+|le champagne|शैम्पेन
+|le muguet|लिली ऑफ द वैली का फूल
+|des blagues (f)|चुटकुले
+|des costumes (m)|वेशभूषाएँ
+|des crêpes (f)|क्रेप्स (पतले पैनकेक)
+|un pique-nique|पिकनिक
+|la bûche de Noël|यूल लॉग (लकड़ी के लट्ठे के आकार का क्रिसमस केक)
+|une carte de voeux|शुभकामना कार्ड
+|le gui|मिस्टलेटो का पौधा
+|le Père Noël|सांता क्लॉज़
+|le sapin de Noël|क्रिसमस ट्री
+|la crèche|ईसा मसीह के जन्म का दृश्य
+|la messe|प्रार्थना सभा / मास
+|le sabbat / le shabbat|सब्बाथ (यहूदी विश्राम दिवस)
+|verbes|क्रियाएँ
+|célébrer|उत्सव मनाना
+|faire la fête|जश्न मनाना / पार्टी करना
+|fêter|उत्सव मनाना
+|réveillonner|क्रिसमस या नववर्ष की पूर्व संध्या का जश्न मनाना
+|inviter|आमंत्रित करना
+|offrir|भेंट देना
+|donner|देना
+|recevoir|प्राप्त करना
+|ouvrir|खोलना
+|souffler|फूँक मारकर बुझाना (मोमबत्तियाँ)
+|plaisanter|मज़ाक करना
+|faire un poisson d'avril|किसी के साथ अप्रैल फूल का मज़ाक करना
+|faire le pont|छुट्टी और सप्ताहांत के बीच का अतिरिक्त दिन भी छुट्टी लेना

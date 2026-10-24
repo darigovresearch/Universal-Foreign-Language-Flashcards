@@ -1,154 +1,155 @@
-|fiche d'identité|identification form
-|Nom (de famille)|last name
-|Prénom(s)|first (and middle) name(s)
-|Age|age
-|Nationalité|nationality
-|Résidence actuelle|current address
-|Profession|profession
-|Passe-temps préférés|pastimes
-|questions personnelles|personal questions
-|Comment vous appelez-vous?|What is your name?
-|Quel âge avez-vous?|How old are you?
-|Quelle est votre nationalité?|What is your nationality?
-|Vous êtes d'où?|Where are you from?
-|Où habitez-vous?|Where do you live?
-|Que faites-vous dans la vie?|What do you do for a living?
-|Quels sont vos passe-temps préférés?|What are your favorite pastimes?
-|la famille|the family
-|un homme|man
-|une femme|woman, wife
-|un mari|husband
-|un fiancé / une fiancée|fiancé / fiancée
-|des parents|parents, relatives
-|un père|father
-|une mère|mother
-|un/une enfant|child
-|un fils|son
-|une fille|daughter
-|un fils unique|only child (male)
-|une fille unique|only child (female)
-|un frère|brother
-|une soeur|sister
-|des grands-parents (m)|grandparents
-|un grand-père|grandfather
-|une grand-mère|grandmother
-|un petit-enfant|grandchild
-|un oncle|uncle
-|une tante|aunt
-|un neveu|nephew
-|une nièce|niece
-|les amis|friends
-|un ami / une amie|friend
-|un/une camarade|friend
-|un copain / une copine|friend; boyfriend / girlfriend
-|mots interrogatifs|interrogative words
-|où?|where?
-|quand?|when?
-|qui?|who?
-|comment?|how?
-|quel / quelle / quels / quelles|which?
-|pourquoi?|why?
-|parce que|because
-|l'heure|time
-|l'heure (f)|the time
-|Quelle heure est-il?|What time is it?
-|Il est huit heures.|It's 8 o'clock.
-|Il est huit heures dix.|It's ten after 8.
-|Il est huit heures et quart.|It's quarter after 8.
-|Il est huit heures vingt-cinq.|It's twenty-five after 8.
-|Il est huit heures et demie.|It's eight-thirty.
-|Il est neuf heures moins vingt.|It's twenty to nine.
-|Il est neuf heures moins le quart.|It's quarter to nine.
-|Il est midi.|It's noon.
-|Il est midi et demi.|It's twelve-thirty.
-|Il est minuit.|It's midnight.
-|Il est trois heures...|It's three o'clock...
-|du matin|in the morning (3 a.m.)
-|de l'après-midi|in the afternoon (3 p.m.)
-|Il est sept heures...|It's seven o'clock...
-|du soir|in the evening (7 p.m.)
-|l'heure officielle|official time
-|Il est 10h.|It's 10 a.m.
-|Il est 12h05.|It's 12:05 p.m.
-|Il est 13h15.|It's 1:15 p.m.
-|Il est 15h35.|It's 3:35 p.m.
-|Il est 18h45.|It's 6:45 p.m.
-|Il est 22h59.|It's 10:59 p.m.
-|passe-temps et activités|pastimes and activities
-|avoir|to have
-|avoir besoin de...|to need
-|avoir envie de...|to feel like (to want to)
-|avoir l'intention de...|to intend (to)
-|chercher|to look for
-|trouver|to find
-|(Qui cherche, trouve!)|(Who looks for (searches), finds!)
-|tomber amoureux (de) /amoureuse (de)|to fall in love
-|embrasser|to kiss
-|écouter...|to listen to...
-|de la musique|music
-|chanter|to sing
-|danser|to dance
-|aimer|to like, to love
-|la musique classique / le jazz|classical music / jazz
-|le hip-hop / la techno|hip-hop / techno
-|le sport / le tennis / le football|sports / tennis / soccer
-|le basket / le golf / le footing|basketball / golf / running
-|préférer|to prefer
-|adorer|to adore
-|détester|to detest
-|habiter|to live
-|rester à la maison|to stay at home
-|étudier|to study
-|lire|to read
-|oublier|to forget
-|regarder la télévision|to watch television
-|téléphoner à|to telephone
-|parler|to speak
-|jouer...|to play...
-|au foot / au tennis / aux cartes|soccer / tennis / cards
-|de la guitare / du piano|guitar / piano
-|nager|to swim
-|rencontrer|to meet
-|rêver|to dream
-|travailler|to work
-|voyager|to travel
-|adverbes|adverbs
-|aussi|also
-|maintenant|now
-|plus tard|later
-|beaucoup|a lot
-|peu / un peu|little / a little
-|rarement|rarely
-|parfois|at times
-|quelquefois|sometimes
-|souvent|often
-|toujours|always
-|ne ... jamais|never
-|continents, pays, nationalités|continents, Countries, Nationalities
-|un continent|continent
-|un pays|country
-|l'Afrique (f) / africain (e)|Africa / African
-|l'Algérie (f) / algérien(ne)|Algeria / Algerian
-|le Maroc / marocain(e)|Morocco / Moroccan
-|le Sénégal / sénégalais(e)|Senegal / Senegalese
-|la Tunisie / tunisien(ne)|Tunisia / Tunisian
-|l'Amérique du Nord|North America
-|le Canada / canadien(ne)|Canada / Canadian
-|les Etats-Unis / américain(e)|United States / American
-|le Mexique / mexicain(e)|Mexico / Mexican
-|l'Amérique du Sud|South American
-|la Guyane française / guyanais(e)|French Guyana / Guyanese
-|l'Asie (f) / asiatique|Asia / Asian
-|la Chine / chinois(e)|China / Chinese
-|le Japon / japonais(e)|Japan / Japanese
-|le Vietnam / vietnamien(ne)|Vietnam / Vietnamese
-|l'Océanie|Oceania (the South Sea Islands)
-|l'Australie (f) / australien(ne)|Australia / Australian
-|l'Europe (f) / européen(ne)|Europe / European
-|l'Allemagne (f) / allemand(e)|Germany / German
-|l'Angleterre (f) / anglais(e)|England / English
-|la Belgique / belge|Belgium / Belgian
-|l'Espagne (f) / espagnol(e)|Spain / Spanish
-|la France / français(e)|France / French
-|l'Italie (f) / italien(ne)|Italy / Italian
-|la Suisse / suisse|Switzerland / Swiss
+
+|fiche d'identité|पहचान पत्र / व्यक्तिगत विवरण फ़ॉर्म
+|Nom (de famille)|उपनाम
+|Prénom(s)|पहला नाम (और मध्य नाम)
+|Age|उम्र
+|Nationalité|राष्ट्रीयता
+|Résidence actuelle|वर्तमान निवास
+|Profession|पेशा
+|Passe-temps préférés|पसंदीदा शौक
+|questions personnelles|व्यक्तिगत प्रश्न
+|Comment vous appelez-vous?|आपका नाम क्या है?
+|Quel âge avez-vous?|आपकी उम्र कितनी है?
+|Quelle est votre nationalité?|आपकी राष्ट्रीयता क्या है?
+|Vous êtes d'où?|आप कहाँ से हैं?
+|Où habitez-vous?|आप कहाँ रहते हैं?
+|Que faites-vous dans la vie?|आप जीविका के लिए क्या करते हैं?
+|Quels sont vos passe-temps préférés?|आपके पसंदीदा शौक कौन-से हैं?
+|la famille|परिवार
+|un homme|पुरुष
+|une femme|महिला / पत्नी
+|un mari|पति
+|un fiancé / une fiancée|मंगेतर (पुरुष) / मंगेतर (महिला)
+|des parents|माता-पिता / रिश्तेदार
+|un père|पिता
+|une mère|माँ
+|un/une enfant|बच्चा
+|un fils|बेटा
+|une fille|बेटी
+|un fils unique|इकलौता बेटा
+|une fille unique|इकलौती बेटी
+|un frère|भाई
+|une soeur|बहन
+|des grands-parents (m)|दादा-दादी / नाना-नानी
+|un grand-père|दादा / नाना
+|une grand-mère|दादी / नानी
+|un petit-enfant|पोता / पोती / नाती / नातिन
+|un oncle|चाचा / मामा / फूफा / मौसा
+|une tante|चाची / मामी / बुआ / मौसी
+|un neveu|भतीजा / भांजा
+|une nièce|भतीजी / भांजी
+|les amis|दोस्त
+|un ami / une amie|दोस्त
+|un/une camarade|सहपाठी / साथी
+|un copain / une copine|दोस्त / प्रेमी / प्रेमिका
+|mots interrogatifs|प्रश्नवाचक शब्द
+|où?|कहाँ?
+|quand?|कब?
+|qui?|कौन?
+|comment?|कैसे?
+|quel / quelle / quels / quelles|कौन-सा / कौन-सी / कौन-से?
+|pourquoi?|क्यों?
+|parce que|क्योंकि
+|l'heure|समय
+|l'heure (f)|समय
+|Quelle heure est-il?|कितने बजे हैं?
+|Il est huit heures.|आठ बजे हैं।
+|Il est huit heures dix.|आठ बजकर दस मिनट हुए हैं।
+|Il est huit heures et quart.|आठ बजकर पंद्रह मिनट हुए हैं।
+|Il est huit heures vingt-cinq.|आठ बजकर पच्चीस मिनट हुए हैं।
+|Il est huit heures et demie.|साढ़े आठ बजे हैं।
+|Il est neuf heures moins vingt.|नौ बजने में बीस मिनट हैं।
+|Il est neuf heures moins le quart.|नौ बजने में पंद्रह मिनट हैं।
+|Il est midi.|दोपहर के बारह बजे हैं।
+|Il est midi et demi.|साढ़े बारह बजे हैं।
+|Il est minuit.|आधी रात के बारह बजे हैं।
+|Il est trois heures...|तीन बजे हैं...
+|du matin|सुबह (जैसे, सुबह 3 बजे)
+|de l'après-midi|दोपहर में (जैसे, दोपहर 3 बजे)
+|Il est sept heures...|सात बजे हैं...
+|du soir|शाम को (जैसे, शाम 7 बजे)
+|l'heure officielle|आधिकारिक समय
+|Il est 10h.|सुबह 10 बजे हैं।
+|Il est 12h05.|दोपहर 12 बजकर 5 मिनट हुए हैं।
+|Il est 13h15.|दोपहर 1 बजकर 15 मिनट हुए हैं।
+|Il est 15h35.|दोपहर 3 बजकर 35 मिनट हुए हैं।
+|Il est 18h45.|शाम 6 बजकर 45 मिनट हुए हैं।
+|Il est 22h59.|रात 10 बजकर 59 मिनट हुए हैं।
+|passe-temps et activités|शौक और गतिविधियाँ
+|avoir|पास होना / रखना
+|avoir besoin de...|... की ज़रूरत होना
+|avoir envie de...|... करने का मन होना
+|avoir l'intention de...|... करने का इरादा होना
+|chercher|खोजना
+|trouver|ढूँढ़ना / पाना
+|(Qui cherche, trouve!)|(जो खोजता है, वह पाता है!)
+|tomber amoureux (de) /amoureuse (de)|प्यार में पड़ना
+|embrasser|चूमना
+|écouter...|... सुनना
+|de la musique|संगीत
+|chanter|गाना
+|danser|नाचना
+|aimer|पसंद करना / प्यार करना
+|la musique classique / le jazz|शास्त्रीय संगीत / जैज़
+|le hip-hop / la techno|हिप-हॉप / टेक्नो संगीत
+|le sport / le tennis / le football|खेल / टेनिस / फुटबॉल
+|le basket / le golf / le footing|बास्केटबॉल / गोल्फ / दौड़ना
+|préférer|अधिक पसंद करना
+|adorer|बहुत पसंद करना
+|détester|नफ़रत करना / बिल्कुल पसंद न करना
+|habiter|रहना
+|rester à la maison|घर पर रहना
+|étudier|पढ़ाई करना
+|lire|पढ़ना
+|oublier|भूलना
+|regarder la télévision|टेलीविज़न देखना
+|téléphoner à|... को फ़ोन करना
+|parler|बात करना / बोलना
+|jouer...|... खेलना / बजाना
+|au foot / au tennis / aux cartes|फुटबॉल / टेनिस / ताश खेलना
+|de la guitare / du piano|गिटार / पियानो बजाना
+|nager|तैरना
+|rencontrer|मिलना
+|rêver|सपना देखना
+|travailler|काम करना
+|voyager|यात्रा करना
+|adverbes|क्रिया-विशेषण
+|aussi|भी
+|maintenant|अभी
+|plus tard|बाद में
+|beaucoup|बहुत
+|peu / un peu|कम / थोड़ा
+|rarement|शायद ही कभी
+|parfois|कभी-कभी
+|quelquefois|कभी-कभी
+|souvent|अक्सर
+|toujours|हमेशा
+|ne ... jamais|कभी नहीं
+|continents, pays, nationalités|महाद्वीप, देश और राष्ट्रीयताएँ
+|un continent|महाद्वीप
+|un pays|देश
+|l'Afrique (f) / africain (e)|अफ्रीका / अफ्रीकी
+|l'Algérie (f) / algérien(ne)|अल्जीरिया / अल्जीरियाई
+|le Maroc / marocain(e)|मोरक्को / मोरक्को का निवासी
+|le Sénégal / sénégalais(e)|सेनेगल / सेनेगल का निवासी
+|la Tunisie / tunisien(ne)|ट्यूनीशिया / ट्यूनीशियाई
+|l'Amérique du Nord|उत्तरी अमेरिका
+|le Canada / canadien(ne)|कनाडा / कनाडाई
+|les Etats-Unis / américain(e)|संयुक्त राज्य अमेरिका / अमेरिकी
+|le Mexique / mexicain(e)|मेक्सिको / मैक्सिकन
+|l'Amérique du Sud|दक्षिण अमेरिका
+|la Guyane française / guyanais(e)|फ्रेंच गयाना / गयाना का निवासी
+|l'Asie (f) / asiatique|एशिया / एशियाई
+|la Chine / chinois(e)|चीन / चीनी
+|le Japon / japonais(e)|जापान / जापानी
+|le Vietnam / vietnamien(ne)|वियतनाम / वियतनामी
+|l'Océanie|ओशिनिया
+|l'Australie (f) / australien(ne)|ऑस्ट्रेलिया / ऑस्ट्रेलियाई
+|l'Europe (f) / européen(ne)|यूरोप / यूरोपीय
+|l'Allemagne (f) / allemand(e)|जर्मनी / जर्मन
+|l'Angleterre (f) / anglais(e)|इंग्लैंड / अंग्रेज़
+|la Belgique / belge|बेल्जियम / बेल्जियन
+|l'Espagne (f) / espagnol(e)|स्पेन / स्पेनिश
+|la France / français(e)|फ्रांस / फ्रांसीसी
+|l'Italie (f) / italien(ne)|इटली / इतालवी
+|la Suisse / suisse|स्विट्ज़रलैंड / स्विस

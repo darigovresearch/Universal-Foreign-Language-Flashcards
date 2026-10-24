@@ -1,129 +1,130 @@
-|la mode|fashion
-|un défilé de mode|fashion show
-|une marque|brand
-|un chapeau|hat
-|une casquette|cap
-|des vêtements (m)|clothes
-|un survêtement / un jogging|tracksuit
-|des sous-vêtements|underwear
-|un soutien-gorge|bra
-|un slip|briefs
-|une culotte|panties
-|un caleçon / boxer|boxers
-|une chemise|man's shirt
-|un chemisier|blouse
-|un polo|polo shirt
-|un tee-shirt|T-shirt
-|un pull|sweater
-|un pantalon|(a pair of) pants
-|un jean (sing.)|jeans
-|un short (sing.)|(shorter) shorts
-|un bermuda|(longer) shorts
-|une ceinture|belt
-|des chaussettes (f pl)|socks
-|des chaussures (f pl)|shoes
-|des baskets (f pl)|basketball shoes
-|des bottes (f pl)|boots
-|des sandales (f pl)|sandals
-|des tennis (f pl)|tennis shoes
-|des tongs|flip-flops
-|des talons (m) / des chaussures á talons|high-heels
-|une robe|dress
-|une jupe|skirt
-|un tailleur|woman's suit
-|un costume|man's suit
-|une cravate|tie
-|des lunettes (f) de soleil|sunglasses
-|un maillot de bain|swimsuit
-|un blouson|short jacket, leather jacket
-|une veste|jacket
-|un manteau|coat
-|un anorak|parka
-|un imperméable|raincoat
-|une écharpe|scarf
-|des gants (m)|gloves
-|les passe-temps|pastimes
-|la course à pied / faire de la course à pied|running / to go running
-|le footing / le jogging / faire du footing / du jogging|jogging / to go jogging
-|le roller / faire du roller|roller blading / to go roller blading
-|le cyclisme / faire du cyclisme|cycling / to go cycling
-|l'escalade (f) / faire de l'escalade|rock-climbing / to go rock-climbing
-|la musculation / faire de la musculation|weight training / to train with weights
-|la natation / faire de la natation|swimming / to go swimming
-|le canoë / faire du canoë|canoeing / to go canoeing
-|le kayak / faire du kayak|kayaking / to go kayaking
-|la peinture / faire de la peinture|painting / to paint (art)
-|les échecs (m) / jouer aux échecs|chess / to play chess
-|le yoga / faire du yoga|yoga
-|le surf / faire du surf|surfing
-|le cheval / faire du cheval|horseback riding
-|la forme et la santé|fitness and health
-|une allergie|allergy
-|la grippe|the flu
-|une migraine|migraine headache
-|un rhume|a cold
-|des médicaments (m)|medicine
-|des vitamines (f)|vitamins
-|un somnifère|sleeping pill
-|le corps|the body
-|la gorge|throat
-|le bras|arm
-|le coude|elbow
-|le poignet|wrist
-|la main|hand
-|le doigt|finger
-|la poitrine|chest
-|le ventre|stomach
-|le dos|back
-|le derrière|rear, behind
-|les fesses (f)|buttocks
-|la jambe|leg
-|le genou / les genoux|knee / knees
-|la cheville|ankle
-|le pied|foot
-|les orteils (m)|toes
-|adjectifs|adjectives
-|à la mode / branché(e)|in fashion
-|démodé(e)|out of style
-|décontracté(e)|casual
-|habillé(e)|dressy
-|discipliné(e)|disciplined
-|sportif / sportive|athletic
-|stressé(e)|stressed
-|malade|sick
-|verbes|verbs
-|s'habiller|to get dressed
-|mettre|to put (on)
-|porter|to wear
-|aller bien / aller mal|to fit well/poorly
-|grossir|to gain weight
-|être au régime / faire un régime|to be on a diet
-|faire du sport|to exercise
-|mincir|to lose weight
-|être en forme|to be in shape
-|tomber malade|to get sick
-|tousser|to cough
-|avoir mal à...|to hurt (body part)
-|(avoir mal à la tête, au dos, aux pieds, etc)|(to have a headache, a backache, sore feet, etc)
-|se reposer|to rest
-|se détendre|to relax
-|fumer|to smoke
-|être en bonne santé|to be in good health
-|expressions interrogatives|interrogative expressions
-|Qu'est-ce qui se passe?|What is going on?
-|Qu'est-ce qui t'intéresse?|What interests you?
-|Qu'est-ce qui t'énerve?|What bothers you?
-|Qu'est-ce qui te fait peur?|What scares you?
-|Qu'est-ce qui te fait plaisir?|What pleases you?
-|Qu'est-ce qui t'amuse?|What amuses you?
-|expressions impersonnelles|impersonal questions
-|Il faut + infinitif|It is necessary (to)
-|Il vaut mieux + infinitif|It is advisable (to), It is better (to)
-|Il est important de + infinitif|It is important (to)
-|Il est nécessaire de + infinitif|It is necessary (to)
-|Il est essentiel de + infinitif|It is essential (to)
-|Il est indispensable de + infinitif|It is essential (to)
-|Il est amusant de ...|It is fun (to) ...
-|Il est difficile de ...|It is difficult (to) ...
-|Il est facile de ...|It is easy (to) ...
-|Il est fatigant de ...|It is tiring/annoying (to) ...
+
+|la mode|फैशन
+|un défilé de mode|फैशन शो
+|une marque|ब्रांड
+|un chapeau|टोपी
+|une casquette|कैप
+|des vêtements (m)|कपड़े
+|un survêtement / un jogging|ट्रैकसूट
+|des sous-vêtements|अंतर्वस्त्र
+|un soutien-gorge|ब्रा
+|un slip|पुरुषों का अंडरवियर
+|une culotte|महिलाओं की पैंटी
+|un caleçon / boxer|बॉक्सर अंडरवियर
+|une chemise|पुरुषों की शर्ट
+|un chemisier|ब्लाउज़
+|un polo|पोलो शर्ट
+|un tee-shirt|टी-शर्ट
+|un pull|स्वेटर
+|un pantalon|पतलून
+|un jean (sing.)|जीन्स
+|un short (sing.)|छोटी पैंट
+|un bermuda|घुटने तक की शॉर्ट्स
+|une ceinture|बेल्ट
+|des chaussettes (f pl)|मोज़े
+|des chaussures (f pl)|जूते
+|des baskets (f pl)|खेल के जूते
+|des bottes (f pl)|बूट
+|des sandales (f pl)|सैंडल
+|des tennis (f pl)|टेनिस के जूते
+|des tongs|चप्पलें
+|des talons (m) / des chaussures á talons|ऊँची एड़ी के जूते
+|une robe|पोशाक
+|une jupe|स्कर्ट
+|un tailleur|महिलाओं का सूट
+|un costume|पुरुषों का सूट
+|une cravate|टाई
+|des lunettes (f) de soleil|धूप का चश्मा
+|un maillot de bain|स्विमसूट
+|un blouson|छोटी जैकेट / चमड़े की जैकेट
+|une veste|जैकेट
+|un manteau|कोट
+|un anorak|गरम हुड वाली जैकेट
+|un imperméable|रेनकोट
+|une écharpe|स्कार्फ
+|des gants (m)|दस्ताने
+|les passe-temps|शौक
+|la course à pied / faire de la course à pied|दौड़ना / दौड़ लगाने जाना
+|le footing / le jogging / faire du footing / du jogging|जॉगिंग / जॉगिंग करने जाना
+|le roller / faire du roller|रोलर स्केटिंग / रोलर स्केटिंग करना
+|le cyclisme / faire du cyclisme|साइकिल चलाना / साइकिल चलाने जाना
+|l'escalade (f) / faire de l'escalade|चट्टानों पर चढ़ना / रॉक क्लाइम्बिंग करना
+|la musculation / faire de la musculation|वज़न उठाकर व्यायाम / वज़न के साथ प्रशिक्षण लेना
+|la natation / faire de la natation|तैराकी / तैरने जाना
+|le canoë / faire du canoë|कैनोइंग / कैनो चलाना
+|le kayak / faire du kayak|कयाकिंग / कयाक चलाना
+|la peinture / faire de la peinture|चित्रकला / चित्र बनाना
+|les échecs (m) / jouer aux échecs|शतरंज / शतरंज खेलना
+|le yoga / faire du yoga|योग / योग करना
+|le surf / faire du surf|सर्फिंग / सर्फिंग करना
+|le cheval / faire du cheval|घुड़सवारी / घुड़सवारी करना
+|la forme et la santé|फिटनेस और स्वास्थ्य
+|une allergie|एलर्जी
+|la grippe|फ्लू
+|une migraine|माइग्रेन का सिरदर्द
+|un rhume|जुकाम
+|des médicaments (m)|दवाइयाँ
+|des vitamines (f)|विटामिन
+|un somnifère|नींद की गोली
+|le corps|शरीर
+|la gorge|गला
+|le bras|बाँह
+|le coude|कोहनी
+|le poignet|कलाई
+|la main|हाथ
+|le doigt|उँगली
+|la poitrine|छाती
+|le ventre|पेट
+|le dos|पीठ
+|le derrière|पिछला हिस्सा
+|les fesses (f)|नितंब
+|la jambe|टाँग
+|le genou / les genoux|घुटना / घुटने
+|la cheville|टखना
+|le pied|पैर
+|les orteils (m)|पैर की उँगलियाँ
+|adjectifs|विशेषण
+|à la mode / branché(e)|फैशन में / आधुनिक
+|démodé(e)|पुराने फैशन का
+|décontracté(e)|आरामदायक / अनौपचारिक
+|habillé(e)|सजे-धजे कपड़े पहने हुए
+|discipliné(e)|अनुशासित
+|sportif / sportive|खेल-कूद में सक्रिय
+|stressé(e)|तनावग्रस्त
+|malade|बीमार
+|verbes|क्रियाएँ
+|s'habiller|कपड़े पहनना
+|mettre|पहनना / रखना
+|porter|पहने होना
+|aller bien / aller mal|अच्छा फिट होना / ठीक से फिट न होना
+|grossir|वज़न बढ़ना
+|être au régime / faire un régime|डाइट पर होना / परहेज़ करना
+|faire du sport|व्यायाम करना
+|mincir|वज़न कम करना
+|être en forme|फिट होना
+|tomber malade|बीमार पड़ना
+|tousser|खाँसना
+|avoir mal à...|... में दर्द होना
+|(avoir mal à la tête, au dos, aux pieds, etc)|(सिरदर्द, पीठदर्द, पैरों में दर्द आदि होना)
+|se reposer|आराम करना
+|se détendre|तनाव दूर करना / आराम करना
+|fumer|धूम्रपान करना
+|être en bonne santé|अच्छे स्वास्थ्य में होना
+|expressions interrogatives|प्रश्नवाचक अभिव्यक्तियाँ
+|Qu'est-ce qui se passe?|क्या हो रहा है?
+|Qu'est-ce qui t'intéresse?|तुम्हारी रुचि किसमें है?
+|Qu'est-ce qui t'énerve?|तुम्हें किस बात से चिढ़ होती है?
+|Qu'est-ce qui te fait peur?|तुम्हें किस बात से डर लगता है?
+|Qu'est-ce qui te fait plaisir?|तुम्हें किस बात से खुशी मिलती है?
+|Qu'est-ce qui t'amuse?|तुम्हें किस बात से मज़ा आता है?
+|expressions impersonnelles|अवैयक्तिक अभिव्यक्तियाँ
+|Il faut + infinitif|... करना आवश्यक है
+|Il vaut mieux + infinitif|... करना बेहतर है
+|Il est important de + infinitif|... करना महत्वपूर्ण है
+|Il est nécessaire de + infinitif|... करना आवश्यक है
+|Il est essentiel de + infinitif|... करना अत्यंत आवश्यक है
+|Il est indispensable de + infinitif|... करना अनिवार्य है
+|Il est amusant de ...|... करना मज़ेदार है
+|Il est difficile de ...|... करना कठिन है
+|Il est facile de ...|... करना आसान है
+|Il est fatigant de ...|... करना थकाने वाला है

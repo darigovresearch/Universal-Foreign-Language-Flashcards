@@ -1,53 +1,56 @@
+
 Introduction (UFLF hi-en)|"
-<h2>Introduction</h2>
-<p>This deck has taken words outlined in the vocabulary section of each chapter of the <a href=""http://www.laits.utexas.edu/fi/"">Francais Interactif</a> language program and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
-<h2>Notes</h2>
-<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<h2>परिचय</h2>
+<p>इस फ्लैशकार्ड डेक में <a href=""http://www.laits.utexas.edu/fi/"">Français Interactif</a> भाषा कार्यक्रम के प्रत्येक अध्याय के शब्दावली अनुभाग में दिए गए शब्दों को शामिल किया गया है। इन्हें इस प्रकार व्यवस्थित किया गया है कि <a href=""https://apps.ankiweb.net/"">Anki</a> का उपयोग करके आसानी से सीखा और दोहराया जा सके। Anki एक क्रॉस-प्लेटफ़ॉर्म ऐप है, जिसे लंबे समय तक जानकारी याद रखने में मदद करने के लिए विशेष रूप से बनाया गया है।</p>
+
+<h2>नोट्स</h2>
+<p>कृपया किए गए बदलावों और अपडेट प्राप्त करने के स्थान के बारे में ध्यान दें।</p>
 <ol align=""left"">
-<li>All the vocabulary from each chapter has been arranged in a way that can be easily learnt from Anki, separated into decks for each chapter</li>
-<li>Any updates, corrections or translations to the deck will be available at <a href=""https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards""></a><a href=""https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards"">https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards</a> so do return periodically to check if you have the latest version.</li>
-<li>Modifications from the original work includes typo correction, card merging &amp; consistency consolidation (see the commit history for [fr-en] for the specific changes)</li>
+<li>प्रत्येक अध्याय की सभी शब्दावली को Anki में आसानी से सीखने के लिए व्यवस्थित किया गया है। प्रत्येक अध्याय के लिए अलग-अलग डेक बनाए गए हैं।</li>
+<li>डेक में होने वाले अपडेट, सुधार और अनुवाद <a href=""https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards"">Universal Foreign Language Flashcards GitHub repository</a> पर उपलब्ध होंगे। इसलिए समय-समय पर वापस आकर जाँचें कि आपके पास नवीनतम संस्करण है या नहीं।</li>
+<li>मूल सामग्री में वर्तनी की गलतियों को सुधारा गया है, कुछ कार्डों को एक साथ मिलाया गया है और सामग्री में एकरूपता लाई गई है। विशिष्ट बदलावों के लिए [fr-en] की commit history देखें।</li>
 </ol>
-<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
-<h2>License</h2>
-<p>Unless otherwise specified, everything in this decks is covered by the following licence:</p>
+<p>इस डेक को साझा करने और GitHub repository को स्टार देने के लिए आपका स्वागत है, ताकि अधिक लोग इस काम को देख सकें और इसका लाभ उठा सकें।</p>
+
+<h2>लाइसेंस</h2>
+<p>जब तक अलग से उल्लेख न किया गया हो, इस डेक की सभी सामग्री निम्नलिखित लाइसेंस के अंतर्गत आती है:</p>
 <p><a href=""https://creativecommons.org/licenses/by/4.0/""><img src=""https://camo.githubusercontent.com/4140463a817248128974112ce9b0d735f9c256ec/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792f342e302f38387833312e706e67"" alt=""Creative Commons License"" data-canonical-src=""https://licensebuttons.net/l/by/4.0/88x31.png"" style=""max-width:100%;""></a></p>
-<p>This work was based on the work <em><strong>Francais Interactif</strong></em> by the <a href=""http://www.laits.utexas.edu/fi/"">COERLL</a>, licensed under a <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International Licence</a>.</p>
-<p>To see this work in full go to <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
+<p>यह कार्य COERLL के <em><strong>Français Interactif</strong></em> पर आधारित है, जो <a href=""https://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International License</a> के अंतर्गत लाइसेंस प्राप्त है।</p>
+<p>इस कार्य की पूरी मूल सामग्री देखने के लिए यहाँ जाएँ: <a href=""http://www.laits.utexas.edu/fi/"">http://www.laits.utexas.edu/fi/</a></p>
 "
-|je me présente|let me introduce myself
-|Je m'appelle ...|My name is ...
-|Je suis de ...|I am from ...
-|Je suis étudiant en ... (français, maths, etc.)|I am a student (male) in ... (French, math, etc.)
-|Je suis étudiante en...(français, maths, etc.)|I am a student (female) in ... (French, math, etc.)
-|Il/Elle s'appelle ...|His/Her name is ...
-|Il/Elle est de ...|He/She is from ...
-|Il est étudiant en ... (français, maths, etc.)|He is a student (male) in ... (French, math, etc.)
-|Elle est étudiante en ... (français, maths, etc.)|She is a student (female) in ... (French, math, etc.)
-|les matières|subjects
-|le commerce|business
-|la comptabilité|accounting
-|les langues (f)|languages
-|l'anglais (m)|English
-|le français|French
-|l'espagnol (m)|Spanish
-|la littérature|literature
-|l'histoire (f)|history
-|la géographie|geography
-|les sciences politiques|political science
-|les mathématiques/les maths (f)|math
-|les sciences (f)|sciences
-|la biologie|biology
-|la chimie|chemistry
-|l'informatique (f)|computer science
-|la musique|music
-|la philosophie|philosophy
-|la psychologie|psychology
-|l'alphabet|the alphabet
-|les animaux|animals
-|le cafard|cockroach
-|le chat / la chatte / la minette|cat / female cat / kitty
-|l'écureuil|squirrel
-|l'escargot|snail
-|la fourmi|ant
-|le tatou|armadillo
+|je me présente|मैं अपना परिचय देता/देती हूँ
+|Je m'appelle ...|मेरा नाम ... है।
+|Je suis de ...|मैं ... से हूँ।
+|Je suis étudiant en ... (français, maths, etc.)|मैं ... का विद्यार्थी हूँ (फ़्रेंच, गणित आदि)।
+|Je suis étudiante en...(français, maths, etc.)|मैं ... की छात्रा हूँ (फ़्रेंच, गणित आदि)।
+|Il/Elle s'appelle ...|उसका नाम ... है।
+|Il/Elle est de ...|वह ... से है।
+|Il est étudiant en ... (français, maths, etc.)|वह ... का विद्यार्थी है (फ़्रेंच, गणित आदि)।
+|Elle est étudiante en ... (français, maths, etc.)|वह ... की छात्रा है (फ़्रेंच, गणित आदि)।
+|les matières|विषय
+|le commerce|व्यवसाय
+|la comptabilité|लेखांकन
+|les langues (f)|भाषाएँ
+|l'anglais (m)|अंग्रेज़ी
+|le français|फ़्रेंच
+|l'espagnol (m)|स्पेनिश
+|la littérature|साहित्य
+|l'histoire (f)|इतिहास
+|la géographie|भूगोल
+|les sciences politiques|राजनीति विज्ञान
+|les mathématiques/les maths (f)|गणित
+|les sciences (f)|विज्ञान
+|la biologie|जीव विज्ञान
+|la chimie|रसायन विज्ञान
+|l'informatique (f)|कंप्यूटर विज्ञान
+|la musique|संगीत
+|la philosophie|दर्शनशास्त्र
+|la psychologie|मनोविज्ञान
+|l'alphabet|वर्णमाला
+|les animaux|जानवर
+|le cafard|तिलचट्टा
+|le chat / la chatte / la minette|बिल्ली / मादा बिल्ली / प्यारी बिल्ली
+|l'écureuil|गिलहरी
+|l'escargot|घोंघा
+|la fourmi|चींटी
+|le tatou|आर्माडिलो
